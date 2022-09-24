@@ -1,4 +1,4 @@
-# Understanding your mindsets and emotions
+# Understanding Your Mindsets and Emotions
 
 E*stimated Time: 14 hours*
 

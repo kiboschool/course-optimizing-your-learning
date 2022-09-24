@@ -1,4 +1,4 @@
-# Executive functioning skills
+# Executive Functioning Skills
 
 *Estimated Time: 1 hour*
 
@@ -86,28 +86,16 @@ Below are some more core Executive Functioning skills that influence your abilit
 
 | Executive Function Skill | Description | Improvement Strategies |
 | --- | --- | --- |
-| Planning | Developing a well-thought-out strategy before embarking on a task or project. Planning involves taking stock of the different actions and requirements that are necessary for the endeavour to be successful. it is important to plan your learning through such activities as setting learning goals, apportioning time to completing learning tasks, and envisaging what materials and resources will be needed.  | Using to-do list
-Setting goals
-Taking note of important dates and tasks
-Daily planning
-Using graphic organizers
-Paying games like chess that require planning and strategizing |
+| Planning | Developing a well-thought-out strategy before embarking on a task or project. Planning involves taking stock of the different actions and requirements that are necessary for the endeavour to be successful. it is important to plan your learning through such activities as setting learning goals, apportioning time to completing learning tasks, and envisaging what materials and resources will be needed.  | Using to-do list; Setting goals; Taking note of important dates and tasks; Daily planning; Using graphic organizers, Paying games like chess that require planning and strategizing |
 | Organization | Having a working system that helps to keep your plans and actions orderly and aligned.  | Being intentional about how you organize your learning resources such as books (online and offline), organizing your learning space, and having systems for the different parts/strategies of your learning such as how you take notes, how you learn from, and with others, etc.  |
-| Task Initiation | The ability to commence on tasks. It is the ability to start something which involved taking initiative and overcoming inertia. It is not uncommon for people to procrastinate on studying up till the last minute. Initiation or starting might seem daunting at times but by disciplining yourself to get started, the task becomes easier as you gather momentum and make progress.  | Take advantage of the Zeigarnik effect
-
-Eating the frog - do your hardest task first. |
-| Flexibility | The is the ability to change or adapt to new and changing or unfamiliar situations. Flexibility, like a growth mindset, is important as it allows you to accept new ideas and try new ways of thinking or approaching problems.  | Intentionally try to think about alternative ways of approaching problems.
-List out assumptions that you are making, an think about what would happen if the opposite of your assumptions was true instead.
-Seek multiple points of view. |
+| Task Initiation | The ability to commence on tasks. It is the ability to start something which involved taking initiative and overcoming inertia. It is not uncommon for people to procrastinate on studying up till the last minute. Initiation or starting might seem daunting at times but by disciplining yourself to get started, the task becomes easier as you gather momentum and make progress.  | Take advantage of the Zeigarnik effect, Eating the frog - do your hardest task first. |
+| Flexibility | The is the ability to change or adapt to new and changing or unfamiliar situations. Flexibility, like a growth mindset, is important as it allows you to accept new ideas and try new ways of thinking or approaching problems.  | Intentionally try to think about alternative ways of approaching problems; List out assumptions that you are making, an think about what would happen if the opposite of your assumptions was true instead; Seek multiple points of view. |
 | Attention | This involves being able to focus or attend to a task for a long period of time and avoiding distractions.  | Use mindful meditation to help focus your attention. |
-| Self-control | The ability to regulate or control your thoughts, emotions, and actions.   | Being more self-aware, pausing before taking action, and reflecting among other things, you can strengthen your self-control ability. |
+| Self-control | The ability to regulate or control your thoughts, emotions, and actions. | Being more self-aware, pausing before taking action, and reflecting among other things, you can strengthen your self-control ability. |
 | Working Memory | This has to do with holding information in your mind while working on it. Examples of this include making connections with text when reading and solving math and logic problems among other things.  | Using different strategies such as visualization, mnemonics among others can help to sustain working memory |
 | Metacognition | Being aware of your own learning and having a candid assessment of what you know and what you do not. Metacognition is a form of self-awareness that involves being aware of your own thoughts and what you are learning or need to learn.  | Reflect on your learning. |
-| Time Management | Ability to use time efficiently and effectively in the accomplishment of set tasks and goals. | Allotting time to tasks is important. When you have a chunk of studying to do, for example, it helps to assign time to the different study tasks. Importantly, as you assign time, you should consider the priority of the tasks you need to complete in order to give it appropriate time.
-
-Time blocking
- |
-| Perseverance | Being able to see things through, the quality of sticking with the work or the task even as it gets more difficult and challenging.  | Strategies such as seeking help, pacing yourself, and staying positive can help with completing a task, even when it is challenging. |
+| Time Management | Ability to use time efficiently and effectively in the accomplishment of set tasks and goals. | Allotting time to tasks is important. When you have a chunk of studying to do, for example, it helps to assign time to the different study tasks. Importantly, as you assign time, you should consider the priority of the tasks you need to complete in order to give it appropriate time; Time blocking|
+| Perseverance | Being able to see things through, the quality of sticking with the work or the task even as it gets more difficult and challenging.| Strategies such as seeking help, pacing yourself, and staying positive can help with completing a task, even when it is challenging. |
 
 [Source](https://www.thepathway2success.com/10-executive-functioning-skills-the-ultimate-guide/)
 
@@ -140,7 +128,7 @@ Time blocking
 
 </aside>
 
-[https://www.youtube.com/watch?v=qAC-5hTK-4c](https://www.youtube.com/watch?v=qAC-5hTK-4c)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qAC-5hTK-4c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <aside>
 

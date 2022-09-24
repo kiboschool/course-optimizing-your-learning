@@ -1,4 +1,4 @@
-# Beliefs that hinder learning
+# Beliefs That Hinder Learning
 
 *Estimated Time: 1 hour*
 
@@ -66,7 +66,8 @@ Ultimately, limiting beliefs are usually not grounded in facts or evidence, but 
 
 </aside>
 
-[https://youtu.be/Fi0Vkoa8fc4?t=30](https://youtu.be/Fi0Vkoa8fc4?t=30)
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/Fi0Vkoa8fc4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 
 ## Overcoming Limiting Beliefs
 
@@ -137,7 +138,9 @@ Do you experience ANTs? What are some of the most common ANTs (e.g. Overgenerali
 
 </aside>
 
-[https://youtu.be/Z8n1oUhp-EM](https://youtu.be/Z8n1oUhp-EM)
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/Z8n1oUhp-EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+
 
 ## Discussion: Utilizing Learned Optimism when Learning
 
@@ -153,29 +156,6 @@ What are some ways that you can practice learned optimism when learning a challe
 
 ---
 
-## Seek Discomfort
-
-<aside>
-
-
-📺  Watch the following video on the power of seeking discomfort.
-
-</aside>
-
-[https://youtu.be/BTKb44dbevg?t=241](https://youtu.be/BTKb44dbevg?t=241)
-
-Turn towards the things that make you uncomfortable.
-
-![Panic, Learning, and Comfort Zones](./beliefs-that-hinder-learning/panic-learning-comfort-zones.png)
-
-- **Comfort Zone** -
-- Learning Zone -
-- Panic Zone -
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/Pr8N9Iq9BKk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
----
-
 <aside>
 
 
@@ -183,12 +163,4 @@ Turn towards the things that make you uncomfortable.
 ― Kemi Sogunle
 
 </aside>
-
-<aside>
-
-
-🤷🏿‍♀️ **So What? How does this section apply to me?**
-
-*[insert text]*
-
-</aside>
+---

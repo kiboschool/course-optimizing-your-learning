@@ -58,15 +58,9 @@ A growth mindset is about believing in your ability to grow and improve.  It is 
 
 </aside>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E0TA60qo4-o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/E0TA60qo4-o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## Reflection: Experience with Fixed and Growth Mindsets
-
-<aside>
-
-</aside>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/E0TA60qo4-o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <aside>
 
@@ -91,4 +85,3 @@ A growth mindset is about believing in your ability to grow and improve.  It is 
 - Vincent Van Gogh
 
 </aside>
----

@@ -26,33 +26,42 @@ Post your definition in the padlet below.
 
 **Here are some ways in which education experts have defined learning:**
 
-> “A change in human disposition or capability that persists over a period of time and is not simply ascribable to processes of growth.”
+<aside>
+“A change in human disposition or capability that persists over a period of time and is not simply ascribable to processes of growth.”
 - Robert Gagne
-> 
+</aside>
 
-> “Learning is the relatively permanent change in a person’s knowledge or behavior due to experience.”
+<aside>
+“Learning is the relatively permanent change in a person’s knowledge or behavior due to experience.”
 - Richard E. Mayer
-> 
-
-> “We define learning as the transformative process of taking in information that—when internalized and mixed with what we have experienced—changes what we know and builds on what we do. It’s based on input, process, and reflection. It is what changes us.”
+</aside>
+  
+<aside>
+“We define learning as the transformative process of taking in information that—when internalized and mixed with what we have experienced—changes what we know and builds on what we do. It’s based on input, process, and reflection. It is what changes us.”
 - Marcia Conner
-> 
+</aside>
+ 
+<aside>
 
-> “It has been suggested that the term learning defies precise definition because it is put to multiple uses. Learning is used to refer to (1) the acquisition and mastery of what is already known about something, (2) the extension and clarification of the meaning of one’s experience, or (3) an organized, intentional process of testing ideas relevant to problems. In other words, it is used to describe a product, a process, or a function.”
+“It has been suggested that the term learning defies precise definition because it is put to multiple uses. Learning is used to refer to (1) the acquisition and mastery of what is already known about something, (2) the extension and clarification of the meaning of one’s experience, or (3) an organized, intentional process of testing ideas relevant to problems. In other words, it is used to describe a product, a process, or a function.”
 - R.M. Smith
-> 
+</aside>
 
-> “Acquiring knowledge and skills and having them readily available from memory so you can make sense of future problems and opportunities.”
+<aside>
+“Acquiring knowledge and skills and having them readily available from memory so you can make sense of future problems and opportunities.”
 - *Peter C. Brown, Henry L. Roediger III, Mark A. McDaniel*
-> 
-
+</aside>
+  
+<aside>
 > “A *process* that leads to *change*, which occurs as a result of *experience* and increases the potential of improved performance and future learning.”
 - Susan Ambrose
-> 
-
-> “A persisting change in human performance or performance potential…[which] must come about as a result of the learner’s experience and interaction with the world.”
+</aside>
+  
+<aside>
+“A persisting change in human performance or performance potential…[which] must come about as a result of the learner’s experience and interaction with the world.”
 - M. Driscoll
-> 
+</aside>
+
 
 **When you read these definitions, a couple of words appear repeatedly:**
 
@@ -73,12 +82,9 @@ Will you need new knowledge, skills, and behaviours to achieve your imagined fut
 
 </aside>
 
-<aside>
 
+**Learning is the skill that has made you into who you are today, and it is what will transform you into who you will be in the future.**
 
-💡 **Learning is the skill that has made you into who you are today, and it is what will transform you into who you will be in the future.**
-
-</aside>
 
 ---
 
@@ -104,7 +110,7 @@ We are accustomed to learning about different subjects or developing new skills 
 
 </aside>
 
-[https://youtu.be/uZ2LFZxwvuw?t=25](https://youtu.be/uZ2LFZxwvuw?t=25)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uZ2LFZxwvuw?start=25" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <aside>
 

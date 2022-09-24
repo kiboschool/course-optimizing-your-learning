@@ -43,17 +43,17 @@ Post your definition in the padlet below.
  
 <aside>
 
-“It has been suggested that the term learning defies precise definition because it is put to multiple uses. Learning is used to refer to (1) the acquisition and mastery of what is already known about something, (2) the extension and clarification of the meaning of one’s experience, or (3) an organized, intentional process of testing ideas relevant to problems. In other words, it is used to describe a product, a process, or a function.”
+“It has been suggested that the term learning defies precise definition because it is put to multiple uses. Learning is used to refer to (1) the acquisition and mastery of what is already known about something, (2) the extension and clarification of the meaning of one’s experience, or (3) an organized, intentional process of testing ideas relevant to problems. In other words, it is used to describe a product, a process, or a function."
 - R.M. Smith
 </aside>
 
 <aside>
 “Acquiring knowledge and skills and having them readily available from memory so you can make sense of future problems and opportunities.”
-- *Peter C. Brown, Henry L. Roediger III, Mark A. McDaniel*
+- Peter C. Brown, Henry L. Roediger III, Mark A. McDaniel
 </aside>
   
 <aside>
-> “A *process* that leads to *change*, which occurs as a result of *experience* and increases the potential of improved performance and future learning.”
+“A *process* that leads to *change*, which occurs as a result of *experience* and increases the potential of improved performance and future learning.”
 - Susan Ambrose
 </aside>
   
@@ -115,8 +115,7 @@ We are accustomed to learning about different subjects or developing new skills 
 <aside>
 
 
-🗣 **“If you can learn how to learn, you can grant all your wishes.”
-***-* Jim Kwik
+🗣 “If you can learn how to learn, you can grant all your wishes.” - Jim Kwik
 
 </aside>
 

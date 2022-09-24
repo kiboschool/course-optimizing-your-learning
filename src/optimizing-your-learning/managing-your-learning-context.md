@@ -1,4 +1,4 @@
-# Managing your learning context
+# Managing Your Learning Context
 
 E*stimated Time: xx hours*
 

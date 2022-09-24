@@ -128,8 +128,9 @@ To be an effective self-directed learner you need to have both the will to learn
 
 ![learning experience sdl cycle](./self-directed-learning-sdl/learning-experience-sdl-cycle.png)
 
-| --- | --- | --- |
+
 | Planning (Things to do BEFORE learning takes place) | Monitoring (Things to do DURING the learning activity) | Evaluating (Things to do AFTER the learning activity) |
+| --- | --- | --- |
 | Goal Setting - Taking the learning needs one step further, the learner formulates clear goals by asking questions like what will I learn? what will I be able to do once I have completed my learning? etc. In the example, the owner might want to be able to use specific applications or perform some other specific function. | Attention and Focusing | Self-Evaluation - After learning strategies are implemented, the learner then evaluates their learning to see how effective the process was. Using the learning goals set as a benchmark, the learner can ascertain how effective their method /the process was and can improve on that subsequently. |
 | Strategic Planning - In order to build upon existing knowledge and ideas, the learner has to determine appropriate resources for learning. Questions such as: will I need to access stored information? Will I need a teacher/facilitator/coach to explain some things to me? among others will come up.  | Focusing  | Reflection |
 | Diagnosing Learning needs - It all starts with questions like: what do I not know? What do I need to learn and why do I want to learn this? In the example above with the new device, the owner wants to be able to use their new device (perhaps a phone in this case) effectively | Self-Instruction  | Adaptability |
@@ -269,5 +270,3 @@ When setting out to direct your own learning, it can be useful to ask yourself t
 </aside>
 
 ---
-
-<aside>

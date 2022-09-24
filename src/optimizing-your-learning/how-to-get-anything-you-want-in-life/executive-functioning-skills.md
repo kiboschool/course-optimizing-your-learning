@@ -140,12 +140,3 @@ Below are some more core Executive Functioning skills that influence your abilit
 In week 3, we will delve deeper into how to manage your learning context in order to improve how you learn.
 
 ---
-
-<aside>
-
-
-🤷🏿‍♀️ **So What? How does this section apply to me?**
-
-*[insert text]*
-
-</aside>

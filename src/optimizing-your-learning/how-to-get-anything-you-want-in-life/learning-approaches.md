@@ -1,4 +1,4 @@
-# Learning approaches
+# Learning Approaches
 
 *Estimated Time: 1 hour*
 

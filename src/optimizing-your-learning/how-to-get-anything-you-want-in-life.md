@@ -1,4 +1,4 @@
-# How to get anything you want in life
+# How to Get Anything You Want in Life
 
 E*stimated Time: 14.5 hours*
 
@@ -27,7 +27,7 @@ After completing this lesson, you will be able to:
 
 </aside>
 
-[https://www.youtube.com/watch?v=zSkFFW--Ma0](https://www.youtube.com/watch?v=zSkFFW--Ma0)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zSkFFW--Ma0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Sections
 

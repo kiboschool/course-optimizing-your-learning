@@ -1,4 +1,4 @@
-# A powerful mindset that supports learning
+# A Powerful Mindset That Supports Learning
 
 *Estimated Time: 1 hour*
 
@@ -12,10 +12,12 @@
 
 </aside>
 
-> When you enter a mindset, you enter a new world. In one world—the world of fixed traits—success is about proving you’re smart or talented. Validating yourself. In the other—the world of changing qualities—it’s about stretching yourself to learn something new. Developing yourself. In one world, failure is about having a setback. Getting a bad grade. Losing a tournament. Getting fired. Getting rejected. It means you’re not smart or talented. In the other world, failure is about not growing. Not reaching for the things you value. It means you’re not fulfilling your potential. In one world, effort is a bad thing. It, like failure, means you’re not smart or talented. If you were, you wouldn’t need effort. In the other world, effort is what makes you smart or talented. You have a choice. Mindsets are just beliefs. They’re powerful beliefs, but they’re just something in your mind, and you can change your mind
+<aside>
+When you enter a mindset, you enter a new world. In one world—the world of fixed traits—success is about proving you’re smart or talented. Validating yourself. In the other—the world of changing qualities—it’s about stretching yourself to learn something new. Developing yourself. In one world, failure is about having a setback. Getting a bad grade. Losing a tournament. Getting fired. Getting rejected. It means you’re not smart or talented. In the other world, failure is about not growing. Not reaching for the things you value. It means you’re not fulfilling your potential. In one world, effort is a bad thing. It, like failure, means you’re not smart or talented. If you were, you wouldn’t need effort. In the other world, effort is what makes you smart or talented. You have a choice. Mindsets are just beliefs. They’re powerful beliefs, but they’re just something in your mind, and you can change your mind
 
 - Carol Dweck, Mindset excerpt
->
+</aside>
+
 
 ## Mindset Self-Assessment
 
@@ -24,11 +26,7 @@
 
 📝 Complete the following Mindset Self-Assessment
 
-</aside>
-
-[https://kibo-school.typeform.com/to/sUHVc8JG?typeform-source=dkiadwqsorb.typeform.com](https://kibo-school.typeform.com/to/sUHVc8JG?typeform-source=dkiadwqsorb.typeform.com)
-
-<aside>
+<div data-tf-widget="sUHVc8JG" data-tf-iframe-props="title=Mindset Self-Assessment" data-tf-medium="snippet" style="width:100%;height:400px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
 
 
 📺 Watch the following video on the most powerful mindset for success
@@ -60,12 +58,17 @@ A growth mindset is about believing in your ability to grow and improve.  It is 
 
 </aside>
 
-[https://www.youtube.com/watch?v=E0TA60qo4-o](https://www.youtube.com/watch?v=E0TA60qo4-o)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E0TA60qo4-o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Reflection: Experience with Fixed and Growth Mindsets
 
 <aside>
 
+</aside>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/E0TA60qo4-o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+<aside>
 
 🪞 **Answer one of the pairs of questions in the padlet below.**
 
@@ -88,12 +91,4 @@ A growth mindset is about believing in your ability to grow and improve.  It is 
 - Vincent Van Gogh
 
 </aside>
-
-<aside>
-
-
-🤷🏿‍♀️ **So What? How does this section apply to me?**
-
-*[insert text]*
-
-</aside>
+---

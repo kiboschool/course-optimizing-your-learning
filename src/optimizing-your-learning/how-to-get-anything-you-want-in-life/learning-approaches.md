@@ -21,39 +21,10 @@ The VARK Learning Theory establishes that there are 4 main ways that people can 
 
 | Learning Approach | Description | Questions to Consider | Learning Tools |
 | --- | --- | --- | --- |
-| Visual | Preference for consuming information in a visual format. This might include photos, charts, illustrations, videos, and other formats which can be appreciated by the eyes. | - Are art, beauty, and aesthetics important to you?
-- Does visualizing information in your mind help you remember it better?
-- Do you have to see information in order to remember it?
-- Do you pay close attention to body language? | - Watch videos
-- Map and diagram
-- Detect patterns
-- Draw ideas out
-- Write notes in different fonts, colors, and formats |
-| Auditory | Preference for listening or absorbing and assimilating information into the ears.  | - Do you create songs to help remember information?
-- Does reading out loud help you remember information better?
-- Do you prefer to listen to class lectures rather than reading from the textbook?
-- Would you prefer to listen to a recording of your class lectures or a podcast rather than going over your class notes? | - Listen to lectures
-- Listen to podcasts
-- Engage in group discussions
-- Talk things through (with yourself or others)
-- Create audio recordings of your notes
-- Use a text-to-speech app
-- Use narratives to understand new ideas |
-| Read/Write | Preference for exploring and capturing through note-taking to foster understanding and remembering later through reading. | - Do you enjoy making lists, reading definitions, and creating presentations?
-- Do you find reading your textbook to be a great way to learn new information?
-- Do you take a lot of notes during class and while reading textbooks?
-- Do you prefer it when teachers make use of overheads and handouts? | - Create lists, categories, etc.
-- Read textbooks, articles, handouts, etc.
-- Write notes
-- Use post it notes |
-| Kinaesthetic | Preference for learning with the use of one’s hands to observe things, learn how they work, or create things  | - Are you good at applied activities such as painting, cooking, mechanics, sports, and woodworking?
-- Do you enjoy performing tasks that involve directly manipulating objects and materials?
-Do you have to actually practice doing something in order to learn it?
-Do ideas make more sense to you when you see a real-world example? | - Create things
-- Use case studies and examples
-- Engage in simulation or role-play
-- Participate in labs
- |
+| Visual | Preference for consuming information in a visual format. This might include photos, charts, illustrations, videos, and other formats which can be appreciated by the eyes. | Are art, beauty, and aesthetics important to you? Does visualizing information in your mind help you remember it better? Do you have to see information in order to remember it? Do you pay close attention to body language? | Watch videos; Map and diagram; Detect patterns; Draw ideas out; Write notes in different fonts, colors, and formats |
+| Auditory | Preference for listening or absorbing and assimilating information into the ears.  | Do you create songs to help remember information?  Does reading out loud help you remember information better? Do you prefer to listen to class lectures rather than reading from the textbook? Would you prefer to listen to a recording of your class lectures or a podcast rather than going over your class notes? | Listen to lectures; Listen to podcasts; Engage in group discussions; Talk things through (with yourself or others); Create audio recordings of your notes; Use a text-to-speech app; Use narratives to understand new ideas |
+| Read/Write | Preference for exploring and capturing through note-taking to foster understanding and remembering later through reading. | Do you enjoy making lists, reading definitions, and creating presentations? Do you find reading your textbook to be a great way to learn new information? Do you take a lot of notes during class and while reading textbooks? Do you prefer it when teachers make use of overheads and handouts? | Create lists, categories, etc; Read textbooks, articles, handouts, etc; Write notes; Use post it notes |
+| Kinaesthetic | Preference for learning with the use of one’s hands to observe things, learn how they work, or create things  | Are you good at applied activities such as painting, cooking, mechanics, sports, and woodworking? Do you enjoy performing tasks that involve directly manipulating objects and materials? Do you have to actually practice doing something in order to learn it? Do ideas make more sense to you when you see a real-world example? | Create things; Use case studies and examples; Engage in simulation or role-play; Participate in labs|
 
 [Source](https://www.youtube.com/watch?v=EbqeQY0V78k), [Source](https://www.verywellmind.com/vark-learning-styles-2795156)
 
@@ -100,12 +71,3 @@ It is common for people to blame their lack of effort or success in a particular
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/embed/uj9cxtjmum6iqcte" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
 ---
-
-<aside>
-
-
-🤷🏿‍♀️ **So What? How does this section apply to me?**
-
-*[insert text]*
-
-</aside>

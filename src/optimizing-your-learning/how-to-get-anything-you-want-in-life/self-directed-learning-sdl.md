@@ -1,4 +1,4 @@
-# Self directed learning sdl
+# Self-Directed Learning (SDL)
 
 *Estimated Time: 1.5 hours*
 
@@ -58,8 +58,7 @@ Self-directed learning allows you to take responsibility for your own learning, 
 
 </aside>
 
-[https://www.youtube.com/watch?v=F4UW_2ZgNHo](https://www.youtube.com/watch?v=F4UW_2ZgNHo)
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F4UW_2ZgNHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 
 # Why embrace Self-Directed Learning?
@@ -71,7 +70,7 @@ Self-directed learning allows you to take responsibility for your own learning, 
 
 </aside>
 
-[https://youtu.be/fWP_6RV6nmA](https://youtu.be/fWP_6RV6nmA)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fWP_6RV6nmA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <aside>
 
@@ -93,23 +92,31 @@ Self-directed learning allows you to take responsibility for your own learning, 
 
 </aside>
 
-[https://kibo-school.typeform.com/to/ANIQbbxn](https://kibo-school.typeform.com/to/ANIQbbxn)
+<div data-tf-widget="ANIQbbxn" data-tf-iframe-props="title=SDL Readiness" data-tf-medium="snippet" style="width:100%;height:400px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
 
 Source: *[Independent Studies: Readiness to Learn. Centre for Teaching Excellence, University of Waterloo.](https://uwaterloo.ca/centre-for-teaching-excellence/teaching-resources/teaching-tips/tips-students/self-directed-learning/independent-studies-readiness-learn)*
 
 ## Readiness to Learn v. Willingness to Learn
 
-> **Readiness to Learn: This means a learner has all the logical tools and circumstances for being a prepared and capable learner in place.** 
+<aside>
+
+**Readiness to Learn: This means a learner has all the logical tools and circumstances for being a prepared and capable learner in place.** 
 
 It can include things like basic skills (such as literacy, numeracy, and the like), research and information skills, cognitive skills, critical thinking skills, life skills, communication and collaboration skills, and more. It can also mean having an actual problem to solve or a challenge to face—in essence, a purpose for the learning to happen. This is the toolbox that enables learning to take place.
->
+    
+</aside>
 
-> **Willingness to Learn:** **This is all about the desire to learn. It means having a real love of discovery and development and being curious and open to learning from failure.**
+<aside>
 
+
+**Willingness to Learn:** **This is all about the desire to learn. It means having a real love of discovery and development and being curious and open to learning from failure.** 
+    
 It’s a willingness to dig in and get messy with learning and make new realizations along the way. Here we also show an interest in the expertise and wisdom of others and see everyone and everything as a potential source of meaningful learning. These are things that make our learning appealing, relevant, useful, and rewarding.
->
 
-Source: [https://blog.futurefocusedlearning.net/10-self-directed-learning-questions](https://blog.futurefocusedlearning.net/10-self-directed-learning-questions)
+</aside>
+
+
+[Source](https://blog.futurefocusedlearning.net/10-self-directed-learning-questions)
 
 To be an effective self-directed learner you need to have both the will to learn, as well as the skills required for learning!
 
@@ -121,21 +128,15 @@ To be an effective self-directed learner you need to have both the will to learn
 
 ![learning experience sdl cycle](./self-directed-learning-sdl/learning-experience-sdl-cycle.png)
 
-| Planning
-
-(Things to do BEFORE learning takes place) | Monitoring
-
-(Things to do DURING the learning activity) | Evaluating
-
-(Things to do AFTER the learning activity) |
 | --- | --- | --- |
-| Goal Setting - Taking the learning needs one step further, the learner formulates clear goals by asking questions like what will I learn? what will I be able to do once I have completed my learning? etc. In the example, the owner might want to be able to use specific applications or perform some other specific function. | Attention and Focusing | Self-Evaluation - After learning strategies are implemented, the learner then evaluates their learning to see how effective the process was. Using the learning goals set as a benchmark, the learner can ascertain how effective their method /the process was and can improve on that subsequently.  |
+| Planning (Things to do BEFORE learning takes place) | Monitoring (Things to do DURING the learning activity) | Evaluating (Things to do AFTER the learning activity) |
+| Goal Setting - Taking the learning needs one step further, the learner formulates clear goals by asking questions like what will I learn? what will I be able to do once I have completed my learning? etc. In the example, the owner might want to be able to use specific applications or perform some other specific function. | Attention and Focusing | Self-Evaluation - After learning strategies are implemented, the learner then evaluates their learning to see how effective the process was. Using the learning goals set as a benchmark, the learner can ascertain how effective their method /the process was and can improve on that subsequently. |
 | Strategic Planning - In order to build upon existing knowledge and ideas, the learner has to determine appropriate resources for learning. Questions such as: will I need to access stored information? Will I need a teacher/facilitator/coach to explain some things to me? among others will come up.  | Focusing  | Reflection |
 | Diagnosing Learning needs - It all starts with questions like: what do I not know? What do I need to learn and why do I want to learn this? In the example above with the new device, the owner wants to be able to use their new device (perhaps a phone in this case) effectively | Self-Instruction  | Adaptability |
 | Determining a learning strategy - Will I learn by reading, watching, or listening to content? Will I learn by engaging in a problem-solving activity that results in the creation of something new? Will I utilize one or a combination of several learning strategies?  | Self-Monitoring  |  |
 |  | Help-Seeking |  |
 
-Source: [https://www.learningpersonalized.com/holy-trinity-self-direction-self-managing-self-monitoring-self-modifying/](https://www.learningpersonalized.com/holy-trinity-self-direction-self-managing-self-monitoring-self-modifying/)
+[Source](https://www.learningpersonalized.com/holy-trinity-self-direction-self-managing-self-monitoring-self-modifying/)
 
 <aside>
 
@@ -256,7 +257,7 @@ When setting out to direct your own learning, it can be useful to ask yourself t
     - What other ways can I share my learning? (e.g. teaching it to others)
     - How can retain this knowledge retention and reuse it to support my positive cognitive development?
 
-Source: [https://blog.futurefocusedlearning.net/10-self-directed-learning-questions](https://blog.futurefocusedlearning.net/10-self-directed-learning-questions)
+[Source](https://blog.futurefocusedlearning.net/10-self-directed-learning-questions)
 
 ---
 
@@ -270,10 +271,3 @@ Source: [https://blog.futurefocusedlearning.net/10-self-directed-learning-questi
 ---
 
 <aside>
-
-
-🤷🏿‍♀️ **So What? How does this section apply to me?**
-
-*[insert text]*
-
-</aside>

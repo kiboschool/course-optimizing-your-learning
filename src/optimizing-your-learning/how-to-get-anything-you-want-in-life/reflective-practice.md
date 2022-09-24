@@ -1,4 +1,4 @@
-# Reflective practice
+# Reflective Practice
 
 *Estimated Time: 1 hour*
 
@@ -146,3 +146,4 @@ Steps of Gibbs’ Reflective Cycle:
 🌐 For more on reflection, explore the [**University of Edinburgh’s Reflector’s toolkit**](https://www.ed.ac.uk/reflection/reflectors-toolkit).
 
 </aside>
+---

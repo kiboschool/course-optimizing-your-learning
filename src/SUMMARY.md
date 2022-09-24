@@ -10,7 +10,7 @@
 ## Lessons
 
 ### Week 1
-- [Week 1: How to get anything you want in life](optimizing-your-learning/how-to-get-anything-you-want-in-life.md)
+- [Week 1: How to Get Anything You Want in Life](optimizing-your-learning/how-to-get-anything-you-want-in-life.md)
 	- [Motivation](optimizing-your-learning/how-to-get-anything-you-want-in-life/motivation.md)
 	- [How Learning Happens](optimizing-your-learning/how-to-get-anything-you-want-in-life/how-learning-happens.md)
 	- [Executive Functioning Skills](optimizing-your-learning/how-to-get-anything-you-want-in-life/executive-functioning-skills.md)
@@ -18,11 +18,11 @@
 	- [Self Directed Learning](optimizing-your-learning/how-to-get-anything-you-want-in-life/self-directed-learning-sdl.md)
 	- [Reflective Practice](optimizing-your-learning/how-to-get-anything-you-want-in-life/reflective-practice.md)
 	- [Assignment 1 - Individual SDL](optimizing-your-learning/how-to-get-anything-you-want-in-life/assignment-1-individual-sdl.md)
-	- [Wrap up](optimizing-your-learning/how-to-get-anything-you-want-in-life/wrap-up.md)
+	- [Wrap Up](optimizing-your-learning/how-to-get-anything-you-want-in-life/wrap-up.md)
 
 ### Week 2
 
-- [Week 2: Understanding your mindsets and emotions](optimizing-your-learning/understanding-your-mindsets-and-emotions.md)
+- [Week 2: Understanding Your Mindsets and Emotions](optimizing-your-learning/understanding-your-mindsets-and-emotions.md)
 	- [Motivation](optimizing-your-learning/understanding-your-mindsets-and-emotions/motivation.md)
 	- [Identity](optimizing-your-learning/understanding-your-mindsets-and-emotions/identity.md)
 	- [Beliefs That Hinder Learning](optimizing-your-learning/understanding-your-mindsets-and-emotions/beliefs-that-hinder-learning.md)
@@ -33,11 +33,11 @@
 	- [Managing and Sustaining Motivation](optimizing-your-learning/understanding-your-mindsets-and-emotions/managing-and-sustaining-motivation.md)
 	- [Assignment 2 - Identity and Limiting Beliefs](optimizing-your-learning/understanding-your-mindsets-and-emotions/assignment-2-identity-and-limiting-beliefs.md)
 	- [Final Presentation Milestone 1](optimizing-your-learning/understanding-your-mindsets-and-emotions/final-presentation-milestone-1.md)
-	- [Wrap up](optimizing-your-learning/understanding-your-mindsets-and-emotions/wrap-up.md)
+	- [Wrap Up](optimizing-your-learning/understanding-your-mindsets-and-emotions/wrap-up.md)
 
 ### Week 3
 
-- [Week 3: Managing your learning context](optimizing-your-learning/managing-your-learning-context.md)
+- [Week 3: Managing Your Learning Context](optimizing-your-learning/managing-your-learning-context.md)
 	- [Motivation](optimizing-your-learning/managing-your-learning-context/motivation.md)
 	- [Managing Stress, Breathing, and Mindfulness](optimizing-your-learning/managing-your-learning-context/managing-stress-breathing-and-mindfulness.md)
 	- [Food and Movement](optimizing-your-learning/managing-your-learning-context/food-and-movement.md)
@@ -47,11 +47,11 @@
 	- [Learning With Others](optimizing-your-learning/managing-your-learning-context/learning-with-others.md)
 	- [Assignment 3 - Energy and Time Management Experiment](optimizing-your-learning/managing-your-learning-context/assignment-3-energy-and-time-management-experiment.md)
 	- [Final Presentation Milestone 2](optimizing-your-learning/managing-your-learning-context/final-presentation-milestone-2.md)
-	- [Wrap up](optimizing-your-learning/managing-your-learning-context/wrap-up.md)
+	- [Wrap Up](optimizing-your-learning/managing-your-learning-context/wrap-up.md)
 
 
 ### Week 4
-- [Week 4: Building your learning toolkit](optimizing-your-learning/building-your-learning-toolkit.md)
+- [Week 4: Building Your Learning Toolkit](optimizing-your-learning/building-your-learning-toolkit.md)
 	- [Motivation](optimizing-your-learning/building-your-learning-toolkit/motivation.md)
 	- [Habits](optimizing-your-learning/building-your-learning-toolkit/habits.md)
 	- [Memory](optimizing-your-learning/building-your-learning-toolkit/memory.md)
@@ -62,7 +62,7 @@
 	- [Learning Strategies: After Learning](optimizing-your-learning/building-your-learning-toolkit/learning-strategies-after-learning.md)
 	- [Assignment 4 - Memory Challenge](optimizing-your-learning/building-your-learning-toolkit/assignment-4-memory-challenge.md)
 	- [Final Presentation Milestone 3](optimizing-your-learning/building-your-learning-toolkit/final-presentation-milestone-3.md)
-	- [Wrap up](optimizing-your-learning/building-your-learning-toolkit/wrap-up.md)
+	- [Wrap Up](optimizing-your-learning/building-your-learning-toolkit/wrap-up.md)
 
 ### Week 5
 

@@ -82,11 +82,10 @@ Steps of What? So What? Now What? Model:
 <aside>
 
 
-📺 Watch the following video on the 5R Framework.
+📖 Read more about the [**5R framework**](https://www.ed.ac.uk/reflection/reflectors-toolkit/reflecting-on-experience/5r-framework).
 
 </aside>
 
-[](https://www.youtube.com/watch?v=scibb0kd4jw&t=32s)
 
 Steps of the 5R framework:
 
@@ -96,12 +95,6 @@ Steps of the 5R framework:
 - **Reasoning** about the significant factors/theory to explain the experience
 - **Reconstructing** your practice by planning future actions for a similar experience
 
-<aside>
-
-
-📖 Read more about the [**5R framework**](https://www.ed.ac.uk/reflection/reflectors-toolkit/reflecting-on-experience/5r-framework).
-
-</aside>
 
 ---
 
@@ -114,7 +107,7 @@ Steps of the 5R framework:
 
 </aside>
 
-[https://www.youtube.com/watch?v=A1-40e_eeGw](https://www.youtube.com/watch?v=A1-40e_eeGw)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A1-40e_eeGw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Steps of Gibbs’ Reflective Cycle:
 
@@ -151,14 +144,5 @@ Steps of Gibbs’ Reflective Cycle:
 
 
 🌐 For more on reflection, explore the [**University of Edinburgh’s Reflector’s toolkit**](https://www.ed.ac.uk/reflection/reflectors-toolkit).
-
-</aside>
-
-<aside>
-
-
-🤷🏿‍♀️ **So What? How does this section apply to me?**
-
-*[insert text]*
 
 </aside>

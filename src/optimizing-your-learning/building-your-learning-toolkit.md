@@ -1,6 +1,6 @@
-# Building your learning toolkit
+# Building Your Learning Toolkit
 
-E*stimated Time: xx hours*
+E*stimated Time: 14 hours*
 
 ---
 

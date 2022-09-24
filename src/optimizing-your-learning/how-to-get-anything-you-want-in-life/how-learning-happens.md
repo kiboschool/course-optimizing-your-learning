@@ -13,11 +13,18 @@ As mentioned in the [**Motivation section**](/optimizing-your-learning/how-to-ge
 <aside>
 
 
-📺 Watch the following videos on how the brain works and how it changes.
+📺 Watch the following video on how the brain works.
 
 </aside>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/XSzsI5aGcK4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+<aside>
+
+
+📺 Watch the following video to learn about neuroplasticity.
+
+</aside>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/ELpfYCZa87g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
@@ -32,7 +39,7 @@ The ability of your brain to change, by creating, strengthening, weakening, or d
 <aside>
 
 
-📖 Read this article on how the brain learns (**[Understanding Your Brain to Help You Learn Better](https://kids.frontiersin.org/articles/10.3389/frym.2020.00054)**).
+📖 Read this article on how the brain learns **[Understanding Your Brain to Help You Learn Better](https://kids.frontiersin.org/articles/10.3389/frym.2020.00054)**.
 
 </aside>
 
@@ -61,7 +68,9 @@ Most people describe learning to code as a difficult process. This is because th
 
 So what does this mean for you as you embark on your computer science journey?
 
-When you a struggling to learn a new skill or understand a new piece of knowledge, remember that this is how the brain works in the process of learning anything. **Everything is hard until it becomes easy.** So be confident in your learning, trust your brain, practice the skill to develop your neural pathways, and be patient with yourself as your neural pathways develop.
+When you a struggling to learn a new skill or understand a new piece of knowledge, remember that this is how the brain works in the process of learning anything. <span style="color: purple;"> **Everything is hard until it becomes easy.**text</span>  So be confident in your learning, trust your brain, practice the skill to develop your neural pathways, and be patient with yourself as your neural pathways develop.
+
+
 
 Remember, it might be difficult at the start but with the strengthening of the neural pathways in your brain through practice, you will increase your comfort and mastery of the subject.
 

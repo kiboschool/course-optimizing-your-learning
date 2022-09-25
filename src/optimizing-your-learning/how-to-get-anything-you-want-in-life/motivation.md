@@ -44,7 +44,7 @@ Post your definition in the padlet below.
 <aside>
 
 “It has been suggested that the term learning defies precise definition because it is put to multiple uses. Learning is used to refer to (1) the acquisition and mastery of what is already known about something, (2) the extension and clarification of the meaning of one’s experience, or (3) an organized, intentional process of testing ideas relevant to problems. In other words, it is used to describe a product, a process, or a function."
-- R.M. Smith
+- RM Smith
 </aside>
 
 <aside>
@@ -53,7 +53,7 @@ Post your definition in the padlet below.
 </aside>
   
 <aside>
-“A *process* that leads to *change*, which occurs as a result of *experience* and increases the potential of improved performance and future learning.”
+“A process that leads to change, which occurs as a result of *experience* and increases the potential of improved performance and future learning.”
 - Susan Ambrose
 </aside>
   
@@ -110,7 +110,8 @@ We are accustomed to learning about different subjects or developing new skills 
 
 </aside>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uZ2LFZxwvuw?start=25" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/uZ2LFZxwvuw?start=25" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 
 <aside>
 

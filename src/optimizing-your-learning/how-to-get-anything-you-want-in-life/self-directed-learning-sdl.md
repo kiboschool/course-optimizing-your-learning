@@ -58,7 +58,8 @@ Self-directed learning allows you to take responsibility for your own learning, 
 
 </aside>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F4UW_2ZgNHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/F4UW_2ZgNHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 ---
 
 # Why embrace Self-Directed Learning?
@@ -70,7 +71,8 @@ Self-directed learning allows you to take responsibility for your own learning, 
 
 </aside>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fWP_6RV6nmA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/fWP_6RV6nmA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 
 <aside>
 

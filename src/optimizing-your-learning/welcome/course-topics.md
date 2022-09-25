@@ -3,6 +3,8 @@
 *Estimated Time: 15 minutes*
 ---
 
+![oyl topics](./Screen Shot 2022-09-25 at 5.34.30 PM.png)
+
 **Week 1 - How to Get Anything You Want in Life**
 
 Topics covered include: How Learning Happens, Executive Functioning Skills, Learning Approaches, Self-Directed Learning, and Reflective Practice
@@ -18,6 +20,4 @@ Topics covered include: Managing Stress, Breathing, and Mindfullnes, Food and Mo
 **Week 4 - Building Your Learning Toolkit**
 
 Topics covered include: Habits, Memory, Focus and Attention, Flow State, and Learning Strategies.
-
-
-[course sequence image]
+---

@@ -3,21 +3,29 @@
 E*stimated Time: 1 hour*
 
 ---
+## Course Introduction
 
-## Enduring Understandings
+Kibo’s mission is to educate collaborative innovators who use technology to solve pressing problems. For you to become a "collaborative innovator" you will need to own your learning journey, reflect critically, and course correct when needed, to ensure you are deepening your awareness and expertise in the subject matter of focus. Optimizing Your Learning aims to give you the tools to do this successfully. You will learn why self-directed learning and learning how to learn can drive long-term success. You will also learn about how to understand and harness your identities, interests, and motivations to develop learning skills and habits grounded in ownership and commitment. You will be introduced to a variety of learning strategies and approaches, that will help shape the development of new powerful and effective learning mindsets and skills. 
 
-## Course Narrative
+We hope that all these will allow you to gain a mastery of, and confidence in, your own agency and ability to achieev your goals at Kibo and beyond. As a result, we hope that you will see challenges that you encounter in a new light, as surmountable hurdles that can be overcome, while also seeing yourself in a new light, as an individuals who can uncover what it takes to solve even the most complex problems. 
 
-Week 1 - why learn, what us learning
-Week 2 - how to learn (strategic) - managing internal factors
-Week 3 - how to learn (strategic) - managing other internal factors, managing external factors
-Week 4 - how to learn (tactical) - tactics and tools
+Over the 5 weeks of this course we will explore 4 main thematic areas:
+In week 1, we will focus on why effective learning is important in the 21st century, and what learning actually entails. 
 
+In week 2, we will start discussing how to learn effectively, by first exploring the mental and emotional factors that influence learning.
+
+In week 3, we will move from mind to body, and explore the bodyily factors that influence learning (e.g. stress, food, movement, sleep0 and other critical external factors (e.g. your physical environment, other people).
+
+Finally, in week 4, we will explore a variety of tactics that you can employ to optimize your learning (e.g. forming habits, improving your focus and memory, getting into the flow state) and specific learning strategies that you can employ before, during, and after learning to make yourself a more effective and efficient learner. 
+
+The goal of this course is to help you improve your learning skills, so there will be lots of opportunities to test out some of the techniques shared in the lessons in our weekly live classes, assignments, and practice activities and discussions that are embedded throughout the lessons.
 declarative learning vs procedural learning
 
 ## Course and Instructor Information
 
-
+The instructor for this course is: Dr Keno Omu.
+The course will run from October 10 - November 13, 2022.
+Live classes will be held on Tuesdays. Class A: 3:30-5:00 pm GMT, and Class B: 5:30-7:00pm GMT.
 
 <aside>
 

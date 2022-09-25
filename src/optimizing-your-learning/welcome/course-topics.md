@@ -18,3 +18,6 @@ Topics covered include: Managing Stress, Breathing, and Mindfullnes, Food and Mo
 **Week 4 - Building Your Learning Toolkit**
 
 Topics covered include: Habits, Memory, Focus and Attention, Flow State, and Learning Strategies.
+
+
+[course sequence image]

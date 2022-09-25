@@ -41,12 +41,9 @@ If you recall from the previous section, the final stage of self-directed learni
 - Gibbs’ Reflective Cycle
 
 <aside>
-
-
 📙 **Reflection**
 
-> The conscious examination of past experiences, thoughts, and ways of doing things.  Its goal is to surface learning about oneself and the situation and to bring meaning to it in order to inform the present and the future.  It challenges the status quo of practice, thoughts, and assumptions and may therefore inform our decisions, actions, attitudes, beliefs, and understanding about ourselves.
-> 
+The conscious examination of past experiences, thoughts, and ways of doing things.  Its goal is to surface learning about oneself and the situation and to bring meaning to it in order to inform the present and the future.  It challenges the status quo of practice, thoughts, and assumptions and may therefore inform our decisions, actions, attitudes, beliefs, and understanding about ourselves.
 </aside>
 
 ---
@@ -107,7 +104,7 @@ Steps of the 5R framework:
 
 </aside>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/A1-40e_eeGw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/A1-40e_eeGw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 Steps of Gibbs’ Reflective Cycle:
 
@@ -146,4 +143,3 @@ Steps of Gibbs’ Reflective Cycle:
 🌐 For more on reflection, explore the [**University of Edinburgh’s Reflector’s toolkit**](https://www.ed.ac.uk/reflection/reflectors-toolkit).
 
 </aside>
----

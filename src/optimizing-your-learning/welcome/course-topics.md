@@ -3,7 +3,7 @@
 *Estimated Time: 15 minutes*
 ---
 
-![oyl topics](/Screen Shot 2022-09-25 at 5.34.30 PM.png)
+![oyl topics](./welcome/Screen Shot 2022-09-25 at 5.34.30 PM.png)
 
 **Week 1 - How to Get Anything You Want in Life**
 

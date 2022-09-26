@@ -3,7 +3,7 @@
 *Estimated Time: 15 minutes*
 ---
 
-![oyl topics](./welcome/topics.png)
+![oyl topics](./topics.png)
 
 **Week 1 - How to Get Anything You Want in Life**
 

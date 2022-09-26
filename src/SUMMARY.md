@@ -5,7 +5,6 @@
 [Course Topics](optimizing-your-learning/welcome/course-topics.md)
 [Overview of Course Assessments](optimizing-your-learning/welcome/course-assessments.md)
 [Course Expectations](optimizing-your-learning/welcome/course-expectations.md)
-[Learning Resources](optimizing-your-learning/welcome/learning-resources.md)
 
 ## Lessons
 

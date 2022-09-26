@@ -13,6 +13,10 @@ Your syllabus should also include a section detailing all assessments for the co
 
 ## **Weekly Assignments (50%)**
 
+<aside>
+"To be ready for tomorrow's opportunties, do your homework today. Learn, refine your skills, and focus on growth." - Unknown
+</aside>
+ 
 During weeks 1, 2, 3, and 4. you will have a weekly assignment that will be due on the Monday of the following week. The weekly assignments are:
 
 Week 1 - Individual SDL
@@ -31,6 +35,10 @@ All four assignments will be worth 50% of your final grade, therefore each assig
 
 ## **Final Essay (25%) - Personal Learning Charter**
 
+<aside>
+Learn to plan and plan to learn.
+</aside>
+
 Respond to the following prompts to create your learning charter in a document format. The prompts will serve as sections of your document.  
 
 - Who You Are
@@ -48,6 +56,10 @@ Total word count should be 1000-1500 words.
 ---
 
 ## **Final group presentation (25%) - Group SDL**
+
+<aside>
+"People learn the most when teaching others." - Peter F. Drucker
+</aside>
 
 Four your second final assessment, you will work in groups of 4-5 students to carry out a self-directed learning project. 
 

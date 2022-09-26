@@ -43,4 +43,5 @@ Live classes will be held on Tuesdays. Class A: 3:30-5:00 pm GMT, and Class B: 5
 [0.2 Course Expectations](/optimizing-your-learning/welcome/course-expectations.md)
 
 [0.3 Course Assessments](/optimizing-your-learning/welcome/course-assessments.md)
+
 ---

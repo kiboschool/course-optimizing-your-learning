@@ -1,9 +1,5 @@
 # Optimizing your learning
 
-## Introductory Video
-
-[insert introductory video from instructor]
-
 ## Course Description
 
 Optimizing Your Learning aims to transform you into an effective and empowered self-directed learner. In the modern world, long-term academic, professional, and personal success is driven by the ability of individuals to take control of their learning. Therefore, this course will support you in developing the knowledge, skills, and mindsets needed to take ownership of your learning and build your self-efficacy.

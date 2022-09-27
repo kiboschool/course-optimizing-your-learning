@@ -28,3 +28,8 @@ Topics covered include: Managing Stress, Breathing, and Mindfullnes, Food and Mo
 Finally, in week for we will get very tactical about ways to optimize your learning. We will start the week by discussing how you can use habits to make your learning process more automatic and effortless, then we will explore ways to improve your memoty, focus, and attention. Next we will learn how to enter a flow state while learning so that it can be more enjoyable and efficient. And finally you will be introduced to numerous strategies to improve your learning during the different steps of the self-directed learning process that you were first introduced to in week 1. 
 
 Topics covered include: Habits, Memory, Focus and Attention, Flow State, and Learning Strategies.
+
+**Week 5 - Final Assessments*
+
+There are two final assessments for this course. A final essay, which will require you to create a personal laerning charter, and a final group presentation, which will require you carry out a group self-directed learning project over the course of the entire term, and submit a video presentation where you give a short lesson on your topic to your classmates. More details on both of these assessment can be found on the [Course Assessments](/optimizing-your-learning/welcome/course-assessments.md) page.
+

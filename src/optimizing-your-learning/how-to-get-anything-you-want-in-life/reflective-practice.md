@@ -41,7 +41,7 @@ If you recall from the previous section, the final stage of self-directed learni
 - Gibbs’ Reflective Cycle
 
 <aside>
-📙 **Reflection**
+📙 Reflection
 
 The conscious examination of past experiences, thoughts, and ways of doing things.  Its goal is to surface learning about oneself and the situation and to bring meaning to it in order to inform the present and the future.  It challenges the status quo of practice, thoughts, and assumptions and may therefore inform our decisions, actions, attitudes, beliefs, and understanding about ourselves.
 </aside>
@@ -63,7 +63,7 @@ Steps of What? So What? Now What? Model:
 
 - **What? - D**escribe the situation you want to learn from. Identify the facts and feelings of the situation.
 - **So What?** Extract the meaning of what you experienced, question what knowledge you and others had in the situation, and what knowledge could help you make sense of the situation.
-- '**Now what? - c**reate an action plan for the future based on the previous questions.
+- **Now what?** - c**reate an action plan for the future based on the previous questions.
 
 <aside>
 

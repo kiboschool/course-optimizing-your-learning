@@ -1,6 +1,6 @@
 # Course Topics
 
-Estimated Time: 15 minutes
+*Estimated Time: 15 minutes*
 
 ---
 

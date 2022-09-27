@@ -1,5 +1,4 @@
-# Assignment 1 individual sdl
-
+# Assignment 1 - Individual SDL
 ---
 
 <aside>

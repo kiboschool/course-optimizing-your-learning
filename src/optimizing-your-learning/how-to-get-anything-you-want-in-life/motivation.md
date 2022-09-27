@@ -28,38 +28,38 @@ Post your definition in the padlet below.
 
 <aside>
 “A change in human disposition or capability that persists over a period of time and is not simply ascribable to processes of growth.”
-- Robert Gagne
+Robert Gagne
 </aside>
 
 <aside>
 “Learning is the relatively permanent change in a person’s knowledge or behavior due to experience.”
-- Richard E. Mayer
+Richard E. Mayer
 </aside>
   
 <aside>
 “We define learning as the transformative process of taking in information that—when internalized and mixed with what we have experienced—changes what we know and builds on what we do. It’s based on input, process, and reflection. It is what changes us.”
-- Marcia Conner
+Marcia Conner
 </aside>
  
 <aside>
 
 “It has been suggested that the term learning defies precise definition because it is put to multiple uses. Learning is used to refer to (1) the acquisition and mastery of what is already known about something, (2) the extension and clarification of the meaning of one’s experience, or (3) an organized, intentional process of testing ideas relevant to problems. In other words, it is used to describe a product, a process, or a function."
-- RM Smith
+RM Smith
 </aside>
 
 <aside>
 “Acquiring knowledge and skills and having them readily available from memory so you can make sense of future problems and opportunities.”
-- Peter C. Brown, Henry L. Roediger III, Mark A. McDaniel
+Peter C. Brown, Henry L. Roediger III, Mark A. McDaniel
 </aside>
   
 <aside>
 “A process that leads to change, which occurs as a result of *experience* and increases the potential of improved performance and future learning.”
-- Susan Ambrose
+Susan Ambrose
 </aside>
   
 <aside>
 “A persisting change in human performance or performance potential…[which] must come about as a result of the learner’s experience and interaction with the world.”
-- M. Driscoll
+M. Driscoll
 </aside>
 
 

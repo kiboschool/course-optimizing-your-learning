@@ -51,7 +51,7 @@ During the live classes and throughout the online lessons, you will submit short
 
 **To create a Padlet account:**
 
-- Go to https://padlet.com/auth/signup and Sign Up for a Padlet account using your Kibo School email address.
+- Go to [https://padlet.com/auth/signup](https://padlet.com/auth/signup) and Sign Up for a Padlet account using your Kibo School email address.
 - Since you have already created a Kibo School Google Account, you can click "Sign Up with Google" and follow the instructions to link your Padlet account to your Google account. This will mean that you don't have to create a new username and password for the Padlet account.
 
 ---

@@ -18,10 +18,4 @@ Here are all the readings that were part of this week's lesson:
 - Berenson, R., Boyles, G., & Weaver, A. (2008). Emotional intelligence as a predictor of success in online learning. *International Review of Research in Open and Distributed Learning*, *9* (2), 1-17. [https://www.erudit.org/en/journals/irrodl/1900-v1-n1-irrodl05532/1071772ar.pdf](https://www.erudit.org/en/journals/irrodl/1900-v1-n1-irrodl05532/1071772ar.pdf)
 - Warrier, U., John, M., & Warrier, S. (2021). Leveraging emotional intelligence competencies for sustainable development of higher education institutions in the new normal. *FIIB Business Review*, *10* (1), 62-73. [https://journals.sagepub.com/doi/pdf/10.1177/2319714521992032](https://journals.sagepub.com/doi/pdf/10.1177/2319714521992032)
 
-## How was this lesson?
-
-- [ ]  👍🏿 (Great)
-- [ ]  👌🏿 (Okay)
-- [ ]  👎🏿 (Bad)
-
 ---

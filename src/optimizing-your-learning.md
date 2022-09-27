@@ -1,7 +1,6 @@
-# Optimizing your learning
+# Optimizing Your Learning (OYL)
 
 ![brain](./brain.jpeg)
-
 Photo by Milad Fakurian on Unsplash
 
 

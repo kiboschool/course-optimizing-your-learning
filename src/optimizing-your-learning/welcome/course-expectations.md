@@ -5,32 +5,39 @@
 ---
 
 ## Attendance and Engagement
-[insert text]
+Insert text
 
+---
 
 ## Participation
-[insert text]
+Insert text
 
+---
 
 ## Peer Collaboration
-[insert text]
+Insert text
 
+---
 
 ## Academic Integrity
-[insert text]
+Insert text
 
+---
 
 ## Assignment Deadlines
-[insert text]
+Insert text
 
+---
 
 ## Grading Turn Around 
-[insert text]
+Insert text
 
+---
 
 ## Communication Expectations
-[insert text]
+Insert text
 
+---
 
 ## Tools Used in This Course
 
@@ -40,6 +47,7 @@
 During the live classes and throughout the online lessons, you will submit short written text, respond to discussion questions, or comment on your classmates' work using an online tool called Padlet.
 
 </aside>
+
 
 **To create a Padlet account:**
 

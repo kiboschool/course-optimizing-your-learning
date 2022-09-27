@@ -1,10 +1,16 @@
 # Wrap up
 
+*Estimated 5 minutes*
+
 ---
+## Key Takeways From This Week's Lesson
 
-## Reading List
 
-The content in this week’s lesson utilizes the following core sources:
+## How was this lesson?
+
+
+## Reading List 
+Here are all the readings that were part of this week's lesson:
 
 - Carden, L., & Wood, W. (2018). Habit formation and change. *Current opinion in behavioral sciences*, *20*, 117-122. [https://dornsife.usc.edu/assets/sites/545/docs/Carden.Wood.2018.pdf](https://dornsife.usc.edu/assets/sites/545/docs/Carden.Wood.2018.pdf)
 - University of Waterloo. Self-Directed Learning: A Four-Step Process. [[https://uwaterloo.ca/centre-for-teaching-excellence/teaching-resources/teaching-tips/tips-students/self-directed-learning/self-directed-learning-four-step-process#:~:text=Signs of readiness for self,-evaluation and self-reflection.]](https://uwaterloo.ca/centre-for-teaching-excellence/teaching-resources/teaching-tips/tips-students/self-directed-learning/self-directed-learning-four-step-process#:~:text=Signs%20of%20readiness%20for%20self,%2Devaluation%20and%20self%2Dreflection.%5D)
@@ -17,11 +23,5 @@ The content in this week’s lesson utilizes the following core sources:
 - Nelson Cowan. (2010). The Magical Mystery Four: How is Working Memory Capacity Limited, and Why? Curr Dir Psychol Sci. 19(1): 51–57. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2864034/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2864034/)
 - Maria Bannert. (2002). Managing cognitive load—recent trends in cognitive load theory. Learning and Instruction 12. 139–146. [https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.462.9511&rep=rep1&type=pdf](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.462.9511&rep=rep1&type=pdf)
 - Schmidt, J. A. (2010). Flow in education. [https://edwp.educ.msu.edu/research/wp-content/uploads/sites/10/2020/06/CHALLENGE_FlowEducation.pdf](https://edwp.educ.msu.edu/research/wp-content/uploads/sites/10/2020/06/CHALLENGE_FlowEducation.pdf)
-
-## How was this lesson?
-
-- [ ]  👍🏿 (Great)
-- [ ]  👌🏿 (Okay)
-- [ ]  👎🏿 (Bad)
 
 ---

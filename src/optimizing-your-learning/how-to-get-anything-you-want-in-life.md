@@ -30,10 +30,14 @@ After completing this lesson, you will be able to:
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/zSkFFW--Ma0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+
+
+**⚠️ This week's assignment will require you to spend multiple days planning, completing, and reflecting on a learning activity, so please review the assignment brief [Assignment 1: Individual SDL](/optimizing-your-learning/how-to-get-anything-you-want-in-life/assignment-1-individual-sdl.md) early in the week, to ensure that you have enough time to properly complete the entire assignment.**
+
+
 ## Sections
 
 <aside>
-
 
 👩🏿‍🏫 Complete this lesson by exploring each section
 

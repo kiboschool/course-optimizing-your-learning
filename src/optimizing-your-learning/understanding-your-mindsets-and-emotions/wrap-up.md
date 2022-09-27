@@ -1,8 +1,16 @@
 # Wrap up
 
----
+*Estimated 5 minutes*
 
-## Reading List
+---
+## Key Takeways From This Week's Lesson
+
+
+## How was this lesson?
+
+
+## Reading List 
+Here are all the readings that were part of this week's lesson:
 
 - Yeager DS and Dweck CS. (2020) What can be learned from growth mindset controversies? Am Psychol. Dec;75(9):1269-1284. doi: 10.1037/amp0000794. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8299535/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8299535/)
 - Johnson, B., & Geal, M. Limiting beliefs. [http://www.learningpartners.co.uk/sites/default/files/resources/Limiting Beliefs.pdf](http://www.learningpartners.co.uk/sites/default/files/resources/Limiting%20Beliefs.pdf)

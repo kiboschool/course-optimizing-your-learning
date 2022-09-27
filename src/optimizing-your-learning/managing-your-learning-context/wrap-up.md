@@ -1,10 +1,16 @@
 # Wrap up
 
+*Estimated 5 minutes*
+
 ---
+## Key Takeways From This Week's Lesson
 
-## Reading List
 
-The content in this week’s lesson utilizes the following core sources:
+## How was this lesson?
+
+
+## Reading List 
+Here are all the readings that were part of this week's lesson:
 
 - Rao, M., Gershon, M. The bowel and beyond: the enteric nervous system in neurological disorders. *Nat Rev Gastroenterol Hepatol* **13**, 517–528 (2016). https://doi.org/10.1038/nrgastro.2016.107
 - Masento, N., Golightly, M., Field, D., Butler, L., & Van Reekum, C. (2014). Effects of hydration status on cognitive performance and mood. *British Journal of Nutrition,*
@@ -18,11 +24,4 @@ The content in this week’s lesson utilizes the following core sources:
 - Razali, SM, et al (2018). The Impact of Time Management on Students’ Academic Achievement. Journal of Physics: Conference Series. [https://iopscience.iop.org/article/10.1088/1742-6596/995/1/012042/pdf](https://iopscience.iop.org/article/10.1088/1742-6596/995/1/012042/pdf)
 - Klemmen, WR. (2016). Thwart Stress Effects of Memory. Psychology Today. [https://www.psychologytoday.com/us/blog/memory-medic/201612/thwart-stress-effects-memory](https://www.psychologytoday.com/us/blog/memory-medic/201612/thwart-stress-effects-memory)
 - National Adolescent and	Young Adult Health	Information Center	(2014). Sleep Deprivation in Adolescents and Young Adults. San Francisco: University of California, San Francisco. [http://nahic.ucsf.edu/wp-content/uploads/2014/08/sleep-brief-final](http://nahic.ucsf.edu/wp-content/uploads/2014/08/sleep-brief-final)
-
-## How was this lesson?
-
-- [ ]  👍🏿 (Great)
-- [ ]  👌🏿 (Okay)
-- [ ]  👎🏿 (Bad)
-
 ---

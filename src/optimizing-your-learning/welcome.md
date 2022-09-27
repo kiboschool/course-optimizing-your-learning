@@ -28,9 +28,9 @@ The goal of this course is to help you improve your learning skills, so there wi
 
 ## Course and Instructor Information
 
-The instructor for this course is: Dr Keno Omu.
-The course will run from October 10 - November 13, 2022.
-Live classes will be held on Tuesdays. Class A: 3:30-5:00 pm GMT, and Class B: 5:30-7:00pm GMT.
+- The instructor for this course is: Dr Keno Omu.
+- The course will run from October 10 - November 13, 2022.
+- Live classes will be held on Tuesdays. Class A: 3:30-5:00 pm GMT, and Class B: 5:30-7:00pm GMT.
 
 <aside>
 

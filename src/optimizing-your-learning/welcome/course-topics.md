@@ -14,9 +14,6 @@ Learning is a activity that defines human development. The fact that you can wal
 
 **Week 2 - Understanding Your Mindsets and Emotions**
 
-![emotions](./emotions.jpeg)
-Photo by Domingo Alvarez E on Unsplash
-
 In week 1, we explore the cognitive side of learning, but effective learning isn't only driven by cognition. Therefore, during the 2nd week of the course, we will explore the impact that emotions and mindsets have on your learning. We will start our journey by delving into how our identities can impact (positively or negatively) what we think we are capable of, and how these identities can create beliefs that limit us from achieving our goals. We will then explore some other beliefs and behaviors that can sabaotage our learning, before being introduced to a powerful mindset that can counteract these challenges, and supercharge our abilities. Finally, we will dive into a frame work for understanding emotional intelligence, and discuss ways to improve your self-awareness, self-regulation, and motivation.
 
 *Topics covered include: Identity, Beliefs that Hinder Learning, A Powerful Mindset That Supports Learning, Introduction to Emotional Intelligence, Understanding and Enhancing Your Self-Awareness, Developing Self-Regulation Skills, and Managing and Sustaining Motivation.*
@@ -28,9 +25,6 @@ After spending the first two weeks of this course focused primarily on the brain
 *Topics covered include: Managing Stress, Breathing, and Mindfullnes, Food and Movement, Sleep, Time Management, Physical Environment, and Learning With Others.*
 
 **Week 4 - Building Your Learning Toolkit**
-
-![toolkit](./toolkit.jpeg)
-Photo by Todd Quackenbush on Unsplash
 
 Finally, in week for we will get very tactical about ways to optimize your learning. We will start the week by discussing how you can use habits to make your learning process more automatic and effortless, then we will explore ways to improve your memoty, focus, and attention. Next we will learn how to enter a flow state while learning so that it can be more enjoyable and efficient. And finally you will be introduced to numerous strategies to improve your learning during the different steps of the self-directed learning process that you were first introduced to in week 1. 
 

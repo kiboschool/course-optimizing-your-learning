@@ -1,6 +1,6 @@
 # Course expectations
 
-*Estimated Time: 5 minutes*
+*Estimated Time: 15 minutes*
 
 ---
 
@@ -37,9 +37,6 @@
 ### Padlet Account
 
 <aside>
-
-**Padlet**
-
 During the live classes and throughout the online lessons, you will submit short written text, respond to discussion questions, or comment on your classmates' work using an online tool called Padlet.
 
 </aside>

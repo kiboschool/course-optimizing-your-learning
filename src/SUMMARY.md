@@ -6,6 +6,7 @@
 [Overview of Course Assessments](optimizing-your-learning/welcome/course-assessments.md)
 [Course Expectations](optimizing-your-learning/welcome/course-expectations.md)
 
+<!--
 ## Lessons
 
 ### Week 1
@@ -67,3 +68,4 @@
 
 - [Final Assessments](optimizing-your-learning/final-assessments.md)
 
+-->

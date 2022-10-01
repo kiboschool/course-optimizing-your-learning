@@ -26,7 +26,7 @@ After spending the first two weeks of this course focused primarily on the brain
 
 **Week 4 - Building Your Learning Toolkit**
 
-Finally, in week 4 we will get very tactical about ways to optimize your learning. We will start the week by discussing how you can use habits to make your learning process more automatic and effortless, then we will explore ways to improve your memoty, focus, and attention. Next we will learn how to enter a flow state while learning so that it can be more enjoyable and efficient. And finally you will be introduced to numerous strategies to improve your learning during the different steps of the self-directed learning process that you are first introduced to in week 1. 
+Finally, in week 4 we will get very tactical about ways to optimize your learning. We will start the week by discussing how you can use habits to make your learning process more automatic and effortless, then we will explore ways to improve your memory, focus, and attention. Next we will learn how to enter a flow state while learning so that it can be more enjoyable and efficient. And finally you will be introduced to numerous strategies to improve your learning during the different steps of the self-directed learning process that you are first introduced to in week 1. 
 
 *Topics covered include: Habits, Memory, Focus and Attention, Flow State, and Learning Strategies.*
 

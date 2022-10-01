@@ -4,13 +4,6 @@
 
 ---
 
-Your syllabus should also include a section detailing all assessments for the course, as well as their weightings in the calculation of the students’ final grade. You can include a table in this section that outlines:
-
-- The name of each assessment (e.g. assignment, exam, project)
-- A short description of the assessment
-- The assessment’s weight in the final course grade
-- The assessment due date
-
 ## **Weekly Assignments (50%)**
 
 <aside>
@@ -19,13 +12,13 @@ Your syllabus should also include a section detailing all assessments for the co
  
 During weeks 1, 2, 3, and 4. you will have a weekly assignment that will be due on the Monday of the following week. The weekly assignments are:
 
-Week 1 - Individual SDL
+Week 1 - Individual SDL (Due date: October 17th, 2022)
 
-Week 2 - Limiting Beliefs Plan
+Week 2 - Limiting Beliefs Plan (Due date: October 24th, 2022)
 
-Week 3 - Energy & Time Management Experiment
+Week 3 - Energy & Time Management Experiment (Due date: October 31st, 2022)
 
-Week 4 - Memory Challenge
+Week 4 - Memory Challenge (Due date: November 7th, 2022)
 
 More information about each challenge can be found on the assignment page of each week’s lesson.
 
@@ -39,19 +32,17 @@ All four assignments will be worth 50% of your final grade, therefore each assig
 Learn to plan and plan to learn.
 </aside>
 
-Respond to the following prompts to create your learning charter in a document format. The prompts will serve as sections of your document.  
+One of your final assessments for this course will be the creation of a personal learning charter. This learning charter will inlcude the following information: 
 
 - Who You Are
-- Your Stories of Learning [What is one story of a successful learning attempt and one story of an unsuccessful learning attempt]
-- Your Learning Commitments and Affirmations
-- Your Learning Motivations and Interests [What drives you to learn & what are your key beliefs about learning]
+- Your Learning Beliefs [What are your key beliefs about learning]
+- Your Learning Motivations and Interests [What drives you to learn]
 - Your Learning Goals [What are some knowledge and skills that you wish to acquire in the next 6 months]
-- Your Strengths and Weaknesses [SWOT] - Learning Superpowers / Learning Kryptonite
-- Your Learning Preferences and Approaches
-- Your Learning Tool System  [Strategies and Resources]
-- Your Learning Metrics and Milestones system [How you will measure your learning progress?]
+- Your Strengths and Weaknesses Analysis
+- Your Learning Tool System  [The learnign strategies and approaches that you want to employ to achieve your goals]
+- Your Learning Metrics and Milestones system [How you will measure your learning progress]
 
-Total word count should be 1000-1500 words.
+The total word count for this essay is 1000-1500 words, and your grade on this assessment counts towards 25% of your final grade for this course.
 
 ---
 
@@ -61,15 +52,15 @@ Total word count should be 1000-1500 words.
 "People learn the most when teaching others." - Peter F. Drucker
 </aside>
 
-Four your second final assessment, you will work in groups of 4-5 students to carry out a self-directed learning project. 
+Four your second final assessment, you will work in groups of 4-5 students to carry out a self-directed learning project. Your goal is to select a topic that you will learn about, create a learning plan for your group, implement the learning plan, and then submit a 10 minute video lesson teaching the topic to the rest of your classmates. 
 
-During the course, you will complete the following milestones for the group project:
+You will be requried to work on this project throughout the 5 weeks of the course, and there are some milestones that you will need to reach during weeks 2, 3, and 4.
 
-Week 2: Milestone 1 -  Determine your learning goal and create a group learning plan that distributes responsibilities to different group members.
+- Week 2: Milestone 1 -  Determine your topic, learning goal, and create a group learning plan that distributes responsibilities to different group members.
 
-Week 3: Milestone 2 - Carry out your learning plan.
+- Week 3: Milestone 2 - Carry out your learning plan.
 
-Week 4: Milestone 3 - Create an artifact to demonstrate your group’s learning.
+- Week 4: Milestone 3 - Create your video lesson on your chosen topic.
 
 During the final week of the course you will be focusing on:
 
@@ -78,15 +69,21 @@ During the final week of the course you will be focusing on:
 
 At the end of the week you will need to submit:
 
-- Milestones 1 (group SDL plan)
-- Milestone 3 (reflection of your experience)
+- Milestones 1 - group learning plan
 - Learning self-evaluation and peer evaluations
-- Video presentation about your SDL project (max length: 10 minutes)
+- Milestone 3 - Video presentation about your SDL project (max length: 10 minutes)
+- Written reflection on the group learning experience (max word count: 500 words)
 
 ---
 
 ## How to Submit Your Assignments
 
-[insert details]
+All written assignments will need to be submitted in Gradescope by their stated duedate. 
 
-Simple assignment to practice submitting work
+[insert Gradescope submission details]
+
+You will also need to submit a link to your assignment in the Woolf platform, so we have the academic record of your submission.
+
+[insert Woolf submission details]
+
+---

@@ -15,7 +15,7 @@ For you to become a "collaborative innovator", you will need to be able to direc
 
 Optimizing Your Learning aims to give you the tools to do this successfully. You will learn why self-directed learning and learning how to learn can drive long-term success. You will also learn about how to understand and harness your identities, beliefs, and interests to develop learning skills and habits grounded in ownership, motivation, and commitment. Finally, you will be introduced to a variety of learning strategies and approaches that will help shape the development of new powerful and effective learning mindsets and skills. 
 
-We hope that all these will allow you to gain a mastery of, and confidence in, your own agency and ability to achieve your goals at Kibo and beyond. As a result, we hope that you will see challenges that you encounter in a new light, as surmountable hurdles that can be overcome, while also seeing yourself in a new light, as an individuals who can uncover what it takes to solve even the most complex problems. 
+We hope that all these will allow you to gain a mastery of, and confidence in, your own agency and ability to achieve your goals at Kibo and beyond. As a result, we hope that you will see challenges that you encounter in a new light, as surmountable hurdles that can be overcome. While also seeing yourself in a new light, as an individual who can uncover what it takes to solve even the most complex problems. 
 
 Over the 5 weeks of this course we will explore 4 main thematic areas:
 **In week 1**, we will focus on why effective learning is important in the 21st century, and what learning actually entails. 

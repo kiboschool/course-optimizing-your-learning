@@ -46,7 +46,7 @@ The total word count for this essay is 1000-1500 words, and your grade on this a
 
 ---
 
-## **Final group presentation (25%) - Group SDL**
+## **Final Group Presentation (25%) - Group SDL**
 
 <aside>
 "People learn the most when teaching others." - Peter F. Drucker

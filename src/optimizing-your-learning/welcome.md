@@ -32,9 +32,17 @@ Since the goal of this course is to help you improve your learning skills, there
 
 ## Course and Instructor Information
 
-- The instructor for this course is: Dr Keno Omu.
-- The course will run from October 10 - November 13, 2022. Note that this is a **5 week course**.
-- Live classes will be held on Tuesdays. Class A: 3:30-5:00 pm GMT, and Class B: 5:30-7:00pm GMT.
+The instructor for this course is: Dr Keno Omu.
+The course will run from October 10 - November 13, 2022. Note that this is a **5 week course**.
+
+Live classes will be held on Tuesdays. You only need to attend **one** of these classes.
+  - Class A: 3:30-5:00 pm GMT.
+  - Class B: 5:30-7:00pm GMT.
+
+Office hours will be held three times per week. These are optional chances to get additional support from the instructor.
+  - Monday 4-5 pm GMT
+  - Wednesday 6-7 pm GMT
+  - Thursday 6-7 pm GMT
 
 <aside>
 

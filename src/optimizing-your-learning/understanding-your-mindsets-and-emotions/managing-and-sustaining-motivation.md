@@ -131,11 +131,3 @@ Self-control and grit: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4737958/pdf
 
 [https://www.theatlantic.com/magazine/archive/2016/05/is-grit-overrated/476397/](https://www.theatlantic.com/magazine/archive/2016/05/is-grit-overrated/476397/)
 
-<aside>
-
-
-🤷🏿‍♀️ **So What? How does this section apply to me?**
-
-*[insert text]*
-
-</aside>

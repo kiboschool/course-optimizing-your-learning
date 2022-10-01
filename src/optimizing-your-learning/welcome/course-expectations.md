@@ -1,4 +1,4 @@
-# Course expectations
+# Course Expectations
 
 *Estimated Time: 15 minutes*
 

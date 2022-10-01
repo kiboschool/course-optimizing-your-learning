@@ -20,7 +20,7 @@ In week 1, we explore the cognitive side of learning, but effective learning isn
 
 **Week 3 - Managing Your Learning Context**
 
-After spending the first two weeks of this course focused primarily on the brain, in week 3 we will move into discussing how your body and external learning context impact your learning. We will first learn how to manage your physical energy, by discussing the influence of stress, breath, food, movement, and sleep on your ability to learn effectively. Then we will explore some tools that can be used to effectively manage your time. Before discussing how you can set up your external environment to help make your learning more successful; both in terms of your physical environment and the people that you learn with, and from.
+After spending the first two weeks of this course focused primarily on the brain, in week 3 we will move into discussing how your body and external learning context impact your learning. We will first learn how to manage your physical energy, by discussing the influence of stress, breath, food, movement, and sleep on your ability to learn effectively. Then we will explore some tools that can be used to effectively manage your time. We will conclude by discussing how you can set up your external environment to help make your learning more successful; both in terms of your physical environment and the people that you learn with, and from.
 
 *Topics covered include: Managing Stress, Breathing, and Mindfullnes, Food and Movement, Sleep, Time Management, Physical Environment, and Learning With Others.*
 

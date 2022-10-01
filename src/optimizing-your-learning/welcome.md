@@ -26,9 +26,9 @@ Over the 5 weeks of this course we will explore 4 main thematic areas:
 
 **In week 4**, we will explore a variety of tactics that you can employ to optimize your learning (e.g. forming habits, improving your focus and memory, getting into the flow state) and specific learning strategies that you can employ before, during, and after learning to make yourself a more effective and efficient learner. 
 
-**Week 5** will be a chance for you to focus on your final project and final group presentation so that you can consolidate the knowledge, skills, and mindsets that you were introduced too during the previous 4 weeks.
+**Week 5** will be a chance for you to focus on your final project and final group presentation so that you can consolidate the knowledge, skills, and mindsets that you were introduced to during the previous 4 weeks.
 
-The goal of this course is to help you improve your learning skills, so there will be lots of opportunities to test out some of the techniques shared in the lessons in our weekly live classes, assignments, and practice activities and discussions that are embedded throughout the lessons.
+Since the goal of this course is to help you improve your learning skills, there will be lots of opportunities to test out some of the techniques shared in the lessons in our weekly live classes, weekly assignments, and the practice activities and discussions that are embedded throughout the lessons.
 
 ## Course and Instructor Information
 

@@ -153,38 +153,6 @@ Here is some useful expansions on key terms in the table:
 - Diagnosing Learning needs - It all starts with questions like: what do I not know? What do I need to learn and why do I want to learn this? In the example above with the new device, the owner wants to be able to use their new device (perhaps a phone in this case) effectively 
 - Determining a learning strategy - Will I learn by reading, watching, or listening to content? Will I learn by engaging in a problem-solving activity that results in the creation of something new? Will I utilize one or a combination of several learning strategies? 
 
-<aside>
-
-
-📖 Read this article to learn about how to become a self-directed learner. ([**20 Steps Towards More Self-Directed Learning**](https://www.opencolleges.edu.au/informed/features/29-steps-toward-more-self-directed-learning/))
-
-</aside>
-
-Here is a summary of the 20 tips from the article:
-
-- **Planning Tips**
-    1. Identify your learning goals
-    2. Seek out interesting challenges
-    3. Use game-based motivation strategies
-    4. Cultivate intrinsic motivation
-    5. Build your own personal learning syllabus
-    6. Pursue knowledge, not good grades
-    7. Make a list of topics “to master”
-    8. Keep your goals realistic
-- **Monitoring Tips**
-    1. Start with background on a topic.
-    2. Question the significance of things
-    3. Understand your own approach
-    4. Monitor your own learning process
-    5. Create something out of what you’ve learned
-    6. Use time (or lack thereof) to your advantage
-    7. Create your own personal learning record
-    8. Value progress over performance
-    9. Build a network of “learning colleagues”
-- **Evaluating Tips**
-    1. Share your learning with peers and mentors
-    2. Verbalise your achievements
-    3. Practice using what you’ve learned
 
 When setting out to direct your own learning, it can be useful to ask yourself the following questions in order to help shape and guide you through the process.
 
@@ -255,6 +223,28 @@ Once you begin your learning journey (you are traversing your map), you will nee
 
 [Certificate]
 The critical question to ask yourself when you think that your learning is complete is "How do I know my learning is complete and that I have actually reached my goal?" 
+
+
+<aside>
+
+
+📖 Read this article to learn about how to become a self-directed learner. ([**20 Steps Towards More Self-Directed Learning**](https://www.opencolleges.edu.au/informed/features/29-steps-toward-more-self-directed-learning/))
+
+</aside>
+
+Here is a summary of the 20 tips from the article:
+
+| Planning Tips | Monitoring Tips | Evaluating Tips|
+| --- | --- | --- |
+| Identify your learning goals| Start with background on a topic | Share your learning with peers and mentors |
+| Seek out interesting challenges | Question the significance of things | Verbalise your achievements |
+| Use game-based motivation strategies | Understand your own approach | Practice using what you’ve learned |
+| Cultivate intrinsic motivation | Monitor your own learning process |  |
+| Build your own personal learning syllabus | Create something out of what you’ve learned |  |
+| Pursue knowledge, not good grades | Use time (or lack thereof) to your advantage |  |
+| Make a list of topics “to master” | Create your own personal learning record |  |
+| Keep your goals realistic | Value progress over performance |  |
+| | Build a network of “learning colleagues”|  |
 
 ---
 

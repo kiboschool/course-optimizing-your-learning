@@ -128,18 +128,30 @@ To be an effective self-directed learner you need to have both the will to learn
 
 ## The Self-Directed Learning Process
 
-![learning experience sdl cycle](./self-directed-learning-sdl/learning-experience-sdl-cycle.png)
+There are three main stages to the self-directed learning process:
+1) Planning = Things you do BEFORE learning takes place.
+2) Monitoring = Things you do DURING the learning activity.
+3) Evaluating = Things you do AFTER the learning activity.
 
+The table below outlines behaviors that effective self-directed learners exhibit in each of these three stages.
 
-| Planning (Things to do BEFORE learning takes place) | Monitoring (Things to do DURING the learning activity) | Evaluating (Things to do AFTER the learning activity) |
+| Planning | Monitoring | Evaluating |
 | --- | --- | --- |
-| Goal Setting - Taking the learning needs one step further, the learner formulates clear goals by asking questions like what will I learn? what will I be able to do once I have completed my learning? etc. In the example, the owner might want to be able to use specific applications or perform some other specific function. | Attention and Focusing | Self-Evaluation - After learning strategies are implemented, the learner then evaluates their learning to see how effective the process was. Using the learning goals set as a benchmark, the learner can ascertain how effective their method /the process was and can improve on that subsequently. |
-| Strategic Planning - In order to build upon existing knowledge and ideas, the learner has to determine appropriate resources for learning. Questions such as: will I need to access stored information? Will I need a teacher/facilitator/coach to explain some things to me? among others will come up.  | Focusing  | Reflection |
-| Diagnosing Learning needs - It all starts with questions like: what do I not know? What do I need to learn and why do I want to learn this? In the example above with the new device, the owner wants to be able to use their new device (perhaps a phone in this case) effectively | Self-Instruction  | Adaptability |
-| Determining a learning strategy - Will I learn by reading, watching, or listening to content? Will I learn by engaging in a problem-solving activity that results in the creation of something new? Will I utilize one or a combination of several learning strategies?  | Self-Monitoring  |  |
+| Goal Setting | Attention and Focusing | Self-Evaluation |
+| Strategic Planning | Focusing  | Reflection |
+| Diagnosing Learning Needs | Self-Instruction  | Adaptability |
+| Determining Learning Strategy | Self-Monitoring  |  |
 |  | Help-Seeking |  |
 
 [Source](https://www.learningpersonalized.com/holy-trinity-self-direction-self-managing-self-monitoring-self-modifying/)
+
+
+Here is some useful expansions on key terms in the table:
+- Goal Setting - Taking the learning needs one step further, the learner formulates clear goals by asking questions like what will I learn? what will I be able to do once I have completed my learning? etc. In the example, the owner might want to be able to use specific applications or perform some other specific function.
+- Self-Evaluation - After learning strategies are implemented, the learner then evaluates their learning to see how effective the process was. Using the learning goals set as a benchmark, the learner can ascertain how effective their method /the process was and can improve on that subsequently. 
+- Strategic Planning - In order to build upon existing knowledge and ideas, the learner has to determine appropriate resources for learning. Questions such as: will I need to access stored information? Will I need a teacher/facilitator/coach to explain some things to me? among others will come up. 
+- Diagnosing Learning needs - It all starts with questions like: what do I not know? What do I need to learn and why do I want to learn this? In the example above with the new device, the owner wants to be able to use their new device (perhaps a phone in this case) effectively 
+- Determining a learning strategy - Will I learn by reading, watching, or listening to content? Will I learn by engaging in a problem-solving activity that results in the creation of something new? Will I utilize one or a combination of several learning strategies? 
 
 <aside>
 
@@ -159,7 +171,7 @@ Here is a summary of the 20 tips from the article:
     6. Pursue knowledge, not good grades
     7. Make a list of topics “to master”
     8. Keep your goals realistic
-- **Monitoring Tip**
+- **Monitoring Tips**
     1. Start with background on a topic.
     2. Question the significance of things
     3. Understand your own approach
@@ -174,73 +186,62 @@ Here is a summary of the 20 tips from the article:
     2. Verbalise your achievements
     3. Practice using what you’ve learned
 
-When setting out to direct your own learning, it can be useful to ask yourself the following questions in order to help shape and guide you through the process. Open the toggles to see additional questions that fall under each of these 10 broad areas.
+When setting out to direct your own learning, it can be useful to ask yourself the following questions in order to help shape and guide you through the process.
 
 **Planning**
 
 - **1. WHAT DO I WANT OR NEED TO LEARN?**
-    - What is important or necessary?
-        - Is there a specific problem to be solved?
-        - Is there a challenge that I need to face?
-        - Is there information that will construct something of value to me or others?
+    
 - **2. WHY IS THIS IMPORTANT?**
-    - What is the context that is driving me to learn this?
-        - Is this a hobby or skill?
-        - Is this for personal knowledge development?
-        - Is this learning for a job or a career development?
+    - What is important or necessary? (e.g. Is there a specific problem to be solved? Is there a challenge that I need to face? Is there information that will construct something of value to me or others?)
+    - What is the context that is driving me to learn this? (e.g. Is this a hobby or skill? Is this for personal knowledge development? Is this learning for a job or a career development?)
     - What else has motivated me to seek this knowledge?
     - Why is this meaningful to me or to others?
     - What would happen if I don’t find out what I need to or didn’t develop my skills adequately?
     - How will this knowledge change things for me or others?
 - **3. HOW DO I INTEND TO USE THIS KNOWLEDGE?**
-    - For personal development?
-    - For problem-solving?
-    - For general interest?
-    - For use in other learning challenges?
-    - To respond to specific questions?
+    - For personal development? For problem-solving? For general interest?For use in other learning challenges? To respond to specific questions?
 - **5. WHAT ARE MY CAPABILITIES AND LIMITATIONS?**
-    - Capabilities
-        - What do I know or what can I do now that will help me?
-    - Limitations
-        - What can’t I do? And can I learn how to do it? (considering timeframe, budget, etc.)
+    - Capabilities - What do I know or what can I do now that will help me?
+    - Limitations - What can’t I do? And can I learn how to do it? (considering timeframe, budget, etc.)
 - **4. WHAT DO I KNOW ALREADY AND WHAT DO I NEED TO FIND OUT?**
-    - **Current knowledge**
-        - What are my assumptions?
-        - What is my personal experience relating to this topic?
-        - What knowledge have I already gained from others about this topic?
-    - **Missing knowledge**
+    - What do I already know about this topic from different sources (e.g. my assumptions, personal experience, other people)?
+    - Missing knowledge
         - What don’t I know about the who, what, where, when, why, and how relating to this topic?
         - What is the history of the problem or challenge? What is known by others?
         - What have others missed in the past? What is still unknown by others?
 - **6. WHERE CAN I FIND OUT WHAT I NEED TO KNOW?**
-    - What traditional sources can I use?
-        - Books, articles, film, art and design, conversation/collaboration, courses, hands-on workshops, seminars, mentoring/practicums.
-    - What online sources can I use?
-        - websites, blogs, wikis, videos, podcasts, online learning/MOOCs
+    - What traditional sources can I use? (e.g. Books, articles, film, art and design, conversation/collaboration, courses, hands-on workshops, seminars, mentoring/practicums.)
+    - What online sources can I use? (e.g. websites, blogs, wikis, videos, podcasts, online learning/MOOCs)
 - **7. HOW WILL MY LEARNING ACTUALLY TAKE PLACE?**
-    - Where will I learn?
-    - How will I learn?
-    - With whom will I learn?
+    - Where will I learn? 
+    - How will I learn? 
+    - With whom will I learn? 
     - What will be the structure of my learning sessions? Frequency, duration, etc.
 - **8. HOW WILL I KNOW MY LEARNING WAS SUCCESSFUL? (QUESTIONS TO ASK BEFORE LEARNING)**
     - What would success look like? And how will I measure that?
     - What evidence do I need to collect in order to evaluate my success?
     - How will I collect this evidence?
 
+[Map]
+
+By the end of the planning stage, you should have a strong sense of why what you are learning is important to you, what you wnat to accomplish, how far your current abilities are from that goal, how you plan to close the gap, and how you will know when the gap is closed. You have essentially created the map for your learning, which you can use to drive the rest of the process. 
+
+
 **Monitoring**
 
-- **9. WHAT WILL I DO WHEN I HIT A ROADBLOCK?**
+- **09. HOW DO I KNOW MY LEARNING IS PROGRESSING SUCCESSFULLY? (QUESTIONS TO ASK DURING LEARNING)**
+    - What evidence do I need to collect in order to evaluate my progress
+    - How will I collect this evidence?
+- **10. WHAT WILL I DO WHEN I HIT A ROADBLOCK?**
     - What will I do if I don’t understand something?
     - What will I do if I get interrupted while learning?
     - What will I do if the learning seems too hard, or boring, or I don’t feel engaged in learning?
-- **10. HOW DO I KNOW MY LEARNING IS PROGRESSING SUCCESSFULLY? (QUESTIONS TO ASK DURING LEARNING)**
-    - What evidence do I need to collect in order to evaluate my progress
-    - How will I collect this evidence?
 - **11. WHO CAN I ASK FOR HELP WHILE LEARNING?**
-    - Family, friends, and teachers?
-    - Other professionals and experienced enthusiasts?
-    - Peers/Advanced Peers?
-    - Those who have failed to solve the problem and gained insights from that?
+    - Family, friends, and teachers? Other professionals and experienced enthusiasts? Peers/Advanced Peers? Those who have failed to solve the problem and gained insights from that?
+
+[Compass and Guide]
+Once you begin your learning journey (you are traversing your map), you will need tools to help you know if you are heading in the right direction. You will also want to interact with guides a long the way that can help you if you get stuck.
 
 **Evaluating**
 
@@ -249,18 +250,11 @@ When setting out to direct your own learning, it can be useful to ask yourself t
     - How did I succeed or fall short of accomplishing my goal?
     - What went well, and what didn’t?
     - How can I improve my efforts, processes, and outcomes in the future?
-- **13. HOW WILL I APPLY AND SHARE MY KNOWLEDGE?**
-    - Developing and giving a presentation?
-    - Writing/publishing something (e.g. book, blog)?
-    - Building and publishing a website or wiki?
-    - Filming and hosting a video tutorial?
-    - Recording and hosting a podcast?
-- **14. WHERE, WHEN, AND HOW ELSE CAN I USE WHAT I’VE LEARNED?**
-    - What parts of my learning (or the whole) can I potentially apply to future problems of a similar nature?
-    - What other ways can I share my learning? (e.g. teaching it to others)
-    - How can retain this knowledge retention and reuse it to support my positive cognitive development?
 
-[Source](https://blog.futurefocusedlearning.net/10-self-directed-learning-questions)
+[Adapted from Source](https://blog.futurefocusedlearning.net/10-self-directed-learning-questions)
+
+[Certificate]
+The critical question to ask yourself when you think that your learning is complete is "How do I know my learning is complete and that I have actually reached my goal?" 
 
 ---
 

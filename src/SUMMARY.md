@@ -3,8 +3,8 @@
 [Optimizing Your Learning](optimizing-your-learning.md)
 [Welcome](optimizing-your-learning/welcome.md)
 [Course Topics](optimizing-your-learning/welcome/course-topics.md)
-[Overview of Course Assessments](optimizing-your-learning/welcome/course-assessments.md)
 [Course Expectations](optimizing-your-learning/welcome/course-expectations.md)
+[Course Assessments](optimizing-your-learning/welcome/course-assessments.md)
 
 
 ## Lessons

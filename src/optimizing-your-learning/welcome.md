@@ -22,7 +22,7 @@ Over the 5 weeks of this course we will explore 4 main thematic areas:
 
 **In week 2**, we will start discussing how to learn effectively, by first exploring the mental and emotional factors that influence learning.
 
-**In week 3**, we will move from mind to body, and explore the bodily factors that influence learning (e.g. stress, food, movement, sleep0 and other critical external factors (e.g. your physical environment, other people).
+**In week 3**, we will move from mind to body, and explore the bodily factors that influence learning (e.g. stress, food, movement, sleep) and other critical external factors (e.g. physical environment, other people).
 
 **In week 4**, we will explore a variety of tactics that you can employ to optimize your learning (e.g. forming habits, improving your focus and memory, getting into the flow state) and specific learning strategies that you can employ before, during, and after learning to make yourself a more effective and efficient learner. 
 

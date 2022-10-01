@@ -38,8 +38,9 @@ An **identity** is a person's **formulation and expression** of their individual
 ## Identity Mapping
 
 > Creating a map of your identity is a way to capture and articulate how you see yourself. You can look clearly at your obvious, surface-level identity and then begin to dig deeper…Your identity map should include the three components…given identity, chosen identity, and core identity.
->
+
 - Kelly Hannum. (2007). Social Identity: Knowing Yourself, Leading Others. Center for Creative Leadership.
+>
 
 ### Given, Chosen, or Core Identities
 
@@ -99,11 +100,3 @@ Do you have any beliefs (either positive or negative) about yourself that are a 
 
 ---
 
-<aside>
-
-
-🤷🏿‍♀️ **So What? How does this section apply to me?**
-
-*[insert text]*
-
-</aside>

@@ -157,12 +157,3 @@ According to Daniel Goleman, who has researched and written extensively on the s
 In the next two sections of this lesson, we will go deeper into developing self-awareness and self-regulation, before ending this week’s lesson content with a discussion on motivation.
 
 ---
-
-<aside>
-
-
-🤷🏿‍♀️ **So What? How does this section apply to me?**
-
-*[insert text]*
-
-</aside>

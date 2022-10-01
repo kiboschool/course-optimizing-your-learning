@@ -1,4 +1,4 @@
-# Course assessments
+# Course Assessments
 
 *Estimated Time: 15 minutes*
 

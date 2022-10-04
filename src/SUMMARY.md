@@ -6,7 +6,7 @@
 [Course Expectations](optimizing-your-learning/welcome/course-expectations.md)
 [Course Assessments](optimizing-your-learning/welcome/course-assessments.md)
 
-
+<!--
 ## Lessons
 
 ### Week 1
@@ -37,7 +37,7 @@
 	- [Final Presentation Milestone 1](optimizing-your-learning/understanding-your-mindsets-and-emotions/final-presentation-milestone-1.md)
 	- [Wrap Up](optimizing-your-learning/understanding-your-mindsets-and-emotions/wrap-up.md)
 
-<!--
+
 
 ### Week 3
 

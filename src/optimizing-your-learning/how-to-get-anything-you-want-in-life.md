@@ -32,9 +32,6 @@ After completing this lesson, you will be able to:
 
 
 
-**⚠️ This week's assignment will require you to spend multiple days planning, completing, and reflecting on a learning activity, so please review the assignment brief [Assignment 1: Individual SDL](/optimizing-your-learning/how-to-get-anything-you-want-in-life/assignment-1-individual-sdl.md) early in the week, to ensure that you have enough time to properly complete the entire assignment.**
-
-
 ## Sections
 
 <aside>
@@ -55,7 +52,7 @@ After completing this lesson, you will be able to:
 
 [1.5 Reflective Practice](/optimizing-your-learning/how-to-get-anything-you-want-in-life/reflective-practice.md)
 
-[Assignment 1: Individual SDL](/optimizing-your-learning/how-to-get-anything-you-want-in-life/assignment-1-individual-sdl.md)
+[Assignment 1: Orientation Reflection](/optimizing-your-learning/how-to-get-anything-you-want-in-life/assignment-1-individual-sdl.md)
 
 [Wrap up](/optimizing-your-learning/how-to-get-anything-you-want-in-life/wrap-up.md)
 

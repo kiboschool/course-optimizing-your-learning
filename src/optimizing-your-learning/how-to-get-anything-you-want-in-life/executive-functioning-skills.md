@@ -139,7 +139,7 @@ Below are some more core Executive Functioning skills that influence your abilit
 <aside>
 
 
-📖 Read the following article about [**Rethinking Executive Function and its Development**](https://www.psychologie.uzh.ch/dam/jcr:3b0aceb7-6994-4aeb-bf3d-2ddf33c27370/Doebel.PerspPsychSci.2020.pdf).
+📖 **Optional:** Read the following article about [**Rethinking Executive Function and its Development**](https://www.psychologie.uzh.ch/dam/jcr:3b0aceb7-6994-4aeb-bf3d-2ddf33c27370/Doebel.PerspPsychSci.2020.pdf).
 
 </aside>
 

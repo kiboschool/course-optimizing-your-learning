@@ -76,7 +76,6 @@ Self-directed learning allows you to take responsibility for your own learning, 
 - Learning Process Savvy
 - Critical Evaluation Skills
 
-<!--
 <aside>
 
 💬 Think about the self-directed learner profile described in the above videos, and write a short Day in the Life essay for a fictional first-year CS student, who is an excellent self-directed learner. What do you think they think, feel, and do on a typical day that demonstrates their self-directed learning skills and traits? 
@@ -86,7 +85,6 @@ Self-directed learning allows you to take responsibility for your own learning, 
 
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/wdj4b2fexusmzyun" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
--->
 
 ---
 
@@ -175,17 +173,20 @@ The table below outlines behaviors that effective self-directed learners exhibit
 [Source](https://www.learningpersonalized.com/holy-trinity-self-direction-self-managing-self-monitoring-self-modifying/)
 
 
-Here is some useful expansions on key terms in the table:
-- Goal Setting - Taking the learning needs one step further, the learner formulates clear goals by asking questions like what will I learn? what will I be able to do once I have completed my learning? etc. In the example, the owner might want to be able to use specific applications or perform some other specific function.
-- Self-Evaluation - After learning strategies are implemented, the learner then evaluates their learning to see how effective the process was. Using the learning goals set as a benchmark, the learner can ascertain how effective their method /the process was and can improve on that subsequently. 
-- Strategic Planning - In order to build upon existing knowledge and ideas, the learner has to determine appropriate resources for learning. Questions such as: will I need to access stored information? Will I need a teacher/facilitator/coach to explain some things to me? among others will come up. 
-- Diagnosing Learning needs - It all starts with questions like: what do I not know? What do I need to learn and why do I want to learn this? In the example above with the new device, the owner wants to be able to use their new device (perhaps a phone in this case) effectively 
-- Determining a learning strategy - Will I learn by reading, watching, or listening to content? Will I learn by engaging in a problem-solving activity that results in the creation of something new? Will I utilize one or a combination of several learning strategies? 
+Here is some useful expansions on some of the key terms in the table:
+- **Diagnosing Learning needs:** It all starts with questions like: what do I not know? What do I need to learn and why do I want to learn this? In the example of the new device at the beginning of this lesson, the learner wants to be able to use their new device (perhaps a phone in this case) effectively. 
+
+- **Goal Setting:** Taking the learning needs one step further, the learner formulates clear goals by asking questions like what will I learn? what will I be able to do once I have completed my learning? etc. In the example, the owner might want to be able to use specific applications or perform some other specific function.
+
+- **Strategic Planning and Determing a Learning Strategy:** In order to build upon existing knowledge and ideas, the learner has to determine appropriate approach to, and resources for, learning. 
+
+- **Self-Evaluation:** After learning strategies are implemented, the learner then evaluates their learning to see how effective the process was. Using their learning goals as a benchmark, the learner can ascertain how effective their learning process was and can subsequently improve on it. 
 
 
 When setting out to direct your own learning, it can be useful to ask yourself the following questions in order to help shape and guide you through the process.
+[Adapted from Source](https://blog.futurefocusedlearning.net/10-self-directed-learning-questions)
 
-**Planning**
+###Planning
 
 - **1. WHAT DO I WANT OR NEED TO LEARN?**
     
@@ -220,12 +221,13 @@ When setting out to direct your own learning, it can be useful to ask yourself t
     - What evidence do I need to collect in order to evaluate my success?
     - How will I collect this evidence?
 
-[Map]
-
 By the end of the planning stage, you should have a strong sense of why what you are learning is important to you, what you wnat to accomplish, how far your current abilities are from that goal, how you plan to close the gap, and how you will know when the gap is closed. You have essentially created the map for your learning, which you can use to drive the rest of the process. 
 
+![Map](./map.jpeg)
 
-**Monitoring**
+
+
+###Monitoring
 
 - **09. HOW DO I KNOW MY LEARNING IS PROGRESSING SUCCESSFULLY? (QUESTIONS TO ASK DURING LEARNING)**
     - What evidence do I need to collect in order to evaluate my progress
@@ -237,10 +239,11 @@ By the end of the planning stage, you should have a strong sense of why what you
 - **11. WHO CAN I ASK FOR HELP WHILE LEARNING?**
     - Family, friends, and teachers? Other professionals and experienced enthusiasts? Peers/Advanced Peers? Those who have failed to solve the problem and gained insights from that?
 
-[Compass and Guide]
 Once you begin your learning journey (you are traversing your map), you will need tools to help you know if you are heading in the right direction. You will also want to interact with guides a long the way that can help you if you get stuck.
 
-**Evaluating**
+![Compas](./compas.jpeg)
+
+##Evaluating
 
 - **12. HOW WILL I KNOW MY LEARNING WAS SUCCESSFUL? (QUESTIONS TO ASK AFTER LEARNING)**
     - What were the results of my efforts?
@@ -248,10 +251,10 @@ Once you begin your learning journey (you are traversing your map), you will nee
     - What went well, and what didn’t?
     - How can I improve my efforts, processes, and outcomes in the future?
 
-[Adapted from Source](https://blog.futurefocusedlearning.net/10-self-directed-learning-questions)
 
-[Certificate]
 The critical question to ask yourself when you think that your learning is complete is "How do I know my learning is complete and that I have actually reached my goal?" 
+
+![Prize](./prize.jpeg)
 
 
 <aside>

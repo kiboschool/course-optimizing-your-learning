@@ -38,5 +38,5 @@ Finally, in week 4 we will get very tactical about ways to optimize your learnin
 
 There are two final assessments for this course. 
 1) A final essay, which will require you to create a personal learning charter.
-2) A final group presentation, which will require you to carry out a group self-directed learning project over the course of the entire 5 weeks, and submit a video presentation where you give a short lesson on your topic to your classmates. More details on both of these assessment can be found on the [Course Assessments](/optimizing-your-learning/welcome/course-assessments.md) page.
+2) A final group presentation, which will require you to carry out a group self-directed learning project over the course of the entire 5 weeks, and submit a video presentation where you give a short lesson on your topic to your classmates. More details on both of these assessments can be found on the [Course Assessments](/optimizing-your-learning/welcome/course-assessments.md) page.
 

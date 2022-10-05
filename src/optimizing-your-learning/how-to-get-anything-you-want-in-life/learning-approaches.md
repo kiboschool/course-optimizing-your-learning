@@ -38,7 +38,7 @@ The VARK Learning Theory establishes that there are 4 main ways that people can 
 
 [Source](https://www.youtube.com/watch?v=EbqeQY0V78k), [Source](https://www.verywellmind.com/vark-learning-styles-2795156)
 
-At some point, you have likely learned effectively in most of the above formats. And, as the first video in this section explains, no proof has been found to support the conclusion that individual learning styles make learning more efficient or effective. But what do some of the proponents of learning styles think?
+At some point, you have likely learned effectively in most of the above formats. And, as the first video in this section explains, no proof has been found to support the conclusion that individual learning styles make learning more efficient or effective. So how should we use the idea of learning styles to improve the way that we learn?
 
 
 <aside>

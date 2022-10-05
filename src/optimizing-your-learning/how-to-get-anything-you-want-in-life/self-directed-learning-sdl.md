@@ -54,7 +54,7 @@ Self-directed learning allows you to take responsibility for your own learning, 
 <aside>
 
 
-📺 Watch this video to learn more about the characteristics of a self-directed learner. You will notice that a lot of the characteristics discussed in the video are similar to the executive functioning skills discussed in the previous section.
+📺 Watch this video to learn more about the characteristics of a self-directed learner. You will notice that a lot of the characteristics discussed in the video are similar to the executive functioning skills discussed in the earlier section.
 
 </aside>
 

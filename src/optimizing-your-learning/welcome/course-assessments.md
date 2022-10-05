@@ -12,7 +12,7 @@
  
 During weeks 1, 2, 3, and 4. you will have a weekly assignment that will be due on the Monday of the following week. The weekly assignments are:
 
-Week 1 - Individual SDL (Due date: October 17th, 2022)
+Week 1 - Orientation Reflection (Due date: October 17th, 2022)
 
 Week 2 - Limiting Beliefs Plan (Due date: October 24th, 2022)
 
@@ -35,12 +35,12 @@ Learn to plan and plan to learn.
 One of your final assessments for this course will be the creation of a personal learning charter. This learning charter will inlcude the following information: 
 
 - Who You Are
-- Your Learning Beliefs [What are your key beliefs about learning]
-- Your Learning Motivations and Interests [What drives you to learn]
-- Your Learning Goals [What are some knowledge and skills that you wish to acquire in the next 6 months]
-- Your Strengths and Weaknesses Analysis
-- Your Learning Tool System  [The learnign strategies and approaches that you want to employ to achieve your goals]
-- Your Learning Metrics and Milestones system [How you will measure your learning progress]
+- Your Learning Beliefs
+- Your Learning Motivations and Interests
+- Your Learning Goals
+- Your Strengths and Weaknesses
+- Your Learning Tool and Resource System 
+- Your Learning Metrics and Milestones System
 
 The total word count for this essay is 1000-1500 words, and your grade on this assessment counts towards 25% of your final grade for this course.
 
@@ -52,9 +52,9 @@ The total word count for this essay is 1000-1500 words, and your grade on this a
 "People learn the most when teaching others." - Peter F. Drucker
 </aside>
 
-Four your second final assessment, you will work in groups of 4-5 students to carry out a self-directed learning project. Your goal is to select a topic that you will learn about, create a learning plan for your group, implement the learning plan, and then submit a 10 minute video lesson teaching the topic to the rest of your classmates. 
+For your second final assessment, you will work in groups of 4-5 students to carry out a self-directed learning project. Your goal is to select a topic that you will learn about, create a learning plan for your group, implement the learning plan, and then submit a 10 minute video lesson teaching the topic to the rest of your classmates. 
 
-You will be requried to work on this project throughout the 5 weeks of the course, and there are some milestones that you will need to reach during weeks 2, 3, and 4.
+You will be required to work on this project throughout the 5 weeks of the course, and there are some milestones that you will need to reach during weeks 2, 3, and 4.
 
 - Week 2: Milestone 1 -  Determine your topic, learning goal, and create a group learning plan that distributes responsibilities to different group members.
 

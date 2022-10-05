@@ -120,7 +120,7 @@ We are accustomed to learning about different subjects or developing new skills 
 
 </aside>
 
-In the video, Kwik asserts that meta-learning (i.e. thinking about how to learn) is a vital skill because if you know how to learn, then you will be able to learn anything you want or need to learn. You will be able to decide what you want to accomplish in the future and have the ability to learn whatever skills, knowledge, and mindsets that are required to help you transform from your current state into that future state. 
+In the video, Kwik asserts that meta-learning (i.e. thinking about how to learn) is a vital skill because if you know how to learn, then you will be able to learn anything you want or need to learn. You will be able to decide what you want to accomplish in the future and have the ability to learn the skills, knowledge, and mindsets that are required to help you transform from your current state into that future state. 
 
 This ability is critical in a field like Computer Science that is in constant evolution. For example, new programming languages and frameworks are frequently developed. And as a technical professional, constant learning is critical for keeping up and continually delivering cutting-edge work. 
 

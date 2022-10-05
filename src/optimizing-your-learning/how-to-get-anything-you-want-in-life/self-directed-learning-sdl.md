@@ -60,9 +60,35 @@ Self-directed learning allows you to take responsibility for your own learning, 
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/F4UW_2ZgNHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+
+**Summmary of the areas mentioned in the video:**
+- Disciplined, Methodical
+- Logical, Analytical
+- Reflective and Self-Aware
+- Curious and Open
+- Flexible
+- Interdependently Competent
+- Persistent and Responsible
+- Creative
+- Confidence
+- Self-sufficient
+- Information Seeker
+- Learning Process Savvy
+- Critical Evaluation Skills
+
+
+<aside>
+
+💬 Think about the self-directed learner profile described in the above videos, and write a short Day in the Life essay for a fictional first-year CS student, who is an excellent self-directed learner. What do you think they think, feel, and do on a typical day that demonstrates their self-directed learning skills and traits? 
+**Add your description to the padlet below.**
+
+</aside>
+
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/wdj4b2fexusmzyun" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
+
 ---
 
-# Why embrace Self-Directed Learning?
+# Why Embrace Self-Directed Learning?
 
 <aside>
 
@@ -75,6 +101,7 @@ Self-directed learning allows you to take responsibility for your own learning, 
 
 
 <aside>
+    
 
 
 📺 Watch this video from David (a Kibo mentor and Software Engineer at Verkada) where he talks about self-driven learning and curiosity as key skills that he looks for when hiring software engineers.

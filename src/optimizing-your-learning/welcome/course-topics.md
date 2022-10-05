@@ -12,6 +12,8 @@ Learning is a activity that defines human development. The fact that you can wal
 
 *Topics covered include: How Learning Happens, Executive Functioning Skills, Learning Approaches, Self-Directed Learning, and Reflective Practice.*
 
+![emotions](./emotions.jpeg)
+
 **Week 2 - Understanding Your Mindsets and Emotions**
 
 In week 1, we explore the cognitive side of learning, but effective learning isn't only driven by cognition. Therefore, during the 2nd week of the course, we will examine the impact that emotions and mindsets have on your learning. We will start our journey by delving into how our identities can impact (positively or negatively) what we think we are capable of, and how these identities can create beliefs that limit you from achieving your goals. We will then explore some other beliefs and behaviors that can sabotage your learning, before learning about a powerful mindset that can counteract these challenges and supercharge your abilities. Finally, we will dive into a framework for understanding emotional intelligence, and discuss ways to improve your self-awareness, self-regulation, and motivation.

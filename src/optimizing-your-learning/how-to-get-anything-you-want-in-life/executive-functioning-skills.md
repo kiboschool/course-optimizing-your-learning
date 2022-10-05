@@ -29,7 +29,7 @@ A set of cognitive processes that help us self-regulate so we can effectively pl
 
 - **Flexible Attention:** "Helps us to sustain or shift attention in response to different demands or to apply different rules in different settings."
 
-- **Working Memory:**"Governs our ability to retain and manipulate distinct pieces of information over short periods of time."
+- **Working Memory:** "Governs our ability to retain and manipulate distinct pieces of information over short periods of time."
 
 - **Inhibitory Control:** "Enables us to set priorities and resist impulsive actions or responses."
 
@@ -55,6 +55,18 @@ A set of cognitive processes that help us self-regulate so we can effectively pl
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/Qgl7DZz1p7o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/two4uoi69zw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+
+## Reflection: Executive Functioning Skills
+
+<aside>
+
+
+🪞 **In the relevant column, rate your current competence in each of the 3 executive function skills, and describe a situation when your abilities in that skill have either helped or hindered you in achieving in a goal. Rating pptions: Poor, Average, Good, Excellent. And provide an example of **
+
+</aside>
+
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/iniycvjq7kyewhoj" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
 ---
 
@@ -100,7 +112,7 @@ Below are some more core Executive Functioning skills that influence your abilit
 
 </aside>
 
-## Reflection: Executive Functioning Skills
+## Reflection: Executive Functioning Skills for Learning
 
 <aside>
 

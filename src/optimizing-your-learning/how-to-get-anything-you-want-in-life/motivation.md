@@ -53,7 +53,7 @@ Peter C. Brown, Henry L. Roediger III, Mark A. McDaniel
 </aside>
   
 <aside>
-“A process that leads to change, which occurs as a result of *experience* and increases the potential of improved performance and future learning.”
+“A process that leads to change, which occurs as a result of experience and increases the potential of improved performance and future learning.”
 Susan Ambrose
 </aside>
   

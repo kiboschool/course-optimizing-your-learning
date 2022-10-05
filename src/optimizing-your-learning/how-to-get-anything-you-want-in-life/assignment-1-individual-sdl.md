@@ -1,4 +1,4 @@
-# Assignment 1 - Individual SDL
+# Assignment 1 - Orientation Reflection
 ---
 
 <aside>
@@ -12,6 +12,7 @@
 
 ## Brief
 
+<!--
 This week's assignment will require you to use the self-directed learning process to learn about a topic that interests you, and reflect on your experience.
 
 To complete the assignment you will need to do the following tasks:
@@ -29,6 +30,8 @@ To complete the assignment you will need to do the following tasks:
 ## Resources
 
 [Self-Directed Learning Plan [TBA]](/optimizing-your-learning/how-to-get-anything-you-want-in-life/assignment-1-individual-sdl/self-directed-learning-plan-tba.md)
+
+-->
 
 ## Submission
 

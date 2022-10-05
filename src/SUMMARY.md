@@ -6,7 +6,7 @@
 [Course Expectations](optimizing-your-learning/welcome/course-expectations.md)
 [Course Assessments](optimizing-your-learning/welcome/course-assessments.md)
 
-<!--
+
 ## Lessons
 
 ### Week 1
@@ -21,6 +21,7 @@
 	- [Wrap Up](optimizing-your-learning/how-to-get-anything-you-want-in-life/wrap-up.md)
 
 
+<!--
 
 ### Week 2
 

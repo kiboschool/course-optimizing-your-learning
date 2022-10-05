@@ -66,4 +66,17 @@ During the live classes and throughout the online lessons, you will submit short
 - Go to [https://padlet.com/auth/signup](https://padlet.com/auth/signup) and Sign Up for a Padlet account using your Kibo School email address.
 - Since you have already created a Kibo School Google Account, you can click "Sign Up with Google" and follow the instructions to link your Padlet account to your Google account. This will mean that you don't have to create a new username and password for the Padlet account.
 
+### Optional Tools
+
+This course will require you to complete a lot of reading and writing. There are a number of Text-to-Speech tools that can support you with reading large amounts of text, and a number of Speech-to-Text tools that can support you with transcribing your words into written format. Below is one recommendation in each of these categories. However, you are encouraged to do your own research to find additional tools that might better meet your specific needs.
+
+#### Speech-to-Text: Google Docs Voice Typing
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/LIz9UWi5z4w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+#### Text-to-Speech: Natural Reader 
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/LQRi6d95AD0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+
 ---

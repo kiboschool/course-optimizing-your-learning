@@ -62,7 +62,7 @@ A set of cognitive processes that help us self-regulate so we can effectively pl
 <aside>
 
 
-🪞 **In the relevant column, rate your current competence in each of the 3 executive function skills, and describe a situation when your abilities in that skill have either helped or hindered you in achieving in a goal. Rating pptions: Poor, Average, Good, Excellent. And provide an example of **
+🪞 In the relevant column, rate your current competence in each of the 3 executive function skills, and describe a situation when your abilities in that skill have either helped or hindered you in achieving in a goal. Rating pptions: Poor, Average, Good, Excellent.
 
 </aside>
 

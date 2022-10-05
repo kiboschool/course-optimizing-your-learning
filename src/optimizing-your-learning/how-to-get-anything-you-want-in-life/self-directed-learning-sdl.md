@@ -76,7 +76,7 @@ Self-directed learning allows you to take responsibility for your own learning, 
 - Learning Process Savvy
 - Critical Evaluation Skills
 
-
+<!--
 <aside>
 
 💬 Think about the self-directed learner profile described in the above videos, and write a short Day in the Life essay for a fictional first-year CS student, who is an excellent self-directed learner. What do you think they think, feel, and do on a typical day that demonstrates their self-directed learning skills and traits? 
@@ -85,6 +85,8 @@ Self-directed learning allows you to take responsibility for your own learning, 
 </aside>
 
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/wdj4b2fexusmzyun" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
+
+-->
 
 ---
 

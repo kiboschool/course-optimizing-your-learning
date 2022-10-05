@@ -26,6 +26,7 @@ So far in Lesson 1, we have learnt about how learning happens in the brain, and 
 
 The VARK Learning Theory establishes that there are 4 main ways that people can learn (sometimes called “learning styles”), which are as follows:
 
+
 | Learning Approach | Description | Questions to Consider | Learning Tools |
 | --- | --- | --- | --- |
 | Visual | Preference for consuming information in a visual format. This might include photos, charts, illustrations, videos, and other formats which can be appreciated by the eyes. | Are art, beauty, and aesthetics important to you? Does visualizing information in your mind help you remember it better? Do you have to see information in order to remember it? Do you pay close attention to body language? | Watch videos; Map and diagram; Detect patterns; Draw ideas out; Write notes in different fonts, colors, and formats |

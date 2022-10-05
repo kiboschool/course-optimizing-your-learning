@@ -72,7 +72,7 @@ When you are struggling to learn a new skill or understand a new piece of knowle
 
 
 
-Remember, it might be difficult at the start but with the strengthening of the neural pathways in your brain through practice, you will increase your comfort and mastery of the subject.
+Remember, it might be difficult at the start, but with the strengthening of the neural pathways in your brain through practice, you will increase your comfort and mastery of the subject.
 
 <aside>
 

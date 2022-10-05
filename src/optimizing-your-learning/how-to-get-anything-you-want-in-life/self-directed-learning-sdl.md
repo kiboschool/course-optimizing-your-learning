@@ -42,7 +42,7 @@ The ability to set goals, plan for achievement, independently manage time and ef
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/W0l958z9JUo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-Self-directed learning allows you to take responsibility for your own learning, which results in greater ownership and autonomy. In self-directed learning, the teacher acts as a guide/facilitator to support you and give you feedback on your learning process and learning journey.
+Self-directed learning allows you to take responsibility for your own learning, which results in greater ownership and autonomy. In self-directed learning, the teacher acts as a guide/facilitator/consultant to support you and give you feedback during your learning journey.
 
 <aside>
 

@@ -15,6 +15,13 @@ So far in Lesson 1, we have learnt about how learning happens in the brain, and 
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/NvM4mnEIxuQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+<aside>
+
+📖 Read the following article on the [**Uses, Misuses, and Validity of Learning Styles**](https://advances.asee.org/wp-content/uploads/vol08/issue01/Papers/AEE-Pathways-Felder.pdf).
+
+</aside>
+
+
 ## VARK Learning Theory
 
 The VARK Learning Theory establishes that there are 4 main ways that people can learn (sometimes called “learning styles”), which are as follows:
@@ -30,12 +37,6 @@ The VARK Learning Theory establishes that there are 4 main ways that people can 
 
 At some point, you have likely learned effectively in most of the above formats. And, as the first video in this section explains, no proof has been found to support the conclusion that individual learning styles make learning more efficient or effective. But what do some of the proponents of learning styles think?
 
-<aside>
-
-
-📖 Read the following article on the [**Uses, Misuses, and Validity of Learning Styles**](https://advances.asee.org/wp-content/uploads/vol08/issue01/Papers/AEE-Pathways-Felder.pdf).
-
-</aside>
 
 <aside>
 

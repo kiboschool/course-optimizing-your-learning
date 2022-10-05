@@ -32,7 +32,7 @@ If you have any questions, please be sure to post them in the #help-oyl channel 
 
 ## Academic Integrity
 
-This course is run in accordance with Kibo School's Academic Honesty and Integrity Policy, which can also be found in the [Catalog](https://bit.ly/ks-catalog-oct2022). We have a zero tolerance policy towards all forms of academic misconduct, including cheating, plagiarism, and fabircation. If you are found to be in breach of the Academic Honesty and Integrity policy in any of the assignments that you submit, you will be subject to disciplinary action. 
+This course is run in accordance with Kibo School's Academic Honesty and Integrity Policy, which can also be found in the [Catalog](https://bit.ly/ks-catalog-oct2022). We have a zero tolerance policy towards all forms of academic misconduct, including cheating, plagiarism, and fabrication. If you are found to be in breach of the Academic Honesty and Integrity policy in any of the assignments that you submit, you will be subject to disciplinary action. 
 
 Note that assisting another student in the violation of this policy also constitutes a violation of academic integrity (e.g. letting someone copy your assignment counts as a violation for both the person that copied the work and the original owner of the copied work).
 

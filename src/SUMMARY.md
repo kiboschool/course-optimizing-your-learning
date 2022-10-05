@@ -17,7 +17,7 @@
 	- [Learning Approaches](optimizing-your-learning/how-to-get-anything-you-want-in-life/learning-approaches.md)
 	- [Self Directed Learning](optimizing-your-learning/how-to-get-anything-you-want-in-life/self-directed-learning-sdl.md)
 	- [Reflective Practice](optimizing-your-learning/how-to-get-anything-you-want-in-life/reflective-practice.md)
-	- [Assignment 1 - Individual SDL](optimizing-your-learning/how-to-get-anything-you-want-in-life/assignment-1-individual-sdl.md)
+	- [Assignment 1 - Orientation Reflection](optimizing-your-learning/how-to-get-anything-you-want-in-life/assignment-1-individual-sdl.md)
 	- [Wrap Up](optimizing-your-learning/how-to-get-anything-you-want-in-life/wrap-up.md)
 
 

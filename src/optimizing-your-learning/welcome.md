@@ -39,11 +39,8 @@ Live classes will be held on Tuesdays. You only need to attend **one** of these 
   - Class A: 3:30-5:00 pm GMT.
   - Class B: 5:30-7:00pm GMT.
 
-Office hours will be held three times per week. These are optional chances to get additional support from the instructor.
-  - Monday 4-5 pm GMT
-  - Wednesday 6-7 pm GMT
-  - Thursday 6-7 pm GMT
-
+Office hours will be held 5-7pm on Thursdays. This is optional chances to get additional support from the instructor.
+  
 <aside>
 
 

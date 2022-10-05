@@ -23,7 +23,7 @@ Self-directed learning is a learning process where you take responsibility to in
 
 ---
 
-# What is Self-directed Learning?
+# What is Self-Directed Learning?
 
 <aside>
 
@@ -47,7 +47,7 @@ Self-directed learning allows you to take responsibility for your own learning, 
 <aside>
 
 
-📖 Read the following article on [**self-directed learning skills in university students**](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.02324/full).
+📖 **Optional** Read the following article on [**self-directed learning skills in university students**](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.02324/full).
 
 </aside>
 

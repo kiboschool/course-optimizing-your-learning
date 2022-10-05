@@ -4,7 +4,7 @@
 
 ---
 
-So far in Lesson 1, we have discussed why learning is important and what actually occurs when you learn. In the remaining sections of this week’s lesson, we will discuss some skills that are useful for learning, starting with Executive Functioning Skills, which govern our cognitive ability to focus our attention and learn.
+So far in Lesson 1, we have discussed why learning is important and what actually occurs when you learn. In the remaining sections of this week’s lesson, we will discuss some skills that are useful for learning. We will start with Executive Functioning Skills, which govern our cognitive ability to focus our attention and learn.
 
 # What are Executive Functioning Skills?
 

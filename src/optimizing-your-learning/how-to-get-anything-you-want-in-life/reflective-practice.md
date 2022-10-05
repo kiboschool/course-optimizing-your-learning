@@ -124,12 +124,12 @@ Steps of Gibbs’ Reflective Cycle:
 
 ---
 
-## Reflect: Learnings from Orientation Week
+## Reflect: Reflecting on Mistakes and Failiure
 
 <aside>
 
 
-🪞 Select one of the 3 reflection models presented above, and use its steps to reflect on your experience from the Kibo Orientation week.
+🪞 Think about the last time you made a mistake or failed at some thing. Select one of the 3 reflection models presented in this section, and use its steps to reflect on your experience.
 
 </aside>
 

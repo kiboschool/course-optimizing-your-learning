@@ -1,6 +1,6 @@
 # How Learning Happens
 
-*Estimated Time: 1.5 hours*
+*Estimated Time: 1 hour*
 
 ---
 

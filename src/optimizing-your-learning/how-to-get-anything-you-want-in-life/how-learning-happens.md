@@ -68,7 +68,7 @@ Most people describe learning to code as a difficult process. This is because th
 
 So what does this mean for you as you embark on your computer science journey?
 
-When you are struggling to learn a new skill or understand a new piece of knowledge, remember that this is how the brain works in the process of learning anything. <span style="color: purple;"> Everything is hard until it becomes easy.</span>  So be confident in your learning, trust your brain, practice the skill to develop your neural pathways, and be patient with yourself as your neural pathways develop.
+When you are struggling to learn a new skill or understand a new piece of knowledge, remember that this is how the brain works in the process of learning anything. **Everything is hard until it becomes easy.**  So be confident in your learning, trust your brain, practice the skill to develop your neural pathways, and be patient with yourself as your neural pathways develop.
 
 
 

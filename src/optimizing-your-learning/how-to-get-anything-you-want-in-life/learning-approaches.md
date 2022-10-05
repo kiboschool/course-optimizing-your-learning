@@ -26,8 +26,7 @@ So far in Lesson 1, we have learnt about how learning happens in the brain, and 
 
 The VARK Learning Theory establishes that there are 4 main ways that people can learn (sometimes called “learning styles”), which are as follows:
 
-
-
+<p></p>
 
 | Learning Approach | Description | Questions to Consider | Learning Tools |
 | --- | --- | --- | --- |

@@ -26,6 +26,8 @@ After spending the first two weeks of this course focused primarily on the brain
 
 *Topics covered include: Managing Stress, Breathing, and Mindfullness, Food and Movement, Sleep, Time Management, Physical Environment, and Learning With Others.*
 
+![toolkit](./toolkit.jpeg)
+
 **Week 4 - Building Your Learning Toolkit**
 
 Finally, in week 4 we will get very tactical about ways to optimize your learning. We will start the week by discussing how you can use habits to make your learning process more automatic and effortless, then we will explore ways to improve your memory, focus, and attention. Next we will learn how to enter a flow state while learning so that it can be more enjoyable and efficient. And finally you will be introduced to numerous strategies to improve your learning during the different steps of the self-directed learning process that you are first introduced to in week 1. 

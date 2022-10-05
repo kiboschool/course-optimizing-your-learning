@@ -1,6 +1,6 @@
 # How Learning Happens
 
-*Estimated Time: 1 hour*
+*Estimated Time: 1.5 hours*
 
 ---
 
@@ -55,7 +55,7 @@ The ability of your brain to change, by creating, strengthening, weakening, or d
 <aside>
 
 
-🪞 Think about something that you are really good at, that you can currently do with very little effort. What did it feel like when you first tried to do this thing?
+🪞 Think about something that you are really good at; something that you can currently do with very little effort. What did it feel like when you first tried to do this thing?
 **Post your answer in the padlet bellow.**
 
 </aside>
@@ -68,7 +68,7 @@ Most people describe learning to code as a difficult process. This is because th
 
 So what does this mean for you as you embark on your computer science journey?
 
-When you a struggling to learn a new skill or understand a new piece of knowledge, remember that this is how the brain works in the process of learning anything. <span style="color: purple;"> Everything is hard until it becomes easy.</span>  So be confident in your learning, trust your brain, practice the skill to develop your neural pathways, and be patient with yourself as your neural pathways develop.
+When you are struggling to learn a new skill or understand a new piece of knowledge, remember that this is how the brain works in the process of learning anything. <span style="color: purple;"> Everything is hard until it becomes easy.</span>  So be confident in your learning, trust your brain, practice the skill to develop your neural pathways, and be patient with yourself as your neural pathways develop.
 
 
 

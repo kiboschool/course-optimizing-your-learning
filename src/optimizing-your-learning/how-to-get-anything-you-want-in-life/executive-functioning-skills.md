@@ -75,7 +75,7 @@ A set of cognitive processes that help us self-regulate so we can effectively pl
 <aside>
 
 
-📖 Read the following article on [**the relationship between college students’ executive functioning and study strategies**](https://files.eric.ed.gov/fulltext/EJ742215.pdf).
+📖 **Optional:** Read the following article on [**the relationship between college students’ executive functioning and study strategies**](https://files.eric.ed.gov/fulltext/EJ742215.pdf).
 
 </aside>
 

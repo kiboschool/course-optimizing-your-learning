@@ -32,8 +32,7 @@ By the end of this course, you will be able to:
 
 [Week 0: Welcome!](/optimizing-your-learning/welcome.md)
 
-
-[Week 1 - How to Get Anything You Want in Life](/optimizing-your-learning/how-to-get-anything-you-want-in-life.md)
+[Week 1 - How to Get Anything You Want in Life] <!-- (/optimizing-your-learning/how-to-get-anything-you-want-in-life.md) -->
 
 [Week 2 - Understanding Your Mindsets and Emotions] <!-- (/optimizing-your-learning/understanding-your-mindsets-and-emotions.md) -->
 

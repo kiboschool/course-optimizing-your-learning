@@ -27,17 +27,11 @@ A set of cognitive processes that help us self-regulate so we can effectively pl
 
 ## Brain functions that support executive functioning
 
-- **Inhibitory Control**
+- **Flexible Attention:** "Helps us to sustain or shift attention in response to different demands or to apply different rules in different settings."
 
-    This helps us to sustain or shift attention in response to different demands or to apply different rules in different settings.
+- **Working Memory:**"Governs our ability to retain and manipulate distinct pieces of information over short periods of time."
 
-- **Working Memory**
-
-    This governs our ability to retain and manipulate distinct pieces of information over short periods of time.
-
-- **Flexible Attention**
-
-    This enables us to set priorities and resist impulsive actions or responses.
+- **Inhibitory Control:** "Enables us to set priorities and resist impulsive actions or responses."
 
 
 [Source](https://developingchild.harvard.edu/science/key-concepts/executive-function/#:~:text=Executive%20function%20and%20self%2Dregulation%20skills%20depend%20on%20three%20types,in%20coordination%20with%20each%20other.)

@@ -24,7 +24,7 @@ Unless otherwise noted, the general requirement for participation and academic e
 
 For this course specifically, you are expected to engage in the online discussion and reflection questions and activities that are embedded throughout the online lessons. 
 
-You are also expected to attend the weekly 90 minute live class. If you are unable to attend the live class due, you are required to notify the instructor at least 24 hours in advance of the live class that you will be missing, and you will be provided with an additional assignment to make up for the live class that you will not be attending. 
+You are also expected to attend the weekly 90 minute live class. If you are unable to attend the live class, you are required to notify the instructor at least 24 hours in advance of the live class that you will be missing, and you will be provided with an additional assignment to make up for the live class that you will not be attending. 
 
 If you have any questions, please be sure to post them in the #help-oyl channel in Discord, and the instructor will be able to answer your question there.
 

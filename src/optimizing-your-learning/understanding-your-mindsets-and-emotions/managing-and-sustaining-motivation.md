@@ -1,4 +1,4 @@
-# Managing and sustaining motivation
+# Managing and Sustaining Motivation
 
 *Estimated Time: 30 minutes*
 
@@ -25,7 +25,6 @@ If you have done this activity before or thought about it before, the answers mi
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/eNqJYIns4Rk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-Alternate video: <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/9hdSLiHaJz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <aside>
 
@@ -72,7 +71,9 @@ Daniel Pink captures the components of intrinsic motivation as:
 - **Mastery**: The desire to get better at something that matters
 - **Purpose**: The yearning to do what we do in the service of something larger than ourselves
 
-## How to maintain motivation in learning
+---
+
+## How to Maintain Motivation in Learning
 
 <aside>
 
@@ -81,7 +82,8 @@ Daniel Pink captures the components of intrinsic motivation as:
 
 </aside>
 
-[https://www.youtube.com/watch?v=M1Qz5Wow-lk](https://www.youtube.com/watch?v=M1Qz5Wow-lk)
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/M1Qz5Wow-lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 
 Self-motivation is the ability to find and maintain a cause that drives you towards action. In learning, motivation enables us to take charge of our own learning and to sustain our attention and performance. Here are some more ways to maintain motivation in learning which revolve around the 3 factors mentioned by Daniel Pink above (autonomy, mastery and purpose):
 

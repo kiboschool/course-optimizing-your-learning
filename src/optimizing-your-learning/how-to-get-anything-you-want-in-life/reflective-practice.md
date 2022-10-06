@@ -7,7 +7,7 @@
 <aside>
 
 
-🗣️ **“We do not learn from experience...we learn from reflecting on experience.”**
+🗣️ “We do not learn from experience...we learn from reflecting on experience.”
 - John Dewey
 
 </aside>
@@ -62,8 +62,8 @@ The conscious examination of past experiences, thoughts, and ways of doing thing
 Steps of What? So What? Now What? Model:
 
 - **What? - D**escribe the situation you want to learn from. Identify the facts and feelings of the situation.
-- **So What?** Extract the meaning of what you experienced, question what knowledge you and others had in the situation, and what knowledge could help you make sense of the situation.
-- **Now what?** - c**reate an action plan for the future based on the previous questions.
+- **So What?** - Extract the meaning of what you experienced, question what knowledge you and others had in the situation, and what knowledge could help you make sense of the situation.
+- **Now what?** - Create an action plan for the future based on the previous questions.
 
 <aside>
 
@@ -86,16 +86,24 @@ Steps of What? So What? Now What? Model:
 
 Steps of the 5R framework:
 
-- **Reporting** of the context of the experience
-- **Responding** to the experience (observations, feelings, thoughts, etc.)
-- **Relating** the experience to knowledge and skills you already have
-- **Reasoning** about the significant factors/theory to explain the experience
-- **Reconstructing** your practice by planning future actions for a similar experience
+- **Reporting** 
+- **Responding**
+- **Relating** 
+- **Reasoning**
+- **Reconstructing**
 
 
 ---
 
 ## Gibbs’ Reflective Cycle
+
+<aside>
+
+
+🗣️ "It is not sufficient simply to have an experience in order to learn. Without reflecting upon this experience it may quickly be forgotten, or its learning potential lost. It is from the feelings and thoughts emerging from this reflection that generalisations or concepts can be generated and it is generalisations that allow new situations to be tackled effectively."
+- Gibbs
+
+</aside>
 
 <aside>
 
@@ -108,12 +116,12 @@ Steps of the 5R framework:
 
 Steps of Gibbs’ Reflective Cycle:
 
-- **Description** of the experience
-- **Feelings** and thoughts about the experience
-- **Evaluation** of the experience, both good and bad
-- **Analysis** to make sense of the situation
-- **Conclusion** about what you learned and what you could have done differently
-- **Action plan** for how you would deal with similar situations in the future, or general changes you might find appropriate.
+- **Description**
+- **Feelings**
+- **Evaluation**
+- **Analysis**
+- **Conclusion** 
+- **Action plan**
 
 <aside>
 

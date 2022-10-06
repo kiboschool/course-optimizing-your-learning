@@ -12,7 +12,7 @@
 
 ## Brief
 
-Use the Gibbs' Reflective Cycle from section 1.6 Reflective Practice, and write a reflection about your experience during Kibo's Orientation Week. Be sure to include all five steps: Description, Feelings, Evaluation, Analysis, Conclusion, and Action Plan.
+Use the Gibbs' Reflective Cycle from section 1.6 Reflective Practice, and write a reflection about your experience during Kibo's Orientation Week. Be sure to include all six steps: Description, Feelings, Evaluation, Analysis, Conclusion, and Action Plan.
 
 <!--
 This week's assignment will require you to use the self-directed learning process to learn about a topic that interests you, and reflect on your experience.

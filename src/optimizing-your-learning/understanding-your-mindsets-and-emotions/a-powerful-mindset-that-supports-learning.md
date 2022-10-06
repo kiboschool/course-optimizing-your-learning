@@ -7,8 +7,8 @@
 <aside>
 
 
-🗣 **“No matter what your ability is, effort is what ignites that ability and turns it into accomplishment.”**
-- *Carol Dweck*
+🗣 “No matter what your ability is, effort is what ignites that ability and turns it into accomplishment.”
+- Carol Dweck
 
 </aside>
 
@@ -28,6 +28,9 @@ When you enter a mindset, you enter a new world. In one world—the world of fix
 
 <div data-tf-widget="sUHVc8JG" data-tf-iframe-props="title=Mindset Self-Assessment" data-tf-medium="snippet" style="width:100%;height:400px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
 
+</aside>
+
+<aside>
 
 📺 Watch the following video on the most powerful mindset for success
 

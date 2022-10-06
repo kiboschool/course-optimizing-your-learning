@@ -7,7 +7,7 @@
 <aside>
 
 
-🗣 **“There is no separation of mind and emotions; emotions, thinking, and learning is all linked.”** 
+🗣 There is no separation of mind and emotions; emotions, thinking, and learning is all linked. 
 - Eric Jensen
 
 </aside>
@@ -41,6 +41,8 @@ When you hit roadblocks like this (and there will be plenty of roadblocks in you
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/0Xu87heoGsI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
+
+
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/xNY0AAUtH3g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
@@ -71,7 +73,7 @@ From this video, we learned that the quality of our learning is dependent on bot
 
 <aside>
 
-We are not necessarily thinking machines. We are feeling machines that think." Antonio Damasio
+We are not necessarily thinking machines. We are feeling machines that think. - Antonio Damasio
 
 </aside>
 

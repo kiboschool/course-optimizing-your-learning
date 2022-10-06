@@ -1,6 +1,6 @@
 # Managing Your Learning Context
 
-E*stimated Time: xx hours*
+E*stimated Time: 14 hours*
 
 ---
 
@@ -56,6 +56,6 @@ After completing this lesson, you will be able to:
 
 [Final Presentation - Milestone 2](/optimizing-your-learning/managing-your-learning-context/final-presentation-milestone-2.md)
 
-[Wrap up](/optimizing-your-learning/managing-your-learning-context/wrap-up.md)
+<!-- [Wrap up](/optimizing-your-learning/managing-your-learning-context/wrap-up.md) -->
 
 ---

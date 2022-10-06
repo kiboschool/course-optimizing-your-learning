@@ -1,4 +1,4 @@
-# Assignment 1 - Orientation Reflection
+# Assignment 1 - Orientation Reflection Essay
 ---
 
 <aside>
@@ -11,6 +11,8 @@
 **Due date: October 17th, 2022**
 
 ## Brief
+
+Use the Gibbs' Reflective Cycle from section 1.6 Reflective Practice, and write a reflection about your experience during Kibo's Orientation Week. Be sure to include all five steps: Description, Feelings, Evaluation, Analysis, Conclusion, and Action Plan.
 
 <!--
 This week's assignment will require you to use the self-directed learning process to learn about a topic that interests you, and reflect on your experience.
@@ -35,6 +37,6 @@ To complete the assignment you will need to do the following tasks:
 
 ## Submission
 
-You will need to submit your **self-directed learning plan** and **written reflection** on the Woolf platform by midnight on October 17th, 2022, in order to get marks for this assignment.
+Please submit your essay on Gradescope, and then also upload a copy to the Woolf platform.
 
 ---

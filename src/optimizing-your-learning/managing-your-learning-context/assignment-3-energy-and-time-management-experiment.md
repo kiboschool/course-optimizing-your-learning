@@ -1,4 +1,4 @@
-# Assignment 3 energy and time management experiment
+# Assignment 3 - Learning Context Experiment
 
 ---
 
@@ -15,18 +15,18 @@ Complete the assignment below
 This week's assignment will require you to select one of the learning context topics listed below (all are from this week’s lesson), test it out for 3 days, and submit a reflection on your experience.
 
 Options:
+- Breathing: Carry out the 4-7-8 breathing technique.
+- Meditation: Meditate for at least 10 minutes.
+- Movement: Carry out at least 30 minutes of moderate exercise per day.
+- Sleep: Follow the sleep hygeine checklist, and sleep at least 7 hours per night.
 
-- Breathing
-- Mindfulness
-- Sleep
-- Exercise
-- Time Blocking
-- Eisenhower Matrix
 
-- Be sure to document your experience each day.
-- After 3 days write a reflection on what went well, what won't go well, what you learned, and whether you will incorporate this thing into your life in the future (and if so, how you will incorporate it)
-- Your submission can be in one of the following formats:
+## Guidance
+- Document your experience during each day of the experiment.
+- After completing the 3 days, write a reflection on what went well, what didn’t go well, what you learned, and whether you will incorporate this thing into your life in the future (and if so, how you will incorporate it).
+- You will need to submit both the daily documentation of your experience and the reflection. Each of these can be in any of the following formats:
     - Written
     - Video
     - Audio
-    - Interview with a classmate
+
+---

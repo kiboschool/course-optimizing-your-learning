@@ -40,21 +40,21 @@ After completing this lesson, you will be able to:
 
 </aside>
 
-[Motivation](/optimizing-your-learning/understanding-your-mindsets-and-emotions/motivation.md)
+[2.1 Motivation](/optimizing-your-learning/understanding-your-mindsets-and-emotions/motivation.md)
 
-[2.1 Identity ](/optimizing-your-learning/understanding-your-mindsets-and-emotions/identity.md)
+[2.2 Identity ](/optimizing-your-learning/understanding-your-mindsets-and-emotions/identity.md)
 
-[2.2 Beliefs That Hinder Learning](/optimizing-your-learning/understanding-your-mindsets-and-emotions/beliefs-that-hinder-learning.md)
+[2.3 Beliefs That Hinder Learning](/optimizing-your-learning/understanding-your-mindsets-and-emotions/beliefs-that-hinder-learning.md)
 
-[2.2 A Powerful Mindset that Supports Learning](/optimizing-your-learning/understanding-your-mindsets-and-emotions/a-powerful-mindset-that-supports-learning.md)
+[2.4 A Powerful Mindset that Supports Learning](/optimizing-your-learning/understanding-your-mindsets-and-emotions/a-powerful-mindset-that-supports-learning.md)
 
-[2.3 Introduction to Emotional Intelligence](/optimizing-your-learning/understanding-your-mindsets-and-emotions/introduction-to-emotional-intelligence.md)
+[2.5 Introduction to Emotional Intelligence](/optimizing-your-learning/understanding-your-mindsets-and-emotions/introduction-to-emotional-intelligence.md)
 
-[2.4 Understanding and Enhancing Your Self Awareness](/optimizing-your-learning/understanding-your-mindsets-and-emotions/understanding-and-enhancing-your-self-awarenes.md)
+[2.6 Understanding and Enhancing Your Self Awareness](/optimizing-your-learning/understanding-your-mindsets-and-emotions/understanding-and-enhancing-your-self-awarenes.md)
 
-[2.5 Developing Self-Regulation Skills](/optimizing-your-learning/understanding-your-mindsets-and-emotions/developing-self-regulation-skills.md)
+[2.7 Developing Self-Regulation Skills](/optimizing-your-learning/understanding-your-mindsets-and-emotions/developing-self-regulation-skills.md)
 
-[2.6 Managing and Sustaining Motivation](/optimizing-your-learning/understanding-your-mindsets-and-emotions/managing-and-sustaining-motivation.md)
+[2.8 Managing and Sustaining Motivation](/optimizing-your-learning/understanding-your-mindsets-and-emotions/managing-and-sustaining-motivation.md)
 
 [Assignment 2: Identity and Limiting Beliefs](/optimizing-your-learning/understanding-your-mindsets-and-emotions/assignment-2-identity-and-limiting-beliefs.md)
 

@@ -36,7 +36,7 @@ Focus your reflection on one of the events in the above list. Be sure to include
 
 Here is some guidance on what to include in each of the six steps.
 
-Description (20% of word count): described what occurred during the event.
+Description (20% of word count): describe what occurred during the event.
 
 Feelings (10% of word count): describe your emotions before, during, and after the event.
 

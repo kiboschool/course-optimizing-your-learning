@@ -54,6 +54,6 @@ After completing this lesson, you will be able to:
 
 [Assignment 1: Orientation Reflection](/optimizing-your-learning/how-to-get-anything-you-want-in-life/assignment-1-individual-sdl.md)
 
-[Wrap up](/optimizing-your-learning/how-to-get-anything-you-want-in-life/wrap-up.md)
+<!-- [Wrap up](/optimizing-your-learning/how-to-get-anything-you-want-in-life/wrap-up.md) -->
 
 ---

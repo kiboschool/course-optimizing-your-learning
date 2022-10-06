@@ -40,17 +40,17 @@ After completing this lesson, you will be able to:
 
 </aside>
 
-[Motivation](/optimizing-your-learning/how-to-get-anything-you-want-in-life/motivation.md)
+[1.1 Motivation](/optimizing-your-learning/how-to-get-anything-you-want-in-life/motivation.md)
 
-[1.1 How Learning Happens](/optimizing-your-learning/how-to-get-anything-you-want-in-life/how-learning-happens.md)
+[1.2 How Learning Happens](/optimizing-your-learning/how-to-get-anything-you-want-in-life/how-learning-happens.md)
 
-[1.2 Executive Functioning Skills](/optimizing-your-learning/how-to-get-anything-you-want-in-life/executive-functioning-skills.md)
+[1.3 Executive Functioning Skills](/optimizing-your-learning/how-to-get-anything-you-want-in-life/executive-functioning-skills.md)
 
-[1.3 Learning Approaches](/optimizing-your-learning/how-to-get-anything-you-want-in-life/learning-approaches.md)
+[1.4 Learning Approaches](/optimizing-your-learning/how-to-get-anything-you-want-in-life/learning-approaches.md)
 
-[1.4 Self-Directed Learning (SDL)](/optimizing-your-learning/how-to-get-anything-you-want-in-life/self-directed-learning-sdl.md)
+[1.5 Self-Directed Learning (SDL)](/optimizing-your-learning/how-to-get-anything-you-want-in-life/self-directed-learning-sdl.md)
 
-[1.5 Reflective Practice](/optimizing-your-learning/how-to-get-anything-you-want-in-life/reflective-practice.md)
+[1.6 Reflective Practice](/optimizing-your-learning/how-to-get-anything-you-want-in-life/reflective-practice.md)
 
 [Assignment 1: Orientation Reflection](/optimizing-your-learning/how-to-get-anything-you-want-in-life/assignment-1-individual-sdl.md)
 

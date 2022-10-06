@@ -20,7 +20,7 @@
 	- [Assignment 1 - Orientation Reflection](optimizing-your-learning/how-to-get-anything-you-want-in-life/assignment-1-individual-sdl.md)
 
 
-<!--
+
 
 ### Week 2
 
@@ -37,7 +37,7 @@
 	- [Final Presentation Milestone 1](optimizing-your-learning/understanding-your-mindsets-and-emotions/final-presentation-milestone-1.md)
 	
 
-
+<!--
 ### Week 3
 
 - [Week 3: Managing Your Learning Context](optimizing-your-learning/managing-your-learning-context.md)

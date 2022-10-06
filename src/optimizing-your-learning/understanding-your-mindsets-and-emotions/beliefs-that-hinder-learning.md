@@ -101,7 +101,7 @@ The concept of learned helpless is very similar to limiting beliefs. It is based
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/Z8n1oUhp-EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-
+Article on learned helplessness: https://bigthink.com/neuropsych/learned-helplessness-imaginable/
 
 ## Discussion: Utilizing Learned Optimism when Learning
 

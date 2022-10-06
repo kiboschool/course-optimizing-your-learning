@@ -1,4 +1,4 @@
-# Managing stress breathing and mindfulness
+# Managing Stress, Breathing, and Mindfulness
 
 *Estimated Time: 1 hour*
 
@@ -47,14 +47,6 @@ In this section, we will discuss how to use breathing, mindfulness, and other te
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/30VMIEmA114" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-### Activity: Field Study - Stress Management
-
-<aside>
-
-
-🥼 [prompt]
-
-</aside>
 
 ---
 
@@ -67,7 +59,8 @@ In this section, we will discuss how to use breathing, mindfulness, and other te
 
 </aside>
 
-[https://youtu.be/Kl4cU9sG_08](https://youtu.be/Kl4cU9sG_08)
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/Kl4cU9sG_08" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <aside>
 
@@ -77,15 +70,6 @@ In this section, we will discuss how to use breathing, mindfulness, and other te
 </aside>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/kpSkoXRrZnE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-### Activity: Field Study - Breathing
-
-<aside>
-
-
-🥼 [prompt]
-
-</aside>
 
 ---
 
@@ -118,22 +102,4 @@ In this section, we will discuss how to use breathing, mindfulness, and other te
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/3iUf73v92lI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-### Activity: Field Study - Meditation
-
-<aside>
-
-
-🥼 [prompt]
-
-</aside>
-
 ---
-
-<aside>
-
-
-🤷🏿‍♀️ **So What? How does this section apply to me?**
-
-*[insert text]*
-
-</aside>

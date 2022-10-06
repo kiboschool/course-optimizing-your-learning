@@ -60,14 +60,7 @@ In this section we will discuss why sleep is so important for learning and livin
 
 </aside>
 
-### Activity: Field Study - Sleep
-
-<aside>
-
-
-🥼 [prompt]
-
-</aside>
+Sleep Hygiene Checklist: https://sdlab.fas.harvard.edu/files/sdlab/files/sleephygienecheckliststriveweekly.pdf
 
 ---
 

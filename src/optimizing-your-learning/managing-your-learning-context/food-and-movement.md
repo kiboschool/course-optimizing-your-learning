@@ -1,4 +1,4 @@
-# Food and movement
+# Food, Hydration, and Movement
 
 *Estimated Time: 1 hour*
 

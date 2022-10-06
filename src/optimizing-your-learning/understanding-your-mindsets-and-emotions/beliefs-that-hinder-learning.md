@@ -172,6 +172,11 @@ Do you experience ANTs? What are some of the most common ANTs (e.g. Overgenerali
 
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/embed/s0nqtmp0gjsy298h" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
+
+Stopping ANTS: https://www.youtube.com/watch?v=UAwcCjCzPks
+https://www.hopetherapyandwellness.com/blog/137299-how-to-stop-automatic-negative-thoughts-ants
+https://www.youtube.com/watch?v=_XLY_XXBQWE
+
 ---
 
 

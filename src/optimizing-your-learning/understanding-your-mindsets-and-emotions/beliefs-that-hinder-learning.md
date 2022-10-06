@@ -15,8 +15,8 @@
 In this section we will explore some belief systems and behaviors that can hinder learning including:
 
 - Limiting Beliefs
-- Automatic Negative Thoughts
 - Learned Helplessness
+- Automatic Negative Thoughts
 
 ---
 
@@ -61,7 +61,7 @@ Ultimately, limiting beliefs are usually not grounded in facts or evidence, but 
 <aside>
 
 
-📖 Read the following article on **[limiting beliefs](https://www.betterup.com/blog/what-are-limiting-beliefs)**.
+📖 Read the following article on **[limiting beliefs](https://markmanson.net/limiting-beliefs)**.
 
 </aside>
 
@@ -85,6 +85,45 @@ Ultimately, limiting beliefs are usually not grounded in facts or evidence, but 
     - Question what you know about the situation until you are left with answers that are supported by concrete evidence.
 - **Step 3: Develop an Alternate Belief**
     - (insert description)
+
+---
+
+## Learned Helplessness
+
+The concept of learned helpless is very similar to limiting beliefs. It is based on the idea that previous experiences can limit what you think you are capable of, even when those limitaions are removed.
+
+<aside>
+
+
+📺  Watch the following video on learned helplessness.
+
+</aside>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/Z8n1oUhp-EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+
+
+## Discussion: Utilizing Learned Optimism when Learning
+
+<aside>
+
+
+💬 **Answer the following question in the padlet below.**
+What are some ways that you can practice learned optimism when learning a challenging new skill?
+
+</aside>
+
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/embed/zcivnu95sv5z6ws4" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
+
+---
+
+<aside>
+
+
+🗣 **“What you feed your mind, will lead your life.”**
+― Kemi Sogunle
+
+</aside>
 
 ---
 
@@ -135,39 +174,4 @@ Do you experience ANTs? What are some of the most common ANTs (e.g. Overgenerali
 
 ---
 
-## Learned Helplessness
 
-<aside>
-
-
-📺  Watch the following video on learned helplessness.
-
-</aside>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/Z8n1oUhp-EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-
-
-## Discussion: Utilizing Learned Optimism when Learning
-
-<aside>
-
-
-💬 **Answer the following question in the padlet below.**
-What are some ways that you can practice learned optimism when learning a challenging new skill?
-
-</aside>
-
-<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/embed/zcivnu95sv5z6ws4" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
-
----
-
-<aside>
-
-
-🗣 **“What you feed your mind, will lead your life.”**
-― Kemi Sogunle
-
-</aside>
-
----

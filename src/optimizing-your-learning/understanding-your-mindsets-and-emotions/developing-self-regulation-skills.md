@@ -1,4 +1,4 @@
-# Developing self regulation skills
+# Developing Self-Regulation Skills
 
 *Estimated Time: 30 minutes*
 
@@ -7,8 +7,8 @@
 <aside>
 
 
-🗣️ ***"It's not what happens to you, but how you react to it that matters."** 
-- Epictetus*
+🗣️ "It's not what happens to you, but how you react to it that matters." 
+- Epictetus
 
 </aside>
 
@@ -23,7 +23,7 @@ Like in the quote above, we might not be able to influence what happens to us, b
 
 </aside>
 
-[https://youtu.be/m4UGDaCgo_s](https://youtu.be/m4UGDaCgo_s)
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/m4UGDaCgo_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## Self-Regulation in Learning
 
@@ -44,7 +44,8 @@ As self-directed learners who understand the role that emotions play in our abil
 - **Improvement**
     
     Being able to reflect on your progress and outcomes in order to make improvements is powerful as we saw in the practice of reflective learning. Self-regulation can help you adopt and implement better learning strategies to get the results that you desire.
-    
+
+---
 
 ## Developing Self-Regulation Skills
 

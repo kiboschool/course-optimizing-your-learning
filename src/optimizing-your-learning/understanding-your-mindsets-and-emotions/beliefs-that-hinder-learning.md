@@ -7,7 +7,7 @@
 <aside>
 
 
-🗣 **“Your beliefs become your thoughts. Your thoughts become your words. Your words become your actions. Your actions become your habits. Your habits become your values. Your values become your destiny.”**
+🗣 “Your beliefs become your thoughts. Your thoughts become your words. Your words become your actions. Your actions become your habits. Your habits become your values. Your values become your destiny.”
 - Gandhi
 
 </aside>
@@ -22,7 +22,13 @@ In this section we will explore some belief systems and behaviors that can hinde
 
 ## Limiting Beliefs
 
-In the previous section of this week’s lesson, you reflected on your different identities. While it is great to have a strong set of identities, as you saw in the final reflection of the previous section, your identities can shape your beliefs about yourself. And as a consequence, they can shape what we believe we are or are not capable of or deserving of, leading to **limiting beliefs**.
+<aside>
+
+“The only thing that’s keeping you from getting what you want is the story you keep telling yourself.”—Tony Robbins
+
+</aside>
+
+In the previous section of this week’s lesson, you reflected on your different identities. While it is great to have a strong set of identities, as you saw in the final reflection of the previous section, your identities can shape your beliefs about yourself. And as a consequence, they can shape what you believe you are capable, or deserving, of, leading to **limiting beliefs**.
 
 <aside>
 
@@ -55,7 +61,7 @@ Ultimately, limiting beliefs are usually not grounded in facts or evidence, but 
 <aside>
 
 
-📖 Read the following article on **[limiting beliefs](https://positivepsychology.com/false-beliefs/)**.
+📖 Read the following article on **[limiting beliefs](https://www.betterup.com/blog/what-are-limiting-beliefs)**.
 
 </aside>
 
@@ -77,8 +83,8 @@ Ultimately, limiting beliefs are usually not grounded in facts or evidence, but 
 - **Step 2: Identify the facts**
     - Analyze the accuracy of the liming belief by identifying the facts.
     - Question what you know about the situation until you are left with answers that are supported by concrete evidence.
-- **Step 3: Reframe**
-    - Reframe the belief…
+- **Step 3: Develop an Alternate Belief**
+    - (insert description)
 
 ---
 

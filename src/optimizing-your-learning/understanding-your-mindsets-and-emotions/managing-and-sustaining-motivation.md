@@ -114,20 +114,3 @@ How is what you are currently studying at Kibo connect to your future goals?
 
 ---
 
-## Grit
-
-<aside>
-
-
-📺 Watch this video to learn about the link between motivation and growth mindset.
-
-</aside>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/H14bBuluwB8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-Self-control and grit: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4737958/pdf/nihms736065.pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4737958/pdf/nihms736065.pdf)
-
-[https://www.npr.org/sections/ed/2016/05/25/479172868/angela-duckworth-responds-to-a-new-critique-of-grit](https://www.npr.org/sections/ed/2016/05/25/479172868/angela-duckworth-responds-to-a-new-critique-of-grit)
-
-[https://www.theatlantic.com/magazine/archive/2016/05/is-grit-overrated/476397/](https://www.theatlantic.com/magazine/archive/2016/05/is-grit-overrated/476397/)
-

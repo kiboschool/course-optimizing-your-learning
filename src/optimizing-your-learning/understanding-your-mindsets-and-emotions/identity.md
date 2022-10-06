@@ -7,7 +7,7 @@
 <aside>
 
 
-⚠️ You may recognize this section from the Kibo Challenge that was part of your application to join the degree program.
+⚠️ You may recognize some of this section from the Kibo Challenge that was part of your application to join the degree program.
 
 </aside>
 
@@ -37,10 +37,13 @@ An **identity** is a person's **formulation and expression** of their individual
 
 ## Identity Mapping
 
-> Creating a map of your identity is a way to capture and articulate how you see yourself. You can look clearly at your obvious, surface-level identity and then begin to dig deeper…Your identity map should include the three components…given identity, chosen identity, and core identity.
+<aside>
+  
+Creating a map of your identity is a way to capture and articulate how you see yourself. You can look clearly at your obvious, surface-level identity and then begin to dig deeper…Your identity map should include the three components…given identity, chosen identity, and core identity.
 
 - Kelly Hannum. (2007). Social Identity: Knowing Yourself, Leading Others. Center for Creative Leadership.
->
+
+</aside>
 
 ### Given, Chosen, or Core Identities
 
@@ -56,7 +59,6 @@ An **identity** is a person's **formulation and expression** of their individual
 Source: Hannum, K. (2008). Leadership in Action: Branching out: Social Identity Comes to the Forefront. Center for Creative Leadership.
 
 ![Identity map diagram](./identity/identity-map-diagram.png)
-
 Identity map diagram
 
 ### Reflection: Reflecting on Your Identities

@@ -16,19 +16,19 @@ Word limit: 500 - 1000 words.
 Use the Gibbs' Reflective Cycle from Section 1.6 Reflective Practice, and write a reflection about your experience during Kibo's Orientation Week. 
 
 The activities during orientation week were:
-Day 1: Icebreakers (2 Truths and a Lie; Hope and Fear)
-Day 1: Kibo Co-Founder Fireside Chat
-Day 1: Meet Your Instructors
-Day 1: Meet Your Squad
-All Week: Orientation Squad Challenge
-Day 2: Who Wants to be a Kibo-naire?
-Day 2: Founder Mentality Fireside Chat
-Day 2: Kibo Student Support System and Intro to Woolf 
-Day 3: Kibo’s Got Talent
-Day 4: Fireside Chat with Fara Ashiru Jituboh
-Day 4: Kibo Mentorship Program
-Day 4: Internships at Kibo
-Day 5: In-Person Meet Up
+- Day 1: Icebreakers (2 Truths and a Lie; Hope and Fear)
+- Day 1: Kibo Co-Founder Fireside Chat
+- Day 1: Meet Your Instructors
+- Day 1: Meet Your Squad
+- All Week: Orientation Squad Challenge
+- Day 2: Who Wants to be a Kibo-naire?
+- Day 2: Founder Mentality Fireside Chat
+- Day 2: Kibo Student Support System and Intro to Woolf 
+- Day 3: Kibo’s Got Talent
+- Day 4: Fireside Chat with Fara Ashiru Jituboh
+- Day 4: Kibo Mentorship Program
+- Day 4: Internships at Kibo
+- Day 5: In-Person Meet Up
 
 Focus your reflection on one of the events in the above list. Be sure to include all six steps: Description, Feelings, Evaluation, Analysis, Conclusion, and Action Plan.
 

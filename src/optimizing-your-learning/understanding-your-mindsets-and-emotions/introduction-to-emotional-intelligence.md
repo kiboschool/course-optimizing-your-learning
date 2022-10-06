@@ -22,19 +22,6 @@ Let’s start this section by reflecting on your experience with managing your e
 - How well are you able to interact with others given their emotional state?
 </aside>
 
-Now that you have taken time to reflect on your emotional intelligence competencies, let’s take the opportunity to assess your abiltiies more concretely, to see where your emotional intelligence strengths and development areas are.
-
-<aside>
-
-
-📝 Complete the emotional intelligence self-assessment embedded below.
-
-</aside>
-
-[https://kibo-school.typeform.com/to/M5VnkggS](https://kibo-school.typeform.com/to/M5VnkggS)
-
-(Adapted from Emily A. Sterrett, Ph. D., in The Manager’s Pocket Guide to Emotional Intelligence, 2000, HRD Press: Amherst, MA and from The Handbook of Emotionally Intelligent Leadership by Daniel E. Feldman, 1999, Leadership Performance Solutions)
-
 ---
 
 <aside>
@@ -45,9 +32,12 @@ The ability to recognize, understand, and manage emotions in yourself and others
 
 </aside>
 
+---
+
 ## Mayer and Salovey’s PUUM Model of Emotional Intelligence
 
-[https://www.youtube.com/watch?v=eUTWeq_9OZ4](https://www.youtube.com/watch?v=eUTWeq_9OZ4)
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/eUTWeq_9OZ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 
 - **P** = Perceiving Emotions
     
@@ -55,8 +45,7 @@ The ability to recognize, understand, and manage emotions in yourself and others
     > 
 - **U** = Using Emotions
     
-    > the ability to harness emotions to facilitate various cognitive activities, such as thinking and problem-solving. The emotionally intelligent person can capitalize fully upon his or her changing [moods](https://en.wikipedia.org/wiki/Mood_(psychology))
-     in order to best fit the task at hand.
+    > the ability to harness emotions to facilitate various cognitive activities, such as thinking and problem-solving. The emotionally intelligent person can capitalize fully upon his or her changing moods in order to best fit the task at hand.
     > 
 - **U** = Understanding Emotions
     
@@ -68,12 +57,7 @@ The ability to recognize, understand, and manage emotions in yourself and others
     > 
     
 
-<aside>
-
-
-📖 Read the following article on [**the science of emotional intelligence**](https://d1wqtxts1xzle7.cloudfront.net/33081363/science_of_emotional_intelligence-with-cover-page-v2.pdf?Expires=1663944179&Signature=I2sZTwJFOutQnI39kYBYhi6mcc6SudjTIZxKO-3zvdr4KPol5Ks7NFkkI9SUgJtnMGZ-7E1GIBw5oG8~7SJ9JyVqWpguMAt~Z9AOXVYuvpliWPrv1k~OwJx~WPbUaAXlPj-tzp-SSezAicXruFYUKRxjTrIlFe2D~487dLDPehGJVS2YwrTdkrkZFF7YqIWikKb50zRSCfMqRte-y9fc3aQBbefFVlIAyCDYdqLko2fFnqtJtiCqKuwM0Xzp4kzU2mbFQoU80v53ugNuZJXobdo7Q~3KHEwvceqJ~8gsQgq4ZT29BZuH-etknWhUJ5ttrRVh~9218LNEYINON5oT8A__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA).
-
-</aside>
+---
 
 ## Goleman’s Mixed Model of Emotional Intelligence
 
@@ -88,7 +72,9 @@ Daniel Goleman built upon Mayer and Salovey’s ability-based emotional intellig
 
 </aside>
 
-[https://www.youtube.com/watch?v=8C7mtw-a2j4](https://www.youtube.com/watch?v=8C7mtw-a2j4)
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/8C7mtw-a2j4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/LgUCyWhJf6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
@@ -122,6 +108,8 @@ According to Daniel Goleman, who has researched and written extensively on the s
 
 </aside>
 
+---
+
 ## Some Signs of Low Emotional Intelligence
 
 - Having emotional outbursts that are often out of proportion to the situation at hand.
@@ -134,7 +122,9 @@ According to Daniel Goleman, who has researched and written extensively on the s
 
 [Source](https://positivepsychology.com/emotional-intelligence-examples)
 
-## How does emotional intelligence influence learning?
+---
+
+## How Does Emotional Intelligence Influence Learning?
 
 <aside>
 
@@ -142,6 +132,8 @@ According to Daniel Goleman, who has researched and written extensively on the s
 📖 Read the following articles on **[leveraging emotional intelligence in higher education](https://journals.sagepub.com/doi/pdf/10.1177/2319714521992032)**.
 
 </aside>
+
+---
 
 ## Improving Emotional Intelligence
 

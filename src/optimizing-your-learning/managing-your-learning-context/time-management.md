@@ -1,4 +1,4 @@
-# Time management
+# Time Management
 
 *Estimated Time: 2 hours*
 
@@ -228,23 +228,3 @@ Now, add important life events to your semester schedule – this might include 
 </aside>
 
 ---
-
-### Activity: Field Study - Time Management
-
-<aside>
-
-
-🥼
-
-</aside>
-
----
-
-<aside>
-
-
-🤷🏿‍♀️ **So What? How does this section apply to me?**
-
-*[insert text]*
-
-</aside>

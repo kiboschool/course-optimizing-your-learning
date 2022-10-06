@@ -59,6 +59,6 @@ After completing this lesson, you will be able to:
 
 [Final Presentation - Milestone 3](/optimizing-your-learning/building-your-learning-toolkit/final-presentation-milestone-3.md)
 
-[Wrap up](/optimizing-your-learning/building-your-learning-toolkit/wrap-up.md)
+<!-- [Wrap up](/optimizing-your-learning/building-your-learning-toolkit/wrap-up.md) -->
 
 ---

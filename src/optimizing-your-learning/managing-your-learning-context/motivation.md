@@ -13,7 +13,7 @@
 
 </aside>
 
-[https://www.youtube.com/watch?v=ILDy6kYU-xQ](https://www.youtube.com/watch?v=ILDy6kYU-xQ)
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/ILDy6kYU-xQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 In last week’s lesson, we focused on understanding the impact that your mind (e.g. emotions and mindsets) can have on your learning. This week, we will start by focusing on how the state of your body impacts your mind and your readiness to learn. And then we will expand our attention to consider other factors that influence your learning context (e.g. how you manage your time, the state of your physical environment, and the people around you).
 

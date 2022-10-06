@@ -1,4 +1,4 @@
-# Introduction to emotional intelligence
+# Introduction to Emotional Intelligence
 
 *Estimated Time: 1.5 hours*
 

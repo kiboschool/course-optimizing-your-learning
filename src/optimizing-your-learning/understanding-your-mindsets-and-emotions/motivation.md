@@ -14,7 +14,7 @@
 
 In last week’s lesson, we explored the importance of self-directed learning. We emphasized the need for you to be at the center of the learning process and to be able to set learning goals, monitor learning progress, and evaluate learning outcomes. This week, we will dive into how your mind influences your ability to successfully accomplish these tasks. 
 
-It may be obvious that thinking and logic play an important role in self-directed learning, but how about emotions? What role do they have to play in your ability to learn? How do your emotions help you get the most out of your learning or how might they hold you back you? The goal of this week’s lesson is to help you find answers to these questions and many more!
+It may be obvious that thinking and logic play an important role in self-directed learning, but how about emotions? What role do they have to play in your ability to learn? How do your emotions help you get the most out of your learning or how might they hold you back? The goal of this week’s lesson is to help you find answers to these questions and many more!
 
 ## Discuss: Emotions When Learning
 

@@ -60,6 +60,6 @@ After completing this lesson, you will be able to:
 
 [Final Presentation - Milestone 1](/optimizing-your-learning/understanding-your-mindsets-and-emotions/final-presentation-milestone-1.md)
 
-[Wrap up](/optimizing-your-learning/understanding-your-mindsets-and-emotions/wrap-up.md)
+<!-- [Wrap up](/optimizing-your-learning/understanding-your-mindsets-and-emotions/wrap-up.md) -->
 
 ---

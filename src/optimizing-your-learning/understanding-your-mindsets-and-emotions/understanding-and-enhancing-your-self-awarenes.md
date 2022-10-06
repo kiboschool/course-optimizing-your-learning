@@ -1,4 +1,4 @@
-# Understanding and enhancing your self awarenes
+# Understanding and Enhancing Your Self-Awareness
 
 *Estimated Time: 1 hour*
 
@@ -7,8 +7,8 @@
 <aside>
 
 
-🗣 ***“Self-awareness is the ability to take an honest look at your life without any attachment to it being right or wrong, good or bad.”** 
-– Debbie Ford*
+🗣 “Self-awareness is the ability to take an honest look at your life without any attachment to it being right or wrong, good or bad.” 
+– Debbie Ford
 
 </aside>
 
@@ -46,6 +46,8 @@ Self-awareness is the foundation of being an emotionally-intelligent learner. Wi
 
 Let’s be clear that self-awareness is different from self-consciousness. As described above, when you are self-aware, you know more and understand more about yourself, your qualities, and your emotions. Whereas with self-consciousness, you have a heightened sense of self-awareness that results in continued strong perceptions of yourself and sometimes undue estimation of how others perceive you. Self-consciousness can become extreme especially when there is a fixation on your flaws and inabilities. Your goal should be to increase your self-awareness, without increasing your self-consciousness.
 
+---
+
 ## Self-Awareness and Learning
 
 As earlier mentioned, self-awareness can help you become a better self-directed learner. Here are a number of areas in which you need to be more self-aware in other to accomplish more effective learning:
@@ -62,10 +64,9 @@ As earlier mentioned, self-awareness can help you become a better self-directed 
     
     Similar to the point above and in line with our discussion on learning preferences in the last lesson, being aware of your learning preferences and approaches can help you to be a more effective learner, regardless of what the subject matter is. We will share shortly some ways you can better develop this self-awareness.
     
-
 ---
 
-## How to improve your self-awareness
+## How to Improve Your Self-Awareness
 
 <aside>
 

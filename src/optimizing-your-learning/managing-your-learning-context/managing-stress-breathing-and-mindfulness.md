@@ -77,6 +77,8 @@ In this section, we will discuss how to use breathing, mindfulness, and other te
 
 <aside>
 
+https://www.youtube.com/watch?v=w6T02g5hnT4
+https://www.youtube.com/watch?v=o-kMJBWk9E0
 
 📺 Watch the following video on the impact that mindful meditation can have on your life and mind.
 

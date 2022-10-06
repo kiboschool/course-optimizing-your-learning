@@ -1,6 +1,6 @@
-# Physical environment
+# Physical Environment
 
-*Estimated Time: xx hours*
+*Estimated Time: 1 hour*
 
 ---
 
@@ -56,12 +56,3 @@ Additional tips for staying focused when studying online:
 - If you do not need the internet while studying, you can make your study resources available online when possible and only connect to the internet when you need to.
 
 ---
-
-<aside>
-
-
-🤷🏿‍♀️ **So What? How does this section apply to me?**
-
-*[insert text]*
-
-</aside>

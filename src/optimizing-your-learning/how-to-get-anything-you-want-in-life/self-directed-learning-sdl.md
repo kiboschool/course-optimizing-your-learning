@@ -189,35 +189,35 @@ When setting out to direct your own learning, it can be useful to ask yourself t
 
 ### Planning
 
-- **1. WHAT DO I WANT OR NEED TO LEARN?**
+- **WHAT DO I WANT OR NEED TO LEARN?**
     
-- **2. WHY IS THIS IMPORTANT?**
+- **WHY IS THIS IMPORTANT?**
     - What is important or necessary? (e.g. Is there a specific problem to be solved? Is there a challenge that I need to face? Is there information that will construct something of value to me or others?)
     - What is the context that is driving me to learn this? (e.g. Is this a hobby or skill? Is this for personal knowledge development? Is this learning for a job or a career development?)
     - What else has motivated me to seek this knowledge?
     - Why is this meaningful to me or to others?
     - What would happen if I don’t find out what I need to or didn’t develop my skills adequately?
     - How will this knowledge change things for me or others?
-- **3. HOW DO I INTEND TO USE THIS KNOWLEDGE?**
+- **HOW DO I INTEND TO USE THIS KNOWLEDGE?**
     - For personal development? For problem-solving? For general interest?For use in other learning challenges? To respond to specific questions?
-- **5. WHAT ARE MY CAPABILITIES AND LIMITATIONS?**
+- **WHAT ARE MY CAPABILITIES AND LIMITATIONS?**
     - Capabilities - What do I know or what can I do now that will help me?
     - Limitations - What can’t I do? And can I learn how to do it? (considering timeframe, budget, etc.)
-- **4. WHAT DO I KNOW ALREADY AND WHAT DO I NEED TO FIND OUT?**
+- **WHAT DO I KNOW ALREADY AND WHAT DO I NEED TO FIND OUT?**
     - What do I already know about this topic from different sources (e.g. my assumptions, personal experience, other people)?
     - Missing knowledge
         - What don’t I know about the who, what, where, when, why, and how relating to this topic?
         - What is the history of the problem or challenge? What is known by others?
         - What have others missed in the past? What is still unknown by others?
-- **6. WHERE CAN I FIND OUT WHAT I NEED TO KNOW?**
+- **WHERE CAN I FIND OUT WHAT I NEED TO KNOW?**
     - What traditional sources can I use? (e.g. Books, articles, film, art and design, conversation/collaboration, courses, hands-on workshops, seminars, mentoring/practicums.)
     - What online sources can I use? (e.g. websites, blogs, wikis, videos, podcasts, online learning/MOOCs)
-- **7. HOW WILL MY LEARNING ACTUALLY TAKE PLACE?**
+- **HOW WILL MY LEARNING ACTUALLY TAKE PLACE?**
     - Where will I learn? 
     - How will I learn? 
     - With whom will I learn? 
     - What will be the structure of my learning sessions? Frequency, duration, etc.
-- **8. HOW WILL I KNOW MY LEARNING WAS SUCCESSFUL? (QUESTIONS TO ASK BEFORE LEARNING)**
+- **HOW WILL I KNOW MY LEARNING WAS SUCCESSFUL? (QUESTIONS TO ASK BEFORE LEARNING)**
     - What would success look like? And how will I measure that?
     - What evidence do I need to collect in order to evaluate my success?
     - How will I collect this evidence?
@@ -230,14 +230,14 @@ By the end of the planning stage, you should have a strong sense of why what you
 
 ### Monitoring
 
-- **09. HOW DO I KNOW MY LEARNING IS PROGRESSING SUCCESSFULLY? (QUESTIONS TO ASK DURING LEARNING)**
+- **HOW DO I KNOW MY LEARNING IS PROGRESSING SUCCESSFULLY? (QUESTIONS TO ASK DURING LEARNING)**
     - What evidence do I need to collect in order to evaluate my progress
     - How will I collect this evidence?
-- **10. WHAT WILL I DO WHEN I HIT A ROADBLOCK?**
+- **WHAT WILL I DO WHEN I HIT A ROADBLOCK?**
     - What will I do if I don’t understand something?
     - What will I do if I get interrupted while learning?
     - What will I do if the learning seems too hard, or boring, or I don’t feel engaged in learning?
-- **11. WHO CAN I ASK FOR HELP WHILE LEARNING?**
+- **WHO CAN I ASK FOR HELP WHILE LEARNING?**
     - Family, friends, and teachers? Other professionals and experienced enthusiasts? Peers/Advanced Peers? Those who have failed to solve the problem and gained insights from that?
 
 Once you begin your learning journey (you are traversing your map), you will need tools (e.g. a compass) to help you know if you are heading in the right direction. You will also want to interact with guides along the way that can help you if you get stuck.
@@ -246,7 +246,7 @@ Once you begin your learning journey (you are traversing your map), you will nee
 
 ##Evaluating
 
-- **12. HOW WILL I KNOW MY LEARNING WAS SUCCESSFUL? (QUESTIONS TO ASK AFTER LEARNING)**
+- **HOW WILL I KNOW MY LEARNING WAS SUCCESSFUL? (QUESTIONS TO ASK AFTER LEARNING)**
     - What were the results of my efforts?
     - How did I succeed or fall short of accomplishing my goal?
     - What went well, and what didn’t?

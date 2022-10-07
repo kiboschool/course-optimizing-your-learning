@@ -100,12 +100,16 @@ The concept of learned helplessness is very similar to limiting beliefs. It is b
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/Z8n1oUhp-EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-Article on learned helplessness: https://bigthink.com/neuropsych/learned-helplessness-imaginable/
+<aside>
+
+📖 Read the following article to learn more about [learned helplessness](https://bigthink.com/neuropsych/learned-helplessness-imaginable/).
+
+</aside>
+
 
 ## Discussion: Utilizing Learned Optimism when Learning
 
 <aside>
-
 
 💬 **Answer the following question in the padlet below.**
 What are some ways that you can practice learned optimism when learning a challenging new skill?
@@ -118,8 +122,7 @@ What are some ways that you can practice learned optimism when learning a challe
 
 <aside>
 
-
-🗣 **“What you feed your mind, will lead your life.”**
+🗣 “What you feed your mind, will lead your life.”
 ― Kemi Sogunle
 
 </aside>
@@ -129,7 +132,6 @@ What are some ways that you can practice learned optimism when learning a challe
 ## Automatic Negative Thoughts
 
 <aside>
-
 
 📺  Watch the following video to learn about automatic negative thoughts.
 
@@ -154,31 +156,18 @@ What are some ways that you can practice learned optimism when learning a challe
 
 <aside>
 
-
 📖 You can read more about each of these thought patterns [here](https://sdlab.fas.harvard.edu/cognitive-reappraisal/identifying-negative-automatic-thought-patterns).
 
 </aside>
 
 <aside>
 
-
 📖 You can read more about ANTs and how to stop them [here](https://www.hopetherapyandwellness.com/blog/137299-how-to-stop-automatic-negative-thoughts-ants).
 
 </aside>
 
-## Reflection: ANTs
-
 <aside>
-
-
-🪞 **Answer the following questions in the padlet below.**
-Do you experience ANTs? What are some of the most common ANTs (e.g. Overgeneralization, fortune telling)) that you have experienced in the past?
-
-</aside>
-
-<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/embed/s0nqtmp0gjsy298h" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
-
-
+    
 📺  Watch the following video on how to stop ANTs.
 
 </aside>
@@ -187,4 +176,15 @@ Do you experience ANTs? What are some of the most common ANTs (e.g. Overgenerali
 
 ---
 
+## Reflection: ANTs
 
+<aside>
+
+🪞 **Answer the following questions in the padlet below.**
+Do you experience ANTs? What are some of the most common ANTs (e.g. Overgeneralization, fortune telling)) that you have experienced in the past?
+
+</aside>
+
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/embed/s0nqtmp0gjsy298h" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
+
+---

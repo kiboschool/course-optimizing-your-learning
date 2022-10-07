@@ -164,7 +164,7 @@ The table below outlines behaviors that effective self-directed learners exhibit
 
 | Planning | Monitoring | Evaluating |
 | --- | --- | --- |
-| Goal Setting | Attention and Focusing | Self-Evaluation |
+| Goal Setting | Attention | Self-Evaluation |
 | Strategic Planning | Focusing  | Reflection |
 | Diagnosing Learning Needs | Self-Instruction  | Adaptability |
 | Determining Learning Strategy | Self-Monitoring  |  |
@@ -184,9 +184,10 @@ Here is some useful expansions on some of the key terms in the table:
 
 
 When setting out to direct your own learning, it can be useful to ask yourself the following questions in order to help shape and guide you through the process.
+
 [Adapted from Source](https://blog.futurefocusedlearning.net/10-self-directed-learning-questions)
 
-###Planning
+### Planning
 
 - **1. WHAT DO I WANT OR NEED TO LEARN?**
     
@@ -221,13 +222,13 @@ When setting out to direct your own learning, it can be useful to ask yourself t
     - What evidence do I need to collect in order to evaluate my success?
     - How will I collect this evidence?
 
-By the end of the planning stage, you should have a strong sense of why what you are learning is important to you, what you wnat to accomplish, how far your current abilities are from that goal, how you plan to close the gap, and how you will know when the gap is closed. You have essentially created the map for your learning, which you can use to drive the rest of the process. 
+By the end of the planning stage, you should have a strong sense of why what you are learning is important to you, what you want to accomplish, how far your current abilities are from that goal, how you plan to close the gap, and how you will know when the gap is closed. You have essentially created the map for your learning, which you can use to drive the rest of the process. 
 
 ![Map](./map.jpeg)
 
 
 
-###Monitoring
+### Monitoring
 
 - **09. HOW DO I KNOW MY LEARNING IS PROGRESSING SUCCESSFULLY? (QUESTIONS TO ASK DURING LEARNING)**
     - What evidence do I need to collect in order to evaluate my progress
@@ -239,7 +240,7 @@ By the end of the planning stage, you should have a strong sense of why what you
 - **11. WHO CAN I ASK FOR HELP WHILE LEARNING?**
     - Family, friends, and teachers? Other professionals and experienced enthusiasts? Peers/Advanced Peers? Those who have failed to solve the problem and gained insights from that?
 
-Once you begin your learning journey (you are traversing your map), you will need tools to help you know if you are heading in the right direction. You will also want to interact with guides a long the way that can help you if you get stuck.
+Once you begin your learning journey (you are traversing your map), you will need tools (e.g. a compass) to help you know if you are heading in the right direction. You will also want to interact with guides along the way that can help you if you get stuck.
 
 ![Compas](./compas.jpeg)
 
@@ -253,8 +254,6 @@ Once you begin your learning journey (you are traversing your map), you will nee
 
 
 The critical question to ask yourself when you think that your learning is complete is "How do I know my learning is complete and that I have actually reached my goal?" 
-
-![Prize](./prize.jpeg)
 
 
 <aside>

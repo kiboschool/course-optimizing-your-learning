@@ -37,7 +37,7 @@
 	- [Final Presentation Milestone 1](optimizing-your-learning/understanding-your-mindsets-and-emotions/final-presentation-milestone-1.md)
 	
 
-<!--
+
 ### Week 3
 
 - [Week 3: Managing Your Learning Context](optimizing-your-learning/managing-your-learning-context.md)
@@ -70,7 +70,6 @@
 
 - [Final Assessments](optimizing-your-learning/final-assessments.md)
 
--->
 
 <!-- 
 [Wrap Up](optimizing-your-learning/how-to-get-anything-you-want-in-life/wrap-up.md) 

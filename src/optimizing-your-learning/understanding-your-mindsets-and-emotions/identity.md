@@ -59,7 +59,7 @@ Creating a map of your identity is a way to capture and articulate how you see y
 Source: Hannum, K. (2008). Leadership in Action: Branching out: Social Identity Comes to the Forefront. Center for Creative Leadership.
 
 ![Identity map diagram](./identity/identity-map-diagram.png)
-Identity map diagram
+
 
 ### Reflection: Reflecting on Your Identities
 

@@ -16,7 +16,7 @@ Week 1 - Orientation Reflection (Due date: October 17th, 2022)
 
 Week 2 - Limiting Beliefs Plan (Due date: October 24th, 2022)
 
-Week 3 - Energy & Time Management Experiment (Due date: October 31st, 2022)
+Week 3 - Learning Context Experiment (Due date: October 31st, 2022)
 
 Week 4 - Memory Challenge (Due date: November 7th, 2022)
 
@@ -56,31 +56,31 @@ For your second final assessment, you will work in groups of 4-5 students to car
 
 You will be required to work on this project throughout the 5 weeks of the course, and there are some milestones that you will need to reach during weeks 2, 3, and 4.
 
-- Week 2: Milestone 1 -  Determine your topic, learning goal, and create a group learning plan that distributes responsibilities to different group members.
+- Week 2: Milestone 1 (Planning) -  Determine your group members, pick your topic, set your specific learning goals, and create a group learning plan that distributes responsibilities to different group members.
 
-- Week 3: Milestone 2 - Carry out your learning plan.
+- Week 3: Milestone 2 (Monitoring) - Carry out your learning plan and monitor your progress.
 
-- Week 4: Milestone 3 - Create your video lesson on your chosen topic.
+- Week 4: Milestone 3 (Evaluation 1) - Create your video lesson on your chosen topic.
 
-During the final week of the course you will be focusing on:
+- Week 5: Milestone 4 (Evaluation 2) - Evaluate the quality of your learning, and reflect on the group learning experience.
 
-- Evaluating the quality of your learning
-- Reflecting on the group learning experience
+At the end of the term you will need to submit:
 
-At the end of the week you will need to submit:
+- Your group learning plan (Milestone 1)
+- A video presentation about your SDL project (Milestone 3)
+- Your Learning self-evaluation and peer evaluations (Milestone 4)
+- A written reflection on the group learning experience (Milestone 4)
 
-- Milestones 1 - group learning plan
-- Learning self-evaluation and peer evaluations
-- Milestone 3 - Video presentation about your SDL project (max length: 10 minutes)
-- Written reflection on the group learning experience (max word count: 500 words)
+More details, as well as template documents for some of the Milestone deliverables will be provide in the Final Presentation Milestone section in Lessons 2, 3, 4, and 5.
 
 ---
 
 ## How to Submit Your Assignments
 
-All written assignments will need to be submitted in Gradescope by their stated duedate. 
+All written assignments will need to be submitted in Gradescope by their stated due date. 
 
-[insert Gradescope submission details]
+When you sign into Gradescope for Optimizing Your Learning, you will see all your pending assignments on your Dashboard. Click on the assignment that you would like to submit work for, and you will get the prompt to upload your work (See picture below). For Optimizing Your Learning, please submit your work as a PDF. Once your assignment has been graded, you will also be able to see your grade and feedback in the Dashboard.
+
 
 You will also need to submit a link to your assignment in the Woolf platform, so we have the academic record of your submission.
 

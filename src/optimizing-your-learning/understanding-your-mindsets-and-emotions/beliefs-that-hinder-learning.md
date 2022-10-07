@@ -84,13 +84,12 @@ Ultimately, limiting beliefs are usually not grounded in facts or evidence, but 
     - Analyze the accuracy of the liming belief by identifying the facts.
     - Question what you know about the situation until you are left with answers that are supported by concrete evidence.
 - **Step 3: Develop an Alternate Belief**
-    - (insert description)
 
 ---
 
 ## Learned Helplessness
 
-The concept of learned helpless is very similar to limiting beliefs. It is based on the idea that previous experiences can limit what you think you are capable of, even when those limitaions are removed.
+The concept of learned helplessness is very similar to limiting beliefs. It is based on the idea that previous experiences can limit what you think you are capable of, even when those limitaions are removed.
 
 <aside>
 
@@ -160,6 +159,13 @@ What are some ways that you can practice learned optimism when learning a challe
 
 </aside>
 
+<aside>
+
+
+📖 You can read more about ANTs and how to stop them [here](https://www.hopetherapyandwellness.com/blog/137299-how-to-stop-automatic-negative-thoughts-ants).
+
+</aside>
+
 ## Reflection: ANTs
 
 <aside>
@@ -173,9 +179,11 @@ Do you experience ANTs? What are some of the most common ANTs (e.g. Overgenerali
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/embed/s0nqtmp0gjsy298h" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
 
-Stopping ANTS: https://www.youtube.com/watch?v=UAwcCjCzPks
-https://www.hopetherapyandwellness.com/blog/137299-how-to-stop-automatic-negative-thoughts-ants
-https://www.youtube.com/watch?v=_XLY_XXBQWE
+📺  Watch the following video on how to stop ANTs.
+
+</aside>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/_XLY_XXBQWE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ---
 

@@ -1,6 +1,6 @@
 # Optimizing Your Learning (OYL)
 
-KC001 3 ETCS
+**KC001** *3 ETCS*
 
 ---
 

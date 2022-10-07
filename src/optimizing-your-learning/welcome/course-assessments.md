@@ -80,12 +80,10 @@ More details, as well as template documents for some of the Milestone deliverabl
 
 All written assignments will need to be submitted in Gradescope by their stated due date. 
 
-When you sign into Gradescope for Optimizing Your Learning, you will see all your pending assignments on your Dashboard. Click on the assignment that you would like to submit work for, and you will get the prompt to upload your work (See picture below). For Optimizing Your Learning, please submit your work as a PDF. Once your assignment has been graded, you will also be able to see your grade and feedback in the Dashboard.
+When you sign into Gradescope for Optimizing Your Learning, you will see all your pending assignments on your Dashboard. Click on the assignment that you would like to submit work for, and you will get the prompt to upload your work (See picture below). For Optimizing Your Learning, please submit your work as a PDF. 
 
 ![gradescope](./Gradescope.png)
 
-You will also need to submit a link to your assignment in the Woolf platform, so we have the academic record of your submission.
-
-[insert Woolf submission details]
+**You will also need to submit a link to your assignment in the Woolf platform, so we have the academic record of your submission.**
 
 ---

@@ -38,6 +38,7 @@ One of your final assessments for this course will be the creation of a personal
 - Your Learning Beliefs
 - Your Learning Motivations and Interests
 - Your Learning Goals
+- Your Implementation Intentions
 - Your Strengths and Weaknesses
 - Your Learning Tool and Resource System 
 - Your Learning Metrics and Milestones System

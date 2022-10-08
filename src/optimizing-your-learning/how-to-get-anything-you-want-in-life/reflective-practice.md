@@ -101,7 +101,7 @@ Steps of the 5R framework:
 
 
 🗣️ "It is not sufficient simply to have an experience in order to learn. Without reflecting upon this experience it may quickly be forgotten, or its learning potential lost. It is from the feelings and thoughts emerging from this reflection that generalisations or concepts can be generated and it is generalisations that allow new situations to be tackled effectively."
-- Gibbs
+- Graham Gibbs
 
 </aside>
 

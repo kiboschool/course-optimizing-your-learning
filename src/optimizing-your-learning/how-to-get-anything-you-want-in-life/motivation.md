@@ -89,7 +89,7 @@ Will you need new knowledge, skills, and behaviours to achieve your imagined fut
 
 ---
 
-# What is meta-learning, and why is it important?
+# What is Meta-learning, and Why is it Important?
 
 ## Reflection: Your Experience of Learning
 

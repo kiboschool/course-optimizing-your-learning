@@ -61,7 +61,7 @@ Self-directed learning allows you to take responsibility for your own learning, 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/F4UW_2ZgNHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
-**Summmary of the areas mentioned in the video:**
+**Summmary of the characteristics mentioned in the video:**
 - Disciplined, Methodical
 - Logical, Analytical
 - Reflective and Self-Aware

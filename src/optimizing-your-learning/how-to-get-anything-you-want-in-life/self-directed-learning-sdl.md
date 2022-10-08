@@ -195,7 +195,8 @@ Here is some useful expansions on some of the key terms in the table:
 
 
 <aside>
-**⚠️ An Aside on How to Ask for Help**
+    
+⚠️ **An Aside on How to Ask for Help**
 
 When you need to ask the community or Kibo team for help, one of the worst ways to ask for help is to send a message that only says, "I need help". Unfortunately, a message like this does not provide the receiver with the vital information to help you. So you won't achieve your desired outcome, i.e. quickly getting the specific help you need. Therefore, when writing a message to ask for help, be sure to include the following information:
 

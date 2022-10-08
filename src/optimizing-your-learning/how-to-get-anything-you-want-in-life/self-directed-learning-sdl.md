@@ -211,6 +211,10 @@ When you need to ask the community or Kibo team for help, one of the worst ways 
 
 </aside>
 
+---
+
+# Questions to Guide Your Self-Directed Learning Process
+
 When setting out to direct your own learning, it can be useful to ask yourself the following questions in order to help shape and guide you through the process.
 
 [Adapted from Source](https://blog.futurefocusedlearning.net/10-self-directed-learning-questions)

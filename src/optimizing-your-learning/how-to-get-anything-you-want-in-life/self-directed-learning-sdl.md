@@ -97,6 +97,9 @@ You will notice that a lot of the characteristics discussed in the video are sim
 - Learning Process Savvy
 - Critical Evaluation Skills
 
+# Activity: Day in the Life of a Self-Directed CS Student
+
+
 <aside>
 
 💬 Think about the self-directed learner profile described in the above videos, and write a short Day in the Life essay for a fictional first-year CS student, who is an excellent self-directed learner. What do you think they think, feel, and do on a typical day that demonstrates their self-directed learning skills and traits? 

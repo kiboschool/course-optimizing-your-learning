@@ -19,6 +19,7 @@
 
 💬 **How would you define learning in your own words?**
 Post your definition in the padlet below.
+**Note:** In order to see and interact with the padlet, you will need to be logged in to your padlet account!
 
 </aside>
 

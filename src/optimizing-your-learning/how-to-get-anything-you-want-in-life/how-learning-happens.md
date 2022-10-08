@@ -72,8 +72,9 @@ So what does this mean for you as you embark on your computer science journey?
 
 When you are struggling to learn a new skill or understand a new piece of knowledge, remember that this is how the brain works in the process of learning anything. **Everything is hard until it becomes easy.**  So be confident in your learning, trust your brain, practice the skill to develop your neural pathways, and be patient with yourself as your neural pathways develop. Furthermore, when you are learning something new, being able to connect it to knowledge or skills that you already have will allow you to leverage already existing neural pathways
 
+This also means that it is important to learn consistently. So, instead of practising your coding skills in a single 4 hour block one day per week, it is better for you to practice in four 1-hour blocks spread throughout the week. This consistent and routine firing of your neural pathways will make them stronger, which will ultimately make it feel less effortful.
 
-
+Another important thing to remember is that you should be racticing the skill that you want to get better at, as opposed to just taking in knowledge about that skill. One mistake students often make when studying is to just read through the material, and assume that this passive studying is helping them develop their skills. Instead, you should be practicing the actual skill, and getting feedback on what you can do correctly and what you can't yet do correctly. For example, this means that when studying for your Programming 1, focus your energy on completing the practice questions and projects, don't just read the lesson materials. 
 
 Remember, it might be difficult at the start, but with the strengthening of the neural pathways in your brain through practice, you will increase your comfort and mastery of the subject.
 

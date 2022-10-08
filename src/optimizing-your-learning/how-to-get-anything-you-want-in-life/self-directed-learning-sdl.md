@@ -231,7 +231,7 @@ When setting out to direct your own learning, it can be useful to ask yourself t
     - What would happen if I don’t find out what I need to or didn’t develop my skills adequately?
     - How will this knowledge change things for me or others?
 - **HOW DO I INTEND TO USE THIS KNOWLEDGE?**
-    - For personal development? For problem-solving? For general interest?For use in other learning challenges? To respond to specific questions?
+    - For personal development? For problem-solving? For general interest? For use in other learning challenges? To respond to specific questions?
 - **WHAT ARE MY CAPABILITIES AND LIMITATIONS?**
     - Capabilities - What do I know or what can I do now that will help me?
     - Limitations - What can’t I do? And can I learn how to do it? (considering timeframe, budget, etc.)

@@ -109,7 +109,7 @@ Remember, it might be difficult at the start, but with the strengthening of the 
 
 💬 It is week 3 of the first term of Kibo's degree program, and Kofi is feeling stressed. He is supposed to be building a password validator for the weekly project, but he just can't seem to understand how loops work, and he needs to use them in project. Based on what you've learned about how learning happens in the brain, what advice would you give Kofi to help him get back on track?
   
-**Post your answer in the padlet bellow.**
+**Post your advice in the padlet bellow.**
 
 </aside>
 

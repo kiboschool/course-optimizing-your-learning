@@ -183,8 +183,6 @@ The table below outlines behaviors that effective self-directed learners exhibit
 | Diagnosing Learning Needs | Help Seeking  |  |
 | Determining Learning Strategy | |  |
 
-[Source](https://www.learningpersonalized.com/holy-trinity-self-direction-self-managing-self-monitoring-self-modifying/)
-
 
 Here is some useful expansions on some of the key terms in the table:
 - **Goal Setting:** Taking the learning needs one step further, the learner formulates clear goals by asking questions like: What will I be able to do once I have completed my learning? In the example, the owner might want to be able to use specific applications or perform some other specific function.

@@ -131,20 +131,20 @@ Steps of Gibbs’ Reflective Cycle:
 </aside>
 
 ---
-<!--
+
 ## Reflect: Reflecting on Mistakes and Failiure
 
 <aside>
 
 
-🪞 Think about the last time you made a mistake or failed at some thing. Select one of the 3 reflection models presented in this section, and use its steps to reflect on your experience.
+🪞 Think about the last time you made a mistake or failed at some thing. Select one of the 2 reflection models given in the padlet below, and use its steps to reflect on your experience.
 
 </aside>
 
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/embed/7bvweo9k71s82i9q" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
 ---
--->
+
 <aside>
 
 

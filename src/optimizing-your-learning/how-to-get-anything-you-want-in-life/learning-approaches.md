@@ -21,8 +21,27 @@ So far in Lesson 1, we have learnt about how learning happens in the brain, and 
 
 </aside>
 
+---
 
-## VARK Learning Theory
+## Two Popular Learning Style Theories
+
+In this section we will explore two popular learning style theoires. 1) The Index of Learning Styles, which was introudced in the article above, and 2) VARK learning theory, which is widely used. As we discuss these learning theories, please keep the earlier stated arguments from both the learning style skeptics and supports in mind.
+
+### Index of Learning Styles
+
+<aside>
+
+
+📺 Watch the following video for an introduction to the Index of Learning Sytles
+
+</aside>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/CSVJoNbcGUg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+
+You can complete the Index of Learning Styles Questionaire [here](https://www.webtools.ncsu.edu/learningstyles/). and you can find more detailed information and supporting material [here](https://educationdesignsinc.com/index-of-learning-styles/).
+
+### VARK Learning Theory
 
 The VARK Learning Theory establishes that there are 4 main ways that people can learn (sometimes called “learning styles”), which are as follows:
 

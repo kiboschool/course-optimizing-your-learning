@@ -68,7 +68,7 @@ You will be required to work on this project throughout the 5 weeks of the cours
 At the end of the term you will need to submit:
 
 - Your group learning plan (Milestone 1)
-- A video presentation about your SDL project (Milestone 3)
+- A video lesson on your SDL topic (Milestone 3)
 - Your Learning self-evaluation and peer evaluations (Milestone 4)
 - A written reflection on the group learning experience (Milestone 4)
 

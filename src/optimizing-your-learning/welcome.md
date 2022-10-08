@@ -33,9 +33,9 @@ Since the goal of this course is to help you improve your learning skills, there
 ## Course and Instructor Information
 
 The instructor for this course is: Dr Keno Omu.
-The course will run from October 10 - November 13, 2022. Note that this is a **5 week course**.
+The course will run from October 10 to November 13, 2022. Note that this is a **5 week course**.
 
-Live classes will be held on Tuesdays. You only need to attend **one** of these classes.
+Live classes will be held on Tuesdays. You only need to attend **one** of these classes each week.
   - Class 1: 3:30-5:00 pm GMT.
   - Class 2: 5:30-7:00 pm GMT.
 

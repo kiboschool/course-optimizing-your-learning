@@ -285,7 +285,7 @@ Once you begin your learning journey (you are traversing your map), you will nee
     - How can I improve my efforts, processes, and outcomes in the future?
 
 
-The critical question to ask yourself when you think that your learning is complete is "How do I know my learning is complete and that I have actually reached my goal?" 
+The critical question to ask yourself when you think that your learning is complete is "How do I know my learning is complete and that I have actually reached my goal?" And what evidence can you provide to support your answer to this question.
 
 
 <aside>

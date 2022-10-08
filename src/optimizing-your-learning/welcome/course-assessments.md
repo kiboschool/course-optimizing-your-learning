@@ -20,7 +20,7 @@ Week 3 - Learning Context Experiment (Due date: October 31st, 2022)
 
 Week 4 - Memory Challenge (Due date: November 7th, 2022)
 
-More information about each challenge can be found on the assignment page of each week’s lesson.
+More information about each assignment can be found on the assignment page of each week’s lesson.
 
 All four assignments will be worth 50% of your final grade, therefore each assignment is 12.5% of your final grade. 
 

@@ -4,7 +4,7 @@
 
 ---
 
-So far in Lesson 1, we have learnt about how learning happens in the brain, and how certain cognitive skills can influence how well you are able to manage your learning. In this section, we will explore the different ways in which people leverage their neuroplasticity and cogntive skills to learn. There have been a lot of controversies around the concept of “learning styles”, so before we jump into the lesson, let’s watch a video that talks about the misconception of learning styles.
+So far in Lesson 1, we have learnt about how learning happens in the brain, and how certain cognitive skills can influence how well you are able to manage your learning. In this section, we will explore the different ways in which people leverage their neuroplasticity and cognitive skills to learn. There have been a lot of controversies around the concept of “learning styles”, so before we jump into the lesson, let’s watch a video that talks about the misconception of learning styles.
 
 <aside>
 

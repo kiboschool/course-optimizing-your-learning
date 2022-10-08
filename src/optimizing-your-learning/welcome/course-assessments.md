@@ -84,6 +84,6 @@ When you sign into Gradescope for Optimizing Your Learning, you will see all you
 
 ![gradescope](./Gradescope.png)
 
-**You will also need to submit a link to your assignment in the Woolf platform, so we have the academic record of your submission.**
+**You will also need to submit a copy of your assignment in the Woolf platform, so that they have the academic record of your submission.**
 
 ---

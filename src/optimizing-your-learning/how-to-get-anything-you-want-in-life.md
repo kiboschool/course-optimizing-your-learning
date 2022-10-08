@@ -14,7 +14,7 @@ After completing this lesson, you will be able to:
 
 - Explain how learning happens in the brain, and apply this knowledge to improve your learning process.
 - Implement methods to improve your executive functioning skills.
-- Describe your learning strengths and preferences.
+- Describe your learning preferences.
 - Implement self-directed learning using simple steps and frameworks.
 - Apply reflective learning practices to your learning process.
 

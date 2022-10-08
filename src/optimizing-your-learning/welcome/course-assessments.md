@@ -53,7 +53,7 @@ The total word count for this essay is 1000-1500 words, and your grade on this a
 "People learn the most when teaching others." - Peter F. Drucker
 </aside>
 
-For your second final assessment, you will work in groups of 4-5 students to carry out a self-directed learning project. Your goal is to select a topic that you will learn about, create a learning plan for your group, implement the learning plan, and then submit a 10 minute video lesson teaching the topic to the rest of your classmates. 
+For your second final assessment, you will work in groups of 4-5 students to carry out a self-directed learning project. Your goal is to select a topic that you will learn about, create a learning plan for your group, implement the learning plan, and then submit a video lesson teaching the topic to the rest of your classmates. 
 
 You will be required to work on this project throughout the 5 weeks of the course, and there are some milestones that you will need to reach during weeks 2, 3, and 4.
 

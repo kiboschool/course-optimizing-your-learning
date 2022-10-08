@@ -39,7 +39,7 @@ Live classes will be held on Tuesdays. You only need to attend **one** of these 
   - Class 1: 3:30-5:00 pm GMT.
   - Class 2: 5:30-7:00 pm GMT.
 
-Office hours will be held 5-7pm on Thursdays. This is optional chances to get additional support from the instructor.
+Office hours will be held 5-7pm on Thursdays. This is an optional chance to get additional support from the instructor.
   
 <aside>
 

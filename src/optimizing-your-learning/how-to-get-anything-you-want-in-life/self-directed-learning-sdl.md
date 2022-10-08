@@ -91,8 +91,8 @@ You will notice that a lot of the characteristics discussed in the video are sim
 - Interdependently Competent
 - Persistent and Responsible
 - Creative
-- Confidence
-- Self-sufficient
+- Confident
+- Self-Sufficient
 - Information Seeker
 - Learning Process Savvy
 - Critical Evaluation Skills

@@ -249,7 +249,7 @@ When setting out to direct your own learning, it can be useful to ask yourself t
     - How will I learn? 
     - With whom will I learn? 
     - What will be the structure of my learning sessions? Frequency, duration, etc.
-- **HOW WILL I KNOW MY LEARNING WAS SUCCESSFUL? (QUESTIONS TO ASK BEFORE LEARNING)**
+- **HOW WILL I KNOW MY LEARNING IS SUCCESSFUL?**
     - What would success look like? And how will I measure that?
     - What evidence do I need to collect in order to evaluate my success?
     - How will I collect this evidence?
@@ -278,7 +278,7 @@ Once you begin your learning journey (you are traversing your map), you will nee
 
 ### Evaluating
 
-- **HOW WILL I KNOW MY LEARNING WAS SUCCESSFUL? (QUESTIONS TO ASK AFTER LEARNING)**
+- **HOW WILL I KNOW MY LEARNING WAS SUCCESSFUL?**
     - What were the results of my efforts?
     - How did I succeed or fall short of accomplishing my goal?
     - What went well, and what didn’t?

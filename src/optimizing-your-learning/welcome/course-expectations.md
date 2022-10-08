@@ -53,7 +53,7 @@ All course announcements from the instructor will also be posted to the pinned a
 
 ## Tools Used in This Course
 
-### Padlet Account
+### Padlet
 
 <aside>
 During the live classes and throughout the online lessons, you will submit short written text, respond to discussion questions, or comment on your classmates' work using an online tool called Padlet.

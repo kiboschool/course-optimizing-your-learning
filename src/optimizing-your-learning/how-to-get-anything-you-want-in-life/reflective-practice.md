@@ -63,9 +63,9 @@ The conscious examination of past experiences, thoughts, and ways of doing thing
 
 Steps of What? So What? Now What? Model:
 
-- **What? - D**escribe the situation you want to learn from. Identify the facts and feelings of the situation.
-- **So What?** - Extract the meaning of what you experienced, question what knowledge you and others had in the situation, and what knowledge could help you make sense of the situation.
-- **Now what?** - Create an action plan for the future based on the previous questions.
+- **What? -** Describe the situation.
+- **So What?** - Identify key takeaways from your experience.
+- **Now what?** - Determine what you will do differently in the future, based on what you learned from the experience.
 
 <aside>
 

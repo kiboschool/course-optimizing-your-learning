@@ -77,7 +77,7 @@ At some point, you have likely learned effectively in most of the above formats.
 
 **Don’t limit yourself with ‘Learning Styles’!**
 
-It is common for people to blame their lack of success in a particular area of learning on learning styles. **Don’t do this.** Rather than focus on fixed learning styles as a limitation, you can expand your learning possibilities through learning preferences. And think about how you can utilize multiple approaches to learning in your learning routine to help you achieve your learning goals.
+It is common for people to blame their lack of success in a particular area of learning on learning styles. **Don’t do this.** Rather than focus on fixed learning styles as limitations, you can expand your learning possibilities by thinking of learning styles as flexible "learning approaches". This will allow you to think about how you can utilize multiple learning approaches in your learning routine so that you achieve your learning goals.
 
 ---
 

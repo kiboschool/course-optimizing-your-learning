@@ -68,9 +68,9 @@ At some point, you have likely learned effectively in most of the above formats.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/855Now8h5Rs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-**Here are some helpful points from the video to note:**
+**Here are some helpful takeaways from the video:**
 
-- Learning happens when meaning is associated with something and this can happen in a variety of ways
+- Learning happens when meaning is associated with something, and this can happen in a variety of ways
 - Learning approaches will depend on what needs to be learned or taught
 - Subjects can be learned using multiple approaches
 - We are all capable of learning in a variety of ways and with a variety of approaches.

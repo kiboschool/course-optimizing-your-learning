@@ -19,7 +19,7 @@
 
 I will assume that you unpacked the device, read the user manual (or not 🤷🏿‍♀️), watched some YouTube videos about your new device, or maybe even asked people who owned this model before you about some of the steps and hacks that could help you to get the best out of your new device. Then you played around with the device, testing if you could get certain features to work, and learned from your explorations. If this describes what you did, then you demonstrated self-directed learning. One of the reasons this was effective was because you had a clear goal, you wanted to be able to get the best out of this new device.
 
-Self-directed learning is a learning process where you take responsibility to initiate and perform your own learning around a subject matter. This has numerous benefits, including strengthening your confidence as a learner and improving engagement and retention with what you are learning.
+Self-directed learning is a learning process where you take responsibility to initiate and perform your own learning around a subject matter. This has numerous benefits, including strengthening your confidence as a learner and improving engagement with, and retention of, what you are learning.
 
 ---
 

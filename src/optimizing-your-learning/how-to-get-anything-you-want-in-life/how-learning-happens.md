@@ -102,3 +102,19 @@ Remember, it might be difficult at the start, but with the strengthening of the 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/snkyizQr6N4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ---
+
+## Discussion: Advising a Classmate
+
+<aside>
+
+💬 It is week 3 of the first term of Kibo's degree program, and Kofi is feeling stressed. He is supposed to be building a password validator for the weekly project, but he just can't seem to understand how loops work, and he needs to use them in project. Based on what you've learned about how learning happens in the brain, what advice would you give Kofi to help him get back on track?
+  
+**Post your answer in the padlet bellow.**
+
+</aside>
+
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/srvmt77u8kzqedrr" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
+
+
+---
+

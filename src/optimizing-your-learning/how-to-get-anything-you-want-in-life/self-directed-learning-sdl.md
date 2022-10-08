@@ -178,15 +178,15 @@ The table below outlines behaviors that effective self-directed learners exhibit
 
 | Planning | Monitoring | Evaluating |
 | --- | --- | --- |
-| Goal Setting | Attention and Focusing | Self-Evaluation |
-| Strategic Planning | Self-Instruction   | Reflection |
-| Determining Learning Strategy | Help Seeking  |  |
-| Diagnosing Learning Needs | |  |
+| Diagnosing Learning Needs | Attention and Focusing | Self-Evaluation |
+| Goal Setting | Self-Instruction   | Reflection |
+| Strategic Planning | Help Seeking  |  |
+| Determining Learning Strategy | |  |
 
 
 Here is some useful expansions on some of the key terms in the table:
-- **Goal Setting:** Taking the learning needs one step further, the learner formulates clear goals by asking questions like: What will I be able to do once I have completed my learning? 
 - **Diagnosing Learning needs:** It all starts with questions like: What do I not know? What do I need to learn? Why do I want to learn this? 
+- **Goal Setting:** Taking the learning needs one step further, the learner formulates clear goals by asking questions like: What will I be able to do once I have completed my learning? 
 - **Strategic Planning and Determing a Learning Strategy:** In order to build upon existing knowledge and ideas, the learner has to determine an appropriate approach to, and resources for, learning. 
 - **Help Seeking:** While self-directed learning is about being in control of your own learning, it doesn't mean that you need to learn alone. An important practice to use when learning, is knowing when to ask for help, where you can find help, and who you can approach for help. 
 - **Self-Evaluation:** After learning strategies are implemented, the learner then evaluates their learning to see how effective the process was. Using their learning goals as a benchmark, the learner can ascertain how effective their learning process was and can subsequently improve on it. 

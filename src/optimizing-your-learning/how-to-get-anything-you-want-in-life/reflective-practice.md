@@ -137,7 +137,7 @@ Steps of Gibbs’ Reflective Cycle:
 
 ---
 
-## Reflect: Reflecting on Mistakes and Failiure
+## Reflect: Reflecting on Mistakes and Failure
 
 <aside>
 

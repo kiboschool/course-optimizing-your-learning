@@ -9,7 +9,7 @@ So far in Lesson 1, we have learnt about how learning happens in the brain, and 
 <aside>
 
 
-📺 Watch this video on the myth of learning styles
+📺 Watch this video on the myth of learning styles.
 
 </aside>
 
@@ -32,7 +32,7 @@ In this section, we will explore two popular learning style theories. 1) The Ind
 <aside>
 
 
-📺 Watch the following video for an introduction to the Index of Learning Sytles
+📺 Watch the following video for an introduction to the Index of Learning Sytles.
 
 </aside>
 

@@ -180,8 +180,8 @@ The table below outlines behaviors that effective self-directed learners exhibit
 | --- | --- | --- |
 | Goal Setting | Attention and Focusing | Self-Evaluation |
 | Strategic Planning | Self-Instruction   | Reflection |
-| Diagnosing Learning Needs | Help Seeking  |  |
-| Determining Learning Strategy | |  |
+| Determining Learning Strategy | Help Seeking  |  |
+| Diagnosing Learning Needs | |  |
 
 
 Here is some useful expansions on some of the key terms in the table:

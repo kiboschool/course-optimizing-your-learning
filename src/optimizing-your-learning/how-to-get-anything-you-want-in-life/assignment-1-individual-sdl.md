@@ -42,7 +42,7 @@ Feelings (10% of word count): describe your emotions before, during, and after t
 
 Evaluation (20% of word count): evaluate your experience, what was good about it and what was bad about it.
 
-Analysis (30% of word count): analyse your evaluation. Explain why it was good or why was it bad.
+Analysis (30% of word count): analyse your evaluation. Explain why it was good or why it was bad.
 
 Conclusion (10% of word count): describe what you learned from the experience.
 

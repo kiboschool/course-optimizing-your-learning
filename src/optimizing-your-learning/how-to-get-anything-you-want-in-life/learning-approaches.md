@@ -25,7 +25,7 @@ So far in Lesson 1, we have learnt about how learning happens in the brain, and 
 
 ## Two Popular Learning Style Theories
 
-In this section, we will explore two popular learning style theoires. 1) The Index of Learning Styles, which was introudced in the article above, and 2) VARK learning theory, which is widely used. As we discuss these learning theories, please keep the earlier stated arguments from both the learning style skeptics and supports in mind.
+In this section, we will explore two popular learning style theories. 1) The Index of Learning Styles, which was introduced in the article above, and 2) VARK learning theory, which is widely used. As we discuss these learning theories, please keep in mind the earlier stated arguments from both the learning style skeptics and supporters.
 
 ### Index of Learning Styles
 

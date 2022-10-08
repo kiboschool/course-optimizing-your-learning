@@ -272,11 +272,11 @@ By the end of the planning stage, you should have a strong sense of why what you
 - **WHO CAN I ASK FOR HELP WHILE LEARNING?**
     - Family, friends, and teachers? Other professionals and experienced enthusiasts? Peers/Advanced Peers? Those who have failed to solve the problem and gained insights from that?
 
-Once you begin your learning journey (you are traversing your map), you will need tools (e.g. a compass) to help you know if you are heading in the right direction. You will also want to interact with guides along the way that can help you if you get stuck.
+Once you begin your learning journey (you are traversing your map), you will need tools (e.g. a compass) to help you know if you are heading in the right direction. You will also want to interact with guides (e.g. experts, instructors, peers) along the way that can help you if you get lost or stuck.
 
 ![Compas](./compas.jpeg)
 
-##Evaluating
+### Evaluating
 
 - **HOW WILL I KNOW MY LEARNING WAS SUCCESSFUL? (QUESTIONS TO ASK AFTER LEARNING)**
     - What were the results of my efforts?

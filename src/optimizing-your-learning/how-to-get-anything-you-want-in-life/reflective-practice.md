@@ -86,6 +86,9 @@ Steps of What? So What? Now What? Model:
 </aside>
 
 
+You can watch a video on the 5R framework [here](https://www.youtube.com/watch?v=scibb0kd4jw).
+
+
 Steps of the 5R framework:
 
 - **Reporting** 

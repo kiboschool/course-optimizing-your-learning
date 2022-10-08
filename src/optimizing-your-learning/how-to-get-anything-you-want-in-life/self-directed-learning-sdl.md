@@ -36,7 +36,7 @@ The ability to set goals, plan for achievement, independently manage time and ef
 <aside>
 
 
-📺 Watch this video to learn more about the concept of self-directed learning
+📺 Watch this video to learn more about the concept of self-directed learning.
 
 </aside>
 
@@ -280,7 +280,6 @@ Here is a summary of the 20 tips from the article:
 ---
 
 <aside>
-
 
 ⚠️ During the first live class we will do a group activity to practice the self-directed learning process.
 

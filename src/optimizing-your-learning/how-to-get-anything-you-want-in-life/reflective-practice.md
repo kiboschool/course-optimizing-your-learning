@@ -65,7 +65,7 @@ Steps of What? So What? Now What? Model:
 
 - **What? -** Describe the situation.
 - **So What?** - Identify key takeaways from your experience.
-- **Now what?** - Determine what you will do differently in the future, based on what you learned from the experience.
+- **Now What?** - Determine what you will do differently in the future, based on what you learned from the experience.
 
 <aside>
 

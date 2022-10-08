@@ -262,7 +262,7 @@ By the end of the planning stage, you should have a strong sense of why what you
 
 ### Monitoring
 
-- **HOW DO I KNOW MY LEARNING IS PROGRESSING SUCCESSFULLY? (QUESTIONS TO ASK DURING LEARNING)**
+- **HOW DO I KNOW MY LEARNING IS PROGRESSING SUCCESSFULLY?**
     - What evidence do I need to collect in order to evaluate my progress
     - How will I collect this evidence?
 - **WHAT WILL I DO WHEN I HIT A ROADBLOCK?**

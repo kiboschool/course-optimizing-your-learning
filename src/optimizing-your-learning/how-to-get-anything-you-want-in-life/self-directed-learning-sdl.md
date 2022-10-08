@@ -188,11 +188,11 @@ The table below outlines behaviors that effective self-directed learners exhibit
 
 
 Here is some useful expansions on some of the key terms in the table:
-- **Diagnosing Learning needs:** It all starts with questions like: what do I not know? What do I need to learn and why do I want to learn this? In the example of the new device at the beginning of this lesson, the learner wants to be able to use their new device (perhaps a phone in this case) effectively. 
+- **Diagnosing Learning needs:** It all starts with questions like: What do I not know? What do I need to learn? Why do I want to learn this? In the example of the new device at the beginning of this lesson, the learner wants to be able to use their new device effectively. 
 
-- **Goal Setting:** Taking the learning needs one step further, the learner formulates clear goals by asking questions like what will I learn? what will I be able to do once I have completed my learning? etc. In the example, the owner might want to be able to use specific applications or perform some other specific function.
+- **Goal Setting:** Taking the learning needs one step further, the learner formulates clear goals by asking questions like: What will I be able to do once I have completed my learning? In the example, the owner might want to be able to use specific applications or perform some other specific function.
 
-- **Strategic Planning and Determing a Learning Strategy:** In order to build upon existing knowledge and ideas, the learner has to determine appropriate approach to, and resources for, learning. 
+- **Strategic Planning and Determing a Learning Strategy:** In order to build upon existing knowledge and ideas, the learner has to determine an appropriate approach to, and resources for, learning. 
 
 - **Self-Evaluation:** After learning strategies are implemented, the learner then evaluates their learning to see how effective the process was. Using their learning goals as a benchmark, the learner can ascertain how effective their learning process was and can subsequently improve on it. 
 

@@ -107,7 +107,7 @@ Remember, it might be difficult at the start, but with the strengthening of the 
 
 <aside>
 
-💬 It is week 3 of the first term of Kibo's degree program, and Kofi is feeling stressed. He is supposed to be building a password validator for the weekly project, but he just can't seem to understand how loops work, and he needs to use them in project. Based on what you've learned about how learning happens in the brain, what advice would you give Kofi to help him get back on track?
+💬 It is week 3 of the first term of Kibo's degree program, and Kofi is feeling stressed. He is supposed to be building a password validator for the weekly project, but he just can't seem to understand how loops work, and he needs to use them in project. He is now starting to think that maybe computer science isn't for him, and he just doesn't have what it takes to succeed. Based on what you've learned about how learning happens in the brain, what advice would you give Kofi to help him get back on track?
   
 **Post your advice in the padlet bellow.**
 

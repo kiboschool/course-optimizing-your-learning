@@ -10,7 +10,7 @@ Have you ever considered how learning happens? And specifically, how ***your own
 
 As mentioned in the [**Motivation section**](/optimizing-your-learning/how-to-get-anything-you-want-in-life/motivation.md), learning is about growth and change. So let’s start by exploring how your brain changes over time.
 
-**Note:** The detailed neuroscience of how the brain works is beyond the scope of this course, so in this section, we will only be doing a shallow dive into how the brain learns. If you are interested in going deeper and learning more, [Grasp by Sanjay Sharm and Luke Yoquinto](https://www.amazon.com/Grasp-Science-Transforming-How-Learn-ebook/dp/B082H24X6Y/) is a great introduction into the topic.
+**Note:** The detailed neuroscience of how the brain works is beyond the scope of this course, so in this section, we will only be doing a shallow dive into how the brain learns. If you are interested in going deeper and learning more, [Grasp by Sanjay Sharma and Luke Yoquinto](https://www.amazon.com/Grasp-Science-Transforming-How-Learn-ebook/dp/B082H24X6Y/) is a great introduction into the topic.
 
 <aside>
 

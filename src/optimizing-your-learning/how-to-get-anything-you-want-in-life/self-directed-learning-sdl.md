@@ -118,7 +118,7 @@ You will notice that a lot of the characteristics discussed in the video are sim
     
 
 
-📺 Watch this video from David (a Kibo mentor and Software Engineer at Verkada) where he talks about self-driven learning and curiosity as key skills that he looks for when hiring software engineers.
+📺 Watch this video from David (a Kibo mentor and Software Engineering Manager at Verkada) where he talks about self-driven learning and curiosity as key skills that he looks for when hiring software engineers.
 
 </aside>
 

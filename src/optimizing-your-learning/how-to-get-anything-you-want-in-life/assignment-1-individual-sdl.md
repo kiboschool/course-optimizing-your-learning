@@ -13,7 +13,7 @@
 
 Word limit: 500 - 1000 words.
 
-Use the Gibbs' Reflective Cycle from Section 1.6 Reflective Practice, and write a reflection about your experience during Kibo's Orientation Week. 
+Use Gibbs' Reflective Cycle from Section 1.6 Reflective Practice, and write a reflection about your experience during Kibo's Orientation Week. 
 
 The activities during orientation week were:
 - Day 1: Icebreakers (2 Truths and a Lie; Hope and Fear)

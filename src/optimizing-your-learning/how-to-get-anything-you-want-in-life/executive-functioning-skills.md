@@ -86,7 +86,7 @@ A set of cognitive processes that help us self-regulate so we can effectively pl
 
 </aside>
 
-Below are some more core Executive Functioning skills that influence your ability to learn effectively. With each skill listed below, in addition to the explanation, you will find a few strategies highlighted that you can practice improving the skill.
+Below are some more Executive Functioning skills that influence your ability to learn effectively. With each skill listed, in addition to the explanation, you will find a few strategies highlighted that you can use to improve the skill.
 
 ![executive-functioning-skills.webp](/optimizing-your-learning/how-to-get-anything-you-want-in-life/executive-functioning-skills/executive-functioning-skills.webp)
 

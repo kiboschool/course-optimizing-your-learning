@@ -178,24 +178,39 @@ The table below outlines behaviors that effective self-directed learners exhibit
 
 | Planning | Monitoring | Evaluating |
 | --- | --- | --- |
-| Goal Setting | Attention | Self-Evaluation |
-| Strategic Planning | Focusing  | Reflection |
-| Diagnosing Learning Needs | Self-Instruction  |  |
-| Determining Learning Strategy | Self-Monitoring  |  |
-|  | Help-Seeking |  |
+| Goal Setting | Attention and Focusing | Self-Evaluation |
+| Strategic Planning | Self-Instruction   | Reflection |
+| Diagnosing Learning Needs | Help Seeking  |  |
+| Determining Learning Strategy | |  |
 
 [Source](https://www.learningpersonalized.com/holy-trinity-self-direction-self-managing-self-monitoring-self-modifying/)
 
 
 Here is some useful expansions on some of the key terms in the table:
-- **Diagnosing Learning needs:** It all starts with questions like: What do I not know? What do I need to learn? Why do I want to learn this? In the example of the new device at the beginning of this lesson, the learner wants to be able to use their new device effectively. 
-
 - **Goal Setting:** Taking the learning needs one step further, the learner formulates clear goals by asking questions like: What will I be able to do once I have completed my learning? In the example, the owner might want to be able to use specific applications or perform some other specific function.
-
+- **Diagnosing Learning needs:** It all starts with questions like: What do I not know? What do I need to learn? Why do I want to learn this? In the example of the new device at the beginning of this lesson, the learner wants to be able to use their new device effectively. 
 - **Strategic Planning and Determing a Learning Strategy:** In order to build upon existing knowledge and ideas, the learner has to determine an appropriate approach to, and resources for, learning. 
-
+- **Help Seeking:** While self-directed learning is about being in control of your own learning, it doesn't mean that you need to learn alone. An important practice to use when learning, is knowing when to ask for help, where you can find help, and who you can approach for help. 
 - **Self-Evaluation:** After learning strategies are implemented, the learner then evaluates their learning to see how effective the process was. Using their learning goals as a benchmark, the learner can ascertain how effective their learning process was and can subsequently improve on it. 
 
+
+<aside>
+**⚠️ An Aside on How to Ask for Help**
+
+When you need to ask the community or Kibo team for help, one of the worst ways to ask for help is to send a message that only says, "I need help". Unfortunately, a message like this does not provide the receiver with the vital information to help you. So you won't achieve your desired outcome, i.e. quickly getting the specific help you need. Therefore, when writing a message to ask for help, be sure to include the following information:
+
+- Details of your goal. "*I am trying to [goal].*" 
+- Details of what you have tried so far. "*I have tried [details of how you have tried to solve the problem already].*"
+- Any helpful context.
+- Specific ask. "*Can you help me [specific ask]*"
+</aside>
+
+<aside>
+
+
+📖 Read the following article to learn more about [**Planning (Self-Management), Monitoring, Evaluating (Self-Modifying)**](https://www.learningpersonalized.com/holy-trinity-self-direction-self-managing-self-monitoring-self-modifying/).
+
+</aside>
 
 When setting out to direct your own learning, it can be useful to ask yourself the following questions in order to help shape and guide you through the process.
 

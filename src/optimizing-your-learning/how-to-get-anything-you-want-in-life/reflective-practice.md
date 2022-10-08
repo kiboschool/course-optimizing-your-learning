@@ -27,7 +27,7 @@
 
 Reflective learning is a practice that helps you to move from being a passive learner into being an active one. It is the practice of monitoring and evaluating your own learning process with the objective of finding ways to improve. If self-directed learning puts you in charge of your learning process, then the reflective learning practice is about being able to evaluate and improve that learning process.
 
-Reflection completes the learning process because it allows you to step back and evaluate the learning process.
+Reflection completes the learning process because it allows you to step back and evaluate your learning.
 
 Reflection in Learning can happen in 2 ways:
 

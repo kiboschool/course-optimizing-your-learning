@@ -43,14 +43,23 @@ The ability to set goals, plan for achievement, independently manage time and ef
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/W0l958z9JUo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
-The table below outlines the characteristics of the two most extreme types of learners, the dependent learner and the self-directed learner.
-| Level of Self-Directedness | Key Characteristics of the Learner | Additonal Notes |
-| --- | --- | --- |
-| Dependent Learner | <ul><li>Relies on an instructor to set learning goals, monitor learning progress, and evaluate learning outcomes</li><li>Learner completes list of instructor-created tasks</li><li>Learner is entirely dependent on the instructor</li><li>Learner has little awareness that there is an option for them to take some control over their learning</li></ul> | Common place in traditional primary and secondary school environments, and many university environments with the "chew & pour" mentality |
-| Self-Directed Learner | <ul><li>Is able to set their learning goals, monitor learning progress, and evaluate their learning outcomes</li><li>Can culviate their desires, and knows how to pursue them</li><li>See instructor as a learning consultant who can provide advice and feedback</li><li>Learner can identify and source the resources need to complete their learning</li></ul> | Common place in on the job learning |
+Here is a summary of how the two most extreme types of learners (the dependent learner and the self-directed learner) compare:
+- **Dependent Learner**
+    - Relies on an instructor to set learning goals, monitor learning progress, and evaluate learning outcomes.
+    - Is able to completes list of instructor-created tasks
+    - Has little awareness that there is an option for them to take some control over their learning
+    - This type of learner is common place in traditional primary and secondary school environments, and many university environments with the "chew & pour" mentality
+ 
+ 
+- **Self-Directed Learner**
+    - Is able to set their learning goals, monitor learning progress, and evaluate their learning outcomes.
+    - Can identify their desires, and knows what they need to do to pursue them.
+    - Sees the instructor as a learning consultant who can provide advice and feedback.
+    - Can identify and source the resources need to complete their learning.
+    - This type of learner is common place in on the job learning.
 
 
-Self-directed learning allows you to take responsibility for your own learning, which results in greater ownership and autonomy. In self-directed learning, the teacher acts as a guide/facilitator/consultant to support you and give you feedback during your learning journey. At Kibo, you will learn using a combination of all four levels mentioned in the video during different parts of your formal academic courses, and any additional side projects that you want to take on.
+Self-directed learning allows you to take responsibility for your own learning, which results in greater ownership and autonomy. In self-directed learning, the teacher acts as a guide/facilitator/consultant to support you and give you feedback during your learning journey. At Kibo, you will learn using a combination of all four levels mentioned in the video during different parts of your formal academic courses, and any additional side projects that you choose to take on.
 
 <aside>
 

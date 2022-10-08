@@ -45,6 +45,7 @@ If you recall from the previous section, the final stage of self-directed learni
 
 The conscious examination of past experiences, thoughts, and ways of doing things.  Its goal is to surface learning about oneself and the situation and to bring meaning to it in order to inform the present and the future.  It challenges the status quo of practice, thoughts, and assumptions and may therefore inform our decisions, actions, attitudes, beliefs, and understanding about ourselves.
 </aside>
+
 [Source](https://www.ed.ac.uk/reflection)
 
 ---

@@ -62,7 +62,7 @@ According to Daniel Pink, the components of intrinsic motivation can be describe
 
 ---
 
-## How to Maintain Motivation in Learning
+## How to Maintain Motivation When Learning
 
 Self-motivation is the ability to find and maintain a cause that drives you towards action. In learning, motivation enables us to take charge of our own learning and to sustain our attention and performance. Here are some more ways to maintain motivation in learning which revolve around the 3 factors mentioned by Daniel Pink above (autonomy, mastery and purpose):
 
@@ -81,8 +81,9 @@ Self-motivation is the ability to find and maintain a cause that drives you towa
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/xTbV6OvNiX8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+---
 
-## General Tips for Increasing Motivation
+## Some Final Tips for Increasing Motivation
 
 
 <aside>
@@ -94,6 +95,7 @@ Self-motivation is the ability to find and maintain a cause that drives you towa
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/M1Qz5Wow-lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+---
 
 ## Discuss: Advising a Classmate
 

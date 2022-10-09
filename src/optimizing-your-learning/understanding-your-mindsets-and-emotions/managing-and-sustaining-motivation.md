@@ -49,7 +49,7 @@ As mentioned in the video, motivation can be extrinsic or intrinsic:
 
 - **Extrinsic Motivation**
     
-    Extrinsic motivation is the motivation that is initiated by forces outside of us or external forces. For example, you might be motivated to study and get good grades because it is the expectation of your parents and family. This could further be connected to positive or negative consequences. A negative consequence as motivation might be that your educational fees stop being sponsored if you perform poorly while a positive motivation might be that you win a cash award for exemplary performance.  
+    Extrinsic motivation is the motivation that is initiated by forces outside of us or external forces. For example, you might be motivated to study and get good grades because it is the expectation of your parents and family. This could further be connected to positive or negative consequences. A negative consequence as motivation might be that your educational fees stop being sponsored if you perform poorly, while a positive motivation might be that you win a cash award for exemplary performance.  
     
 - **Intrinsic Motivation**
     
@@ -65,11 +65,11 @@ As mentioned in the video, motivation can be extrinsic or intrinsic:
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/u6XAPnuFjJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-The components of intrinsic motivation can be described as:
+According to Daniel Pink, the components of intrinsic motivation can be described as:
 
 - **Autonomy**: The urge to direct our own lives
-- **Mastery/Competence**: The desire to get better at something that matters
-- **Purpose/Relatedness**: The yearning to do what we do in the service of something larger than ourselves
+- **Mastery**: The desire to get better at something that matters
+- **Purpose**: The yearning to do what we do in the service of something larger than ourselves
 
 ---
 

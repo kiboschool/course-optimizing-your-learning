@@ -95,7 +95,7 @@ Here are some examples of limiting beliefs:
     - When a situation triggers the old limiting belief, think of the empowering belief instead, and let it guide your behavior.
     - You can also use quotes and visualisation to help you disrupt your "limiting belief" and utilise your "empowering belief".
 
-If creating an empowering belief seems too challenging, you can work on just questioning your limiting beliefs and trying to push through them using the following techniques suggested by [the Open Universy](https://www.open.edu/openlearn/health-sports-psychology/psychology/reframing-self-limiting-beliefs):
+If creating an empowering belief seems too challenging, you can work on just questioning your limiting beliefs and trying to push through them using the following techniques suggested by [the Open University](https://www.open.edu/openlearn/health-sports-psychology/psychology/reframing-self-limiting-beliefs):
 
 <aside>
     

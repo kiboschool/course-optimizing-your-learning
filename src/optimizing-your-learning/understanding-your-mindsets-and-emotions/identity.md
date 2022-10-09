@@ -26,7 +26,10 @@ An **identity** is a person's **formulation and expression** of their **individu
 
 - Each person has a set of identities (We all have multiple identities)
 - Each person **chooses** at least some identities, while other identities are **given**.
-- People feel differently about different identities. Some identities are more important than others. Some identities are visible, while others are less apparent. Some identities change over time, while others are constant.
+- People feel differently about different identities. 
+  - Some identities are more important than others. 
+  - Some identities are visible, while others are less apparent. 
+  - Some identities change over time, while others are constant.
 
 ## Identity Mapping
 
@@ -46,12 +49,12 @@ Creating a map of your identity is a way to capture and articulate how you see y
 > ***Chosen Identities** - These are the characteristics that you choose. They may describe your status as well as attributes and skills. Your occupation, hobbies, political affiliation, place of residence, family roles, and religion may all be chosen.*
 >
 
-> ***Core Identities -*** The attributes that you think make you unique as an individual. Some will change over the course of your lifetime, others may remain constant. Elements of your core identity may include traits, behaviors, beliefs, values, and skills.
+> ***Core Identities -*** The attributes that you think make you unique as an individual. Some will change over the course of your lifetime, others may remain constant. Elements of your core identity may include behaviors, beliefs, values, and skills.
 >
 
 Source: Hannum, K. (2008). Leadership in Action: Branching out: Social Identity Comes to the Forefront. Center for Creative Leadership.
 
-![Identity map diagram](./identity/identity-map-diagram.png)
+<!-- ![Identity map diagram](./identity/identity-map-diagram.png) -->
 
 
 ### Reflection: Reflecting on Your Identities

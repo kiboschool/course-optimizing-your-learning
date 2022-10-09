@@ -99,7 +99,7 @@ Here are some examples of limiting beliefs:
     - When a situation triggers the old limiting belief, think of the empowering belief instead, and let it guide your behavior.
     - You can also use of quotes and visualisation to help you disrupt your "limiting belief" and utilise your "empowering belief".
 
-If creating an empowering belief seems too challenging, you can work on just questioning your limiting beliefs using the following questioning techniques suggested by [the Open Universy](https://www.open.edu/openlearn/health-sports-psychology/psychology/reframing-self-limiting-beliefs):
+If creating an empowering belief seems too challenging, you can work on just questioning your limiting beliefs and trying to push through tem using the following techniques suggested by [the Open Universy](https://www.open.edu/openlearn/health-sports-psychology/psychology/reframing-self-limiting-beliefs):
 
 <aside>
     
@@ -112,18 +112,22 @@ If creating an empowering belief seems too challenging, you can work on just que
 </aside>
     
 <aside>
+    
 **Putting it in perspective:** Ask yourself the following questions to put your limiting belief into perspective.
 - Is this as bad as I am making it out to be?
 - What is the worst thing that could happen? How likely is it?
 - What is the best thing that could happen?
 - What is most likely to happen?
+    
 </aside>
 
 <aside>
+    
 **Using goal-directed thinking:** Ask yourself the following questions to help push through your limiting belief.
 - Does thinking like this help me to feel good or to achieve my goals?
 - What can I do that would help solve the problem?
 - What could I instead learn from this, to help me do things/feel better next time?
+  
 </aside>
 
 ---

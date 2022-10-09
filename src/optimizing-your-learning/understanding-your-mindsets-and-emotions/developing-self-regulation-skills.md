@@ -33,7 +33,7 @@ Here are some of the ways self-regulation manifests in our learning process:
 
 - **Setting Goals**
     
-    The beginning of all attainment is goal setting. If we will accomplish mastery in a course or subject, then, we must be clear about the outcomes that we want to achieve with specifics (SMART goal). These learning goals help us to check our own progress, stay accountable to the learning process and determine the strategies and resources required to achieve that goal.
+    The beginning of all attainment is goal setting. If we will accomplish mastery in a course or subject, then, we must be clear about the specific outcomes that we want to achieve. These learning goals help us to check our own progress, stay accountable to the learning process and determine the strategies and resources required to achieve that goal.
     
 - **Exercising Control and Staying Focused**
     

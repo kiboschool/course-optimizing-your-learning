@@ -27,7 +27,9 @@ Like in the quote above, we might not be able to influence what happens to us, b
 
 ## Self-Regulation in Learning
 
-As self-directed learners who understand the role that emotions play in our ability to learn and accomplish our learning goals, we understand that self-regulation is a critical practice we must have if we are going to accomplish challenging outcomes. Also, with the foundation of a growth mindset, we can apply ourselves to practices that help us gain mastery over what we are learning in the long run. mastering technical subjects such as Mathematics and programming can be daunting. Sometimes, we might be tempted to give up or do less than required. However, remembering that our brain pathways only develop with more action and practice (plasticity) can help us maintain self-regulation practices to master tough topics and subjects. Here are some of the ways self-regulation manifests in our learning process: 
+As self-directed learners who understand the role that emotions play in our ability to learn and accomplish our learning goals, we understand that self-regulation is a critical practice we must have if we are going to accomplish challenging outcomes. Also, with the foundation of a growth mindset, we can apply ourselves to practices that help us gain mastery over what we are learning in the long run. Mastering technical subjects such as mathematics and programming can be daunting. Sometimes, we might be tempted to give up or do less than required. However, remembering that our neural pathways only develop with more action and practice can help us maintain self-regulation practices to master tough topics and subjects. 
+
+Here are some of the ways self-regulation manifests in our learning process: 
 
 - **Setting Goals**
     

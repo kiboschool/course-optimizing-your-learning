@@ -107,14 +107,6 @@ According to Daniel Goleman, who has researched and written extensively on the s
 - **Social Skills (or Relationship Management)**
     
     Social skills help us to bring all the skills of emotional intelligence into cordial and effective relationships with other people whether at work or in life. Social skills is the ability to interact well with people and build relationships with them. Without the previous set of emotional intelligence skills, it is hard to possess/practice social skills. This means that our ability to be successful in relationships with people begins with our ability to understand ourselves, and our emotions and be successful in relating with ourselves.
-    
-
-<aside>
-
-
-📖 Read more about emotional intelligence [here](https://globalleadershipfoundation.com/deepening-understanding/emotional-intelligence/).
-
-</aside>
 
 ---
 
@@ -123,7 +115,7 @@ According to Daniel Goleman, who has researched and written extensively on the s
 - Having emotional outbursts that are often out of proportion to the situation at hand.
 - Difficulty listening to others.
 - Becoming argumentative when interacting with someone that has a differing opinion.
-- Blaming others.
+- Regularly blaming others.
 - Inability to understand other people’s feelings, and therefore believing that others are overly sensitive.
 - Difficulty maintaining friendships and other relationships.
 - Unable, or refusing, to see other people’s points of view.

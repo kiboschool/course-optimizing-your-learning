@@ -64,16 +64,6 @@ According to Daniel Pink, the components of intrinsic motivation can be describe
 
 ## How to Maintain Motivation in Learning
 
-<aside>
-
-
-📺 Watch this video to learn about how to improve your motivation.
-
-</aside>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/M1Qz5Wow-lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-
 Self-motivation is the ability to find and maintain a cause that drives you towards action. In learning, motivation enables us to take charge of our own learning and to sustain our attention and performance. Here are some more ways to maintain motivation in learning which revolve around the 3 factors mentioned by Daniel Pink above (autonomy, mastery and purpose):
 
 - ***Set and work towards clear goals:*** Goals motivate us, they give us something to reach for. When your goals are clear and SMART, they are even more motivating because you can see them ahead. We are goal-driven as humans and so, setting goals for your learning helps you to tap into that part of your humanity that is goal-seeking.
@@ -91,7 +81,21 @@ Self-motivation is the ability to find and maintain a cause that drives you towa
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/xTbV6OvNiX8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-## Discuss: Motivation for Studying CS
+
+## General Tips for Increasing Motivation
+
+
+<aside>
+
+
+📺 Watch this video to learn about how to improve your motivation.
+
+</aside>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/M1Qz5Wow-lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+
+## Discuss: Advising Temi
 
 <aside>
 

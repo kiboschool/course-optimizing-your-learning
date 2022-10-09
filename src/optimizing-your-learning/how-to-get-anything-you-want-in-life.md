@@ -3,10 +3,11 @@
 E*stimated Time: 7 hours*
 
 ---
-
+<!--
 ## Introduction
 
 *[Insert video by the instructor introducing the main topics of the week and giving a short explanation of the week’s assessment.]*
+-->
 
 ## **Learning Outcomes**
 

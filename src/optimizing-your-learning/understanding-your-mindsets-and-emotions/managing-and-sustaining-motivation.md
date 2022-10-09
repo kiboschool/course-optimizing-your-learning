@@ -65,11 +65,11 @@ As mentioned in the video, motivation can be extrinsic or intrinsic:
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/u6XAPnuFjJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-Daniel Pink captures the components of intrinsic motivation as:
+The components of intrinsic motivation can be described as:
 
 - **Autonomy**: The urge to direct our own lives
-- **Mastery**: The desire to get better at something that matters
-- **Purpose**: The yearning to do what we do in the service of something larger than ourselves
+- **Mastery/Competence**: The desire to get better at something that matters
+- **Purpose/Relatedness**: The yearning to do what we do in the service of something larger than ourselves
 
 ---
 

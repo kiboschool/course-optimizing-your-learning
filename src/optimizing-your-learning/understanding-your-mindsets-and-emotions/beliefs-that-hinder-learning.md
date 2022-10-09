@@ -133,6 +133,18 @@ If creating an empowering belief seems too challenging, you can work on just que
   
 </aside>
 
+
+## Reflection: Limiting Beliefs
+
+<aside>
+
+🪞 **Answer the following questions in the padlet below.**
+What are some limiting beliefs that you've found yourself falling prey to over the last 12 months?
+
+</aside>
+
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/q0h3sjpc77takwou" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
+
 ---
 
 ## Learned Helplessness

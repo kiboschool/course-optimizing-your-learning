@@ -11,7 +11,7 @@
 
 - What drives you to make the choices you make daily?
 - What motivated you to choose to study for a Computer Science degree at Kibo School?
-- Why are you studying this course right now?
+- Why are you studying this course (Optimizing Your Learning) right now?
 </aside>
 
 If you have done this activity before or thought about it before, the answers might come easy. But there is also a possibility that you do not have answers to some of the questions, or perhaps that you are not sure of your answers. What is the impact of not having answers to these questions? As you ponder this, let’s continue by exploring a definition of Motivation.

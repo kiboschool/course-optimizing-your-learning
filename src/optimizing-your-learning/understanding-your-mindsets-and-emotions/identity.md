@@ -90,7 +90,7 @@ Adapted from Social Identity Wheel. (n.d). Inclusive Teaching at U-M. Retrieved 
 
 🪞 **Answer the question in the padlet below.**
 Do you have any beliefs (either positive or negative) about yourself that are a result of one of your identities?
-(e.g. I’m good at basketball because I’m tall, I’m not good at expressing my emotions because I’m a man)
+(e.g. I’m good at basketball because I’m tall, I’m not good at expressing my emotions because I’m a man, I'm bad at math because I'm a woman)
 
 </aside>
 

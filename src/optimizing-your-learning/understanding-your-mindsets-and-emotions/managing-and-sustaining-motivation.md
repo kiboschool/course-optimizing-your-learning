@@ -95,13 +95,13 @@ Self-motivation is the ability to find and maintain a cause that drives you towa
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/M1Qz5Wow-lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
-## Discuss: Advising Temi
+## Discuss: Advising a Classmate
 
 <aside>
 
+💬 It is week 8 of the first term of Kibo's degree program, and as the final project for the Mathematical Thinking course draws closer, your classmates, Temi, comes to to you asking for advise, as she has lost all motivation to study. What advice would you give her to help her get back on track?
 
-💬 **Answer the question in the padlet below.**
-How is what you are currently studying at Kibo connect to your future goals?
+**Post your advice in the padlet bellow.**
 
 </aside>
 

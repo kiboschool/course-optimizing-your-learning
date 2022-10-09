@@ -71,7 +71,7 @@ From this video, we learned that the quality of our learning is dependent on bot
 
 <aside>
 
-We are not necessarily thinking machines. We are feeling machines that think. - Antonio Damasio
+🗣 We are not necessarily thinking machines. We are feeling machines that think. - Antonio Damasio
 
 </aside>
 

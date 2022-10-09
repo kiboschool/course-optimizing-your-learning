@@ -182,17 +182,15 @@ What are some ways that you can practice learned optimism when learning a challe
 
 ---
 
-## Automatic Negative Thoughts
+## Automatic Negative Thoughts (ANTS)
 
 <aside>
 
-📺  Watch the following videos to learn about automatic negative thoughts.
+📺  Watch the following videos to learn about automatic negative thoughts (ANTS).
 
 </aside>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/Pwe-SyJkhCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/NVT2vUQMKUc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 **Here are some of the most common ANTs:**
 

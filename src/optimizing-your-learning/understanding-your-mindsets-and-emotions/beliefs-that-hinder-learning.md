@@ -94,8 +94,37 @@ Here are some examples of limiting beliefs:
     - One powerful way to develop an alternate belief is to reverse the "Limiting Belief" into an "Empowering Belief", as see what it feels like to live with this new reality. For example:
         - Limiting Belief: "I **shouldn't** speak up in class because my answer is probably **wrong** and people will think I am **dumb**."
         - Empowering Belief: "I **should$$ speak up in class because my answer is probably *correct** and people will think I am **smart**."
+
 - **Step 4: Put the Empowering Belief into Practice**
     - When a situation triggers the old limiting belief, think of the empowering belief instead, and let it guide your behavior.
+    - You can also use of quotes and visualisation to help you disrupt your "limiting belief" and utilise your "empowering belief".
+
+If creating an empowering belief seems too challenging, you can work on just questioning your limiting beliefs using the following questioning techniques suggested by [the Open Universy](https://www.open.edu/openlearn/health-sports-psychology/psychology/reframing-self-limiting-beliefs):
+
+<aside>
+    
+**Reality testing:** Ask yourself the following questions to determine how accurate your limiting belief it.
+- What is my evidence for and against my thinking?
+- Are my thoughts factual, or just my interpretation?
+- Am I jumping to negative conclusions?
+- How can I find out if these thoughts are true?
+
+</aside>
+    
+<aside>
+**Putting it in perspective:** Ask yourself the following questions to put your limiting belief into perspective.
+- Is this as bad as I am making it out to be?
+- What is the worst thing that could happen? How likely is it?
+- What is the best thing that could happen?
+- What is most likely to happen?
+</aside>
+
+<aside>
+**Using goal-directed thinking:** Ask yourself the following questions to help push through your limiting belief.
+- Does thinking like this help me to feel good or to achieve my goals?
+- What can I do that would help solve the problem?
+- What could I instead learn from this, to help me do things/feel better next time?
+</aside>
 
 ---
 

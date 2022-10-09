@@ -19,9 +19,9 @@ An **identity** is a person's **formulation and expression** of their **individu
 
 | Gender | Religion | Nationality|
 | :---: | :---: | :---: |
-| Disability | Socioeconomic Status | Culture |
-| Age | Education Attainment | Ability |
-| Ethnicity | Language | Race |
+| **Disability** | **Socioeconomic Status** | **Culture** |
+| **Age** | **Education Attainment** | **Ability** |
+| **Ethnicity** | **Language** | **Race** |
 
 - Each person has a set of identities (We all have multiple identities)
 - Each person **chooses** at least some identities, while other identities are **given**.

@@ -50,7 +50,7 @@ Let’s be clear that self-awareness is different from self-consciousness. As de
 
 ## Self-Awareness and Learning
 
-As earlier mentioned, self-awareness can help you become a better self-directed learner. Here are a number of areas in which you need to be more self-aware in other to accomplish more effective learning:
+As mentioned earlier, self-awareness can help you become a better self-directed learner. Here are a number of areas in which you need to be more self-aware in other to accomplish more effective learning:
 
 - **Emotions**
     

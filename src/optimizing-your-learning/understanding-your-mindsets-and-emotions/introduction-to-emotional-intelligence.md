@@ -69,7 +69,7 @@ The ability to recognize, understand, and manage emotions in yourself and others
 
 ## Goleman’s Mixed Model of Emotional Intelligence
 
-Daniel Goleman built upon Mayer and Salovey’s ability-based emotional intelligence model to develop a model for the competencies and skills that underpin high leadership performance.
+Daniel Goleman built upon Mayer and Salovey’s ability-based emotional intelligence model to develop a model for the competencies and skills that underpin high performance.
 
  
 

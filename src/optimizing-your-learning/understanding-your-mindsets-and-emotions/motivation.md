@@ -71,7 +71,8 @@ From this video, we learned that the quality of our learning is dependent on bot
 
 <aside>
 
-🗣 We are not necessarily thinking machines. We are feeling machines that think. - Antonio Damasio
+🗣 We are not necessarily thinking machines. We are feeling machines that think. 
+- Antonio Damasio
 
 </aside>
 
@@ -89,7 +90,7 @@ From the video, we learned that negative emotions (e.g. anxiety, fear) tend to n
 > We used to think that if people did well, then they feel good…we now know that that was the wrong way around. Actually, if people feel good then that provides the fuel for them to do well.
 > 
 
-Curiosity is regarded as a strong positive emotion that drives learning. When there is a genuine curiosity to grow, improve and discover, learning is much more fun than when learning is driven by the need to perform for other people, or just get a passing grade. Learners who possess curiosity are driven by an intrinsic motivation that often drives them to go further and put in more effort than learners who just want to put in the bare minimum. A useful approach to developing curiosity is identifying how a given topic that you are learning is personally meaningful to you, and how it could help you achieve goals that are important to you.
+Curiosity is regarded as a strong positive emotion that drives learning. When there is a genuine curiosity to grow, improve and discover, learning is much more fun than when learning is driven by the need to perform for other people, or just get a passing grade. Learners who possess curiosity are driven by an intrinsic motivation that often makes them to go further and put in more effort than learners who just want to put in the bare minimum. A useful approach to developing curiosity is identifying how a given topic that you are learning is personally meaningful to you, and how it could help you achieve goals that are important to you.
 
 ---
 

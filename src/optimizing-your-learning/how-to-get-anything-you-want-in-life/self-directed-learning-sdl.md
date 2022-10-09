@@ -67,7 +67,7 @@ Self-directed learning allows you to take responsibility for your own learning, 
 <aside>
 
 
-📖 **Optional** Read the following article on [**self-directed learning skills in university students**](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.02324/full).
+📖 **Optional:** Read the following article on [**self-directed learning skills in university students**](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.02324/full).
 
 </aside>
 
@@ -204,12 +204,13 @@ When you need to ask the community or Kibo team for help, one of the worst ways 
 - Specific ask. "*Can you help me [specific ask]*"
 </aside>
 
+<!--
 <aside>
-
 
 📖 Read the following article to learn more about [**Planning (Self-Management), Monitoring, Evaluating (Self-Modifying)**](https://www.learningpersonalized.com/holy-trinity-self-direction-self-managing-self-monitoring-self-modifying/).
 
 </aside>
+-->
 
 ---
 

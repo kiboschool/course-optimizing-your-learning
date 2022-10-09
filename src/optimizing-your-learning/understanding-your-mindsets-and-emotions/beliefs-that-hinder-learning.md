@@ -40,7 +40,7 @@ In the previous section of this week’s lesson, you reflected on your different
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/ZGnPoL07HJ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-Beliefs describe what we think can and cannot do in life, what we think we deserve and don’t deserve in life, and what we believe to be true about the world and others. When beliefs restrict us in some way (e.g. stopping us from reaching our goals or pursuing things that would make us happy), they can be described as limiting beliefs.
+Beliefs describe what we think we can and cannot do in life, what we think we deserve and don’t deserve in life, and what we believe to be true about the world and others. When beliefs restrict us in some way (e.g. stopping us from reaching our goals or pursuing things that would make us happy), they can be described as limiting beliefs.
 
 Here are some examples of limiting beliefs:
 

@@ -108,7 +108,7 @@ Below are some more Executive Functioning skills that influence your ability to 
 <aside>
 
 
-📖 Read the following article to learn more about [**executive functions for learning**](https://www.thepathway2success.com/10-executive-functioning-skills-the-ultimate-guide/).
+📖 **Optional:** Read the following article to learn more about [**executive functions for learning**](https://www.thepathway2success.com/10-executive-functioning-skills-the-ultimate-guide/).
 
 </aside>
 

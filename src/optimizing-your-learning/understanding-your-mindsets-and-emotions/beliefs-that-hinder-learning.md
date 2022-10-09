@@ -64,7 +64,7 @@ Here are some examples of limiting beliefs:
 <aside>
 
 
-📖 Read the following article on **[limiting beliefs](https://markmanson.net/limiting-beliefs)**.
+📖 Read the following article on **[limiting beliefs](https://www.betterup.com/blog/what-are-limiting-beliefs)**.
 
 </aside>
 

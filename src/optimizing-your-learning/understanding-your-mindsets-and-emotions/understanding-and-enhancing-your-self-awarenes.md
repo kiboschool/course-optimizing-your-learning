@@ -58,7 +58,7 @@ As mentioned earlier, self-awareness can help you become a better self-directed 
     
 - **Strengths and Weaknesses**
     
-    Our strengths are the things that we do well, while our weaknesses are the things we are not so good at. Having an understanding of your strengths and weaknesses during learning and at work will help you prioritize and concentrate on more effective methods of carrying out work and learning. 
+    Our strengths are the things that we do well, while our weaknesses are the things we are not so good at. Having an understanding of your strengths and weaknesses during learning and at work will help you prioritize and concentrate on more effective methods for achieving your goals. 
     
 - **Learning preferences, needs, and priorities**
     

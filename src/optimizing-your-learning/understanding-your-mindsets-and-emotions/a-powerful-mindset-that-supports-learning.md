@@ -57,7 +57,7 @@ A growth mindset is about believing in your ability to grow and improve.  It is 
 <aside>
 
 
-📺 One characteristic of a fixed mindset is a fear of failure or mistakes, watch the following video to learn how mistakes can be good for learning.
+📺 One characteristic of a fixed mindset is a fear of failure or mistakes. Watch the following video to learn how mistakes can be good for learning.
 
 </aside>
 
@@ -70,11 +70,11 @@ A growth mindset is about believing in your ability to grow and improve.  It is 
 🪞 **Answer one of the pairs of questions in the padlet below.**
 
 - Pair 1:
-    - In what situations have I displayed a growth mindset?
-    - How could this help my learning in the future?
+    - In what situations have you displayed a growth mindset?
+    - How could this help your learning in the future?
 - Pair 2:
     - In what situations have you displayed a fixed mindset?
-    - How can I act differently in the future?
+    - How could you act differently in the future?
 </aside>
 
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/embed/nw076pkpj5oma0i9" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>

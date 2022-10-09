@@ -5,7 +5,7 @@ E*stimated Time: 1 hour*
 ---
 ## Introductory Video
 
-[insert introductory video from instructor]
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/Hp9gI2AS17c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## Course Introduction
 

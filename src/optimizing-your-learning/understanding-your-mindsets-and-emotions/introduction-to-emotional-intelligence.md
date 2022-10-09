@@ -63,6 +63,7 @@ The ability to recognize, understand, and manage emotions in yourself and others
     > the ability to regulate emotions in both ourselves and in others. Therefore, the emotionally intelligent person can harness emotions, even negative ones, and manage them to achieve intended goals.
     > 
     
+[Source](https://en.wikipedia.org/wiki/Emotional_intelligence)
 
 ---
 

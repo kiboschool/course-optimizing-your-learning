@@ -99,7 +99,7 @@ If creating an empowering belief seems too challenging, you can work on just que
 
 <aside>
     
-**Reality testing:** Ask yourself the following questions to determine how accurate your limiting belief it.
+**Reality testing:** Ask yourself the following questions to determine how accurate your limiting belief is.
 - What is my evidence for and against my thinking?
 - Are my thoughts factual, or just my interpretation?
 - Am I jumping to negative conclusions?

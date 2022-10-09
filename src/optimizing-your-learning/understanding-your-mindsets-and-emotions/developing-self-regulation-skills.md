@@ -53,7 +53,7 @@ Here are some of the ways self-regulation manifests in our learning process:
 
 In responding to any situation or emotional stimulus, the first action in self-regulation is to *pause and think calmly* before responding. Self-Regulation is a proactive action that allows you to choose how to respond in any situation. Here are some practices for improving your self-regulation:
 
-- **Mindfulness:** Being mindful is being aware of our feelings, circumstances and state in the moment. Practicing mindfulness allows us to observe things including the state of our own thoughts and bodies which hitherto we might not have been tuned in to.
+- **Mindfulness:** Being mindful is being aware of our feelings, circumstances and state in the moment. Practicing mindfulness allows us to observe things including the state of our own thoughts and bodies which previously we might not have been tuned in to.
 - **Cognitive Reframing:** Thoughts create feelings and sometimes, we have thoughts that do not serve us. Some thoughts might be doubtful thoughts about our own capabilities and can hinder our ability to achieve. We however do not have to accept those thoughts. We can reframe those thoughts and replace them with positive thoughts which in turn brings about positive feelings.
 - **Identifying Triggers:** We all have triggers which are situations, conditions, and actions that might destabilize us emotionally, cause difficult feelings and make us act in unintended ways. Knowing what these triggers are and knowing how to handle them is important.
 - **Pausing before Acting:** As mentioned earlier, delaying your response or reaction to any emotional triggers and contemplating the consequences of your action is a practice that helps to develop stronger self-regulation skills.

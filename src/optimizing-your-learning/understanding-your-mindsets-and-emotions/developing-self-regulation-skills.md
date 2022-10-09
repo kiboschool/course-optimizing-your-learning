@@ -37,7 +37,7 @@ Here are some of the ways self-regulation manifests in our learning process:
     
 - **Exercising Control and Staying Focused**
     
-    As a self-directed learner and one who takes ownership of their learning journey, you will encounter unfamiliar concepts and ideas which sometimes might feel daunting. You will also encounter multiple distractions, especially when learning online. In order to make progress towards your learning, however, you will need to exercise control and restraint. Control in the learning process also involves applying the right learning strategies per time that allow you to meet your learning goals.
+    As a self-directed learner and one who takes ownership of their learning journey, you will encounter unfamiliar concepts and ideas which sometimes might feel daunting. You will also encounter multiple distractions, especially when learning online. In order to make progress towards your learning, you will need to exercise control and restraint. Control in the learning process also involves applying the right learning strategies per time that allow you to meet your learning goals.
     
 - **Monitoring Progress**
     

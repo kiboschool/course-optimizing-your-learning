@@ -25,11 +25,11 @@ After completing this lesson, you will be able to:
 <aside>
 
 
-🎧 Before you jump into the sections of this week's lesson, spend some time preparing your mind for learning by using this 10-minute meditation for focus.
+🎧 Before you jump into the sections of this week's lesson, spend some time preparing your mind for learning by using this 5-minute meditation exercise.
 
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/CcqZ47d398k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/xdbEogwiLmQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## Sections
 

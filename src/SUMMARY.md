@@ -20,7 +20,7 @@
 	- [Assignment 1 - Orientation Reflection](optimizing-your-learning/how-to-get-anything-you-want-in-life/assignment-1-individual-sdl.md)
 
 
-
+<!--
 
 ### Week 2
 
@@ -36,7 +36,7 @@
 	- [Assignment 2 - Identity and Limiting Beliefs](optimizing-your-learning/understanding-your-mindsets-and-emotions/assignment-2-identity-and-limiting-beliefs.md)
 	- [Final Presentation Milestone 1](optimizing-your-learning/understanding-your-mindsets-and-emotions/final-presentation-milestone-1.md)
 	
-<!--
+
 
 ### Week 3
 

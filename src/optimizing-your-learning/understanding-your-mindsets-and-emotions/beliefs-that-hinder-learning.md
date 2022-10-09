@@ -68,6 +68,10 @@ Here are some examples of limiting beliefs:
 
 </aside>
 
+---
+
+## Overcoming Limiting Beliefs
+
 <aside>
 
 
@@ -78,11 +82,13 @@ Here are some examples of limiting beliefs:
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/Fi0Vkoa8fc4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
-## Overcoming Limiting Beliefs
+### How to change limiting beliefs
 
-- **Step 1: Recognize and Acknowledge**
-    - Identify your limiting beliefs by listening for when you are feeling frustrated or disappointed, you keep making the same mistake over and over, you can’t overcome a challenge, or you say phrases that start with “I can’t”, “I’m not”, “I wish” pause and think about what underlying belief could be causing this situation.
-    - You might also identify some by noticing times when you talk yourself out of actions that would lead you towards long term goals that are meaningful to you.
+- **Step 1: Recognize that you have a belief and that it is limiting**
+    - Identify your limiting beliefs by:
+        - Listening for when you are feeling frustrated or disappointed, or you keep making the same mistake over and over, or you can’t overcome a challenge, pause and think about what underlying belief could be causing this situation.
+        - Another option is to listen out for when you say phrases that start with “I can’t”, “I’m not”, “I wish” (or any of the earlier examples of limiting beliefs. These are potential limiting beliefs.
+         - You might also identify some by noticing times when you talk yourself out of actions that would lead you towards long term goals that are meaningful to you.
 
 - **Step 2: Seperate "the stories" from "the facts"**
     - Analyze the accuracy of the liming belief by determing source of the limiting belief:

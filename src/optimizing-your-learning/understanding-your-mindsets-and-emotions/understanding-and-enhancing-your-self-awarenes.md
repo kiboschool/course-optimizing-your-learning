@@ -62,7 +62,7 @@ As mentioned earlier, self-awareness can help you become a better self-directed 
     
 - **Learning preferences, needs, and priorities**
     
-    Similar to the point above and in line with our discussion on learning preferences in the last lesson, being aware of your learning preferences and approaches can help you to be a more effective learner, regardless of what the subject matter is. We will share shortly some ways you can better develop this self-awareness.
+    Similar to the point above and in line with our discussion last week on learning preferences, being aware of your learning preferences and approaches can help you to be a more effective learner, regardless of the subject matter.
     
 ---
 

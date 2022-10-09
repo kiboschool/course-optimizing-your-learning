@@ -80,7 +80,7 @@ Here are some examples of limiting beliefs:
         - Another option is to listen out for when you say phrases that start with “I can’t”, “I’m not”, “I wish” (or any of the earlier examples of limiting beliefs. These are potential limiting beliefs.
          - You might also identify some by noticing times when you talk yourself out of actions that would lead you towards long term goals that are meaningful to you.
 
-- **Step 2: Seperate "the stories" from "the facts"**
+- **Step 2: Separate "the stories" from "the facts"**
     - Analyze the accuracy of the liming belief by determing source of the limiting belief:
         - Is it informed by assumptions, external expectations, or stereotypes?
         - Are there any facts or evidence to support that the belief is true?

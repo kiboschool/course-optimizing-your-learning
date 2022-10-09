@@ -46,8 +46,6 @@ When you hit roadblocks like this (and there will be plenty of roadblocks in you
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/xNY0AAUtH3g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
-According to the first video which provides a general definition of emotions, emotions are a fast process that responds to events that are important to us. They consist of two phases, 1) the evaluation of the event, and 2) the emotional response to the event which consists of four components: the bodily reaction, the muscle expression, the action tendency, and the feeling component.
-
 But how do emotions influence learning?
 
 <aside>

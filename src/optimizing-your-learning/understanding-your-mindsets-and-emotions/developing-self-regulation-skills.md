@@ -41,7 +41,7 @@ Here are some of the ways self-regulation manifests in our learning process:
     
 - **Monitoring Progress**
     
-    Monitoring progress includes monitoring yourself as well as monitoring the effectiveness of your learning strategies and actions. With this, you can evaluate how you are carrying on in the learning process- how much you have mastered and understood the concepts and what you still need to do to close the learning gaps.
+    Monitoring progress includes monitoring yourself as well as monitoring the effectiveness of your learning strategies and actions. With this, you can evaluate how you are carrying on in the learning process, how well you have mastered and understood the concepts, and what you still need to do to close the learning gaps.
     
 - **Improvement**
     

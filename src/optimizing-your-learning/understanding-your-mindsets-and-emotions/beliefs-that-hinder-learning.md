@@ -58,7 +58,7 @@ Here are some examples of limiting beliefs:
 - I need ... before I can ...
 - I don’t need help from anyone to ...
 
-**Limiting beliefs are usually not grounded in facts or evidence, and are often just stories that we tell ourselves based on our past negative experiences, negative emotional memories, or strongly held identities.**
+**Limiting beliefs are usually not grounded in facts or evidence, and are often just stories that we tell ourselves based on our past negative experiences (negative emotional memories) or strongly held identities.**
 
 <aside>
 

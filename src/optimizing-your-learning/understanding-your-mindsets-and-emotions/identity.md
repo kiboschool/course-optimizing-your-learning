@@ -16,21 +16,12 @@
 An **identity** is a person's **formulation and expression** of their **individuality and group affiliations**. It may be defined as the **distinctive characteristics** belonging to an individual or shared by all members of a specific social category or group.
 
 **Some examples of identity groups include:**
+| Gender | Religion | Nationality|
+| --- | --- | --- |
+| Disability | Socioeconomic Status | Culture |
+| Age | Education Attainment | Ability |
+| Ethnicity | Language | Race |
 
-- Gender
-- Religion
-- Nationality
-- Disability
-- Socioeconomic status
-- Culture
-- Age
-
-- Education attainment
-- Ability
-- Ethnicity
-- Language
-- Appearance
-- Race
 - Each person has a set of identities (We all have multiple identities)
 - Each person **chooses** at least some identities, while other identities are **given**.
 - People feel differently about different identities. Some identities are more important than others. Some identities are visible, while others are less apparent. Some identities change over time, while others are constant.

@@ -13,7 +13,7 @@
 
 ## Identity
 
-An **identity** is a person's **formulation and expression** of their individuality and group affiliations**.** It may be defined as the **distinctive characteristics** belonging to an individual or shared by all members of a specific social category or group.
+An **identity** is a person's **formulation and expression** of their **individuality and group affiliations**. It may be defined as the **distinctive characteristics** belonging to an individual or shared by all members of a specific social category or group.
 
 **Some examples of identity groups include:**
 

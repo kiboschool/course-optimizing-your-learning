@@ -81,12 +81,21 @@ Here are some examples of limiting beliefs:
 ## Overcoming Limiting Beliefs
 
 - **Step 1: Recognize and Acknowledge**
-    - Identify the Limiting Beliefs
-    - When you are feeling frustrated or disappointed, you keep making the same mistake over and over, you can’t overcome a challenge, or you say phrases that start with “I can’t”, “I’m not”, “I wish” pause and think about what underlying belief could be causing this situation.
-- **Step 2: Identify the facts**
-    - Analyze the accuracy of the liming belief by identifying the facts.
-    - Question what you know about the situation until you are left with answers that are supported by concrete evidence.
+    - Identify your limiting beliefs by listening for when you are feeling frustrated or disappointed, you keep making the same mistake over and over, you can’t overcome a challenge, or you say phrases that start with “I can’t”, “I’m not”, “I wish” pause and think about what underlying belief could be causing this situation.
+    - You might also identify some by noticing times when you talk yourself out of actions that would lead you towards long term goals that are meaningful to you.
+
+- **Step 2: Seperate "the stories" from "the facts"**
+    - Analyze the accuracy of the liming belief by determing source of the limiting belief:
+        - Is it informed by assumptions, external expectations, or stereotypes?
+        - Are there any facts or evidence to support that the belief is true?
+    - Question what you know about the situation until you are left with answers that are supported by concrete facts.
+
 - **Step 3: Develop an Alternate Belief**
+    - One powerful way to develop an alternate belief is to reverse the "Limiting Belief" into an "Empowering Belief", as see what it feels like to live with this new reality. For example:
+        - Limiting Belief: "I **shouldn't** speak up in class because my answer is probably **wrong** and people will think I am **dumb**."
+        - Empowering Belief: "I **should$$ speak up in class because my answer is probably *correct** and people will think I am **smart**."
+- **Step 4: Put the Empowering Belief into Practice**
+    - When a situation triggers the old limiting belief, think of the empowering belief instead, and let it guide your behavior.
 
 ---
 

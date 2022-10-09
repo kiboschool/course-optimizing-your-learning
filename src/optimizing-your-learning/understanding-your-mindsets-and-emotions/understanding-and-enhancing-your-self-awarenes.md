@@ -53,12 +53,12 @@ Let’s be clear that self-awareness is different from self-consciousness. As de
 As mentioned earlier, self-awareness can help you become a better self-directed learner. Here are a number of areas in which you need to be more self-aware in other to accomplish more effective learning:
 
 - **Emotions**
-    
+
     As we have already demonstrated, being aware of your emotions is important to how you understand, interpret and act in situations. Learning happens within and outside the classroom and across a variety of scenarios and so, the ability to understand your emotions in different situations can determine if you are able to learn in that situation or not.
     
 - **Strengths and Weaknesses**
     
-    Our strengths are the things that we do well while our weaknesses are the things we are not so good at. having an understanding of your strengths and weaknesses during learning and at work will help you prioritize and concentrate on more effective methods of carrying out work and learning. 
+    Our strengths are the things that we do well, while our weaknesses are the things we are not so good at. Having an understanding of your strengths and weaknesses during learning and at work will help you prioritize and concentrate on more effective methods of carrying out work and learning. 
     
 - **Learning preferences, needs, and priorities**
     

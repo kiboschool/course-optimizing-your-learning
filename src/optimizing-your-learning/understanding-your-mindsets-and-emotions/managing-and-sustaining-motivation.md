@@ -14,17 +14,7 @@
 - Why are you studying this course (Optimizing Your Learning) right now?
 </aside>
 
-If you have done this activity before or thought about it before, the answers might come easily. But there is also a possibility that you do not have answers to some of the questions, or perhaps that you are not sure of your answers. What is the impact of not having answers to these questions? As you ponder this, let’s continue by exploring a definition of Motivation.
-
-<aside>
-
-
-📺 Watch this video to learn more about theories of motivation.
-
-</aside>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/eNqJYIns4Rk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
+If you have done this activity before or thought about it before, the answers might come easily. But there is also a possibility that you do not have answers to some of the questions, or perhaps that you are not sure of your answers. What is the impact of not having answers to these questions? As you ponder this, let’s learn more about motivation.
 
 <aside>
 
@@ -33,6 +23,16 @@ If you have done this activity before or thought about it before, the answers mi
 What causes you to act and behave in certain ways, and drives us to act, move towards, and achieve set goals and expectations.
 
 </aside>
+
+<aside>
+
+
+📺 Watch this video to learn more about motivation.
+
+</aside>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/eNqJYIns4Rk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 
 Given the definition of motivation, it is no surprise that it plays critical role in effective self-directed learning.
 

@@ -24,7 +24,8 @@ In this section we will explore some belief systems and behaviors that can hinde
 
 <aside>
 
-“The only thing that’s keeping you from getting what you want is the story you keep telling yourself.”—Tony Robbins
+🗣 “The only thing that’s keeping you from getting what you want is the story you keep telling yourself.”
+—Tony Robbins
 
 </aside>
 

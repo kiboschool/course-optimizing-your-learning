@@ -75,7 +75,7 @@ Daniel Goleman built upon Mayer and Salovey’s ability-based emotional intellig
 <aside>
 
 
-📺 Watch the following videos for an introduction to emotional intelligence
+📺 Watch the following videos for an introduction to Goleman's emotional intelligence model
 
 </aside>
 

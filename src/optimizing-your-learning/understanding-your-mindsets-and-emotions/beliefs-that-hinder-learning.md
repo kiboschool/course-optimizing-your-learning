@@ -142,7 +142,7 @@ What are some limiting beliefs that you've found yourself falling prey to over t
 
 ## Learned Helplessness
 
-The concept of learned helplessness is very similar to limiting beliefs. It is based on the idea that previous experiences can limit what you think you are capable of, even when those limitaions are removed.
+The concept of learned helplessness is very similar to limiting beliefs. It is based on the idea that previous experiences can limit what you think you are capable of, even when those limitations are removed.
 
 <aside>
 

@@ -20,8 +20,6 @@
 	- [Assignment 1 - Orientation Reflection](optimizing-your-learning/how-to-get-anything-you-want-in-life/assignment-1-individual-sdl.md)
 
 
-<!--
-
 ### Week 2
 
 - [Week 2: Understanding Your Mindsets and Emotions](optimizing-your-learning/understanding-your-mindsets-and-emotions.md)
@@ -69,8 +67,6 @@
 ### Week 5
 
 - [Final Assessments](optimizing-your-learning/final-assessments.md)
-
--->
 
 <!-- 
 [Wrap Up](optimizing-your-learning/how-to-get-anything-you-want-in-life/wrap-up.md) 

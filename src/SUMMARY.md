@@ -31,7 +31,7 @@
 	- [Understanding and Enhancing Your Self-Awareness](optimizing-your-learning/understanding-your-mindsets-and-emotions/understanding-and-enhancing-your-self-awarenes.md)
 	- [Developing Self-Regulation Skills](optimizing-your-learning/understanding-your-mindsets-and-emotions/developing-self-regulation-skills.md)
 	- [Managing and Sustaining Motivation](optimizing-your-learning/understanding-your-mindsets-and-emotions/managing-and-sustaining-motivation.md)
-	- [Assignment 2 - Identity and Limiting Beliefs](optimizing-your-learning/understanding-your-mindsets-and-emotions/assignment-2-identity-and-limiting-beliefs.md)
+	- [Assignment 2 - Overcoming Limiting Beliefs](optimizing-your-learning/understanding-your-mindsets-and-emotions/assignment-2-identity-and-limiting-beliefs.md)
 	- [Final Presentation Milestone 1](optimizing-your-learning/understanding-your-mindsets-and-emotions/final-presentation-milestone-1.md)
 	
 

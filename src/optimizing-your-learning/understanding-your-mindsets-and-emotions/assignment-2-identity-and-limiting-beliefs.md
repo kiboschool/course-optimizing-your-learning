@@ -29,14 +29,14 @@ What limiting beliefs do you want to work on? Choose a problem, or an area of yo
 
 
 *Here are some examples of limiting beliefs:
-I shouldn't speak up in class because I probably don’t have the correct answer..
-I’ll never be successful because I come from a poor background.
-It’s too late for me to change my time management skills.
-I’m too young to drive real change in the world.
-I don’t have enough money to be in control of my life.
-They will reject me because I’m not as talented as them.
-I don’t have time to pursue my dreams.
-I don’t need help from anyone because I don’t want them to think I’m not skilled nough to succeed on my own.*
+- I shouldn't speak up in class because I probably don’t have the correct answer..
+- I’ll never be successful because I come from a poor background.
+- It’s too late for me to change my time management skills.
+- I’m too young to drive real change in the world.
+- I don’t have enough money to be in control of my life.
+- They will reject me because I’m not as talented as them.
+- I don’t have time to pursue my dreams.
+- I don’t need help from anyone because I don’t want them to think I’m not skilled nough to succeed on my own.*
 
 
 ### Task 2 - Limiting Belief Reflection

@@ -1,4 +1,4 @@
-# Food and movement
+# Food, Hydration, and Movement
 
 *Estimated Time: 1 hour*
 
@@ -15,7 +15,9 @@ In this section, we will discuss the impact that the food and drink that you con
 
 </aside>
 
-[https://youtu.be/xyQY8a-ng6g](https://youtu.be/xyQY8a-ng6g)
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/xyQY8a-ng6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+
 
 <aside>
 
@@ -47,14 +49,6 @@ In this section, we will discuss the impact that the food and drink that you con
 
 </aside>
 
-### Activity: Field Study - Food
-
-<aside>
-
-
-🥼 [prompt]
-
-</aside>
 
 ---
 
@@ -101,22 +95,5 @@ In this section, we will discuss the impact that the food and drink that you con
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/BHY0FxzoKZE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-### Activity: Field Study - Movement
-
-<aside>
-
-
-🥼 [prompt]
-
-</aside>
 
 ---
-
-<aside>
-
-
-🤷🏿‍♀️ **So What? How does this section apply to me?**
-
-*[insert text]*
-
-</aside>

@@ -46,8 +46,6 @@ When you hit roadblocks like this (and there will be plenty of roadblocks in you
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/xNY0AAUtH3g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
-According to the first video which provides a general definition of emotions, emotions are a fast process that responds to events that are important to us. They consist of two phases, 1) the evaluation of the event, and 2) the emotional response to the event which consists of four components: the bodily reaction, the muscle expression, the action tendency, and the feeling component.
-
 But how do emotions influence learning?
 
 <aside>
@@ -73,7 +71,8 @@ From this video, we learned that the quality of our learning is dependent on bot
 
 <aside>
 
-We are not necessarily thinking machines. We are feeling machines that think. - Antonio Damasio
+🗣 We are not necessarily thinking machines. We are feeling machines that think. 
+- Antonio Damasio
 
 </aside>
 
@@ -86,12 +85,12 @@ We are not necessarily thinking machines. We are feeling machines that think. - 
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/EW7FBndUPe8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-From the video, we learned that negative emotions (e.g. anxiety, fear) tend to narrow our focus onto the threat. However, positive emotions (e.g. curiosity, joy, pride) broaden our thoughts and ideas, helping us to be more creative, improving our capacity to learn, and helping us bounce back from failure. Negative memories or prior experiences can lead to negative emotional responses like fear, anxiety, and anger that hinder our ability to learn when we are put in situations that elicit memories of past experiences. As such, it is important that we learn how to recognize when these emotions occur (through self-awareness), and effectively manage them (through self-regulation).  One thing to note is that sometimes negative emotions can be useful in learning, a small amount of anxiety can help us focus, which can be good for learning. However, if the anxiety is significant and frequent, it can distract us when we are trying to learn.
+From the video, we learned that negative emotions (e.g. anxiety, fear) tend to narrow our focus onto the threat. However, positive emotions (e.g. curiosity, joy, pride) broaden our thoughts and ideas, helping us to be more creative, improving our capacity to learn, and helping us bounce back from failure. Negative memories can lead to negative emotional responses like anxiety and frustration that hinder our ability to learn when we are put in situations that elicit memories of the past experiences. As such, it is important that we learn how to recognize when these emotions occur (through self-awareness), and effectively manage them (through self-regulation).  One thing to note is that sometimes negative emotions can be useful in learning, a small amount of anxiety can help us focus, which can be good for learning. However, if the anxiety is significant and frequent, it can distract us when we are trying to learn.
 
 > We used to think that if people did well, then they feel good…we now know that that was the wrong way around. Actually, if people feel good then that provides the fuel for them to do well.
 > 
 
-Curiosity is regarded as a strong positive emotion that drives learning. When there is a genuine curiosity to grow, improve and discover, learning is much more fun than when learning is driven by the need to perform, pass or get good grades. Learners who possess curiosity tend to go further and to put in more effort as compared to learners who want just to put in the bare minimum. 
+Curiosity is regarded as a strong positive emotion that drives learning. When there is a genuine curiosity to grow, improve and discover, learning is much more fun than when learning is driven by the need to perform for other people, or just get a passing grade. Learners who possess curiosity are driven by an intrinsic motivation that often makes them to go further and put in more effort than learners who just want to put in the bare minimum. A useful approach to developing curiosity is identifying how a given topic that you are learning is personally meaningful to you, and how it could help you achieve goals that are important to you.
 
 ---
 

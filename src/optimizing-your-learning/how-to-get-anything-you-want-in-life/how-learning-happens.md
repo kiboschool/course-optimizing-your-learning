@@ -10,6 +10,8 @@ Have you ever considered how learning happens? And specifically, how ***your own
 
 As mentioned in the [**Motivation section**](/optimizing-your-learning/how-to-get-anything-you-want-in-life/motivation.md), learning is about growth and change. So let’s start by exploring how your brain changes over time.
 
+**Note:** The detailed neuroscience of how the brain works is beyond the scope of this course, so in this section, we will only be doing a shallow dive into how the brain learns. If you are interested in going deeper and learning more, [Grasp by Sanjay Sharma and Luke Yoquinto](https://www.amazon.com/Grasp-Science-Transforming-How-Learn-ebook/dp/B082H24X6Y/) is a great introduction into the topic.
+
 <aside>
 
 
@@ -68,11 +70,18 @@ Most people describe learning to code as a difficult process. This is because th
 
 So what does this mean for you as you embark on your computer science journey?
 
-When you are struggling to learn a new skill or understand a new piece of knowledge, remember that this is how the brain works in the process of learning anything. **Everything is hard until it becomes easy.**  So be confident in your learning, trust your brain, practice the skill to develop your neural pathways, and be patient with yourself as your neural pathways develop.
+When you are struggling to learn a new skill or understand a new piece of knowledge, remember that this is how the brain works in the process of learning anything. **Everything is hard until it becomes easy.**  So be confident in your learning, trust your brain, practice the skill to develop your neural pathways, and be patient with yourself as your neural pathways develop. Furthermore, when you are learning something new, being able to connect it to knowledge or skills that you already have will allow you to leverage already existing neural pathways.
 
+This also means that it is important to learn consistently. So, instead of practising your coding skills in a single 4 hour block one day per week, it is better for you to practice in four 1-hour blocks spread throughout the week. This consistent and routine firing of your neural pathways will make them stronger, which will ultimately make it feel less effortful.
 
+Another important thing to remember is that you should be practicing the skill that you want to get better at, as opposed to just taking in knowledge about that skill. You don't strengthen neural pathways for riding a bicycle by reading a book on how to ride a bicycle. You do so by actually going out and trying to ride a bicycle, over and over again. This principle is true when learning any new skill, including coding.
+
+One mistake students often make when studying is to just read through the material, and assume that this passive studying is helping them develop their skills. Instead, you should be practicing the actual skill, and getting feedback on what you can do correctly and what you can't yet do correctly. For example, this means that when studying for your Programming 1, focus your energy on completing the practice questions and projects, don't just read the lesson materials. 
 
 Remember, it might be difficult at the start, but with the strengthening of the neural pathways in your brain through practice, you will increase your comfort and mastery of the subject.
+
+
+**Everything is hard until it becomes easy.**
 
 <aside>
 
@@ -93,3 +102,19 @@ Remember, it might be difficult at the start, but with the strengthening of the 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/snkyizQr6N4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ---
+
+## Discussion: Advising a Classmate
+
+<aside>
+
+💬 It is week 3 of the first term of Kibo's degree program, and Kofi is feeling stressed. He is supposed to be building a password validator for the weekly project, but he just can't seem to understand how loops work, and he needs to use them in the project. He is now starting to think that maybe computer science isn't for him, and he just doesn't have what it takes to succeed. Based on what you've learned about how learning happens in the brain, what advice would you give Kofi to help him get back on track?
+  
+**Post your advice in the padlet bellow.**
+
+</aside>
+
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/srvmt77u8kzqedrr" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
+
+
+---
+

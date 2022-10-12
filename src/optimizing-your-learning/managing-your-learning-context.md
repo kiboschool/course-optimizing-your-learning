@@ -52,7 +52,7 @@ After completing this lesson, you will be able to:
 
 [3.7 Learning with Others](/optimizing-your-learning/managing-your-learning-context/learning-with-others.md)
 
-[Assignment 3: Energy and Time Management Experiment](/optimizing-your-learning/managing-your-learning-context/assignment-3-energy-and-time-management-experiment.md)
+[Assignment 3: Learning Context Experiment](/optimizing-your-learning/managing-your-learning-context/assignment-3-energy-and-time-management-experiment.md)
 
 [Final Presentation - Milestone 2](/optimizing-your-learning/managing-your-learning-context/final-presentation-milestone-2.md)
 

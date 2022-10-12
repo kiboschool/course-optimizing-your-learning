@@ -27,19 +27,21 @@ Like in the quote above, we might not be able to influence what happens to us, b
 
 ## Self-Regulation in Learning
 
-As self-directed learners who understand the role that emotions play in our ability to learn and accomplish our learning goals, we understand that self-regulation is a critical practice we must have if we are going to accomplish challenging outcomes. Also, with the foundation of a growth mindset, we can apply ourselves to practices that help us gain mastery over what we are learning in the long run. mastering technical subjects such as Mathematics and programming can be daunting. Sometimes, we might be tempted to give up or do less than required. However, remembering that our brain pathways only develop with more action and practice (plasticity) can help us maintain self-regulation practices to master tough topics and subjects. Here are some of the ways self-regulation manifests in our learning process: 
+As self-directed learners who understand the role that emotions play in our ability to learn and accomplish our learning goals, we understand that self-regulation is a critical practice we must have if we are going to accomplish challenging outcomes. Also, with the foundation of a growth mindset, we can apply ourselves to practices that help us gain mastery over what we are learning in the long run. Mastering technical subjects such as mathematics and programming can be daunting. Sometimes, we might be tempted to give up or do less than required. However, remembering that our neural pathways only develop with more action and practice can help us maintain self-regulation practices to master tough topics and subjects. 
+
+Here are some of the ways self-regulation manifests in our learning process: 
 
 - **Setting Goals**
     
-    The beginning of all attainment is goal setting. If we will accomplish mastery in a course or subject, then, we must be clear about the outcomes that we want to achieve with specifics (SMART goal). These learning goals help us to check our own progress, stay accountable to the learning process and determine the strategies and resources required to achieve that goal.
+    The beginning of all attainment is goal setting. If we will accomplish mastery in a course or subject, then, we must be clear about the specific outcomes that we want to achieve. These learning goals help us to check our own progress, stay accountable to the learning process and determine the strategies and resources required to achieve that goal.
     
-- **Exercising Control and Staying focused**
+- **Exercising Control and Staying Focused**
     
-    As a self-directed learner and one who takes ownership of their learning journey, you will encounter unfamiliar concepts and ideas which sometimes might feel daunting. You will also encounter multiple distractions, especially when learning online. In order to make progress towards your learning, however, you will need to exercise control and restraint. Control in the learning process also involves applying the right learning strategies per time that allow you to meet your learning goals.
+    As a self-directed learner and one who takes ownership of their learning journey, you will encounter unfamiliar concepts and ideas which sometimes might feel daunting. You will also encounter multiple distractions, especially when learning online. In order to make progress towards your learning, you will need to exercise control and restraint. Control in the learning process also involves applying the approppriate learning strategies for a given situation.
     
 - **Monitoring Progress**
     
-    Monitoring progress includes monitoring yourself as well as monitoring the effectiveness of your learning strategies and actions. With this, you can evaluate how you are carrying on in the learning process- how much you have mastered and understood the concepts and what you still need to do to close the learning gaps.
+    Monitoring progress includes monitoring yourself as well as monitoring the effectiveness of your learning strategies and actions. With this, you can evaluate how you are carrying on in the learning process, how well you have mastered and understood the concepts, and what you still need to do to close the learning gaps.
     
 - **Improvement**
     
@@ -51,9 +53,9 @@ As self-directed learners who understand the role that emotions play in our abil
 
 In responding to any situation or emotional stimulus, the first action in self-regulation is to *pause and think calmly* before responding. Self-Regulation is a proactive action that allows you to choose how to respond in any situation. Here are some practices for improving your self-regulation:
 
-- **Mindfulness:** Being mindful is being aware of our feelings, circumstances and state in the moment. Practicing mindfulness allows us to observe things including the state of our own thoughts and bodies which hitherto we might not have been tuned in to.
-- **Cognitive Reframing:** Thoughts create feelings and sometimes, we have thoughts that do not serve us. Some thoughts might be doubtful thoughts about our own capabilities and can hinder our ability to achieve. We however do not have to accept those thoughts. We can reframe those thoughts and replace them with positive thoughts which in turn brings about positive feelings.
-- **Identifying Triggers:** We all have triggers which are situations, conditions, and actions that might destabilize us emotionally, cause difficult feelings and make us act in unintended ways. Knowing what these triggers are and knowing how to handle them is important.
+- **Mindfulness:** Being mindful is being aware of our feelings, circumstances and state in the moment. Practicing mindfulness allows us to observe things including the state of our own thoughts and bodies which previously we might not have been tuned in to.
+- **Cognitive Reframing:** Thoughts create feelings and sometimes, we have thoughts that do not serve us. Some thoughts might be doubtful thoughts about our own capabilities and can hinder our ability to achieve (e.g. limiting beliefs). However, we do not have to accept those thoughts. We can reframe those thoughts and replace them with positive thoughts which in turn brings about positive feelings.
+- **Identifying Triggers:** We all have triggers which are situations, conditions, and actions that might destabilize us emotionally, cause difficult feelings and make us act in unintended ways. Knowing what these triggers are, and knowing how to handle them, is important.
 - **Pausing before Acting:** As mentioned earlier, delaying your response or reaction to any emotional triggers and contemplating the consequences of your action is a practice that helps to develop stronger self-regulation skills.
 - **Setting Goals:** Having clear goals and a focus on what you want to achieve and letting that guide your efforts will help you to develop strong self-regulation skills. This is because accomplishing goals in themselves requires your commitment and resilience
 

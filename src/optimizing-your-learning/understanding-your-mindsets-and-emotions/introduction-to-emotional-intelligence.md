@@ -36,6 +36,13 @@ The ability to recognize, understand, and manage emotions in yourself and others
 
 ## Mayer and Salovey’s PUUM Model of Emotional Intelligence
 
+<aside>
+
+
+📺 Watch the following video on one of the foundational emotional intelligence models developed by Mayer and Salovey
+
+</aside>
+
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/eUTWeq_9OZ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
@@ -56,24 +63,25 @@ The ability to recognize, understand, and manage emotions in yourself and others
     > the ability to regulate emotions in both ourselves and in others. Therefore, the emotionally intelligent person can harness emotions, even negative ones, and manage them to achieve intended goals.
     > 
     
+[Source](https://en.wikipedia.org/wiki/Emotional_intelligence)
 
 ---
 
 ## Goleman’s Mixed Model of Emotional Intelligence
 
-Daniel Goleman built upon Mayer and Salovey’s ability-based emotional intelligence model to develop a model for the competencies and skills that underpin high leadership performance.
+Daniel Goleman built upon Mayer and Salovey’s ability-based emotional intelligence model to develop a model for the competencies and skills that underpin high performance.
 
  
 
 <aside>
 
 
-📺 Watch the following videos for an introduction to emotional intelligence
+📺 Watch the following videos for an introduction to Goleman's emotional intelligence model
 
 </aside>
 
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/8C7mtw-a2j4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/cAgGn4EACzQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/LgUCyWhJf6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
@@ -99,14 +107,6 @@ According to Daniel Goleman, who has researched and written extensively on the s
 - **Social Skills (or Relationship Management)**
     
     Social skills help us to bring all the skills of emotional intelligence into cordial and effective relationships with other people whether at work or in life. Social skills is the ability to interact well with people and build relationships with them. Without the previous set of emotional intelligence skills, it is hard to possess/practice social skills. This means that our ability to be successful in relationships with people begins with our ability to understand ourselves, and our emotions and be successful in relating with ourselves.
-    
-
-<aside>
-
-
-📖 Read more about emotional intelligence [here](https://globalleadershipfoundation.com/deepening-understanding/emotional-intelligence/).
-
-</aside>
 
 ---
 
@@ -115,7 +115,7 @@ According to Daniel Goleman, who has researched and written extensively on the s
 - Having emotional outbursts that are often out of proportion to the situation at hand.
 - Difficulty listening to others.
 - Becoming argumentative when interacting with someone that has a differing opinion.
-- Blaming others.
+- Regularly blaming others.
 - Inability to understand other people’s feelings, and therefore believing that others are overly sensitive.
 - Difficulty maintaining friendships and other relationships.
 - Unable, or refusing, to see other people’s points of view.

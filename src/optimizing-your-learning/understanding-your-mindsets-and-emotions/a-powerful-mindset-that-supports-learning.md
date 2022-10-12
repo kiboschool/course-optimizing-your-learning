@@ -13,7 +13,7 @@
 </aside>
 
 <aside>
-When you enter a mindset, you enter a new world. In one world—the world of fixed traits—success is about proving you’re smart or talented. Validating yourself. In the other—the world of changing qualities—it’s about stretching yourself to learn something new. Developing yourself. In one world, failure is about having a setback. Getting a bad grade. Losing a tournament. Getting fired. Getting rejected. It means you’re not smart or talented. In the other world, failure is about not growing. Not reaching for the things you value. It means you’re not fulfilling your potential. In one world, effort is a bad thing. It, like failure, means you’re not smart or talented. If you were, you wouldn’t need effort. In the other world, effort is what makes you smart or talented. You have a choice. Mindsets are just beliefs. They’re powerful beliefs, but they’re just something in your mind, and you can change your mind
+When you enter a mindset, you enter a new world. In one world—the world of fixed traits—success is about proving you’re smart or talented. Validating yourself. In the other—the world of changing qualities—it’s about stretching yourself to learn something new. Developing yourself. In one world, failure is about having a setback. Getting a bad grade. Losing a tournament. Getting fired. Getting rejected. It means you’re not smart or talented. In the other world, failure is about not growing. Not reaching for the things you value. It means you’re not fulfilling your potential. In one world, effort is a bad thing. It, like failure, means you’re not smart or talented. If you were, you wouldn’t need effort. In the other world, effort is what makes you smart or talented. You have a choice. Mindsets are just beliefs. They’re powerful beliefs, but they’re just something in your mind, and you can change your mind.
 
 - Carol Dweck, Mindset excerpt
 </aside>
@@ -57,7 +57,7 @@ A growth mindset is about believing in your ability to grow and improve.  It is 
 <aside>
 
 
-📺 One characteristic of a fixed mindset is a fear of failure or mistakes, watch the following video to learn how mistakes can be good for learning.
+📺 One characteristic of a fixed mindset is a fear of failure or mistakes. Watch the following video to learn how mistakes can be good for learning.
 
 </aside>
 
@@ -70,11 +70,11 @@ A growth mindset is about believing in your ability to grow and improve.  It is 
 🪞 **Answer one of the pairs of questions in the padlet below.**
 
 - Pair 1:
-    - In what situations have I displayed a growth mindset?
-    - How could this help my learning in the future?
+    - In what situations have you displayed a growth mindset?
+    - How could this help your learning in the future?
 - Pair 2:
     - In what situations have you displayed a fixed mindset?
-    - How can I act differently in the future?
+    - How could you act differently in the future?
 </aside>
 
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/embed/nw076pkpj5oma0i9" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>

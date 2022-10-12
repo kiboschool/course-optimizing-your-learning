@@ -13,27 +13,23 @@
 
 ## Identity
 
-An **identity** is a person's **formulation and expression** of their individuality and group affiliations**.** It may be defined as the **distinctive characteristics** belonging to an individual or shared by all members of a specific social category or group.
+An **identity** is a person's **formulation and expression** of their **individuality and group affiliations**. It may be defined as the **distinctive characteristics** belonging to an individual or shared by all members of a specific social category or group.
 
 **Some examples of identity groups include:**
 
-- Gender
-- Religion
-- Nationality
-- Disability
-- Socioeconomic status
-- Culture
-- Age
+|  |  | |
+| :---: | :---: | :---: |
+| Gender | Religion | Nationality|
+| Disability | Socioeconomic Status | Culture |
+| Age | Education Attainment | Ability |
+| Ethnicity | Language | Race |
 
-- Education attainment
-- Ability
-- Ethnicity
-- Language
-- Appearance
-- Race
 - Each person has a set of identities (We all have multiple identities)
 - Each person **chooses** at least some identities, while other identities are **given**.
-- People feel differently about different identities. Some identities are more important than others. Some identities are visible, while others are less apparent. Some identities change over time, while others are constant.
+- People feel differently about different identities. 
+  - Some identities are more important than others. 
+  - Some identities are visible, while others are less apparent. 
+  - Some identities change over time, while others are constant.
 
 ## Identity Mapping
 
@@ -53,13 +49,13 @@ Creating a map of your identity is a way to capture and articulate how you see y
 > ***Chosen Identities** - These are the characteristics that you choose. They may describe your status as well as attributes and skills. Your occupation, hobbies, political affiliation, place of residence, family roles, and religion may all be chosen.*
 >
 
-> ***Core Identities -*** The attributes that you think make you unique as an individual. Some will change over the course of your lifetime, others may remain constant. Elements of your core identity may include traits, behaviors, beliefs, values, and skills.
+> ***Core Identities -*** The attributes that you think make you unique as an individual. Some will change over the course of your lifetime, others may remain constant. Elements of your core identity may include behaviors, beliefs, values, and skills.
 >
 
 Source: Hannum, K. (2008). Leadership in Action: Branching out: Social Identity Comes to the Forefront. Center for Creative Leadership.
 
-![Identity map diagram](./identity/identity-map-diagram.png)
-Identity map diagram
+<!-- ![Identity map diagram](./identity/identity-map-diagram.png) -->
+
 
 ### Reflection: Reflecting on Your Identities
 
@@ -94,7 +90,7 @@ Adapted from Social Identity Wheel. (n.d). Inclusive Teaching at U-M. Retrieved 
 
 🪞 **Answer the question in the padlet below.**
 Do you have any beliefs (either positive or negative) about yourself that are a result of one of your identities?
-(e.g. I’m good at basketball because I’m tall, I’m not good at expressing my emotions because I’m a man)
+(e.g. I’m good at basketball because I’m tall, I’m not good at expressing my emotions because I’m a man, I'm bad at math because I'm a woman)
 
 </aside>
 

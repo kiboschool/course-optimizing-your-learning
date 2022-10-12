@@ -1,5 +1,9 @@
 # Optimizing Your Learning (OYL)
 
+**KC001** *3 ETCS*
+
+---
+
 ![brain](./brain.jpeg)
 Photo by Milad Fakurian on Unsplash
 
@@ -32,12 +36,12 @@ By the end of this course, you will be able to:
 
 [Week 0: Welcome!](/optimizing-your-learning/welcome.md)
 
-[Week 1 - How to Get Anything You Want in Life] <!-- (/optimizing-your-learning/how-to-get-anything-you-want-in-life.md) -->
+[Week 1: How to Get Anything You Want in Life](/optimizing-your-learning/how-to-get-anything-you-want-in-life.md)
 
-[Week 2 - Understanding Your Mindsets and Emotions] <!-- (/optimizing-your-learning/understanding-your-mindsets-and-emotions.md) -->
+[Week 2: Understanding Your Mindsets and Emotions] <!-- (/optimizing-your-learning/understanding-your-mindsets-and-emotions.md) -->
 
-[Week 3 - Managing Your Learning Context] <!-- (/optimizing-your-learning/managing-your-learning-context.md) -->
+[Week 3: Managing Your Learning Context] <!-- (/optimizing-your-learning/managing-your-learning-context.md) -->
 
-[Week 4 - Building Your Learning Toolkit] <!-- (/optimizing-your-learning/building-your-learning-toolkit.md) -->
+[Week 4: Building Your Learning Toolkit] <!-- (/optimizing-your-learning/building-your-learning-toolkit.md) -->
 
-[Week 5 - Final Assessments] <!-- (/optimizing-your-learning/final-assessments.md) -->
+[Week 5: Final Assessments] <!-- (/optimizing-your-learning/final-assessments.md) -->

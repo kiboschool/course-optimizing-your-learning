@@ -7,7 +7,7 @@
 <aside>
 
 
-🗣️ **“We do not learn from experience...we learn from reflecting on experience.”**
+🗣️ “We do not learn from experience...we learn from reflecting on experience.”
 - John Dewey
 
 </aside>
@@ -27,7 +27,7 @@
 
 Reflective learning is a practice that helps you to move from being a passive learner into being an active one. It is the practice of monitoring and evaluating your own learning process with the objective of finding ways to improve. If self-directed learning puts you in charge of your learning process, then the reflective learning practice is about being able to evaluate and improve that learning process.
 
-Reflection completes the learning process because it allows you to step back and evaluate the learning process.
+Reflection completes the learning process because it allows you to step back and evaluate your learning.
 
 Reflection in Learning can happen in 2 ways:
 
@@ -46,6 +46,8 @@ If you recall from the previous section, the final stage of self-directed learni
 The conscious examination of past experiences, thoughts, and ways of doing things.  Its goal is to surface learning about oneself and the situation and to bring meaning to it in order to inform the present and the future.  It challenges the status quo of practice, thoughts, and assumptions and may therefore inform our decisions, actions, attitudes, beliefs, and understanding about ourselves.
 </aside>
 
+[Source](https://www.ed.ac.uk/reflection)
+
 ---
 
 ## What? So What? Now What? Model
@@ -61,9 +63,9 @@ The conscious examination of past experiences, thoughts, and ways of doing thing
 
 Steps of What? So What? Now What? Model:
 
-- **What? - D**escribe the situation you want to learn from. Identify the facts and feelings of the situation.
-- **So What?** Extract the meaning of what you experienced, question what knowledge you and others had in the situation, and what knowledge could help you make sense of the situation.
-- **Now what?** - c**reate an action plan for the future based on the previous questions.
+- **What? -** Describe the situation.
+- **So What?** - Identify key takeaways from your experience.
+- **Now What?** - Determine what you will do differently in the future, based on what you learned from the experience.
 
 <aside>
 
@@ -84,18 +86,29 @@ Steps of What? So What? Now What? Model:
 </aside>
 
 
+You can watch a video on the 5R framework [here](https://www.youtube.com/watch?v=scibb0kd4jw).
+
+
 Steps of the 5R framework:
 
-- **Reporting** of the context of the experience
-- **Responding** to the experience (observations, feelings, thoughts, etc.)
-- **Relating** the experience to knowledge and skills you already have
-- **Reasoning** about the significant factors/theory to explain the experience
-- **Reconstructing** your practice by planning future actions for a similar experience
+- **Reporting** 
+- **Responding**
+- **Relating** 
+- **Reasoning**
+- **Reconstructing**
 
 
 ---
 
 ## Gibbs’ Reflective Cycle
+
+<aside>
+
+
+🗣️ "It is not sufficient simply to have an experience in order to learn. Without reflecting upon this experience it may quickly be forgotten, or its learning potential lost. It is from the feelings and thoughts emerging from this reflection that generalisations or concepts can be generated and it is generalisations that allow new situations to be tackled effectively."
+- Graham Gibbs
+
+</aside>
 
 <aside>
 
@@ -108,12 +121,12 @@ Steps of the 5R framework:
 
 Steps of Gibbs’ Reflective Cycle:
 
-- **Description** of the experience
-- **Feelings** and thoughts about the experience
-- **Evaluation** of the experience, both good and bad
-- **Analysis** to make sense of the situation
-- **Conclusion** about what you learned and what you could have done differently
-- **Action plan** for how you would deal with similar situations in the future, or general changes you might find appropriate.
+- **Description**
+- **Feelings**
+- **Evaluation**
+- **Analysis**
+- **Conclusion** 
+- **Action plan**
 
 <aside>
 
@@ -123,20 +136,20 @@ Steps of Gibbs’ Reflective Cycle:
 </aside>
 
 ---
-<!--
-## Reflect: Reflecting on Mistakes and Failiure
+
+## Reflect: Reflecting on Mistakes and Failure
 
 <aside>
 
 
-🪞 Think about the last time you made a mistake or failed at some thing. Select one of the 3 reflection models presented in this section, and use its steps to reflect on your experience.
+🪞 Think about the last time you made a mistake or failed at some thing. Select one of the 2 reflection models given in the padlet below, and use its steps to reflect on your experience.
 
 </aside>
 
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/embed/7bvweo9k71s82i9q" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
 ---
--->
+
 <aside>
 
 

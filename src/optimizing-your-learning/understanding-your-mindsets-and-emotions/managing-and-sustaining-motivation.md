@@ -11,20 +11,10 @@
 
 - What drives you to make the choices you make daily?
 - What motivated you to choose to study for a Computer Science degree at Kibo School?
-- Why are you studying this course right now?
+- Why are you studying this course (Optimizing Your Learning) right now?
 </aside>
 
-If you have done this activity before or thought about it before, the answers might come easy. But there is also a possibility that you do not have answers to some of the questions, or perhaps that you are not sure of your answers. What is the impact of not having answers to these questions? As you ponder this, let’s continue by exploring a definition of Motivation.
-
-<aside>
-
-
-📺 Watch this video to learn more about theories of motivation.
-
-</aside>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/eNqJYIns4Rk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
+If you have done this activity before or thought about it before, the answers might come easily. But there is also a possibility that you do not have answers to some of the questions, or perhaps that you are not sure of your answers. What is the impact of not having answers to these questions? As you ponder this, let’s learn more about motivation.
 
 <aside>
 
@@ -34,22 +24,21 @@ What causes you to act and behave in certain ways, and drives us to act, move to
 
 </aside>
 
-Given the definition of motivation, it is no surprise that it plays critical role in effective self-directed learning.
-
 <aside>
 
 
-📺 Watch this video to learn more about intrinsic and extrinsic motivation.
+📺 Watch this video to learn more about motivation.
 
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/pOcsJH9ZXV8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/eNqJYIns4Rk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 
 As mentioned in the video, motivation can be extrinsic or intrinsic:
 
 - **Extrinsic Motivation**
     
-    Extrinsic motivation is the motivation that is initiated by forces outside of us or external forces. For example, you might be motivated to study and get good grades because it is the expectation of your parents and family. This could further be connected to positive or negative consequences. A negative consequence as motivation might be that your educational fees stop being sponsored if you perform poorly while a positive motivation might be that you win a cash award for exemplary performance.  
+    Extrinsic motivation is the motivation that is initiated by forces outside of us or external forces. For example, you might be motivated to study and get good grades because it is the expectation of your parents and family. This could further be connected to positive or negative consequences. A negative consequence as motivation might be that your educational fees stop being sponsored if you perform poorly, while a positive motivation might be that you win a cash award for exemplary performance.  
     
 - **Intrinsic Motivation**
     
@@ -65,7 +54,7 @@ As mentioned in the video, motivation can be extrinsic or intrinsic:
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/u6XAPnuFjJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-Daniel Pink captures the components of intrinsic motivation as:
+According to Daniel Pink, the components of intrinsic motivation can be described as:
 
 - **Autonomy**: The urge to direct our own lives
 - **Mastery**: The desire to get better at something that matters
@@ -73,17 +62,7 @@ Daniel Pink captures the components of intrinsic motivation as:
 
 ---
 
-## How to Maintain Motivation in Learning
-
-<aside>
-
-
-📺 Watch this video to learn about how to improve your motivation.
-
-</aside>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/M1Qz5Wow-lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
+## How to Maintain Motivation When Learning
 
 Self-motivation is the ability to find and maintain a cause that drives you towards action. In learning, motivation enables us to take charge of our own learning and to sustain our attention and performance. Here are some more ways to maintain motivation in learning which revolve around the 3 factors mentioned by Daniel Pink above (autonomy, mastery and purpose):
 
@@ -102,13 +81,29 @@ Self-motivation is the ability to find and maintain a cause that drives you towa
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/xTbV6OvNiX8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-## Discuss: Motivation for Studying CS
+---
+
+## Some Final Tips for Increasing Motivation
+
 
 <aside>
 
 
-💬 **Answer the question in the padlet below.**
-How is what you are currently studying at Kibo connect to your future goals?
+📺 Watch this video to learn about how to improve your motivation.
+
+</aside>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/M1Qz5Wow-lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+---
+
+## Discuss: Advising a Classmate
+
+<aside>
+
+💬 It is week 8 of the first term of Kibo's degree program, and as the final project for the Mathematical Thinking course draws closer, your classmates, Temi, comes to to you asking for advise, as she has lost all motivation to study. What advice would you give her to help her get back on track?
+
+**Post your advice in the padlet bellow.**
 
 </aside>
 

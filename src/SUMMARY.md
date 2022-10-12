@@ -20,7 +20,7 @@
 	- [Assignment 1 - Orientation Reflection](optimizing-your-learning/how-to-get-anything-you-want-in-life/assignment-1-individual-sdl.md)
 
 
-
+<!--
 
 ### Week 2
 
@@ -37,7 +37,7 @@
 	- [Final Presentation Milestone 1](optimizing-your-learning/understanding-your-mindsets-and-emotions/final-presentation-milestone-1.md)
 	
 
-<!--
+
 ### Week 3
 
 - [Week 3: Managing Your Learning Context](optimizing-your-learning/managing-your-learning-context.md)
@@ -48,7 +48,7 @@
 	- [Time Management](optimizing-your-learning/managing-your-learning-context/time-management.md)
 	- [Physical Environment](optimizing-your-learning/managing-your-learning-context/physical-environment.md)
 	- [Learning With Others](optimizing-your-learning/managing-your-learning-context/learning-with-others.md)
-	- [Assignment 3 - Energy and Time Management Experiment](optimizing-your-learning/managing-your-learning-context/assignment-3-energy-and-time-management-experiment.md)
+	- [Assignment 3 - Learning Context Experiment](optimizing-your-learning/managing-your-learning-context/assignment-3-energy-and-time-management-experiment.md)
 	- [Final Presentation Milestone 2](optimizing-your-learning/managing-your-learning-context/final-presentation-milestone-2.md)
 
  

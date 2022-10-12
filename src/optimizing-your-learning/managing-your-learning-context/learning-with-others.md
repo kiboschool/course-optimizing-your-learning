@@ -1,13 +1,13 @@
-# Learning with others
+# Learning With Others
 
-*Estimated Time: xx hours*
+*Estimated Time: 1 hour*
 
 ---
 
 <aside>
 
 
-🗣 ***“None of us is as smart as all of us.”** 
+🗣 “None of us is as smart as all of us.”
 – Ken Blanchard*
 
 </aside>
@@ -31,7 +31,8 @@ In this lesson, we will explore how you can effecively learn with other members 
 
 </aside>
 
-[https://youtu.be/_fWm7cF8-WM](https://youtu.be/_fWm7cF8-WM)
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/_fWm7cF8-WM"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 
 Let us start off with an understanding of what Peer Learning is or what is sometimes called: peer-to-peer learning.    
 
@@ -168,12 +169,3 @@ As part of your experience at Kibo, you have been matched with a mentor, so your
 - [add some more advice]
 
 ---
-
-<aside>
-
-
-🤷🏿‍♀️ **So What? How does this section apply to me?**
-
-*[insert text]*
-
-</aside>

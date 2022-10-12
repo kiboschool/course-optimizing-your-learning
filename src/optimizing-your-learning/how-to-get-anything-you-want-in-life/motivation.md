@@ -19,6 +19,7 @@
 
 💬 **How would you define learning in your own words?**
 Post your definition in the padlet below.
+**Note:** In order to see and interact with the padlet, you will need to be logged in to your padlet account!
 
 </aside>
 
@@ -88,7 +89,7 @@ Will you need new knowledge, skills, and behaviours to achieve your imagined fut
 
 ---
 
-# What is meta-learning, and why is it important?
+# What is Meta-learning, and Why is it Important?
 
 ## Reflection: Your Experience of Learning
 
@@ -122,7 +123,7 @@ We are accustomed to learning about different subjects or developing new skills 
 
 In the video, Kwik asserts that meta-learning (i.e. thinking about how to learn) is a vital skill because if you know how to learn, then you will be able to learn anything you want or need to learn. You will be able to decide what you want to accomplish in the future and have the ability to learn the skills, knowledge, and mindsets that are required to help you transform from your current state into that future state. 
 
-This ability is critical in a field like Computer Science that is in constant evolution. For example, new programming languages and frameworks are frequently developed. And as a technical professional, constant learning is critical for keeping up and continually delivering cutting-edge work. 
+This ability is critical in a field like computer science that is in constant evolution. For example, new programming languages and frameworks are frequently developed. And as a technical professional, constant learning is critical for keeping up and continually delivering cutting-edge work. 
 
 <aside>
 
@@ -133,7 +134,7 @@ This ability is critical in a field like Computer Science that is in constant ev
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/y6cR4LWGz7Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-Beyond computer science, the world at large is also on a rapid trajectory of change. The term [VUCA](https://www.techtarget.com/whatis/definition/VUCA-volatility-uncertainty-complexity-and-ambiguity) (Volatility, Uncertainty, Complexity, Ambiguity) is often used to describe the state of the modern world.  Many sectors and industries are evolving rapidly. In fact, according to ‘The Future of Economy’ Report published by the Institute for the Future (IFTF) and Dell technologies, a lot of jobs that will exist in 2030 do not exist today. Furthermore, Knowledge Obsolescence (defined as “the condition of knowledge becoming outdated or superseded due to the emergence of newer, more relevant knowledge or need for additional currency or relevance.”) means that a significant amount of knowledge that you currently hold may be outdated and useless within the next 5 years. Therefore, the priority should be to focus on **how to learn** so that you can adapt beyond just knowing current skills and knowledge, and instead learn whatever you need to learn as it becomes relevant or required in the future.
+Beyond computer science, the world at large is also on a rapid trajectory of change. The term [VUCA](https://www.techtarget.com/whatis/definition/VUCA-volatility-uncertainty-complexity-and-ambiguity) (Volatility, Uncertainty, Complexity, Ambiguity) is often used to describe the state of the modern world.  Many sectors and industries are evolving rapidly. In fact, according to ‘The Future of Economy’ Report published by the Institute for the Future (IFTF) and Dell technologies, a lot of jobs that will exist in 2030 do not exist today. Furthermore, Knowledge Obsolescence (defined as “the condition of knowledge becoming outdated or superseded due to the emergence of newer, more relevant knowledge or need for additional currency or relevance.” (IGI Global, 2022)) means that a significant amount of knowledge that you currently hold may be outdated and useless within the next 5 years. Therefore, the priority should be to focus on **how to learn** so that you can adapt beyond just knowing current skills and knowledge, and instead learn whatever you need to learn as it becomes relevant or required in the future.
 
 This lifelong learning becomes more effective when you understand the principles behind learning, how you learn, and the strategies that help you learn more efficiently and effectively.  
 

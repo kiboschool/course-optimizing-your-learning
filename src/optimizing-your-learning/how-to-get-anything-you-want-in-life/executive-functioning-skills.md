@@ -27,11 +27,11 @@ A set of cognitive processes that help us self-regulate so we can effectively pl
 
 ## Brain functions that support executive functioning
 
-- **Flexible Attention:** "Helps us to sustain or shift attention in response to different demands or to apply different rules in different settings."
+- **Flexible Attention (Mental Flexibility):** "Helps us to sustain or shift attention in response to different demands or to apply different rules in different settings."
 
 - **Working Memory:** "Governs our ability to retain and manipulate distinct pieces of information over short periods of time."
 
-- **Inhibitory Control:** "Enables us to set priorities and resist impulsive actions or responses."
+- **Inhibitory Control (Impulse Inhibition):** "Enables us to set priorities and resist impulsive actions or responses."
 
 
 [Source](https://developingchild.harvard.edu/science/key-concepts/executive-function/#:~:text=Executive%20function%20and%20self%2Dregulation%20skills%20depend%20on%20three%20types,in%20coordination%20with%20each%20other.)
@@ -62,7 +62,7 @@ A set of cognitive processes that help us self-regulate so we can effectively pl
 <aside>
 
 
-🪞 In the relevant column, rate your current competence in each of the 3 executive function skills, and describe a situation when your abilities in that skill have either helped or hindered you in achieving in a goal. Rating options: Poor, Average, Good, Excellent.
+🪞 In the relevant column, rate your current competence in each of the 3 executive function skills, and describe a situation when your abilities in that skill have either helped or hindered you in achieving a goal. Rating options: Poor, Average, Good, Excellent.
 
 </aside>
 
@@ -86,24 +86,31 @@ A set of cognitive processes that help us self-regulate so we can effectively pl
 
 </aside>
 
-Below are some more core Executive Functioning skills that influence your ability to learn effectively. With each skill listed below, in addition to the explanation, you will find a few strategies highlighted that you can practice improving the skill.
+Below are some more Executive Functioning skills that influence your ability to learn effectively. With each skill listed, in addition to the explanation, you will find a few strategies highlighted that you can use to improve the skill.
 
 ![executive-functioning-skills.webp](/optimizing-your-learning/how-to-get-anything-you-want-in-life/executive-functioning-skills/executive-functioning-skills.webp)
 
 | Executive Function Skill | Description | Improvement Strategies |
 | --- | --- | --- |
-| Planning | Developing a well-thought-out strategy before embarking on a task or project. Planning involves taking stock of the different actions and requirements that are necessary for the endeavour to be successful. it is important to plan your learning through such activities as setting learning goals, apportioning time to completing learning tasks, and envisaging what materials and resources will be needed.  | Using to-do list; Setting goals; Taking note of important dates and tasks; Daily planning; Using graphic organizers, Playing games like chess that require planning and strategizing |
+| Planning | Developing a well-thought-out strategy before embarking on a task or project. Planning involves taking stock of the different actions and requirements that are necessary for the endeavour to be successful. it is important to plan your learning through such activities as setting learning goals, apportioning time to completing learning tasks, and envisaging what materials and resources will be needed.  | Using to-do list; Setting goals; Taking note of important dates and tasks; Daily planning; Using graphic organizers, Playing games like chess that require planning and strategizing. |
 | Organization | Having a working system that helps to keep your plans and actions orderly and aligned.  | Being intentional about how you organize your learning resources such as books (online and offline), organizing your learning space, and having systems for the different parts/strategies of your learning such as how you take notes, how you learn from, and with others, etc.  |
-| Task Initiation | The ability to commence on tasks. It is the ability to start something which involved taking initiative and overcoming inertia. It is not uncommon for people to procrastinate on studying up till the last minute. Initiation or starting might seem daunting at times but by disciplining yourself to get started, the task becomes easier as you gather momentum and make progress.  | ![Eating the frog](https://todoist.com/productivity-methods/eat-the-frog) - do your hardest task first. |
+| Task Initiation | The ability to commence on tasks. It is the ability to start something which involved taking initiative and overcoming inertia. It is not uncommon for people to procrastinate on studying up till the last minute. Initiation or starting might seem daunting at times but by disciplining yourself to get started, the task becomes easier as you gather momentum and make progress.  | [Eating the frog](https://todoist.com/productivity-methods/eat-the-frog) - do your hardest task first. Work in a tidy environment. Create a daily schedule.|
 | Flexibility | The is the ability to change or adapt to new and changing or unfamiliar situations. Flexibility, like a growth mindset, is important as it allows you to accept new ideas and try new ways of thinking or approaching problems.  | Intentionally trying to think about alternative ways of approaching problems; Listing out assumptions that you are making, and think about what would happen if the opposite of your assumptions was true instead; Seek multiple points of view. |
-| Attention | This involves being able to focus or attend to a task for a long period of time and avoiding distractions.  | Using mindful meditation to help focus your attention. |
+| Attention | This involves being able to focus or attend to a task for a long period of time and avoid distractions.  | Using mindful meditation to help focus your attention. |
 | Self-control | The ability to regulate or control your thoughts, emotions, and actions. | Being more self-aware, pausing before taking action, and reflecting on your thoughts, emotions, and behaviors. |
-| Working Memory | This has to do with holding information in your mind while working on it. Examples of this include making connections with text when reading and solving math and logic problems among other things.  | Using different strategies such as visualization, mnemonics among others can help to sustain working memory |
+| Working Memory | This has to do with holding information in your mind while working on it. Examples of this include making connections with text when reading and solving math and logic problems among other things.  | Using different strategies such as visualization, mnemonics among others can help to sustain working memory. |
 | Metacognition | Being aware of your own learning and having a candid assessment of what you know and what you do not.  | Reflect on your learning. |
 | Time Management | Ability to use time efficiently and effectively in the accomplishment of set tasks and goals. | Allotting time to tasks is important. When you have a chunk of studying to do, for example, it helps to assign time to the different study tasks. Importantly, as you assign time, you should consider the priority of the tasks you need to complete in order to give it appropriate time; Time blocking.|
 | Perseverance | Being able to see things through, the quality of sticking with the work or the task even as it gets more difficult and challenging.| Strategies such as seeking help, pacing yourself, and staying positive can help with completing a task, even when it is challenging. |
 
 [Source](https://www.thepathway2success.com/10-executive-functioning-skills-the-ultimate-guide/)
+
+<aside>
+
+
+📖 **Optional:** Read the following article to learn more about [**executive functions for learning**](https://www.thepathway2success.com/10-executive-functioning-skills-the-ultimate-guide/).
+
+</aside>
 
 <aside>
 

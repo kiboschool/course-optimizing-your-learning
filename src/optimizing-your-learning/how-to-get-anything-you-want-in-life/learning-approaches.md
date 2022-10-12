@@ -4,12 +4,12 @@
 
 ---
 
-So far in Lesson 1, we have learnt about how learning happens in the brain, and how certain cognitive skills can influence how well you are able to manage your learning. In this section, we will explore the different ways in which people leverage their neuroplasticity and cogntive skills to learn. There have been a lot of controversies around the concept of “learning styles”, so before we jump into the lesson, let’s watch a video that talks about the misconception of learning styles.
+So far in Lesson 1, we have learnt about how learning happens in the brain, and how certain cognitive skills can influence how well you are able to manage your learning. In this section, we will explore the different ways in which people leverage their neuroplasticity and cognitive skills to learn. There have been a lot of controversies around the concept of “learning styles”, so before we jump into the lesson, let’s watch a video that talks about the misconception of learning styles.
 
 <aside>
 
 
-📺 Watch this video on the myth of learning styles
+📺 Watch this video on the myth of learning styles.
 
 </aside>
 
@@ -21,8 +21,27 @@ So far in Lesson 1, we have learnt about how learning happens in the brain, and 
 
 </aside>
 
+---
 
-## VARK Learning Theory
+## Two Popular Learning Style Theories
+
+In this section, we will explore two popular learning style theories. 1) The Index of Learning Styles, which was introduced in the article above, and 2) VARK learning theory, which is widely used. As we discuss these learning theories, please keep in mind the earlier stated arguments from both the learning style skeptics and supporters.
+
+### Index of Learning Styles
+
+<aside>
+
+
+📺 Watch the following video for an introduction to the Index of Learning Sytles.
+
+</aside>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/CSVJoNbcGUg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+
+You can complete the Index of Learning Styles Questionaire [here](https://www.webtools.ncsu.edu/learningstyles/). and you can find more detailed information and supporting material [here](https://educationdesignsinc.com/index-of-learning-styles/).
+
+### VARK Learning Theory
 
 The VARK Learning Theory establishes that there are 4 main ways that people can learn (sometimes called “learning styles”), which are as follows:
 
@@ -37,7 +56,7 @@ The VARK Learning Theory establishes that there are 4 main ways that people can 
 
 [Source](https://www.youtube.com/watch?v=EbqeQY0V78k), [Source](https://www.verywellmind.com/vark-learning-styles-2795156)
 
-At some point, you have likely learned effectively in most of the above formats. And, as the first video in this section explains, no proof has been found to support the conclusion that individual learning styles make learning more efficient or effective. So how should we use the idea of learning styles to improve the way that we learn?
+At some point, you have likely learned effectively in most of the above formats. So with all the controversy surrounding their validity, how should we use the idea of learning styles to improve the way that we learn?
 
 
 <aside>
@@ -49,16 +68,16 @@ At some point, you have likely learned effectively in most of the above formats.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/855Now8h5Rs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-**Here are some helpful points from the video to note:**
+**Here are some helpful takeaways from the video:**
 
-- Learning happens when meaning is associated with something and this can happen in a variety of ways
+- Learning happens when meaning is associated with something, and this can happen in a variety of ways
 - Learning approaches will depend on what needs to be learned or taught
 - Subjects can be learned using multiple approaches
 - We are all capable of learning in a variety of ways and with a variety of approaches.
 
 **Don’t limit yourself with ‘Learning Styles’!**
 
-It is common for people to blame their lack of effort or success in a particular area of learning on learning styles. Don’t do this. Rather than focus on fixed learning styles as a limitation, you can expand your learning possibilities through learning preferences. And think about how you can utilize multiple approaches to learning in your learning routine. 
+It is common for people to blame their lack of success in a particular area of learning on learning styles. **Don’t do this.** Rather than focus on fixed learning styles as limitations, you can expand your learning possibilities by thinking of learning styles as flexible "learning approaches". This will allow you to think about how you can utilize multiple learning approaches in your learning routine so that you achieve your learning goals.
 
 ---
 

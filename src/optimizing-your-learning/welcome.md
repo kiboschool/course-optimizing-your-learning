@@ -5,7 +5,7 @@ E*stimated Time: 1 hour*
 ---
 ## Introductory Video
 
-[insert introductory video from instructor]
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/Hp9gI2AS17c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## Course Introduction
 
@@ -13,9 +13,9 @@ Kibo’s mission is to educate collaborative innovators who use technology to so
 
 For you to become a "collaborative innovator", you will need to be able to direct your learning, reflect critically, and course correct when needed, so that you can effectively deepen your expertise in the subject matter of focus. 
 
-Optimizing Your Learning aims to give you the tools to do this successfully. You will learn why self-directed learning and learning how to learn can drive long-term success. You will also learn about how to understand and harness your identities, beliefs, and interests to develop learning skills and habits grounded in ownership, motivation, and commitment. Finally, you will be introduced to a variety of learning strategies and approaches that will help shape the development of new powerful and effective learning mindsets and skills. 
+Optimizing Your Learning aims to give you the tools to do this successfully. You will learn why self-directed learning and learning how to learn can drive long-term success. You will also learn about how to understand and harness your identities, beliefs, and interests to develop learning habits grounded in ownership, motivation, and persistence. Finally, you will be introduced to a variety of learning strategies and approaches that will help shape the development of powerful and effective learning mindsets and skills. 
 
-We hope that all these will allow you to gain a mastery of, and confidence in, your own agency and ability to achieve your goals at Kibo and beyond. As a result, we hope that you will see challenges that you encounter in a new light, as surmountable hurdles that can be overcome. While also seeing yourself in a new light, as an individual who can uncover what it takes to solve even the most complex problems. 
+We hope that all these will allow you to gain a mastery of, and confidence in, your ability to achieve your goals at Kibo and beyond. As a result, we hope that you will see challenges that you encounter in a new light, as hurdles that can be overcome. While also seeing yourself in a new light, as an individual who can uncover what it takes to solve even the most complex problems. 
 
 Over the 5 weeks of this course we will explore 4 main thematic areas:
 **In week 1**, we will focus on why effective learning is important in the 21st century, and what learning actually entails. 
@@ -33,13 +33,13 @@ Since the goal of this course is to help you improve your learning skills, there
 ## Course and Instructor Information
 
 The instructor for this course is: Dr Keno Omu.
-The course will run from October 10 - November 13, 2022. Note that this is a **5 week course**.
+The course will run from October 10 to November 13, 2022. Note that this is a **5 week course**.
 
-Live classes will be held on Tuesdays. You only need to attend **one** of these classes.
-  - Class A: 3:30-5:00 pm GMT.
-  - Class B: 5:30-7:00pm GMT.
+Live classes will be held on Tuesdays. You only need to attend **one** of these classes each week.
+  - Class 1: 3:30-5:00 pm GMT.
+  - Class 2: 5:30-7:00 pm GMT.
 
-Office hours will be held 5-7pm on Thursdays. This is optional chances to get additional support from the instructor.
+Office hours will be held 5-7pm on Thursdays. This is an optional chance to get additional support from the instructor.
   
 <aside>
 

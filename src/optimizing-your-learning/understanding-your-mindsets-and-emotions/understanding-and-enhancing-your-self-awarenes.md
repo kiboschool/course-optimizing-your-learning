@@ -50,19 +50,19 @@ Let’s be clear that self-awareness is different from self-consciousness. As de
 
 ## Self-Awareness and Learning
 
-As earlier mentioned, self-awareness can help you become a better self-directed learner. Here are a number of areas in which you need to be more self-aware in other to accomplish more effective learning:
+As mentioned earlier, self-awareness can help you become a better self-directed learner. Here are a number of areas in which you need to be more self-aware in other to accomplish more effective learning:
 
 - **Emotions**
-    
+
     As we have already demonstrated, being aware of your emotions is important to how you understand, interpret and act in situations. Learning happens within and outside the classroom and across a variety of scenarios and so, the ability to understand your emotions in different situations can determine if you are able to learn in that situation or not.
     
 - **Strengths and Weaknesses**
     
-    Our strengths are the things that we do well while our weaknesses are the things we are not so good at. having an understanding of your strengths and weaknesses during learning and at work will help you prioritize and concentrate on more effective methods of carrying out work and learning. 
+    Our strengths are the things that we do well, while our weaknesses are the things we are not so good at. Having an understanding of your strengths and weaknesses during learning and at work will help you prioritize and concentrate on more effective methods for achieving your goals. 
     
 - **Learning preferences, needs, and priorities**
     
-    Similar to the point above and in line with our discussion on learning preferences in the last lesson, being aware of your learning preferences and approaches can help you to be a more effective learner, regardless of what the subject matter is. We will share shortly some ways you can better develop this self-awareness.
+    Similar to the point above and in line with our discussion last week on learning preferences, being aware of your learning preferences and approaches can help you to be a more effective learner, regardless of the subject matter.
     
 ---
 
@@ -92,7 +92,8 @@ Here are activities you can practice to improve your self-awareness:
 
 💬 **Answer the following question in the padlet below.**
 
-- Which of the activities for developing self-awareness do you find most relevant? And how could you turn one of these into a daily habit?
+- Which of the activities for developing self-awareness do you think would be most useful and effective for you?
+    
 </aside>
 
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/embed/sr6xmwxfuocc1fa8" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>

@@ -64,6 +64,8 @@ In this section we will discuss why sleep is so important for learning and livin
   
 ## What Happens When You Don't Get Enough Sleep
 
+<aside>
+
 📺 Watch the following video on the effects of sleep deprivation.
 
 </aside>
@@ -90,7 +92,7 @@ In this section we will discuss why sleep is so important for learning and livin
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/t0kACis_dJE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
-### Sleep Hydiene Checklist
+### Sleep Hygiene Checklist
 
 Here are some good habits that you can employ to help you get better sleep.
 

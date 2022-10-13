@@ -83,15 +83,14 @@ The majority of the publically available information about brain beneficial nutr
 
 <aside>
 
-📖 **Optional:** Read the following article on the [**effect of acute aerobic exercise on executive function**](https://www.sciencedirect.com/science/article/pii/S0149763421002670).
+📖 Read the following article on how **[regular exercise changes the brain to improve memory and thinking skills](https://www.health.harvard.edu/blog/regular-exercise-changes-brain-improve-memory-thinking-skills-201404097110)**.
 
 </aside>
 
 <aside>
 
-📖 Read the following article on how **[regular exercise changes the brain to improve memory and thinking skills](https://www.health.harvard.edu/blog/regular-exercise-changes-brain-improve-memory-thinking-skills-201404097110)**.
+📖 **Optional:** Read the following article on the [**effect of acute aerobic exercise on executive function**](https://www.sciencedirect.com/science/article/pii/S0149763421002670).
 
 </aside>
-
 
 ---

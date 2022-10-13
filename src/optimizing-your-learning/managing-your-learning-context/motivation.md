@@ -25,6 +25,7 @@ But to start off with, let's consider a question that has been puzzling philosop
 <aside>
   
 Do you think you are a "mind with a body", a "body with a mind", or something else?
+
 **Add your thoughts to the padlet below.**
 
 </aside>

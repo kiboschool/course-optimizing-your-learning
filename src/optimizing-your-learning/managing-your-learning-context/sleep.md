@@ -12,6 +12,8 @@
 
 </aside>
 
+In this section we will discuss why sleep is so important for learning and living, explore the consequences of sleep deprivation, and learn how to get better sleep.
+
 ## Introduction to Sleep
 
 <aside>
@@ -26,9 +28,6 @@
 
 
 ## Sleep and the Brain
-
-
-In this section we will discuss why sleep is so important for learning and living, explore the consequences of sleep deprivation, and learn how to get better sleep.
 
 <aside>
 

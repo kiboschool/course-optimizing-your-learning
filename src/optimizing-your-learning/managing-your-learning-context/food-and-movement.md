@@ -55,6 +55,8 @@ The majority of the publically available information about brain beneficial nutr
 
 ## Movement and Exercise
 
+<aside>
+
 📺 Watch the following video on the risks of a sedentary lifestyle.
 
 </aside>
@@ -63,9 +65,6 @@ The majority of the publically available information about brain beneficial nutr
 
 <aside>
   
-  
-<aside>
-
 
 📺 Watch the following video on benefits of exercise on your mental health.
 
@@ -76,7 +75,6 @@ The majority of the publically available information about brain beneficial nutr
 <aside>
 
 
-
 📺 Watch the following video on how exercise affects the brain.
 
 </aside>
@@ -85,13 +83,11 @@ The majority of the publically available information about brain beneficial nutr
 
 <aside>
 
-
 📖 **Optional:** Read the following article on the [**effect of acute aerobic exercise on executive function**](https://www.sciencedirect.com/science/article/pii/S0149763421002670).
 
 </aside>
 
 <aside>
-
 
 📖 Read the following article on how **[regular exercise changes the brain to improve memory and thinking skills](https://www.health.harvard.edu/blog/regular-exercise-changes-brain-improve-memory-thinking-skills-201404097110)**.
 

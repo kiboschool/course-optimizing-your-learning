@@ -4,7 +4,7 @@
 
 ---
 
-In this section, we will discuss how to use breathing, mindfulness, and other techniques to manage your stress and improve your learning outcomes.
+In this section, we will explore the impact that stress has on your brain, and then we will discuss how to use breathing, mindfulness, and other techniques to manage your stress and improve your learning outcomes.
 
 ## Managing Stress
 

@@ -124,17 +124,6 @@ According to Daniel Goleman, who has researched and written extensively on the s
 
 ---
 
-## How Does Emotional Intelligence Influence Learning?
-
-<aside>
-
-
-📖 Read the following articles on **[leveraging emotional intelligence in higher education](https://journals.sagepub.com/doi/pdf/10.1177/2319714521992032)**.
-
-</aside>
-
----
-
 ## Improving Emotional Intelligence
 
 <aside>

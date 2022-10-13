@@ -31,6 +31,7 @@ Do you think you are a "mind with a body", a "body with a mind", or something el
 
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/wstllvv36277p55n" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
+---
 
 ## Morning Routine: Jumpstart Your Brain
 

@@ -12,6 +12,26 @@
 
 </aside>
 
+## Introduction to Sleep
+
+<aside>
+
+
+📺 Watch the following videos for an introduction to sleep
+
+</aside>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/eM2VWspRpfk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/knJWF4km3y0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/6F8wFkScnME" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+
+
+## Sleep and the Brain
+
+
 In this section we will discuss why sleep is so important for learning and living, explore the consequences of sleep deprivation, and learn how to get better sleep.
 
 <aside>
@@ -43,6 +63,7 @@ In this section we will discuss why sleep is so important for learning and livin
 
 <aside>
 
+## What Happens When You Don't Get Enough Sleep
 
 📺 Watch the following video on the effects of sleep deprivation.
 

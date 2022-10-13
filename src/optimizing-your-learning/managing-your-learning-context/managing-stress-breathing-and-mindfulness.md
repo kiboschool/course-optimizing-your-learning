@@ -1,4 +1,4 @@
-# Managing Stress Through Breathing and Meditation
+# Managing Stress, Breathing, and Meditation
 
 *Estimated Time: 1.5 hours*
 
@@ -138,7 +138,7 @@ Finally, mindfulness and mindful meditation are two of the most powerful tools t
 <aside>
 
 
-📺 Watch the following video to learn how meditation changes you.
+📺 Watch the following video to learn how mindfulness and meditation change you.
 
 </aside>
 

@@ -18,6 +18,7 @@ In this section, we will explore the impact that stress has on your brain, and t
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/WuyPuH9ojCE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <p>
+ 
 </p>  
  
 
@@ -30,21 +31,21 @@ In this section, we will explore the impact that stress has on your brain, and t
 <aside>
 
 
-📖 Read the following article on **[learning and memory under stress: implications for the classroom](https://www.nature.com/articles/npjscilearn201611).
+📖 Read the following article on [learning and memory under stress: implications for the classroom](https://www.nature.com/articles/npjscilearn201611).
 
 </aside>
 
 <aside>
 
 
-📖 Read the following article on how to **[thwart stress effects on memory**](https://www.psychologytoday.com/us/blog/memory-medic/201612/thwart-stress-effects-memory).
+📖 Read the following article on how to [thwart stress effects on memory**](https://www.psychologytoday.com/us/blog/memory-medic/201612/thwart-stress-effects-memory).
 
 </aside>
 
 <aside>
 
 
-📖 Read the following article on **[relaxation techniques that reduce stress**](https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/relaxation-technique/art-20045368).
+📖 Read the following article on [relaxation techniques that reduce stress**](https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/relaxation-technique/art-20045368).
 
 </aside>
 

@@ -90,6 +90,7 @@ Alternate video option: [https://www.youtube.com/watch?v=iM4u-7Z5URk](https://ww
 
 <aside>
 
+Guided meditation to help you stop procrastinating: https://www.youtube.com/watch?v=SXMBkHlL2Dc
 
 📖 Read this article on [**why we procrastinate and how to stop**](https://time.com/5322514/stop-procrastinating-tips/).
 

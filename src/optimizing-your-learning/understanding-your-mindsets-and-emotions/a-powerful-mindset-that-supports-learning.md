@@ -41,18 +41,12 @@ When you enter a mindset, you enter a new world. In one world—the world of fix
 <aside>
 
 
-📖 Read this article on [**what can be learned from growth mindset controversies**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8299535/).
+📖 **Optional:** Read this article on [**what can be learned from growth mindset controversies**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8299535/).
 
 </aside>
 
 A growth mindset is about believing in your ability to grow and improve.  It is a belief that intelligence can be developed through effort. It goes on to say that through “effort, persistence, and practice”, you can develop your skills and talents. This aligns pretty well with what learned in [**Week 1**](/optimizing-your-learning/how-to-get-anything-you-want-in-life/how-learning-happens.md) about the neuroplasticity of the brain.
 
-<aside>
-
-
-📖 Read the following article on the [**difference between fixed and growth mindsets**](https://www.techtello.com/fixed-mindset-vs-growth-mindset/).
-
-</aside>
 
 <aside>
 

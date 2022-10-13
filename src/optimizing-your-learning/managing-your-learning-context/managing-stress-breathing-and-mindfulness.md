@@ -1,4 +1,4 @@
-# Managing Stress, Breathing, and Mindfulness
+# Managing Stress Through Breathing and Meditation
 
 *Estimated Time: 1.5 hours*
 
@@ -120,27 +120,29 @@ You can watch the videos below and practice each technique to see if it helps yo
 
 ---
 
-## Mindfulness Meditation
+## Mindfulness and Meditation
+
+Finally, mindfulness and mindful meditation are two of the most powerful tools that you can use to manage stress. 
 
 <aside>
 
-https://www.youtube.com/watch?v=w6T02g5hnT4
-https://www.youtube.com/watch?v=o-kMJBWk9E0
 
-📺 Watch the following video on the impact that mindful meditation can have on your life and mind.
+📺 Watch the following videos on the impact that mindfulness and meditation can have on your life and mind.
+
+</aside>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/w6T02g5hnT4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/o-kMJBWk9E0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+<aside>
+
+
+📺 Watch the following video to learn how meditation changes you.
 
 </aside>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/jCJdl6Vs7wg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-<aside>
-
-
-📺 Watch the following video on mindful meditation.
-
-</aside>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/qzR62JJCMBQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <aside>
 

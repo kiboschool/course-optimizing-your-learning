@@ -37,7 +37,7 @@ The majority of the publically available information about brain beneficial nutr
 
 <aside>
   
-📖 Read the following webpage on the [African Heritage Diet](https://oldwayspt.org/traditional-diets/african-heritage-diet), which is a way of healthy eating that is in line with the food traditions of "people with African roots".
+📖 Read the following webpage on the **[African Heritage Diet](https://oldwayspt.org/traditional-diets/african-heritage-diet)**, which is a way of healthy eating that is in line with the food traditions of people with African roots.
 
 </aside>
 

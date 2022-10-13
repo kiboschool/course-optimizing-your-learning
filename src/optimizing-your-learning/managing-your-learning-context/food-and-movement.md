@@ -33,6 +33,14 @@ In this section, we will discuss the impact that the food and drink that you con
 
 </aside>
 
+The majority of the publically available information about brain beneficial nutrition is from American or European sources. Therefore, a lot of the foods that they recommend are native to those countries and cuisines. However, it's imporant to acknowledge that there are plently of traditional African cuisine that are also beneficial to your brain and body. So I've tried to find some readings that discuss these as well.
+
+<aside>
+  
+📖 Read the following webpage on the [African Heritage Diet](https://oldwayspt.org/traditional-diets/african-heritage-diet), which is a way of healthy eating that is in line with the food traditions of "people with African roots".
+
+</aside>
+
 <aside>
 
 
@@ -42,20 +50,10 @@ In this section, we will discuss the impact that the food and drink that you con
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/9iMGFqMmUFs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-<aside>
-
-
-📖 Read the following article on the [**Effects of Hydration on Cognitive Performance**](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/1210B6BE585E03C71A299C52B51B22F7/S0007114513004455a.pdf/effects-of-hydration-status-on-cognitive-performance-and-mood.pdf).
-
-</aside>
-
 
 ---
 
-## Movement
-
-<aside>
-
+## Movement and Exercise
 
 📺 Watch the following video on the risks of a sedentary lifestyle.
 
@@ -64,6 +62,19 @@ In this section, we will discuss the impact that the food and drink that you con
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/wUEl8KrMz14" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <aside>
+  
+  
+<aside>
+
+
+📺 Watch the following video on benefits of exercise on your mental health.
+
+</aside>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/mJW7dYXPZ2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+<aside>
+
 
 
 📺 Watch the following video on how exercise affects the brain.
@@ -75,25 +86,16 @@ In this section, we will discuss the impact that the food and drink that you con
 <aside>
 
 
-📖 Read the following article on the [**Effect of Acute Aerobic Exercise on Executive Function**](https://www.sciencedirect.com/science/article/pii/S0149763421002670).
+📖 **Optional:** Read the following article on the [**effect of acute aerobic exercise on executive function**](https://www.sciencedirect.com/science/article/pii/S0149763421002670).
 
 </aside>
 
 <aside>
 
 
-📖 Read the following article on how [**Regular exercise changes the brain to improve memory and thinking skills](https://www.health.harvard.edu/blog/regular-exercise-changes-brain-improve-memory-thinking-skills-201404097110).**
+📖 Read the following article on how **[regular exercise changes the brain to improve memory and thinking skills](https://www.health.harvard.edu/blog/regular-exercise-changes-brain-improve-memory-thinking-skills-201404097110)**.
 
 </aside>
-
-<aside>
-
-
-📺 Watch the following video on the brain-changing benefits of exercise.
-
-</aside>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/BHY0FxzoKZE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
 ---

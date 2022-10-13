@@ -60,6 +60,8 @@ In this section we will discuss why sleep is so important for learning and livin
 
 <aside>
 
+---
+  
 ## What Happens When You Don't Get Enough Sleep
 
 📺 Watch the following video on the effects of sleep deprivation.
@@ -75,9 +77,12 @@ In this section we will discuss why sleep is so important for learning and livin
 
 </aside>
 
+---
+
 ## How to Improve Your Sleep
 
-
+<aside>
+  
 📺 Watch the following video for 6 science-based tips to improve your sleep
 
 </aside>

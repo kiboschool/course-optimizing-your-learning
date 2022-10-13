@@ -20,7 +20,7 @@ But to start off with, let's consider a question that has been puzzling philosop
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/ILDy6kYU-xQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
-## Discussion
+## Discuss
 
 <aside>
   
@@ -34,18 +34,18 @@ Do you think you are a "mind with a body", a "body with a mind", or something el
 
 ---
 
-## Morning Routine: Jumpstart Your Brain
+## Morning Routine: Jump Start Your Brain
 
 Regardless of where you stand in the mind-body debate, it is clear that taking care of both your physical and mental health are important if you want to live a healthly life, where you are able to learn effectively and achieve your goals. One way to help you do this every day is by having a set routine that you use to begin your day.
 
 <aside>
 
 
-📺 Watch the following video to learn how a morning routine can be used to jumpstart your brain each day.
+📺 Watch the following video to learn how a morning routine can be used to jump start your brain each day.
 
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/AIPsB9WHjX0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/1sGyNx44Xw4"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## Discuss
 

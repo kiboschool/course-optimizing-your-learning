@@ -36,7 +36,7 @@ Do you think you are a "mind with a body", a "body with a mind", or something el
 
 ## Morning Routine: Jumpstart Your Brain
 
-Regardless of where you stand in the mind-body debate, it is clear that taking care of both your physical and mental health are important if you want to live a healthly life, where you are able to learn effectively and achieve your goals. One way to help you do this every day is by having a set routine that you use to jump start your day.
+Regardless of where you stand in the mind-body debate, it is clear that taking care of both your physical and mental health are important if you want to live a healthly life, where you are able to learn effectively and achieve your goals. One way to help you do this every day is by having a set routine that you use to begin your day.
 
 <aside>
 

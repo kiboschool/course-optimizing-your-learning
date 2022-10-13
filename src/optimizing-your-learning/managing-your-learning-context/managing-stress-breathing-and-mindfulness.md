@@ -84,8 +84,21 @@ As mentioned in the previous section, there are a number of ways to manage stres
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/Kl4cU9sG_08" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-There are numerous breathing techniques that you can use, here is an example of just one of them called the 4-7-8 technique.
+There are numerous breathing techniques that you can use to manage stress. In this section you will be introduced to three:
+- Altrnate nostril breathing
+- 4-7-8 technique
+- Box breathing
 
+You can watch the videos below and practice each technique to see if it helps you feel less stressed and more calm.
+
+<aside>
+
+
+📺 Watch the following video to learn how to use alternate nostril breathing
+
+</aside>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/TKNITh99roA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <aside>
 
@@ -95,6 +108,15 @@ There are numerous breathing techniques that you can use, here is an example of 
 </aside>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/kpSkoXRrZnE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+<aside>
+
+
+📺 Watch the following video to learn how to use the box breathing technique
+
+</aside>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/tEmt1Znux58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ---
 

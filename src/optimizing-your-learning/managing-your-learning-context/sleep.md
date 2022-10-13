@@ -16,7 +16,6 @@
 
 <aside>
 
-
 📺 Watch the following videos for an introduction to sleep
 
 </aside>
@@ -33,7 +32,6 @@ In this section we will discuss why sleep is so important for learning and livin
 
 <aside>
 
-
 📺 Watch the following videos on the impact of sleep on memory.
 
 </aside>
@@ -45,20 +43,16 @@ In this section we will discuss why sleep is so important for learning and livin
 
 <aside>
 
-
 📖 Read the following article on the **[role that sleep plays in memory](https://www.bbc.com/news/health-27695144)**.
 
 </aside>
 
-<aside>
 
+<aside>
 
 📖 Read the following article on the **[impact of sleep on long-term memory](https://link.springer.com/article/10.1007/s00426-011-0335-6)**.
 
 </aside>
-
-
-<aside>
 
 ---
   
@@ -73,7 +67,6 @@ In this section we will discuss why sleep is so important for learning and livin
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/dqONk48l5vY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <aside>
-
 
 📖 Read the following article on [**sleep deprivation in adolescents and young adults**](https://nahic.ucsf.edu/wp-content/uploads/2014/08/Sleep-Brief-FINAL.pdf).
 

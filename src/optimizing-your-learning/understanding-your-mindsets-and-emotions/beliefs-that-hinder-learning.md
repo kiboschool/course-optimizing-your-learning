@@ -155,7 +155,7 @@ The concept of learned helplessness is very similar to limiting beliefs. It is b
 
 <aside>
 
-📖 Read the following article to learn more about [learned helplessness](https://bigthink.com/neuropsych/learned-helplessness-imaginable/).
+📖 **Optional:** Read the following article to learn more about [learned helplessness](https://bigthink.com/neuropsych/learned-helplessness-imaginable/).
 
 </aside>
 
@@ -194,32 +194,30 @@ What are some ways that you can practice learned optimism when learning a challe
 
 **Here are some of the most common ANTs:**
 
-- All-or-nothing thinking
-- Overgenerlization
-- Mental filter
-- Disqualifying the positive
-- Jumping to conclusions
-- Mind reading
-- Fortune telling
-- Magnification (catastrophizing) or minimization
-- Emotional Reasoning
-- Should statements
-- Labeling and mislabeling
-- Personalization
+- **All-or-nothing Thinking:** "You see things in black-and-white categories. If your performance falls short of perfect, you see yourself as a total failure."
+- **Overgenerlization:** "You see a single negative event as a never-ending pattern of defeat."
+- **Mental Filter:** "You pick out a single negative detail and dwell on it exclusively so that your vision of all reality becomes darkened, like the drop of ink that discolors the entire beaker of water."
+- **Disqualifying the Positive:** "You reject positive experiences by insisting they “don’t count” for some reason or other. In this way you can maintain a negative belief that is contradicted by your everyday experiences."
+- **Jumping to Conclusions:** "You make a negative interpretation even though there are no definite facts that convincingly support your conclusion."
+- **Mind Reading:** "You arbitrarily conclude that someone is reacting negatively to you, and you don’t bother to check this out."
+- **Fortune Telling:** "You anticipate that things will turn out badly, and you feel convinced that your prediction is an already-established fact."
+- **Magnification (catastrophizing) or Minimization:** "You exaggerate the importance of things (such as your goof-up or someone else’s achievement), or you inappropriately shrink things until they appear tiny (your own desirable qualities or other fellow’s imperfections). This is also called the “binocular trick.”"
+- **Emotional Reasoning:** "You assume that your negative emotions necessarily reflect the way things really are: “I feel it, therefore it must be true.”"
+- **Should Statements:** "You try to motivate yourself with should and shouldn’t, as if you had to be whipped and punished before you could be expected to do anything. “Musts” and “oughts” are also offenders. The emotional consequences are guilt. When you direct should statements toward others, you feel anger, frustration, and resentment."
+- **Labeling and Mislabeling:** "This is an extreme form of overgeneralization. Instead of describing your error, you attach a negative label to yourself. “I’m a loser.” When someone else’s behavior rubs you the wrong way, you attach a negative label to him” “He’s a damn louse.” Mislabeling involves describing an event with language that is highly colored and emotionally loaded."
+- **Personalization:** "You see yourself as the cause of some negative external event, which in fact you were not primarily responsible for.”"
 
-<aside>
-
-📖 You can read more about each of these thought patterns [here](https://sdlab.fas.harvard.edu/cognitive-reappraisal/identifying-negative-automatic-thought-patterns).
+[Source](https://sdlab.fas.harvard.edu/cognitive-reappraisal/identifying-negative-automatic-thought-patterns)
 
 </aside>
 
+<!--
 <aside>
 
 📖 You can read more about ANTs and how to stop them [here](https://www.hopetherapyandwellness.com/blog/137299-how-to-stop-automatic-negative-thoughts-ants).
 
 </aside>
-
----
+-->
 
 ## Reflection: ANTs
 

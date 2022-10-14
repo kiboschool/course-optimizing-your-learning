@@ -1,6 +1,6 @@
 # Introduction to Emotional Intelligence
 
-*Estimated Time: 1.5 hours*
+*Estimated Time: 1 hour*
 
 ---
 
@@ -12,8 +12,7 @@ Let’s start this section by reflecting on your experience with managing your e
 
 <aside>
 
-
-🤔 As we begin this section, I invite you to join me in a short reflection activity. Answer the following questions with specific answers in a notepad or journal:
+🤔 As we begin this section, I invite you to join me in a short reflection activity. Answer the following questions in the padlet below:
 
 - How aware are you of your emotions?
 - How well are you able to manage your emotions?
@@ -21,6 +20,8 @@ Let’s start this section by reflecting on your experience with managing your e
 - How well do you recognize the emotions in others?
 - How well are you able to interact with others given their emotional state?
 </aside>
+
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/qf9s3y83nltct1vc" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
 ---
 
@@ -33,7 +34,7 @@ The ability to recognize, understand, and manage emotions in yourself and others
 </aside>
 
 ---
-
+<!--
 ## Mayer and Salovey’s PUUM Model of Emotional Intelligence
 
 <aside>
@@ -67,11 +68,9 @@ The ability to recognize, understand, and manage emotions in yourself and others
 
 ---
 
+-->
+
 ## Goleman’s Mixed Model of Emotional Intelligence
-
-Daniel Goleman built upon Mayer and Salovey’s ability-based emotional intelligence model to develop a model for the competencies and skills that underpin high performance.
-
- 
 
 <aside>
 
@@ -80,11 +79,12 @@ Daniel Goleman built upon Mayer and Salovey’s ability-based emotional intellig
 
 </aside>
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/LgUCyWhJf6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/cAgGn4EACzQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/LgUCyWhJf6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 According to Daniel Goleman, who has researched and written extensively on the subject, Emotional Intelligence is made up of the following components or skills:
 

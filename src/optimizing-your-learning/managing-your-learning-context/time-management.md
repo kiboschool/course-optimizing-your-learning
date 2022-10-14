@@ -15,6 +15,7 @@ In this section we will explore ways to improve your time management.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/2Si7ah_h32s"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+---
 
 ## The Multi-tasking Myth
 
@@ -49,7 +50,7 @@ In this section we will explore ways to improve your time management.
 
 <aside>
 
-📖 Read the following article on the **[cost of multitasking](https://www.apa.org/topics/research/multitasking)**.
+📖 **Optional:** Read the following article on the **[cost of multitasking](https://www.apa.org/topics/research/multitasking)**.
 
 </aside>
 
@@ -57,16 +58,6 @@ In this section we will explore ways to improve your time management.
 ---
 
 ## How to Beat Procrastination
-
-<aside>
-
-
-📺 Watch the following video on some procrastination myths.
-
-</aside>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/R7wfQiyIhNI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
 
 <aside>
 
@@ -120,7 +111,7 @@ In this section we will explore ways to improve your time management.
 
 <aside>
 
-📖 Read the following article on the **[Eisenhower Matrix**](https://todoist.com/productivity-methods/eisenhower-matrix)**.
+📖 Read the following article on the **[Eisenhower Matrix](https://todoist.com/productivity-methods/eisenhower-matrix)**.
 
 </aside>
 
@@ -154,7 +145,7 @@ In this section we will explore ways to improve your time management.
 
 **Step 4:** Now, add important life events to your semester schedule – this might include work events, family events, trips and special occasions.
 
-<aside>
+<a/side>
 
 [Source](https://pressbooks.bccampus.ca/studystrategizesucceed/chapter/see-your-semester-at-a-glance/)
 
@@ -189,6 +180,7 @@ The following principles will guide you as you create your weekly schedule:
 
 
 <aside>
+  
 **Creating a Daily To Do List**
   
 At the end of each day’s work, take a few minutes to plan the following day.

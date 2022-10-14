@@ -107,7 +107,7 @@ In this section we will explore ways to improve your time management.
 
 ---
 
-## Planning Your Time - Termly
+## Planning Your Time (Termly)
 
 <aside>
 
@@ -135,13 +135,13 @@ In this section we will explore ways to improve your time management.
 
 **Step 4:** Now, add important life events to your semester schedule – this might include work events, family events, trips and special occasions.
 
-<a/side>
+</aside>
 
 [Source](https://pressbooks.bccampus.ca/studystrategizesucceed/chapter/see-your-semester-at-a-glance/)
 
 ---
 
-## Planning Your Time - Weekly
+## Planning Your Time (Weekly)
 
 <aside>
 
@@ -164,7 +164,7 @@ The following principles will guide you as you create your weekly schedule:
 
 ---
 
-## Planning Your Time - Daily
+## Planning Your Time (Daily)
   
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/a54mf_Odli4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
@@ -186,14 +186,36 @@ At the end of each day’s work, take a few minutes to plan the following day.
 
 [Source](https://pressbooks.bccampus.ca/studystrategizesucceed/chapter/organize-your-day-for-maximum-productivity/)
 
+
+
+<aside>
+
+
+📺 Watch the following video on how to use a Not To Do List to help manage your time
+
+</aside>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/SappngY0ZQ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 ---
 
 ## Weekly Review
+
+
 
 <aside>
 
 📖 Read the following article on using a [**weekly review**](https://todoist.com/productivity-methods/weekly-review) to improve your productivity.
 
 </aside>
+
+<aside>
+
+
+📺 Watch the following video on how to complete a weekly review
+
+</aside>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/ZkyctYnujLs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ---

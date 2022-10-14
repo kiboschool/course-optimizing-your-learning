@@ -22,16 +22,6 @@ In this section we will explore ways to improve your time management.
 <aside>
 
 
-📺 Watch the following video on what we can learn from computers about effective time management.
-
-</aside>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/iDbdXTMnOmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-
-<aside>
-
-
 📺 Watch the following video on the multi-tasking myth.
 
 </aside>

@@ -12,7 +12,7 @@ Let’s start this section by reflecting on your experience with managing your e
 
 <aside>
 
-🤔 As we begin this section, I invite you to join me in a short reflection activity. Answer the following questions in the padlet below:
+🪞 As we begin this section, I invite you to join me in a short reflection activity. Answer the following questions in the padlet below:
 
 - How aware are you of your emotions?
 - How well are you able to manage your emotions?

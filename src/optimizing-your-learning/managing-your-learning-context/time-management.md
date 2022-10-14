@@ -118,7 +118,6 @@ In this section we will explore ways to improve your time management.
 
 <aside>
 
-
 📺 Watch the following video on how to create a term schedule.
 
 </aside>
@@ -143,8 +142,6 @@ In this section we will explore ways to improve your time management.
 
 ## Planning Your Time (Weekly)
 
-<aside>
-
 The following principles will guide you as you create your weekly schedule:
 
 > 1. **Record your regular weekly commitments on the schedule template**. This includes any face to face or blended class times.
@@ -158,13 +155,19 @@ The following principles will guide you as you create your weekly schedule:
 > 9. **Label some empty blocks of time as OPEN** for academic or personal needs.
 > 10. **Schedule some time during Friday, Saturday, and Sunday** for you to play, relax, or do whatever you want to do. This is your reward for sticking to your schedule. In addition, you’ll enjoy your free time more. Because it is scheduled you do not need to feel guilty.
 
- </aside>
   
 [Source](https://pressbooks.bccampus.ca/studystrategizesucceed/chapter/create-a-weekly-schedule-that-works/)
 
 ---
 
 ## Planning Your Time (Daily)
+
+<aside>
+
+
+📺 Watch the following video on how to plan your day effectively
+
+</aside>
   
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/a54mf_Odli4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
@@ -187,7 +190,6 @@ At the end of each day’s work, take a few minutes to plan the following day.
 [Source](https://pressbooks.bccampus.ca/studystrategizesucceed/chapter/organize-your-day-for-maximum-productivity/)
 
 
-
 <aside>
 
 
@@ -201,21 +203,10 @@ At the end of each day’s work, take a few minutes to plan the following day.
 
 ## Weekly Review
 
-
-
 <aside>
 
 📖 Read the following article on using a [**weekly review**](https://todoist.com/productivity-methods/weekly-review) to improve your productivity.
 
 </aside>
-
-<aside>
-
-
-📺 Watch the following video on how to complete a weekly review
-
-</aside>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/ZkyctYnujLs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ---

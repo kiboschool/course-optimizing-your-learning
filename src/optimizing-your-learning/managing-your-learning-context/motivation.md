@@ -6,6 +6,8 @@
 
 In last week’s lesson, we focused on understanding the impact that your mind (e.g. emotions and mindsets) can have on your learning. This week, we will discuss how the state of your body impacts your mind and your ability to learn effectively. And then we will expand our attention to consider other factors that influence your learning context (e.g. how you manage your time, the state of your physical environment, and the people around you).
 
+<!--
+
 But to start off with, let's consider a question that has been puzzling philosophers for centuries: Are you a mind with a body or body with a mind?
 
 ## The Mind-Body Dualism
@@ -33,10 +35,11 @@ Do you think you are a "mind with a body", a "body with a mind", or something el
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/wstllvv36277p55n" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
 ---
+-->
 
 ## Morning Routine: Jump Start Your Brain
 
-Regardless of where you stand in the mind-body debate, it is clear that taking care of both your physical and mental health are important if you want to live a healthly life, where you are able to learn effectively and achieve your goals. One way to help you do this every day is by having a set routine that you use to begin your day.
+Taking care of both your physical and mental health are important if you want to live a healthly life where you are able to learn effectively and achieve your goals. One way to help you do this every day is by having a set routine that you use to begin your day.
 
 <aside>
 

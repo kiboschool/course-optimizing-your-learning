@@ -7,8 +7,7 @@
 <aside>
 
 
-🗣 “None of us is as smart as all of us.”
-– Ken Blanchard*
+🗣 **“None of us is as smart as all of us.”** – Ken Blanchard
 
 </aside>
 

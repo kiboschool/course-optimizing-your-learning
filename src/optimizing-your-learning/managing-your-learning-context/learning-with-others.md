@@ -44,7 +44,7 @@ Peer Learning is important because among other things when you learn with your p
 
 ---
 
-### Peer Teaching
+## Peer Teaching
 
 While Peer Learning shows us learning that can happen with colleagues during exchanges in which all learners can learn from each other at any point in time, peer teaching is another strategy that should not be confused with peer learning. Peer teaching places emphasis on the teaching role. We will also explore why Peer Teaching can be so powerful to help your learning. 
 
@@ -58,7 +58,7 @@ While Peer Learning shows us learning that can happen with colleagues during exc
 
 ---
 
-## Putting Peer Learning and Teaching to work
+## Putting Peer Learning and Teaching to Work
 
 You might be used to a teacher or instructor as the one who assigns peer work or peer groups but as self-directed learners, peer learning is a useful learning strategy that you can initiate among yourselves for your own benefit. Here are some of the scenarios in which you can implement peer teaching and learning to improve your learning experience:
 
@@ -118,7 +118,7 @@ In today’s hyper-connected world, you do not need to wait until you get into t
 
 As a computer science student and budding tech professional, the tech ecosystem is full of many potential mentors and coaches who not only can help you accelerate your practical learning but can help you grow your career. in discussing people learning, we talked about the importance of feedback. These experts can provide you with much-needed feedback to grow and improve from the wider experience they have. Here are more reasons that you should have a coach or mentor in the tech Industry:
 
-### The Importance of having a Mentor
+### The Importance of Having a Mentor
 
 - **To provide clarity as you make career choices**
     

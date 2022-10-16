@@ -4,17 +4,21 @@
 
 ---
 
+## Reflection: What Motivates You?
 <aside>
 
-
-🤔 As we begin this section, I invite you to join me in a short reflection activity. Answer the following questions with specific answers in a notepad or journal:
+🪞 As we begin this section, I invite you to join me in a short reflection activity by answering the questions in the padlet below.
 
 - What drives you to make the choices you make daily?
 - What motivated you to choose to study for a Computer Science degree at Kibo School?
 - Why are you studying this course (Optimizing Your Learning) right now?
+
+
 </aside>
 
-If you have done this activity before or thought about it before, the answers might come easily. But there is also a possibility that you do not have answers to some of the questions, or perhaps that you are not sure of your answers. What is the impact of not having answers to these questions? As you ponder this, let’s learn more about motivation.
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/wekbphuk03fv9shl" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
+
+If you have thought about these questions before, the answers might come easily. But there is also a possibility that you do not have answers to some of the questions, or perhaps that you are not sure of your answers. What is the impact of not having answers to these questions? As you think about this, let’s learn more about motivation.
 
 <aside>
 

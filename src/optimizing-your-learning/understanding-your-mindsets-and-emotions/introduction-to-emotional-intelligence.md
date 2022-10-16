@@ -73,13 +73,19 @@ The ability to recognize, understand, and manage emotions in yourself and others
 <aside>
 
 
-📺 Watch the following videos for an introduction to emotional intelligence
+📺 Watch the following video for an introduction to emotional intelligence
 
 </aside>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/LgUCyWhJf6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
+<aside>
+
+
+📺 Watch the following video for an overview of one specific and popular model of emotional intelligence that was developed by Daniel Goleman.
+
+</aside>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/cAgGn4EACzQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 

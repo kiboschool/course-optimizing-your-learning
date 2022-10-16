@@ -95,7 +95,7 @@ Self-motivation is the ability to find and maintain a cause that drives you towa
 
 <aside>
 
-💬 It is week 8 of the first term of Kibo's degree program, and as the final project for the Mathematical Thinking course draws closer, your classmates, Temi, comes to to you asking for advice because she has lost all motivation to study. Based on what you have learned so far in Optimizing Your Learning, what advice would you give her to help her get back on track?
+💬 It is week 8 of the first term of Kibo's degree program, and as the final project for the Mathematical Thinking course draws closer, your classmate, Temi, comes to you asking for advice because she has lost all motivation to study. Based on what you have learned so far in Optimizing Your Learning, what advice would you give her to help her get back on track?
 
 **Post your advice in the padlet bellow.**
 

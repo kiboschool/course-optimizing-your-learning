@@ -95,11 +95,11 @@ According to Goleman, who has researched and written extensively on the subject,
     
 - **Social Awareness (or Empathy)**
     
-    Empathy is the ability to put ourselves in the shoes of others. With empathy, we can imagine what others are feeling and experiencing and we can choose to understand and react to them based on the perceived feelings of their situation. Empathy can be practiced by listening to others and observing them and the situations they are in.  
+    Empathy is the ability to put ourselves in the shoes of others. With empathy, we can imagine what others are feeling and experiencing, and we can choose to understand and react to them based on the perceived feelings of their situation. Empathy can be practiced by listening to others and observing them and the situations they are in.  
     
 - **Social Skills (or Relationship Management)**
     
-    Social skills help us to bring all the skills of emotional intelligence into cordial and effective relationships with other people whether at work or in life. Social skills is the ability to interact well with people and build relationships with them. Without the previous set of emotional intelligence skills, it is hard to possess/practice social skills. This means that our ability to be successful in relationships with people begins with our ability to understand ourselves, and our emotions and be successful in relating with ourselves.
+    Social skills help us to bring all the skills of emotional intelligence into effective relationships with other people, whether at work, school, or in our personal lives. Social skills are the ability to interact well with people and build relationships with them. Without the previously introduced emotional intelligence skills, it is hard to practice social skills. **Therefore, our ability to be successful in relationships with other people starts with our ability to understand ourselves and manage our own emotions.**
 
 ---
 

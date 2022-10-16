@@ -28,14 +28,14 @@ What limiting beliefs do you want to work on? Choose a problem, or an area of yo
 **Approach 3:** Notice  times when you talk yourself out of actions that would lead you towards your long term goals. What do you tell yourself in these situations?
 
 
-*Here are some examples of limiting beliefs:
+**Here are some examples of limiting beliefs:**
 - I’ll never be successful because I come from a poor background.
 - It’s too late for me to change my time management skills.
 - I’m too young to create real change in the world.
 - I don’t have enough money to be in control of my life.
 - They will reject me because I’m not talented enough.
 - I don’t have time to pursue my dreams.
-- I don’t want to ask anyone for help because they will think I’m not skilled enough to succeed on my own.*
+- I don’t want to ask anyone for help because they will think I’m not skilled enough to succeed on my own.
 
 
 ### Task 2 - Limiting Belief Reflection

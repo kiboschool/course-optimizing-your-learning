@@ -52,11 +52,11 @@ Pick one of the limiting beliefs that you identified in part 1 and reflect on wh
 Work on developing an alternate belief that reverses your initial limiting belief. First answer the following question:
 - What would you predict for yourself if you no longer held this belief?
 
-Now Reverse your belief: (e.g. I’ll probably just fail at it —> I will probably succeed.), and answer the following questions:
-- How does this new belief make you feel?
-- How true is this new belief? What evidence is there?
-- If you lived this empowering belief instead, what concrete actions would you take?
-- What actions could you take to help you think of your new belief whenever a situation triggers the original limiting belief?
+Now Reverse your belief to create an empowering belief: (e.g. I’ll probably just fail at it —> I will probably succeed.), and answer the following questions:
+- How does this empowering belief make you feel?
+- How true is this empowering belief? What evidence is there to support it?
+- If you lived this empowering belief instead of the limiting belief, what concrete actions would you take?
+- What actions could you take to help you think of your new empowering belief whenever a situation triggers the original limiting belief?
 
 
 ### Task 4 - Presenting Your Belief Plan

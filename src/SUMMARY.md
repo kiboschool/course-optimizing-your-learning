@@ -35,6 +35,7 @@
 	- [Final Presentation Milestone 1](optimizing-your-learning/understanding-your-mindsets-and-emotions/final-presentation-milestone-1.md)
 	
 
+<!--
 
 ### Week 3
 

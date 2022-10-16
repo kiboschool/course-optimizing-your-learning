@@ -37,11 +37,11 @@ After completing this lesson, you will be able to:
 
 [4.1 Motivation](/optimizing-your-learning/building-your-learning-toolkit/motivation.md)
 
-[4.2 Habits](/optimizing-your-learning/building-your-learning-toolkit/habits.md)
+[4.2 Focus and Attention](/optimizing-your-learning/building-your-learning-toolkit/focus-and-attention.md)
 
 [4.3 Memory](/optimizing-your-learning/building-your-learning-toolkit/memory.md)
 
-[4.4 Focus and Attention](/optimizing-your-learning/building-your-learning-toolkit/focus-and-attention.md)
+[4.4 Habits](/optimizing-your-learning/building-your-learning-toolkit/habits.md)
 
 [4.5 Flow State](/optimizing-your-learning/building-your-learning-toolkit/flow-state.md)
 

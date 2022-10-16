@@ -12,7 +12,7 @@
 
 </aside>
 
-Self-awareness is the foundation of being an emotionally intelligent learner. Without self-awareness, you will not understand your own emotions, inclinations, and preferences when learning. However, with self-awareness, you know better about how you learn, why you learn, and the motions that enhance or restrict your ability to learn effectively. 
+Self-awareness is the foundation of being an emotionally intelligent learner. Without self-awareness, you will not understand your own emotions, inclinations, and preferences when learning. However, with self-awareness, you know better about how you learn, why you learn, and the emotions that enhance or restrict your ability to learn effectively. 
 
 ## What is Self-Awareness?
 

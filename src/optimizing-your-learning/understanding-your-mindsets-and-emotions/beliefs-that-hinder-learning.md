@@ -122,7 +122,7 @@ If creating an empowering belief seems too challenging, you can work on just que
 **Using goal-directed thinking:** Ask yourself the following questions to help push through your limiting belief.
 - Does thinking like this help me to feel good or to achieve my goals?
 - What can I do that would help solve the problem?
-- What could I instead learn from this, to help me do things/feel better next time?
+- What could I instead learn from this, to help me do things or feel better next time?
   
 </aside>
 

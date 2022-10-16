@@ -155,7 +155,7 @@ The concept of learned helplessness is very similar to limiting beliefs. It is b
 
 <aside>
 
-📖 **Optional:** Read the following article to learn more about [learned helplessness](https://bigthink.com/neuropsych/learned-helplessness-imaginable/).
+📖 Read the following article to learn more about [learned helplessness](https://bigthink.com/neuropsych/learned-helplessness-imaginable/).
 
 </aside>
 

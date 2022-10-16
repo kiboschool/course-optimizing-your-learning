@@ -34,7 +34,7 @@ When you hit roadblocks like this (and there will be plenty of roadblocks in you
 <aside>
 
 
-📺 Watch the following videos on what emotions are.
+📺 Watch the following video on what emotions are.
 
 </aside>
 
@@ -51,7 +51,7 @@ But how do emotions influence learning?
 <aside>
 
 
-📺 Watch the following videos to understand more about the role of emotions in learning
+📺 Watch the following video to understand the role of emotions in learning.
 
 </aside>
 

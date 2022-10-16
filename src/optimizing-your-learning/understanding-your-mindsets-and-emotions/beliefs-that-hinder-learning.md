@@ -131,7 +131,7 @@ If creating an empowering belief seems too challenging, you can work on just que
 
 <aside>
 
-🪞 **Answer the following questions in the padlet below.**
+🪞 **Answer the following question in the padlet below.**
 What are some limiting beliefs that you've found yourself falling prey to over the last 12 months?
 
 </aside>

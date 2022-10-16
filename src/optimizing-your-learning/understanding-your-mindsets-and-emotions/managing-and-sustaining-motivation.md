@@ -23,8 +23,7 @@ If you have thought about these questions before, the answers might come easily.
 <aside>
 
 
-📙 **Motivation**
-What causes you to act and behave in certain ways, and drives us to act, move towards, and achieve set goals and expectations.
+📙 **Motivation** - What causes you to act and behave in certain ways, and drives us to act, move towards, and achieve set goals and expectations.
 
 </aside>
 

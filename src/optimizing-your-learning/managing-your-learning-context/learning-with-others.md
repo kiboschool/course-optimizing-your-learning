@@ -7,8 +7,7 @@
 <aside>
 
 
-🗣 “None of us is as smart as all of us.”
-– Ken Blanchard*
+🗣 **“None of us is as smart as all of us.”** – Ken Blanchard
 
 </aside>
 
@@ -22,17 +21,7 @@ In this lesson, we will explore how you can effecively learn with other members 
 
 ---
 
-## Social Nature of Learning
-
-<aside>
-
-
-📺 Watch the following video on Lev Vygotsky’s sociocultural theory of learning.
-
-</aside>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/_fWm7cF8-WM"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
+## Peer Learning
 
 Let us start off with an understanding of what Peer Learning is or what is sometimes called: peer-to-peer learning.    
 
@@ -53,12 +42,13 @@ Peer Learning is important because among other things when you learn with your p
 - You are able to build skills for working with and collaborating with others
 - You are better able to understand the topic as you and your colleagues can explain things in a common language
 
-### Peer Teaching
+---
+
+## Peer Teaching
 
 While Peer Learning shows us learning that can happen with colleagues during exchanges in which all learners can learn from each other at any point in time, peer teaching is another strategy that should not be confused with peer learning. Peer teaching places emphasis on the teaching role. We will also explore why Peer Teaching can be so powerful to help your learning. 
 
 <aside>
-
 
 📺 Watch the following video on peer teaching.
 
@@ -66,33 +56,24 @@ While Peer Learning shows us learning that can happen with colleagues during exc
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/ScESS8dueLw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-As seen from the video, peer teaching involves one person learning from another. The 
+---
 
-### Putting Peer Learning and Teaching to work
+## Putting Peer Learning and Teaching to Work
 
-You might be used to a teacher or a faculty member as the one who assigns peer work or peer groups but as self-directed learners, peer learning is a useful learning strategy that you can initiate among yourselves for your own benefit. Here are some of the scenarios in which you can implement peer teaching and learning to improve your learning experience:
+You might be used to a teacher or instructor as the one who assigns peer work or peer groups but as self-directed learners, peer learning is a useful learning strategy that you can initiate among yourselves for your own benefit. Here are some of the scenarios in which you can implement peer teaching and learning to improve your learning experience:
 
-- **Collaborative Projects**
+- **Collaborative Projects:** With this, you and other colleagues are either assigned a project to complete by your Faculty member or you identify a project or task and work towards solving it as a group. This involves each member of the group contributing something to the overall success and progress of the task. 
     
-    With this, you and other colleagues are either assigned a project to complete by your Faculty member or you identify a project or task and work towards solving it as a group. This involves each member of the group contributing something to the overall success and progress of the task. 
+- **Peer Feedback and Assessments:** Feedback is important for self-awareness and self-improvement, however, we cannot truly give ourselves all the feedback we need to improve. It is for that reason that receiving peer feedback helps to reveal our blind spots and allows us to pursue more holistic growth. In peer assessment specifically, this involves ‘grading’ each others’ work. In many cases, there is a rubric to ensure that the process is objective. With peer grading, you can learn a lot from each other’s approaches to completing a task.
     
-- **Peer Feedback and Assessments**
+- **Study Groups:** These are intentionally created groups of learners who engage in regular collaborative learning, many times, performing learning tasks together. Learning tasks might include study, research, discussions, and more. Study groups can last as long as they are needed and are based on the ability of everyone to commit to the group and help to make the experience rewarding for others.
     
-    Feedback is important for self-awareness and self-improvement, however, we cannot truly give ourselves all the feedback we need to improve. It is for that reason that receiving peer feedback helps to reveal our blind spots and allows us to pursue more holistic growth. In peer assessment specifically, this involves ‘grading’ each others’ work. In many cases, there is a rubric to ensure that the process is objective. With peer grading, you can learn a lot from each other’s approaches to completing a task.
-    
-- **Study Groups**
-    
-    These are intentionally created groups of learners who engage in regular collaborative learning, many times, performing learning tasks together. Learning tasks might include study, research, discussions, and more. Study groups can last as long as they are needed and are based on the ability of everyone to commit to the group and help to make the experience rewarding for others.
-    
-- **Proctoring Approach**
-    
-    Proctoring is a peer teaching approach where one learner, who is more advanced either in understanding or in accomplishments than another becomes responsible to help the other student learn the skills that they need to learn. In this approach, you can either be the individual who is learning or the one who is responsible for teaching. Either way, you would be accelerating your learning.
+- **Proctoring Approach:** Proctoring is a peer teaching approach where one learner, who is more advanced either in understanding or in accomplishments than another becomes responsible to help the other student learn the skills that they need to learn. In this approach, you can either be the individual who is learning or the one who is responsible for teaching. Either way, you would be accelerating your learning.
     
 
-### Reflection: Peer teaching and learning experience
+### Reflection: Peer Teaching and Learning Experience
 
 <aside>
-
 
 🪞 **Answer the following questions in the padlet below.**
 
@@ -137,7 +118,7 @@ In today’s hyper-connected world, you do not need to wait until you get into t
 
 As a computer science student and budding tech professional, the tech ecosystem is full of many potential mentors and coaches who not only can help you accelerate your practical learning but can help you grow your career. in discussing people learning, we talked about the importance of feedback. These experts can provide you with much-needed feedback to grow and improve from the wider experience they have. Here are more reasons that you should have a coach or mentor in the tech Industry:
 
-### The Importance of having a Mentor
+### The Importance of Having a Mentor
 
 - **To provide clarity as you make career choices**
     
@@ -162,10 +143,14 @@ As a computer science student and budding tech professional, the tech ecosystem 
 
 In general, having a mentor does not only help you learn about the subject matter and form an essential part of your learning ecosystem, but they also have a longer-term impact on your career. Studies have shown that [having a mentor increases your chances of earning more and getting promoted](https://mccarthymentoring.com/why-mentoring-what-the-stats-say/). 
 
-As part of your experience at Kibo, you have been matched with a mentor, so your next goal is to make sure you get the most out of the relationship. Here are a few things to help you make the best of the relationship. Note that asking for someone to help you in your learning journey is a meaningful ask and therefore, you should be ready to make the best of the relationship and make the mentor’s engagement with you worthwhile.
-
+As part of your experience at Kibo, you have been matched with a mentor, so your next goal is to make sure you get the most out of the relationship. Here are a few things to help you make the best of the relationship. Note that asking for someone to help you in your learning journey is a meaningful ask and therefore, you should be ready to make the best of the relationship and make the mentor’s engagement with you worthwhile. Here are some tips for getting the most out of a mentorship relationship:
 - You should show a willingness to learn and willingness to put into practice the ideas shared with you by the mentor
+- Be preapred for each meeting with yoru mentor
 - Be clear about your expectations in the mentorship relationship and make them known to the mentor.
-- [add some more advice]
+- But also be sure to keep your expectations reasonable. Remember that your mentors are workign professionals, who are managing a number of other personal and professional commmitments.
+- Schedule your regular meeting time with your mentor in advance (i.e. get on their calendar)
+- Listen actively to your mentor, be curious, and ask questions.
+- Engage respectfully and show gratitude to your mentor.
+- Help your mentor help you. Try to clearly articulate the ways that your mentor can support you.- 
 
 ---

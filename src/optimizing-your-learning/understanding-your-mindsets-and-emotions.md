@@ -1,18 +1,14 @@
 # Understanding Your Mindsets and Emotions
 
-E*stimated Time: 8 hours*
+*Estimated Time: 7 hours*
 
 ---
-
-## Introduction
-
-*[Insert video by the instructor introducing the main topics of the week and giving a short explanation of the week’s assessment.]*
 
 ## **Learning Outcomes**
 
 After completing this lesson, you will be able to:
 
-- Describe the different identities that makeup how you see yourself.
+- Describe the different identities that make up how you see yourself.
 - Identify and manage beliefs that hinder your learning.
 - Utilize a growth mindset to support your learning.
 - Identify the influence that emotional intelligence has on your learning.
@@ -56,7 +52,7 @@ After completing this lesson, you will be able to:
 
 [2.8 Managing and Sustaining Motivation](/optimizing-your-learning/understanding-your-mindsets-and-emotions/managing-and-sustaining-motivation.md)
 
-[Assignment 2: Identity and Limiting Beliefs](/optimizing-your-learning/understanding-your-mindsets-and-emotions/assignment-2-identity-and-limiting-beliefs.md)
+[Assignment 2: Overcoming Limiting Beliefs](/optimizing-your-learning/understanding-your-mindsets-and-emotions/assignment-2-identity-and-limiting-beliefs.md)
 
 [Final Presentation - Milestone 1](/optimizing-your-learning/understanding-your-mindsets-and-emotions/final-presentation-milestone-1.md)
 

@@ -38,7 +38,7 @@ By the end of this course, you will be able to:
 
 [Week 1: How to Get Anything You Want in Life](/optimizing-your-learning/how-to-get-anything-you-want-in-life.md)
 
-[Week 2: Understanding Your Mindsets and Emotions] <!-- (/optimizing-your-learning/understanding-your-mindsets-and-emotions.md) -->
+[Week 2: Understanding Your Mindsets and Emotions](/optimizing-your-learning/understanding-your-mindsets-and-emotions.md)
 
 [Week 3: Managing Your Learning Context] <!-- (/optimizing-your-learning/managing-your-learning-context.md) -->
 

@@ -43,13 +43,13 @@ Creating a map of your identity is a way to capture and articulate how you see y
 
 ### Given, Chosen, or Core Identities
 
-> ***Given Identities** - These are the attributes or conditions that you have no choice about. They may be characteristics you were born with or they may have been given to you in childhood or later in life. Elements of your given identity include your birthplace, age, gender, birth order, physical characteristics, certain family roles, and possibly religion.*
+> **Given Identities** - These are the attributes or conditions that you have no choice about. They may be characteristics you were born with or they may have been given to you in childhood or later in life. Elements of your given identity include your birthplace, age, gender, birth order, physical characteristics, certain family roles, and possibly religion.
 >
 
-> ***Chosen Identities** - These are the characteristics that you choose. They may describe your status as well as attributes and skills. Your occupation, hobbies, political affiliation, place of residence, family roles, and religion may all be chosen.*
+> **Chosen Identities** - These are the characteristics that you choose. They may describe your status as well as attributes and skills. Your occupation, hobbies, political affiliation, place of residence, family roles, and religion may all be chosen.
 >
 
-> ***Core Identities -*** The attributes that you think make you unique as an individual. Some will change over the course of your lifetime, others may remain constant. Elements of your core identity may include behaviors, beliefs, values, and skills.
+> **Core Identities** - The attributes that you think make you unique as an individual. Some will change over the course of your lifetime, others may remain constant. Elements of your core identity may include behaviors, beliefs, values, and skills.
 >
 
 Source: Hannum, K. (2008). Leadership in Action: Branching out: Social Identity Comes to the Forefront. Center for Creative Leadership.

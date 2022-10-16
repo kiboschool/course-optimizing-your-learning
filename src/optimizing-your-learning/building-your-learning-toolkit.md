@@ -4,10 +4,6 @@ E*stimated Time: 14 hours*
 
 ---
 
-## Introduction
-
-*[Insert video by the instructor introducing the main topics of the week and giving a short explanation of the week’s assessment.]*
-
 ## **Learning Outcomes**
 
 After completing this lesson, you will be able to:
@@ -28,7 +24,7 @@ After completing this lesson, you will be able to:
 
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/MtmrmEp40C8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/ZEYuSRHgmCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## Sections
 

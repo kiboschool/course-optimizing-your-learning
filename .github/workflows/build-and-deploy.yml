@@ -30,7 +30,7 @@ jobs:
             export VERCEL_PROJECT_ID=${MAIN_PROJECT_ID} 
           fi
 
-          if [[ ${GITHUB_REF} == "refs/heads/draft" ]]; then
+          if [[ ${GITHUB_REF} == "refs/heads/preview" ]]; then
             export VERCEL_PROJECT_ID=${DRAFT_PROJECT_ID} 
           fi
 

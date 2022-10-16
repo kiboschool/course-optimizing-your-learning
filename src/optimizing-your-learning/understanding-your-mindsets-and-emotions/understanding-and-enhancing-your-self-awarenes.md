@@ -12,7 +12,7 @@
 
 </aside>
 
-Self-awareness is the foundation of being an emotionally-intelligent learner. Without self-awareness, you will not understand your own proclivities, inclinations, emotions, and of course your preferences in learning. However, with self-awareness, you know better about how you learn, why you learn, and the motions that enhance or restrict your ability to learn effectively. 
+Self-awareness is the foundation of being an emotionally intelligent learner. Without self-awareness, you will not understand your own emotions, inclinations, and preferences when learning. However, with self-awareness, you know better about how you learn, why you learn, and the emotions that enhance or restrict your ability to learn effectively. 
 
 ## What is Self-Awareness?
 
@@ -54,7 +54,7 @@ As mentioned earlier, self-awareness can help you become a better self-directed 
 
 - **Emotions**
 
-    As we have already demonstrated, being aware of your emotions is important to how you understand, interpret and act in situations. Learning happens within and outside the classroom and across a variety of scenarios and so, the ability to understand your emotions in different situations can determine if you are able to learn in that situation or not.
+    As we have already demonstrated, being aware of your emotions is important to how you understand, interpret, and act in situations. Learning happens in a variety of contexts, so the ability to understand your emotions in different situations can determine if you are able to learn in those situations or not.
     
 - **Strengths and Weaknesses**
     
@@ -92,7 +92,7 @@ Here are activities you can practice to improve your self-awareness:
 
 💬 **Answer the following question in the padlet below.**
 
-- Which of the activities for developing self-awareness do you think would be most useful and effective for you?
+- Which of the activities for developing self-awareness do you think would be most useful and effective for you? Why?
     
 </aside>
 

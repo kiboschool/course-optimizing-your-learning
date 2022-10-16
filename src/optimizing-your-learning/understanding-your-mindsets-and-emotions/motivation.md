@@ -34,35 +34,35 @@ When you hit roadblocks like this (and there will be plenty of roadblocks in you
 <aside>
 
 
-📺 Watch the following videos on what emotions are.
+📺 Watch the following video on what emotions are.
 
 </aside>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/0Xu87heoGsI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-
-
+<!--
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/xNY0AAUtH3g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+-->
 
 But how do emotions influence learning?
 
 <aside>
 
 
-📺 Watch the following videos to understand more about the role of emotions in learning
+📺 Watch the following video to understand the role of emotions in learning.
 
 </aside>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/eqSoWurDLio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-From this video, we learned that the quality of our learning is dependent on both our cognitive skills (how we think) and our emotional state (how we feel). In fact, our emotional state impacts our ability to leverage our cognitive abilities to achieve learning goals. For example, emotions can have a positive or negative impact on our attention, motivation, effective employment of learning strategies, and ability to self-regulate.
+From this video, we learned that the quality of our learning is dependent on both our cognitive skills (how we think) and our emotional state (how we feel). In fact, our emotional state impacts our ability to leverage our cognitive skills to achieve learning goals. For example, emotions can have a positive or negative impact on our attention, motivation, effective employment of learning strategies, and ability to self-regulate.
 
 <aside>
 
 
-📺 Watch the following videos to understand the importance of emotions to cognitive ability.
+📺 Watch the following videos to understand the impact of emotions to cognitive ability.
 
 </aside>
 
@@ -75,22 +75,6 @@ From this video, we learned that the quality of our learning is dependent on bot
 - Antonio Damasio
 
 </aside>
-
-<aside>
-
-
-📺 Watch the following video on the different ways that positive and negative emotions impact learning.
-
-</aside>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/EW7FBndUPe8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-From the video, we learned that negative emotions (e.g. anxiety, fear) tend to narrow our focus onto the threat. However, positive emotions (e.g. curiosity, joy, pride) broaden our thoughts and ideas, helping us to be more creative, improving our capacity to learn, and helping us bounce back from failure. Negative memories can lead to negative emotional responses like anxiety and frustration that hinder our ability to learn when we are put in situations that elicit memories of the past experiences. As such, it is important that we learn how to recognize when these emotions occur (through self-awareness), and effectively manage them (through self-regulation).  One thing to note is that sometimes negative emotions can be useful in learning, a small amount of anxiety can help us focus, which can be good for learning. However, if the anxiety is significant and frequent, it can distract us when we are trying to learn.
-
-> We used to think that if people did well, then they feel good…we now know that that was the wrong way around. Actually, if people feel good then that provides the fuel for them to do well.
-> 
-
-Curiosity is regarded as a strong positive emotion that drives learning. When there is a genuine curiosity to grow, improve and discover, learning is much more fun than when learning is driven by the need to perform for other people, or just get a passing grade. Learners who possess curiosity are driven by an intrinsic motivation that often makes them to go further and put in more effort than learners who just want to put in the bare minimum. A useful approach to developing curiosity is identifying how a given topic that you are learning is personally meaningful to you, and how it could help you achieve goals that are important to you.
 
 ---
 
@@ -106,5 +90,22 @@ Curiosity is regarded as a strong positive emotion that drives learning. When th
 </aside>
 
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/embed/24uts44cj09j4fod" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
+
+
+<aside>
+
+
+📺 Watch the following video on the different ways that positive and negative emotions impact learning.
+
+</aside>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/EW7FBndUPe8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+From the video, we learned that negative emotions (e.g. anxiety, fear) tend to narrow our focus onto the threat. However, positive emotions (e.g. curiosity, joy, pride) broaden our thoughts and ideas, helping us to be more creative, improving our capacity to learn, and helping us bounce back from failure. Negative memories can lead to negative emotional responses like anxiety and frustration, which hinder our ability to learn when we are put in situations that elicit memories of the past experiences. As such, it is important that we learn how to recognize when these emotions occur (through self-awareness), and effectively manage them (through self-regulation).  One thing to note is that sometimes negative emotions can be useful in learning, a small amount of anxiety can help us focus, which can be good for learning. However, if the anxiety is significant and frequent, it can distract us when we are trying to learn.
+
+> We used to think that if people did well, then they feel good…we now know that that was the wrong way around. Actually, if people feel good then that provides the fuel for them to do well.
+> 
+
+Curiosity is regarded as a strong positive emotion that drives learning. When there is a genuine curiosity to grow, improve and discover, learning is much more fun than when learning is driven by the need to perform for other people, or just get a passing grade. Learners who possess curiosity are driven by an intrinsic motivation that often makes them go further and put in more effort than learners who just want to put in the bare minimum. A useful approach to developing curiosity is identifying how a given topic that you are learning is personally meaningful to you, and how it could help you achieve goals that are important to you.
 
 ---

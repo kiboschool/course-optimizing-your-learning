@@ -41,27 +41,24 @@ When you enter a mindset, you enter a new world. In one world—the world of fix
 <aside>
 
 
-📖 Read this article on [**what can be learned from growth mindset controversies**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8299535/).
+📖 **Optional:** Read this article on [**what can be learned from growth mindset controversies**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8299535/).
 
 </aside>
 
-A growth mindset is about believing in your ability to grow and improve.  It is a belief that intelligence can be developed through effort. It goes on to say that through “effort, persistence, and practice”, you can develop your skills and talents. This aligns pretty well with what learned in [**Week 1**](/optimizing-your-learning/how-to-get-anything-you-want-in-life/how-learning-happens.md) about the neuroplasticity of the brain.
+A growth mindset is about believing in your ability to grow and improve.  It is a belief that intelligence can be developed through effort, and that through “effort, persistence, and practice”, you can develop your skills and talents. This aligns well with what we learned in [**Week 1**](/optimizing-your-learning/how-to-get-anything-you-want-in-life/how-learning-happens.md) about the neuroplasticity of the brain.
+
+Additionally, as discussed in the video, another connection between growth mindset and the lessons from week 1 is the emphasis on process over outcome. In **[Section 1.5 Self-Directed Learning](optimizing-your-learning/how-to-get-anything-you-want-in-life/self-directed-learning-sdl.md)**, we talked about the importance of planning in the service of becoming more self-directed. Going through the planning steps means that when you are then monitoring or evaluating your performance against your goal, you have a clearly defined process that you can tweak to further improve your performance. 
+
+If we think about the learnings from the previous section on Learned Helplessness, this means that planning, evaluating, and monitoring (i.e. self-directed learning) gives you the power to control your learning in times when you are successful, as well as times when you are not **yet** successful. This is extremely valuable for avoiding falling in to the trap of learned helplessness. When studying challenging technical subjects  the intentional planning and implementation of a learning process, allows you to focus on process and incremental improvements, and helps you avoid giving up too early while you are developing neccessary neaural pathways. In times when you may not see success at first, having a learning proccess or plan to tweak means that you shouldn't feel helpless or have limiting beliefs about your ability to succeed. Instead, you can focus on trying to figure out what you need to do, how you need to learn, who you need to get help from, in order to achieve your goals.
 
 <aside>
 
 
-📖 Read the following article on the [**difference between fixed and growth mindsets**](https://www.techtello.com/fixed-mindset-vs-growth-mindset/).
+📺 One characteristic of a fixed mindset is a fear of failure or mistakes. Watch the following video to learn how failure can be good for learning.
 
 </aside>
 
-<aside>
-
-
-📺 One characteristic of a fixed mindset is a fear of failure or mistakes. Watch the following video to learn how mistakes can be good for learning.
-
-</aside>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/E0TA60qo4-o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/MQx39z99_Js"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## Reflection: Experience with Fixed and Growth Mindsets
 

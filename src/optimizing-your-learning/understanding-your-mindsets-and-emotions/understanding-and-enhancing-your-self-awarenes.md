@@ -92,7 +92,7 @@ Here are activities you can practice to improve your self-awareness:
 
 💬 **Answer the following question in the padlet below.**
 
-- Which of the activities for developing self-awareness do you think would be most useful and effective for you?
+- Which of the activities for developing self-awareness do you think would be most useful and effective for you? Why?
     
 </aside>
 

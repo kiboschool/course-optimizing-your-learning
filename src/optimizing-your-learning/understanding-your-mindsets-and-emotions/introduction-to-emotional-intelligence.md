@@ -4,7 +4,7 @@
 
 ---
 
-This week, we started out discussing the importance of emotions in the learning process and how emotions (and the beliefs and mindsets that they create) can support or hurt your cognitive performance. Let’s continue by reflecting on your experience with managing your emotions and the emotions of others, before diving into the topic of emotional intelligence in a bit more depth.
+This week, we started out discussing the importance of emotions in the learning process, and how emotions (and the beliefs and mindsets that they create) can support or hurt your cognitive performance. Let’s continue by reflecting on your experience with managing your emotions and the emotions of others, before diving into the topic of emotional intelligence in a bit more depth.
 
 ## Reflection: Emotional Intelligence
 

@@ -74,7 +74,7 @@ Here are some examples of limiting beliefs:
 <aside>
 
 🗣 “What you feed your mind, will lead your life.”
-― Kemi Sogunle
+- Kemi Sogunle
 
 </aside>
 

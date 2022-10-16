@@ -95,7 +95,7 @@ According to Goleman, who has researched and written extensively on the subject,
     
 - **Social Awareness (or Empathy)**
     
-    Empathy is the ability to be able to put ourselves in the shoes of others. With empathy, we can imagine what others are feeling and experiencing and we can choose to understand and react to them based on the perceived feelings of their situation. Empathy can be practiced by listening to others and observing them and the situations they are in.  
+    Empathy is the ability to put ourselves in the shoes of others. With empathy, we can imagine what others are feeling and experiencing and we can choose to understand and react to them based on the perceived feelings of their situation. Empathy can be practiced by listening to others and observing them and the situations they are in.  
     
 - **Social Skills (or Relationship Management)**
     

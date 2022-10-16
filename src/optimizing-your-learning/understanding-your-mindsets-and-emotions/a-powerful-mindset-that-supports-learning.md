@@ -45,7 +45,7 @@ When you enter a mindset, you enter a new world. In one world—the world of fix
 
 </aside>
 
-A growth mindset is about believing in your ability to grow and improve.  It is a belief that intelligence can be developed through effort. It goes on to say that through “effort, persistence, and practice”, you can develop your skills and talents. This aligns well with what learned in [**Week 1**](/optimizing-your-learning/how-to-get-anything-you-want-in-life/how-learning-happens.md) about the neuroplasticity of the brain.
+A growth mindset is about believing in your ability to grow and improve.  It is a belief that intelligence can be developed through effort, and that through “effort, persistence, and practice”, you can develop your skills and talents. This aligns well with what learned in [**Week 1**](/optimizing-your-learning/how-to-get-anything-you-want-in-life/how-learning-happens.md) about the neuroplasticity of the brain.
 
 Additionally, s discussed in the video, another connection between growth mindset and the lessons from week 1 is the emphasis on process over outcome. In [Section 1.5 Self-Directed Learning](optimizing-your-learning/how-to-get-anything-you-want-in-life/self-directed-learning-sdl.md), we talked about the importance of planning in the service of becoming more self-directed. Going through the planning steps means that when you are then monitoring or evaluating your performance against your goal, you have a clearly defined process that you can tweak to further improve your performance. 
 

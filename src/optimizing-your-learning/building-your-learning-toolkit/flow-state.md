@@ -4,6 +4,15 @@
 
 ---
 
+<aside>
+
+
+🗣 "**The best moments in our lives, are not the passive, receptive, relaxing times—although such experiences can also be enjoyable, if we have worked hard to attain them. The best moments usually occur when a person's body or mind is stretched to its limits in a voluntary effort to accomplish something difficult and worthwhile."**
+
+- Mihaly Csikszentmihaly
+    
+</aside>
+
 ### How do you become the best learner you can be and increase your motivation and effectiveness when learning?
 
 Have you ever been so immersed in learning about a subject or doing something that you were so engrossed in and lost track of time? When an individual has their utmost concentration on a task in such a way that they are fully immersed in the actions and are clearly enjoying it, we refer to it as being in a ‘flow’ state. The good news is that as a learner, you can enter a flow state or use a flow state to drive greater engagement and effectiveness for yourself. Despite the distractions that sometimes hinder productive learning, we can take advantage of the flow state to ensure more focused and productive learning or study. In fact, flow state has been described as the brain’s most productive state.
@@ -100,19 +109,5 @@ Several psychological factors can drive you into flow. These include:
 
 ---
 
-<aside>
 
 
-🗣 "**The best moments in our lives, are not the passive, receptive, relaxing times—although such experiences can also be enjoyable, if we have worked hard to attain them. The best moments usually occur when a person's body or mind is stretched to its limits in a voluntary effort to accomplish something difficult and worthwhile."**
-
-- Mihaly Csikszentmihaly
-</aside>
-
-<aside>
-
-
-🤷🏿‍♀️ **So What? How does this section apply to me?**
-
-*[insert text]*
-
-</aside>

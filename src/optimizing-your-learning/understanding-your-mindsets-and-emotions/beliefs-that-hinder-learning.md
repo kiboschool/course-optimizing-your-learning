@@ -238,7 +238,7 @@ Do you experience ANTs? What are some of the most common ANTs (e.g. Overgenerali
 
 <aside>
     
-📺  Watch the following video to see a quick process for managing automatic negative thoughts.
+📺  Watch the following video to see a process for managing automatic negative thoughts.
 
 </aside>
 

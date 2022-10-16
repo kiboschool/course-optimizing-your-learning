@@ -71,6 +71,12 @@ Here are some examples of limiting beliefs:
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/Fi0Vkoa8fc4?start=30" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+<aside>
+
+🗣 “What you feed your mind, will lead your life.”
+― Kemi Sogunle
+
+</aside>
 
 ### How to overcome limiting beliefs
 
@@ -153,9 +159,16 @@ The concept of learned helplessness is very similar to limiting beliefs. It is b
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/Z8n1oUhp-EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+
 <aside>
 
-📖 Read the following article to learn more about [learned helplessness](https://bigthink.com/neuropsych/learned-helplessness-imaginable/).
+🗣 "We don’t learn helplessness. The brain assumes helplessness when exposed to adverse conditions. If we want to feel that we have any control over our own outcomes, we have to learn that we have power." - Jane McGonigal
+    
+</aside>
+
+<aside>
+
+📖 Read the following article to learn more about our updated understanding [learned helplessness](https://bigthink.com/neuropsych/learned-helplessness-imaginable/).
 
 </aside>
 
@@ -165,20 +178,11 @@ The concept of learned helplessness is very similar to limiting beliefs. It is b
 <aside>
 
 💬 **Answer the following question in the padlet below.**
-What are some ways that you can practice learned optimism when learning a challenging new skill?
+What are some ways that you can practice [learned optimism](https://positivepsychology.com/learned-optimism/) (e.g. Permanence, Pervasiveness, Personalization) when learning a challenging new skill?
 
 </aside>
 
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/embed/zcivnu95sv5z6ws4" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
-
----
-
-<aside>
-
-🗣 “What you feed your mind, will lead your life.”
-― Kemi Sogunle
-
-</aside>
 
 ---
 

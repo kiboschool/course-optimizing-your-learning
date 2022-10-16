@@ -73,7 +73,7 @@ The ability to recognize, understand, and manage emotions in yourself and others
 <aside>
 
 
-📺 Watch the following videos for an introduction to Goleman's emotional intelligence model
+📺 Watch the following videos for an introduction to emotional intelligence
 
 </aside>
 

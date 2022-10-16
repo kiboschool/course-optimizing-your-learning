@@ -83,7 +83,7 @@ According to Goleman, who has researched and written extensively on the subject,
 
 - **Self-Awareness**
     
-    This is the ability to recognize our own emotions and state of mind and understand the impact it has on us and other people around us.  It is the ability to understand how our emotions drive our behavior and actions. More broadly, self-awareness involves knowing our identity, personality, preferences, and strengths/weaknesses among other things which are in many ways connected to how we feel and how we act. being able to know how we feel and how that drives us in the moment can help us appreciate and channel those feelings/emotions appropriately.
+    This is the ability to recognize our own emotions and state of mind and understand the impact it has on us and other people around us.  It is the ability to understand how our emotions drive our behavior and actions. More broadly, self-awareness also involves knowing our identity, personality, preferences, and strengths and weaknesses among other things which are in many ways connected to how we feel and how we act. Being able to know how we feel and how that drives us in the moment can help us appreciate and channel those feelings and emotions appropriately.
     
 - **Self-Regulation (or Self-Management)**
     

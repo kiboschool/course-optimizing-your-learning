@@ -63,17 +63,17 @@ Now Reverse your belief to create an empowering belief: (e.g. I’ll probably ju
 
 You should have now gone through a process of identifying, reflecting on, and changing your limiting belief. Your final task is to put all this into a 8-10 slide presentation. This slide presentation is what you will submit for this assignment. Your presentation should include the following information:
 - 3-5 limiting beliefs that you currently hold
-- Reflection on a chosen limiting belief
+- Reflection on a chosen limiting belief (answer to the questions in task 2)
 - Prediction of how your life would be without this limiting belief
-- Your new, alternate belief
-- How the new belief makes you feel
-- What it would look like to live this new empowering belief
-- Your action plan for reminding yourself of the new belief
+- Your new empowering belief
+- Description of how the new belief makes you feel
+- Description of what your life would look like if you lived in accordance this new empowering belief
+- Your action plan for reminding yourself of the empowering belief
 
-Make sure your slides include both text and visuals.
+**Make sure your slides include both text and visuals.**
 
 ## Submission
 
-Please save your Google Slides as a pdf and submit it on Gradescope, and then upload a copy to the Woolf platform.
+Please save your Google Slides as a pdf file and submit your assignment on Gradescope, and then upload a copy to the Woolf platform.
 
 ---

@@ -8,7 +8,7 @@
 
 After completing this lesson, you will be able to:
 
-- Describe the different identities that makeup how you see yourself.
+- Describe the different identities that make up how you see yourself.
 - Identify and manage beliefs that hinder your learning.
 - Utilize a growth mindset to support your learning.
 - Identify the influence that emotional intelligence has on your learning.

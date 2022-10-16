@@ -7,7 +7,7 @@
 <aside>
 
 
-🗣 **“*Education is not the learning of facts, but the training of minds to think.”** 
+🗣 **“Education is not the learning of facts, but the training of minds to think.”** 
 - Attributed to Albert Einstein*
 
 </aside>
@@ -23,7 +23,9 @@ As we kick off this lesson on implementing self-directed learning through specif
 
 </aside>
 
-[https://youtu.be/hhGMoH2s8-0](https://youtu.be/hhGMoH2s8-0)
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/hhGMoH2s8-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+
 
 These points speak to studying but are clearly relevant to the way you think of your learning journey as well, as study is a form of learning. I want to highlight some of these habits and talk about them a bit more below:
 
@@ -43,36 +45,16 @@ These points speak to studying but are clearly relevant to the way you think of 
     
     With all the multiple channels of information, social connection, and more online, we are more distracted than ever before especially when studying online.  We are trying to study/engage in learning while watching Instagram reels or random YouTube videos. These not only elongate the time we have to focus on learning but also affect our brain’s ability to focus.
     
-- **Not getting rest/sleep**
+- **Not sleeping enough**
     
     Rest is essential to the functioning of the brain and to our energy. When you do not get enough rest or sleep, you have low energy as well as an inability to focus or concentrate. This will clearly impact the quality of your learning negatively. 
     
-    These are just a few of the several bad learning and study habits you might have picked up at some point that makes the learning process more tedious for you than it should be. The good news is you can learn new and more effective learning approaches and strategies. We will explore these more in the coming lessons.
+These are just a few of the several bad learning and study habits you might have picked up at some point that makes the learning process more tedious for you than it should be. The good news is you can learn new and more effective learning approaches and strategies. We will explore these more in the coming lessons.
     
 
 ---
 
-## Secrets of the Most Successful College Students
-
-<aside>
-
-
-📖 Read the following article about [**what the most successful students do**](https://ideas.time.com/2013/03/13/secrets-of-the-most-successful-college-students/).
-
-</aside>
-
-Some Key Takeaways:
-
-- Pursue passion, not A’s.
-- Get comfortable with failure.
-- Make a personal connection to your studies.
-- Read and think actively.
-- Ask big questions.
-- Set goals and make them real.
-
----
-
-## Reflection: Good and Bad Learning Habits
+## Reflection: Bad Learning Habits
 
 <aside>
 
@@ -81,7 +63,7 @@ Some Key Takeaways:
 
 - Which bad learning habits have you been guilty of?
 - Are there other bad learning habits you know that should be on this list?
-- Which of the good habits do you already exhibit?
+
 </aside>
 
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/embed/i9y58orpao3ndips" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>

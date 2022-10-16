@@ -91,7 +91,7 @@ According to Goleman, who has researched and written extensively on the subject,
     
 - **Motivation**
     
-    Motivation is the quality of being driven by something whether it is internal or external. As a quality of emotional intelligence, motivation helps us sustain appropriate or preferred actions even in the face of conflicting or contrary emotions. Motivation is the drive to improve ourselves, learn, grow and achieve our goals. Motivation helps us to be resilient, persevere, and forge ahead in the face of difficulty. Learning new and difficult subjects can be daunting and many people give up midway but with a good understanding of what motivates us and knowing how to channel and sustain our motivation, we can push through to accomplish our goals. 
+    Motivation is the quality of being driven by something whether it is internal or external. As a quality of emotional intelligence, motivation helps us sustain appropriate or preferred actions even in the face of conflicting or contrary emotions. Motivation is the drive to improve ourselves, learn, grow and achieve our goals. Motivation helps us to be resilient, persevere, and forge ahead in the face of difficulty. Learning new and difficult subjects can be daunting and many people give up midway. But with a good understanding of what motivates us and knowing how to channel and sustain our motivation, we can push through to accomplish our goals. 
     
 - **Social Awareness (or Empathy)**
     

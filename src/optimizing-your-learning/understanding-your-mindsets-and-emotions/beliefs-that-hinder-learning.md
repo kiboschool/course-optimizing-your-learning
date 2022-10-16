@@ -192,7 +192,7 @@ To close out this section, we are going to explore the driver that creates the t
 
 <aside>
 
-📺  Watch the following video to learn about automatic negative thoughts (ANTS).
+📺  Watch the following video to learn about automatic negative thoughts (called thinking traps in this video).
 
 </aside>
 

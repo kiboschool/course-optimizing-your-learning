@@ -229,7 +229,7 @@ To close out this section, we are going to explore the driver that creates the t
 
 <aside>
 
-🪞 **Answer the following questions in the padlet below.**
+🪞 **Answer the following questions on the padlet below.**
 Do you experience ANTs? What are some of the most common ANTs (e.g. Overgeneralization, fortune telling)) that you have experienced in the past?
 
 </aside>

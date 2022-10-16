@@ -81,7 +81,7 @@ Here are some examples of limiting beliefs:
          - You might also identify some by noticing times when you talk yourself out of actions that would lead you towards long term goals that are meaningful to you.
 
 - **Step 2: Separate "the stories" from "the facts"**
-    - Analyze the accuracy of the liming belief by determing source of the limiting belief:
+    - Analyze the accuracy of the liming belief by determining the source of the limiting belief:
         - Is it informed by assumptions, external expectations, or stereotypes?
         - Are there any facts or evidence to support that the belief is true?
     - Question what you know about the situation until you are left with answers that are supported by concrete facts.

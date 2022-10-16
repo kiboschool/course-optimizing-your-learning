@@ -67,7 +67,7 @@ You should have now gone through a process of identifying, reflecting on, and ch
 - Prediction of how your life would be without this limiting belief
 - Your new empowering belief
 - Description of how the new belief makes you feel
-- Description of what your life would look like if you lived in accordance this new empowering belief
+- Description of what your life would look like if you lived in accordance with this new empowering belief
 - Your action plan for reminding yourself of the empowering belief
 
 **Make sure your slides include both text and visuals.**

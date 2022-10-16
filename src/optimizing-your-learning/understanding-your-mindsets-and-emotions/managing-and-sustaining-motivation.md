@@ -41,11 +41,11 @@ As mentioned in the video, motivation can be extrinsic or intrinsic:
 
 - **Extrinsic Motivation**
     
-    Extrinsic motivation is the motivation that is initiated by forces outside of us or external forces. For example, you might be motivated to study and get good grades because it is the expectation of your parents and family. This could further be connected to positive or negative consequences. A negative consequence as motivation might be that your educational fees stop being sponsored if you perform poorly, while a positive motivation might be that you win a cash award for exemplary performance.  
+    Motivation that is initiated by external forces. For example, you might be motivated to study and get good grades because it is the expectation of your parents and family. This could further be connected to positive or negative consequences. A negative consequence as motivation might be that your educational fees stop being sponsored if you perform poorly, while a positive motivation might be that you win a cash award for exemplary performance.  
     
 - **Intrinsic Motivation**
     
-    Intrinsic motivation on the other hand is the quality of being internally motivated by other interests and factors that bother on self-fulfillment and self-realization. With intrinsic motivation, you perform a task because you enjoy doing it and are committed to it.
+    Motivation that comes from within ourselves. This could be other interests, or factors that influence feelings of self-fulfillment and self-realization. With intrinsic motivation, you perform a task because you enjoy doing it and are committed to it, without the need for an external award or punishment.
     
 
 <aside>

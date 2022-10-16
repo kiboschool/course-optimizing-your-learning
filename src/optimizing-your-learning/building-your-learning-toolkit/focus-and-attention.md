@@ -1,4 +1,4 @@
-# Focus and attention
+# Focus and Attention
 
 *Estimated Time: xx hours*
 
@@ -22,11 +22,12 @@
 
 </aside>
 
-[https://www.youtube.com/watch?v=wfKv2qG8d_w](https://www.youtube.com/watch?v=wfKv2qG8d_w)
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/wfKv2qG8d_w"
+ title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ---
 
-## Minimizing distractions
+## Minimizing Distractions
 
 <aside>
 
@@ -38,12 +39,3 @@
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/KZGVgz9b2fw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ---
-
-<aside>
-
-
-🤷🏿‍♀️ **So What? How does this section apply to me?**
-
-*[insert text]*
-
-</aside>

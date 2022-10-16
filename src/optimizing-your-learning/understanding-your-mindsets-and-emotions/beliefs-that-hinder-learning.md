@@ -87,9 +87,9 @@ Here are some examples of limiting beliefs:
     - Question what you know about the situation until you are left with answers that are supported by concrete facts.
 
 - **Step 3: Develop an Alternate Belief**
-    - One powerful way to develop an alternate belief is to reverse the "Limiting Belief" into an "Empowering Belief", as see what it feels like to live with this new reality. For example:
+    - One powerful way to develop an alternate belief is to reverse the "Limiting Belief" into an "Empowering Belief", and see what it feels like to live with this new reality. For example:
         - Limiting Belief: "I **shouldn't** speak up in class because my answer is probably **wrong** and people will think I am **dumb**."
-        - Empowering Belief: "I **should** speak up in class because my answer is probably *correct** and people will think I am **smart**."
+        - Empowering Belief: "I **should** speak up in class because my answer is probably **correct** and people will think I am **smart**."
 
 - **Step 4: Put the Empowering Belief into Practice**
     - When a situation triggers the old limiting belief, think of the empowering belief instead, and let it guide your behavior.

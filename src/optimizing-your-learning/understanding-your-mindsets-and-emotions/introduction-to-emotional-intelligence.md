@@ -87,7 +87,7 @@ According to Goleman, who has researched and written extensively on the subject,
     
 - **Self-Regulation (or Self-Management)**
     
-    This is the ability to control, manage or regulate our emotions at any point in time in order to serve the purpose of the goals we have at hand. It also helps us to respond appropriately in our relationships and interactions with others. We might not be able to always trace the source of our emotions or control when and how they come but the good news is that with learning and practice, we can control how those emotions affect or drive us.
+    This is the ability to control, manage or regulate our emotions to serve our goals. It also helps us to respond appropriately in our relationships and interactions with others. We might not always be able to trace the source of our emotions, or control when and how they come, but the good news is that with learning and practice, we can control how those emotions affect or drive our actions.
     
 - **Motivation**
     

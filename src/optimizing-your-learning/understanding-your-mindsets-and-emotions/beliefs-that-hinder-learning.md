@@ -198,7 +198,7 @@ To close out this section, we are going to explore the driver that creates the t
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/Pwe-SyJkhCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-**Here are some of the most common ANTs:**
+**Here are some of the most common ANTs (these were all mentioned in the video):**
 
 - **All-or-nothing Thinking:** "You see things in black-and-white categories. If your performance falls short of perfect, you see yourself as a total failure."
 - **Overgenerlization:** "You see a single negative event as a never-ending pattern of defeat."

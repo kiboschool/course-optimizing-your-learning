@@ -52,9 +52,9 @@
 ### Week 4
 - [Week 4: Building Your Learning Toolkit](optimizing-your-learning/building-your-learning-toolkit.md)
 	- [Motivation](optimizing-your-learning/building-your-learning-toolkit/motivation.md)
-	- [Habits](optimizing-your-learning/building-your-learning-toolkit/habits.md)
-	- [Memory](optimizing-your-learning/building-your-learning-toolkit/memory.md)
 	- [Focus and Attention](optimizing-your-learning/building-your-learning-toolkit/focus-and-attention.md)
+	- [Memory](optimizing-your-learning/building-your-learning-toolkit/memory.md)
+	- [Habits](optimizing-your-learning/building-your-learning-toolkit/habits.md)
 	- [Flow State](optimizing-your-learning/building-your-learning-toolkit/flow-state.md)
 	- [Learning Strategies: Before Learning](optimizing-your-learning/building-your-learning-toolkit/learning-strategies-before-learning.md)
 	- [Learning Strategies: While Learning](optimizing-your-learning/building-your-learning-toolkit/learning-strategies-while-learning.md)
@@ -66,11 +66,4 @@
 ### Week 5
 
 - [Final Assessments](optimizing-your-learning/final-assessments.md)
-
-<!-- 
-[Wrap Up](optimizing-your-learning/how-to-get-anything-you-want-in-life/wrap-up.md) 
-[Wrap Up](optimizing-your-learning/understanding-your-mindsets-and-emotions/wrap-up.md)
-[Wrap Up](optimizing-your-learning/managing-your-learning-context/wrap-up.md)
-[Wrap Up](optimizing-your-learning/building-your-learning-toolkit/wrap-up.md)
--->
 

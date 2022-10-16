@@ -57,12 +57,12 @@ But how do emotions influence learning?
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/eqSoWurDLio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-From this video, we learned that the quality of our learning is dependent on both our cognitive skills (how we think) and our emotional state (how we feel). In fact, our emotional state impacts our ability to leverage our cognitive abilities to achieve learning goals. For example, emotions can have a positive or negative impact on our attention, motivation, effective employment of learning strategies, and ability to self-regulate.
+From this video, we learned that the quality of our learning is dependent on both our cognitive skills (how we think) and our emotional state (how we feel). In fact, our emotional state impacts our ability to leverage our cognitive skills to achieve learning goals. For example, emotions can have a positive or negative impact on our attention, motivation, effective employment of learning strategies, and ability to self-regulate.
 
 <aside>
 
 
-📺 Watch the following videos to understand the importance of emotions to cognitive ability.
+📺 Watch the following videos to understand the impact of emotions to cognitive ability.
 
 </aside>
 

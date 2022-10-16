@@ -188,6 +188,8 @@ What are some ways that you can practice [learned optimism](https://positivepsyc
 
 ## Automatic Negative Thoughts (ANTS)
 
+To close out this section, we are going to explore the driver that creates the thoughts that prop up our limiting beliefs and feelings of helplessness. These negative thoughts are often so automatic that we don't realize how much they shape how we view or interact with the world around us.
+
 <aside>
 
 📺  Watch the following videos to learn about automatic negative thoughts (ANTS).

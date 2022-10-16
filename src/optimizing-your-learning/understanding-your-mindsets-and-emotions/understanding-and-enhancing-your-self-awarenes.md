@@ -54,7 +54,7 @@ As mentioned earlier, self-awareness can help you become a better self-directed 
 
 - **Emotions**
 
-    As we have already demonstrated, being aware of your emotions is important to how you understand, interpret and act in situations. Learning happens within and outside the classroom and across a variety of scenarios and so, the ability to understand your emotions in different situations can determine if you are able to learn in that situation or not.
+    As we have already demonstrated, being aware of your emotions is important to how you understand, interpret, and act in situations. Learning happens in a variety of contexts, so the ability to understand your emotions in different situations can determine if you are able to learn in those situations or not.
     
 - **Strengths and Weaknesses**
     

@@ -6,7 +6,7 @@
 
 In this section, we will discuss the impact that the food and drink that you consume, and the amount that you move your body impact your ability to learn effectively.
 
-## Food and Hydration
+## Food
 
 <aside>
 
@@ -22,24 +22,27 @@ In this section, we will discuss the impact that the food and drink that you con
 <aside>
 
 
-📖 Read the following article on [**Nutrition and the Brain**](http://faculty.washington.edu/chudler/nutr.html).
+📖 **Optional:** Read the following article on [**nutrition and the brain**](http://faculty.washington.edu/chudler/nutr.html).
 
 </aside>
 
 <aside>
 
 
-📖 Read the following article on [**Food Linked to Better Brainpower**](https://www.health.harvard.edu/healthbeat/foods-linked-to-better-brainpower).
+📖 Read the following article on [**food linked to better brainpower**](https://www.health.harvard.edu/healthbeat/foods-linked-to-better-brainpower).
 
 </aside>
 
-The majority of the publically available information about brain beneficial nutrition is from American or European sources. Therefore, a lot of the foods that they recommend are native to those countries and cuisines. However, it's imporant to acknowledge that there are plently of traditional African cuisine that are also beneficial to your brain and body. So I've tried to find some readings that discuss these as well.
+The majority of the publically available information about brain-beneficial nutrition is from American or European sources. Therefore, a lot of the foods that they recommend are native to those countries and cuisines. However, it's imporant to acknowledge that there are plently of traditional African foods that are also beneficial to your brain and body. Therefore, we've tried to find some readings that discuss these as well.
 
 <aside>
   
 📖 Read the following webpage on the **[African Heritage Diet](https://oldwayspt.org/traditional-diets/african-heritage-diet)**, which is a way of healthy eating that is in line with the food traditions of people with African roots.
 
 </aside>
+
+
+## Hydration
 
 <aside>
 

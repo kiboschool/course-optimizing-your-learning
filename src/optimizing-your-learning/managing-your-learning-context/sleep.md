@@ -26,6 +26,7 @@ In this section we will discuss why sleep is so important for learning and livin
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/knJWF4km3y0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+---
 
 ## Sleep and the Brain
 
@@ -86,9 +87,11 @@ In this section we will discuss why sleep is so important for learning and livin
 
 ### Sleep Hygiene Checklist
 
+<aside>
+  
 Here are some good habits that you can employ to help you get better sleep.
 
-- **Step using electronic devices at least 30 minutes before bed:** Electronics are cognitively engaging and can unexpectedly induce emotions (e.g., stress from an email, excitement from a story), preventing you from winding down. The bright light from electronics also disrupts a normal sleep-wake schedule by conflicting with nature's daily light-dark cycle. Don’t answer emails, peruse social media, or watch TV/movies.
+- **Stop using electronic devices at least 30 minutes before bed:** Electronics are cognitively engaging and can unexpectedly induce emotions (e.g., stress from an email, excitement from a story), preventing you from winding down. The bright light from electronics also disrupts a normal sleep-wake schedule by conflicting with nature's daily light-dark cycle. Don’t answer emails, peruse social media, or watch TV/movies.
 - **Don’t eat, work or watch TV in bed**: If you only use your bed for sleeping, you body begins to associate the bed with rest, which can lead to deeper and more continuous sleep.
 - **Nap with caution:** While naps can help after sleep deprivation, regular naps may deter nighttime sleep. Sleeping continuously at night is best, so skip the nap and sleep longer that night. If you really feel the need to nap, do it before 3pm and kee p it under an hour. 
 - **Keep fixed bedtime and wake-up time:** Awakening around the same time every morning promotes a regular sleep schedule. In turn, your body learns when it is time to fall sleep. Even if it means waking up earlier on weekends or getting less sleep one night, your sleep will be better in the long term. 
@@ -103,6 +106,10 @@ Here are some good habits that you can employ to help you get better sleep.
 - **See a professional:** If you think your sleep difficulties might extend beyond habit change, consult with your doctor or a sleep specialist. The time you take for the appointment could save you invaluable time in the future. 
 
 [Source](https://sdlab.fas.harvard.edu/files/sdlab/files/sleephygienecheckliststriveweekly.pdf)
+
+</aside>
+
+---
 
 ## Reflection: Sleep Hygiene
 

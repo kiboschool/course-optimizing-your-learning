@@ -125,7 +125,7 @@ Which of the habits on the above sleep hygiene checklist do you already practice
 
 <aside>
 
-🌐 Explore this website on [**Healthy Sleep**](http://healthysleep.med.harvard.edu/) to learn more about sleep.
+🌐 **Optional:** Explore this website on [**Healthy Sleep**](http://healthysleep.med.harvard.edu/) to learn more about sleep.
 
 </aside>
 

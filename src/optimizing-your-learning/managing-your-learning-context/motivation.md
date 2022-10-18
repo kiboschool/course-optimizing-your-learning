@@ -28,7 +28,7 @@ Taking care of both your physical and mental health are important if you want to
 💬 Answer **one** the questions in the padlet below.
 
 - Do you have a morning routine?
-- Which of the morning habits in the videos would you consider incorporating into your life?
+- Which of the morning habits in the video would you consider incorporating into your life?
 - If you could plan your ideal morning, what would it look like?
 </aside>
 

@@ -114,7 +114,7 @@ Here are some good habits that you can employ to help you get better sleep.
 ## Reflection: Sleep Hygiene
 
 <aside>
-Which of the habits on the above sleep hygiene checklist do you already practice? Which of the habits would you like to try?"
+Which of the habits on the above sleep hygiene checklist do you already practice? Which of the habits would you like to try?
 
 **Post your answers in the padlet below.**
   

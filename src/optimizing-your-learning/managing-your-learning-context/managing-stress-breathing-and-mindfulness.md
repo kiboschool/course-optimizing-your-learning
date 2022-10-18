@@ -144,6 +144,8 @@ Finally, mindfulness and mindful meditation are two of the most powerful tools t
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/o-kMJBWk9E0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+As mentioned in one of the videos, you can practice meditation by yourself with no tools or guidance, all you need to do is sit. However, if you want some additional guidance as you are learning to meditate there are lots of meditation videos and apps that you can use. I personally like the apps [Calm](https://www.calm.com/) and [Headspace](https://www.headspace.com/) for a easy introduction into mindfulness and meditation. You will also notice that at the start of each of your weekly lessons, I have embedded a meditation video to help you focus before you start the lesson. Finally, below is a great guided meditation video for calming overwhelming emotions.
+
 <aside>
 
 
@@ -153,8 +155,7 @@ Finally, mindfulness and mindful meditation are two of the most powerful tools t
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/jCJdl6Vs7wg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-
-As mentioned in one of the videos, you can practice meditation by yourself with no tools or guidance, all you need to do is sit. However, if you want some additional guidance as you are learning to meditate there are lots of meditation videos and apps that you can use. I personally like the apps [Calm](https://www.calm.com/) and [Headspace](https://www.headspace.com/) for a easy introduction into mindfulness and meditation. You will also notice that at the start of each of your weekly lessons, I have embedded a meditation video to help you focus before you start the lesson. Finally, below is a great guided meditation video for calming overwhelming emotions.
+### Practicing Mindful Meditation
 
 <aside>
 

@@ -41,6 +41,7 @@ The majority of the publically available information about brain-beneficial nutr
 
 </aside>
 
+---
 
 ## Hydration
 

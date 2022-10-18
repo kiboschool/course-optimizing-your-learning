@@ -4,10 +4,13 @@
 
 ---
 
-In this section we will explore ways to improve your time management. 
+Time Management is one of the execuive functioning skills that is important for effective learning. As mentioned in the week 1 lesson, it can be defined as "the ability to use time efficiently and effectively in the accomplishment of set tasks and goals." This is a skill that a lot of people struggle with, and it can have a significant impact on your ability to learn well. Therefore, in this section we will explore some common time management challenges and myths, as well as some tips and tools that can help you improve your ability to manage your time.
+
+---
+
+## Introduction to Time Management
 
 <aside>
-
 
 📺 Watch the following video to learn to make time management work for you.
 
@@ -15,9 +18,21 @@ In this section we will explore ways to improve your time management.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/2Si7ah_h32s"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+Alternate video option: src="https://www.youtube.com/embed/pkYBVRfLhRc" 
 ---
 
-## The Multi-tasking Myth
+## Common Time Management Challenges
+
+<aside>
+
+📺 Watch the following video to learn about some common time management mistakes.
+
+</aside>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/OQnwJAQV2GA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+
+### The Multi-tasking Myth
 
 <aside>
 
@@ -45,9 +60,7 @@ In this section we will explore ways to improve your time management.
 </aside>
 
 
----
-
-## How to Beat Procrastination
+### Procrastination
 
 <aside>
 
@@ -76,7 +89,10 @@ In this section we will explore ways to improve your time management.
 
 ---
 
-## **Time Blocking**
+## Improving Your Time Management
+
+
+### Time Blocking
 
 <aside>
 
@@ -87,9 +103,8 @@ In this section we will explore ways to improve your time management.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/YlkCB3ruVQE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
----
 
-## Eisenhower Matrix for Prioritization
+### Eisenhower Matrix for Prioritization
 
 <aside>
 
@@ -105,9 +120,8 @@ In this section we will explore ways to improve your time management.
 
 </aside>
 
----
 
-## Planning Your Time (Termly)
+### Planning Your Time (Termly)
 
 <aside>
 
@@ -138,9 +152,8 @@ In this section we will explore ways to improve your time management.
 
 [Source](https://pressbooks.bccampus.ca/studystrategizesucceed/chapter/see-your-semester-at-a-glance/)
 
----
 
-## Planning Your Time (Weekly)
+### Planning Your Time (Weekly)
 
 The following principles will guide you as you create your weekly schedule:
 
@@ -158,9 +171,8 @@ The following principles will guide you as you create your weekly schedule:
   
 [Source](https://pressbooks.bccampus.ca/studystrategizesucceed/chapter/create-a-weekly-schedule-that-works/)
 
----
 
-## Planning Your Time (Daily)
+### Planning Your Time (Daily)
 
 <aside>
 
@@ -171,6 +183,7 @@ The following principles will guide you as you create your weekly schedule:
   
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/a54mf_Odli4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+### Not To Do List
 
 <aside>
   
@@ -199,9 +212,7 @@ At the end of each day’s work, take a few minutes to plan the following day.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/SappngY0ZQ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
----
-
-## Weekly Review
+### Weekly Review
 
 <aside>
 
@@ -210,7 +221,6 @@ At the end of each day’s work, take a few minutes to plan the following day.
 </aside>
 
 <aside>
-
 
 📺 Watch the following video on how to carry out a weekly review
 

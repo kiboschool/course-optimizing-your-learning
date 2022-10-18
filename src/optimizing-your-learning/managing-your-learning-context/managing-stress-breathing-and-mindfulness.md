@@ -1,4 +1,4 @@
-# Managing Stress, Breathing, and Meditation
+# Managing Stress, Breathing, and Mindfulness
 
 *Estimated Time: 1.5 hours*
 
@@ -11,7 +11,7 @@ In this section, we will explore the impact that stress has on your brain, and t
 <aside>
 
 
-📺 Watch the following videos on how stress affects your brain and body.
+📺 Watch the following videos on how stress affects your brain.
 
 </aside>
 
@@ -23,33 +23,42 @@ In this section, we will explore the impact that stress has on your brain, and t
 
 
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/v-t1Z5-oPtU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<aside>
+
+
+📖 **Optional:** Read the following article on **[learning and memory under stress](https://www.nature.com/articles/npjscilearn201611)**.
+
+</aside>
+
+### Managing Stress
+
+There are a number of things that you can do to counteract the impact that stress has on your brain and body. The first steps are being aware of your stress levels and understanding the sources of stress in your life, then you can work on introducing behaviours into your life that help you reduce your stress levels.
+
+<aside>
+
+🛠 If you want to manage your stress more effectively, you can complete **[this workbook on stress management](https://www.purdue.edu/stepstoleaps/learning-modules/well-being/_docs/Manage-Stress-Workbook.pdf)**
+
+</aside>
 
 
 <aside>
 
 
-📖 Read the following article on **[learning and memory under stress: implications for the classroom](https://www.nature.com/articles/npjscilearn201611)**.
+📖 You can also read the following article on how to **[thwart stress effects on memory](https://www.psychologytoday.com/us/blog/memory-medic/201612/thwart-stress-effects-memory).**
+
+</aside>
+
+
+<aside>
+
+
+📖 **Optional:** Read the following article to learn some **[relaxation techniques that reduce stress](https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/relaxation-technique/art-20045368)**.
 
 </aside>
 
 <aside>
 
-
-📖 Read the following article on how to **[thwart stress effects on memory](https://www.psychologytoday.com/us/blog/memory-medic/201612/thwart-stress-effects-memory).**
-
-</aside>
-
-<aside>
-
-
-📖 Read the following article on **[relaxation techniques that reduce stress](https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/relaxation-technique/art-20045368)**.
-
-</aside>
-
-<aside>
-
-📺 You can use the 5-4-3-2-1 Method for managing acute stress, watch this video to practice the method.
+🛠 You can use the 5-4-3-2-1 Method for managing acute stress, watch this video to practice the method.
 
 </aside>
 
@@ -60,9 +69,9 @@ In this section, we will explore the impact that stress has on your brain, and t
   
 **Answer the questions in the padlet below.**
   
-- Do you deal with stress? In what situations?
+- Do you get stressed? In what situations?
 - How has your stress impacted your mind or body?
-- What methods have you used to combat your stress? Which ones have been effective?
+- What methods have you used to combat your stress in the past? Which ones have been effective?
 
 </aside>
 

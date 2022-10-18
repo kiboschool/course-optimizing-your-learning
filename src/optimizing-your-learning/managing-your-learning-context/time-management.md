@@ -16,7 +16,6 @@ Time Management is one of the executive functioning skills that is important for
 
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/OQnwJAQV2GA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ---
 
@@ -92,11 +91,15 @@ Time Management is one of the executive functioning skills that is important for
 ## Improving Your Time Management
 
 In this section we will explore some tools and techniques that you can use to improve your time management skills, including:
+- Time Audit
 - Time Blocking
 - The Eisenhower Matrix
 - Planning Your Time (Termly, Weekly, Daily)
 - The Not To Do List
 - Weekly Review
+
+
+### Time Audit
 
 
 ### Time Blocking

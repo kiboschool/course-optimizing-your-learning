@@ -18,8 +18,6 @@ Time Management is one of the execuive functioning skills that is important for 
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/2Si7ah_h32s"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-Alternate video option: src="https://www.youtube.com/embed/pkYBVRfLhRc" 
-
 ---
 
 ## Common Time Management Challenges
@@ -33,7 +31,7 @@ Alternate video option: src="https://www.youtube.com/embed/pkYBVRfLhRc"
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/OQnwJAQV2GA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
-### The Multi-tasking Myth
+### Multi-tasking
 
 <aside>
 
@@ -44,12 +42,19 @@ Alternate video option: src="https://www.youtube.com/embed/pkYBVRfLhRc"
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/tMiyzuO1qMs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-Alternate video option: src="https://www.youtube.com/embed/0b02-_Wkpwo"
-
 
 <aside>
 
 📖 **Optional:** Read the following article on the **[cost of multitasking](https://www.apa.org/topics/research/multitasking)**.
+
+</aside>
+
+### Task (or Context) Switiching
+
+<aside>
+
+
+📺 Watch the following video on...
 
 </aside>
 
@@ -84,6 +89,13 @@ Alternate video option: src="https://www.youtube.com/embed/0b02-_Wkpwo"
 ---
 
 ## Improving Your Time Management
+
+In this section we will explore some tools and techniques that you can use to improve your time management skills, including:
+- Time Blocking
+- The Eisenhower Matrix
+- Planning Your Time (Termly, Weekly, Daily)
+- The Not To Do List
+- Weekly Review
 
 
 ### Time Blocking

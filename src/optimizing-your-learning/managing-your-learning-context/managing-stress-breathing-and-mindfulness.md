@@ -157,10 +157,20 @@ As mentioned in one of the videos, you can practice meditation by yourself with 
 
 ### Practicing Mindful Meditation
 
+
+In the **[stress management workbook](https://www.purdue.edu/stepstoleaps/learning-modules/well-being/_docs/Manage-Stress-Workbook.pdf)** you were introduced to a number of meditation practices that can be powerful tools for managing stress. We will summarize these practices below, but you can refer to the workbook for details on how to carry out each technique:
+
+- Mindfulness Meditation
+- Compassion Meditation
+- Body Scan Meditation
+- Mindful Eating 
+- Progressive Muscle Relaxation
+- Mindfulness Circle
+
 <aside>
 
 
-📺 Heartbeat mindfulness meditation to calm overwhelming emotions.
+🛠 Try out this heartbeat mindfulness meditation to calm overwhelming emotions.
 
 </aside>
 

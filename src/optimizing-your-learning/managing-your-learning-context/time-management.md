@@ -12,11 +12,11 @@ Time Management is one of the executive functioning skills that is important for
 
 <aside>
 
-📺 Watch the following video to learn to make time management work for you.
+📺 Watch the following video to learn more about time management
 
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/2Si7ah_h32s"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/OQnwJAQV2GA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ---
 
@@ -57,6 +57,7 @@ Time Management is one of the executive functioning skills that is important for
 📺 Watch the following video on...
 
 </aside>
+
 
 
 ### Procrastination

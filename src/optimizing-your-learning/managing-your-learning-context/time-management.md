@@ -61,9 +61,19 @@ Alternates:
 
 <aside>
 
+📺 Watch the following video to learn more about the effects of procrastination
+
+</aside>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/NIn7opOQWGQ"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+
+<aside>
+
 📖 Read the following article to learn **[why students procrastination and how to overcome it](https://pressbooks.bccampus.ca/studystrategizesucceed/chapter/escape-the-procrastination-trap/)**
 
 </aside>
+
 
 <aside>
 

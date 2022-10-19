@@ -15,10 +15,10 @@
 This week's assignment will require you to **select one** of the options listed below (all of them are from this week’s lesson), test it out for 3 days, and submit a reflection on your experience.
 
 Options:
-- **Breathing:** When you feel stressed, try out one or more of the breathing technqiues introduced in section 3.2 (i.e. Alternate Nostril Breathing, 4-7-8 Technique, Box breathing).
+- **Breathing:** When you feel stressed, try out one or more of the breathing techniques introduced in section 3.2 (i.e. Alternate Nostril Breathing, 4-7-8 Technique, Box breathing).
 - **Meditation:** Meditate for at least 5 minutes per day. You can use one of the meditation techniques from the [stress management workbook](https://www.purdue.edu/stepstoleaps/learning-modules/well-being/_docs/Manage-Stress-Workbook.pdf).
 - **Movement:** Carry out at least 30 minutes of moderate exercise per day.
-- **Sleep:** Practice at least 6 items on the sleep hygeine checklist, and attempt to sleep at least 7 hours per night.
+- **Sleep:** Practice at least 6 items on the sleep hygiene checklist, and attempt to sleep at least 7 hours per night.
 - **Time Management:** Try out one of the techniques in the "Improving Your Time Management" section (e.g. Time Auditing, The Eisenhower Matrix, Time Blocking, Calendaring, Planning Your Time, The To Do List, The Not To Do List, Weekly Review).
 
 

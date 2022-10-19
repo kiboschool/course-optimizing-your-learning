@@ -30,7 +30,7 @@ Time Management is one of the executive functioning skills that is important for
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/OQnwJAQV2GA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-In addition to the topics mentioned in the video, there are two major time management challenges that people often deal with. The first revolves around the idea that to be more effective, you should do multiple things at the same time (i.e. multi-task), and the second is delaying completing tasks until a later time (i.e. procrastiantion). We will learn more about each of these challenges below.
+Let's dive a little deeper into the last mistake mentioned in the video, multi-tasking, before talking a little bit about an additional challenge that most poeple face, delaying the completion of tasks until a later time (i.e. procrastiantion).
 
 ### The Multi-tasking Myth
 

@@ -135,6 +135,13 @@ Here is what you can do with the information that you get from your completed ti
 ### Eisenhower Matrix for Prioritization
 
 <aside>
+  
+🗣 **"If everything is important, then nothing is."**
+- Patrick Lencioni
+  
+</aside>
+
+<aside>
 
 📺 Watch the following video on how to use the Eisenhower matrix to prioritize.
 

@@ -11,16 +11,16 @@ In this section, we will explore the impact that stress has on your brain, and t
 <aside>
 
 
-📺 Watch the following videos on how stress affects your brain.
+📺 Watch the following video on how stress affects your brain.
 
 </aside>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/WuyPuH9ojCE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
-
+<!--
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/hyg7lcU4g8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
+-->
 
 
 <aside>
@@ -136,12 +136,18 @@ Finally, mindfulness and mindful meditation are two of the most powerful tools t
 <aside>
 
 
-📺 Watch the following videos on the impact that mindfulness and meditation can have on your life and mind.
+📺 Watch the following video on the impact that mindfulness can have on your life and mind.
 
 </aside>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/w6T02g5hnT4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+<aside>
+
+
+📺 Watch the following video on the impact of meditation.
+
+</aside>
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/o-kMJBWk9E0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 As mentioned in one of the videos, you can practice meditation by yourself with no tools or guidance, all you need to do is sit. However, if you want some additional guidance as you are learning to meditate there are lots of meditation videos and apps that you can use. I personally like the apps [Calm](https://www.calm.com/) and [Headspace](https://www.headspace.com/) for a easy introduction into mindfulness and meditation. You will also notice that at the start of each of your weekly lessons, I have embedded a meditation video to help you focus before you start the lesson. Finally, below is a great guided meditation video for calming overwhelming emotions.

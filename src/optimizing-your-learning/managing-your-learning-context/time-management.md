@@ -36,12 +36,9 @@ Let's dive a little deeper into the last mistake mentioned in the video, multi-t
 
 <aside>
 
-
-📺 Watch the following videos on the multi-tasking myth.
+📺 Watch the following video on the multi-tasking myth.
 
 </aside>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/tMiyzuO1qMs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/iM4u-7Z5URk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
@@ -49,7 +46,7 @@ Let's dive a little deeper into the last mistake mentioned in the video, multi-t
 
 <aside>
 
-📖 **Optional:** Read the following article on the **[cost of multitasking](https://www.apa.org/topics/research/multitasking)**.
+📖 **Optional:** Read the following article on the **[cost of multi-tasking](https://www.apa.org/topics/research/multitasking)**.
 
 </aside>
 

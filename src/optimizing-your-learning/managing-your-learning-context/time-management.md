@@ -120,7 +120,7 @@ Summary of questions from the video:
 - Are there distractions that I can minimize or avoid?
 - Am I making time for what's really important?
 
-You can find a good tempalte for a time audit [here](https://spscc.edu/sites/default/files/imce/students/LSS/Handout_Time%20Audit.pdf).
+You can find a good template for a time audit [here](https://spscc.edu/sites/default/files/imce/students/LSS/Handout_Time%20Audit.pdf).
 
 Here's is what you can do with the information that you get from your completed time audit:
 - Compare your perception of time versus reality

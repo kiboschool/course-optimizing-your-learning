@@ -30,7 +30,7 @@ Time Management is one of the executive functioning skills that is important for
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/OQnwJAQV2GA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-Let's dive a little deeper into the last mistake mentioned in the video, multi-tasking, before talking a little bit about an additional challenge that most people face, delaying the completion of tasks until a later time (i.e. procrastiantion).
+Let's dive a little deeper into the last mistake mentioned in the video, multi-tasking, before talking a little bit about an additional challenge that most people face, delaying the completion of tasks until a later time (i.e. procrastination).
 
 ### The Multi-tasking Myth
 

@@ -12,10 +12,11 @@ Time Management is one of the executive functioning skills that is important for
 
 <aside>
 
-📺 Watch the following video to learn more about time management
+📺 Watch the following video for an introduction to time management
 
 </aside>
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/54Vobx4i3Jc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ---
 
@@ -29,8 +30,9 @@ Time Management is one of the executive functioning skills that is important for
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/OQnwJAQV2GA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+In addition to the topics mentioned in the video, there are two major time management challenges that people often deal with. The first revolves around the idea that to be more effective, you should do multiple things at the same time (i.e. multi-task), and the second is delaying completing tasks until a later time (i.e. procrastiantion). We will learn more about each of these challenges below.
 
-### Multi-tasking
+### The Multi-tasking Myth
 
 <aside>
 
@@ -41,6 +43,12 @@ Time Management is one of the executive functioning skills that is important for
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/tMiyzuO1qMs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+Alternates: 
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/IEes9-4RUKk"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/iM4u-7Z5URk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 
 <aside>
 
@@ -48,18 +56,14 @@ Time Management is one of the executive functioning skills that is important for
 
 </aside>
 
-### Task (or Context) Switiching
+
+### Beating Procrastination
 
 <aside>
 
-
-📺 Watch the following video on...
+📖 Read the following article to learn **[why students procrastination and how to overcome it](https://pressbooks.bccampus.ca/studystrategizesucceed/chapter/escape-the-procrastination-trap/)**
 
 </aside>
-
-
-
-### Procrastination
 
 <aside>
 
@@ -70,17 +74,10 @@ Time Management is one of the executive functioning skills that is important for
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/HbxTkvfIOIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-<aside>
-
-
-📖 Read the following textbook section on **[beating procrastination](https://pressbooks.bccampus.ca/studystrategizesucceed/chapter/escape-the-procrastination-trap/).**
-
-</aside>
 
 <aside>
 
-
-📺 Watch the following guided meditation to stop procrastination
+🛠 Watch the following guided meditation to stop procrastination.
 
 </aside>
 
@@ -90,29 +87,45 @@ Time Management is one of the executive functioning skills that is important for
 
 ## Improving Your Time Management
 
-In this section we will explore some tools and techniques that you can use to improve your time management skills, including:
-- Time Audit
-- Time Blocking
+Now that we've learned more about time management, and some common challenges. Let's explore some tools and techniques that you can implement to improve how you use your time. We will look at:
+- Time Auditing
 - The Eisenhower Matrix
+- Time Blocking
+- Calendaring
 - Planning Your Time (Termly, Weekly, Daily)
 - The Not To Do List
 - Weekly Review
 
+---
 
-### Time Audit
-
-
-### Time Blocking
+### Time Auditing
 
 <aside>
 
 
-📺 Watch the following video on time blocking.
+📺 Watch the following video on how to carry out a time audit.
 
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/YlkCB3ruVQE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/GVzbkHwVjwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+Summary of questions from the video:
+- How am I actually spending my time?
+- How important are the things I am doing?
+- Are there distractions that I can minimize or avoid?
+- Am I making time for what's really important?
+
+You can find a good tempalte for a time audit [here](https://spscc.edu/sites/default/files/imce/students/LSS/Handout_Time%20Audit.pdf).
+
+Here's is what you can do with the information that you get from your completed time audit:
+- Compare your perception of time versus reality
+- Analyze the priority of task categories
+- Identify time drains
+- Improve your ability to estimate how long certain tasks actually take
+- Identify the non-negotiatbles in your life, and prioritize them
+- Make small, manageable changes over time
+
+---
 
 ### Eisenhower Matrix for Prioritization
 
@@ -130,15 +143,34 @@ In this section we will explore some tools and techniques that you can use to im
 
 </aside>
 
+---
 
-### Planning Your Time (Termly)
+### Time Blocking
 
 <aside>
 
 
-📖 Read the following article on **[creating a commitment inventory](https://todoist.com/productivity-methods/commitment-inventory)**.
+📺 Watch the following video on time blocking.
 
 </aside>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/YlkCB3ruVQE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+---
+
+### The Art of Calendaring
+
+<aside>
+
+📺 Watch the following video on the art of calendaring
+
+</aside>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/AhXogyf_-BU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+---
+
+### Planning Your Time (Termly)
 
 <aside>
 
@@ -149,6 +181,7 @@ In this section we will explore some tools and techniques that you can use to im
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/tjjOv7vLxlI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <aside>
+Summary of the process described in the video:
   
 **Step 1:** Create a table with 7 columns, one column for each day of the week, and with one rows for each week of the semester. Label the days, Monday, Tuesday, and all the way along, across the top of the table. Then label the weeks, across the side of the table. At this point you can also add specific dates for each week of the semester. You can download a ready-made semester schedule by clicking in the description of this video.
 
@@ -158,13 +191,16 @@ In this section we will explore some tools and techniques that you can use to im
 
 **Step 4:** Now, add important life events to your semester schedule – this might include work events, family events, trips and special occasions.
 
+[Source](https://pressbooks.bccampus.ca/studystrategizesucceed/chapter/see-your-semester-at-a-glance/)
+
 </aside>
 
-[Source](https://pressbooks.bccampus.ca/studystrategizesucceed/chapter/see-your-semester-at-a-glance/)
 
 
 ### Planning Your Time (Weekly)
 
+<aside>
+  
 The following principles will guide you as you create your weekly schedule:
 
 > 1. **Record your regular weekly commitments on the schedule template**. This includes any face to face or blended class times.
@@ -178,9 +214,9 @@ The following principles will guide you as you create your weekly schedule:
 > 9. **Label some empty blocks of time as OPEN** for academic or personal needs.
 > 10. **Schedule some time during Friday, Saturday, and Sunday** for you to play, relax, or do whatever you want to do. This is your reward for sticking to your schedule. In addition, you’ll enjoy your free time more. Because it is scheduled you do not need to feel guilty.
 
-  
 [Source](https://pressbooks.bccampus.ca/studystrategizesucceed/chapter/create-a-weekly-schedule-that-works/)
 
+</aside>
 
 ### Planning Your Time (Daily)
 
@@ -192,6 +228,8 @@ The following principles will guide you as you create your weekly schedule:
 </aside>
   
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/a54mf_Odli4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+---
 
 ### Not To Do List
 
@@ -222,6 +260,8 @@ At the end of each day’s work, take a few minutes to plan the following day.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/SappngY0ZQ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+---
+
 ### Weekly Review
 
 <aside>
@@ -239,3 +279,24 @@ At the end of each day’s work, take a few minutes to plan the following day.
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/ZkyctYnujLs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ---
+
+## Some Final Tips and Insights About Effective Time Management
+
+<aside>
+
+📺 Watch the following video on some final tips for managing your time as a student.
+
+</aside>
+  
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/JJBm-CmeVbQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+<aside>
+
+📺 Watch the following video on reminder of the importance of taking care of your wellness, when managing your time
+
+</aside>
+  
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/ldowXDgXM0c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+---
+

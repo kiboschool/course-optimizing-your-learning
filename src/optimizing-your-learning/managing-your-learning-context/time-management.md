@@ -127,7 +127,7 @@ Here is what you can do with the information that you get from your completed ti
 - Analyze the priority of task categories
 - Identify time drains
 - Improve your ability to estimate how long certain tasks actually take
-- Identify the non-negotiatbles in your life, and prioritize them
+- Identify the non-negotiables in your life, and prioritize them
 - Make small, manageable changes over time
 
 ---

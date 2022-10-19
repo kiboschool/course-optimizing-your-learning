@@ -64,7 +64,7 @@ Let's dive a little deeper into the last mistake mentioned in the video, multi-t
 
 <aside>
 
-📖 Read the following article to learn **[why students procrastination and how to overcome it](https://pressbooks.bccampus.ca/studystrategizesucceed/chapter/escape-the-procrastination-trap/)**
+📖 Read the following article to learn **[why students procrastination and how to overcome it](https://pressbooks.bccampus.ca/studystrategizesucceed/chapter/escape-the-procrastination-trap/)**.
 
 </aside>
 

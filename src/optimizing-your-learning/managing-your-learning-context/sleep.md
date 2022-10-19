@@ -39,7 +39,7 @@ In this section we will discuss why sleep is so important for learning and livin
 
 <aside>
 
-📖 *Optional:** Read the following article on the **[impact of sleep on long-term memory](https://link.springer.com/article/10.1007/s00426-011-0335-6)**.
+📖 **Optional:** Read the following article on the **[impact of sleep on long-term memory](https://link.springer.com/article/10.1007/s00426-011-0335-6)**.
 
 </aside>
 

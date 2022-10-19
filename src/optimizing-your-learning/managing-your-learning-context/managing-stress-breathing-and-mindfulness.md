@@ -56,6 +56,8 @@ There are a number of things that you can do to counteract the impact that stres
 
 </aside>
 
+You can find some additional resources to help you relax and manage stress on **[the Harvard Stress & Development Lab's website](https://sdlab.fas.harvard.edu/relaxing).**
+
 <aside>
 
 🛠 You can use the 5-4-3-2-1 Method for managing acute stress, watch this video to practice the method.

@@ -56,7 +56,6 @@ There are a number of things that you can do to counteract the impact that stres
 
 </aside>
 
-You can find some additional resources to help you relax and manage stress on **[the Harvard Stress & Development Lab's website](https://sdlab.fas.harvard.edu/relaxing).**
 
 <aside>
 
@@ -66,6 +65,11 @@ You can find some additional resources to help you relax and manage stress on **
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/30VMIEmA114" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+<aside>
+  
+🌐 You can find some additional resources to help you relax and manage stress on **[the Harvard Stress & Development Lab's website](https://sdlab.fas.harvard.edu/relaxing).**
+  
+</aside>
 
 <aside>
   

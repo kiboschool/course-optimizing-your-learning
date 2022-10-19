@@ -191,6 +191,7 @@ Here is what you can do with the information that you get from your completed ti
 
 </aside>
 
+--
 
 ### Planning Your Time (Weekly)
 
@@ -199,6 +200,8 @@ Here is what you can do with the information that you get from your completed ti
 📖 Read the following chapter on how to create a [weekly schedule](https://pressbooks.bccampus.ca/studystrategizesucceed/chapter/create-a-weekly-schedule-that-works/)
 
 </aside>
+
+--
 
 ### Planning Your Time (Daily)
 
@@ -228,10 +231,11 @@ At the end of each day’s work, take a few minutes to plan the following day.
 - Check off tasks as you complete them.  This will increase your sense of accomplishment and create forward momentum.  When you have finished the day’s tasks, celebrate with a well-earned reward.  
 - Move any tasks yet to be completed to tomorrow’s task list.
 
-</aside>
-
 [Source](https://pressbooks.bccampus.ca/studystrategizesucceed/chapter/organize-your-day-for-maximum-productivity/)
 
+</aside>
+
+---
 
 <aside>
   

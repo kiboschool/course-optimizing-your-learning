@@ -198,9 +198,9 @@ Here is what you can do with the information that you get from your completed ti
 ### Planning Your Time
 
 Read the following chapters on how to create a:
-1) [termly schedule](https://pressbooks.bccampus.ca/studystrategizesucceed/chapter/see-your-semester-at-a-glance/)
+1) [Termly schedule](https://pressbooks.bccampus.ca/studystrategizesucceed/chapter/see-your-semester-at-a-glance/)
 
-2) [weekly schedule](https://pressbooks.bccampus.ca/studystrategizesucceed/chapter/create-a-weekly-schedule-that-works/)
+2) [Weekly schedule](https://pressbooks.bccampus.ca/studystrategizesucceed/chapter/create-a-weekly-schedule-that-works/)
 
 ---
 

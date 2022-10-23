@@ -126,7 +126,7 @@ As a computer science student and budding tech professional, the tech ecosystem 
 
 - **To provide clarity as you make career choices**
     
-    As you learn, the purpose of your study and other forms of practice is for you to become an expert in the field who uses his/her skills to solve problems within existing organizations or to create new organizations as an entrepreneur. Experienced industry mentos and coaches can help you understand what professional path you are better suited for
+    As you learn, the purpose of your study and other forms of practice is for you to become an expert in the field who uses his/her skills to solve problems. Experienced industry mentors can help you understand what professional path the skills you are developing are best suited for. 
     
 - **To provide you with practical insights from the field**
     

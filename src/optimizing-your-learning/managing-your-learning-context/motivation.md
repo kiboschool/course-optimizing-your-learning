@@ -4,7 +4,7 @@
 
 ---
 
-In last week’s lesson, we focused on understanding the impact that your mind (e.g. emotions and mindsets) can have on your learning. This week, we will discuss how the state of your body impacts your mind and your ability to learn effectively. And then we will expand our attention to consider other factors that influence your learning context (e.g. how you manage your time, the state of your physical environment, and the people around you).
+In last week’s lesson, we focused on understanding the impact that your mind (i.e. emotions and mindsets) can have on your learning. This week, we will discuss how the state of your body impacts your mind and your ability to learn effectively. And then we will expand our attention to consider other factors that influence your learning context (e.g. how you manage your time, the state of your physical environment, and the people around you).
 
 
 ## Morning Routine: Jump Start Your Brain

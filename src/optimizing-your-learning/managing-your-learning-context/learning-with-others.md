@@ -107,12 +107,11 @@ In addition to the above, your instructors are on hand to provide you with suppo
 
 ---
 
-## Learning From Mentors, Coaches, and Industry Professionals
+## Learning From Mentors
 
-In today’s hyper-connected world, you do not need to wait until you get into the workplace or get a boss for you to enjoy professional support from an industry coach or mentor. In addition to your instructors, who act as a source of guidance and support, industry experts, mentors, and coaches play an important role in your learning, professional development, and readiness for the workplace. 
+In today’s hyper-connected world, you do not need to wait until you get into the workplace or get a boss for you to enjoy professional support from a mentor. In addition to your instructors, who act as a source of guidance and support, industry mentors play an important role in your learning, professional development, and readiness for the workplace. 
 
 <aside>
-
 
 📺 To get us started, let us explore the difference between a coach and a mentor by watching the video below.
 
@@ -120,7 +119,7 @@ In today’s hyper-connected world, you do not need to wait until you get into t
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/834wuCd7r2w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-As a computer science student and budding tech professional, the tech ecosystem is full of many potential mentors and coaches who not only can help you accelerate your practical learning but can help you grow your career. These experts can provide you with much needed feedback on your abilities and goals, as well as sharing lessons that they have learned from their professional experiences. Here are more reasons why you should have a mentor in the tech industry:
+As a computer science student and future tech professional, the tech ecosystem is full of many potential mentors who can not only help you accelerate your practical learning, but can help you grow your career. These experts can provide you with much needed feedback on your abilities and goals, as well as sharing lessons that they have learned from their professional experiences. Here are more reasons why you should have a mentor in the tech industry:
 
 ### The Importance of Having a Mentor
 

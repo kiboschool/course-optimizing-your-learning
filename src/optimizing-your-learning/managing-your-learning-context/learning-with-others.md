@@ -120,7 +120,7 @@ In today’s hyper-connected world, you do not need to wait until you get into t
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/834wuCd7r2w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-As a computer science student and budding tech professional, the tech ecosystem is full of many potential mentors and coaches who not only can help you accelerate your practical learning but can help you grow your career. in discussing people learning, we talked about the importance of feedback. These experts can provide you with much-needed feedback to grow and improve from the wider experience they have. Here are more reasons that you should have a coach or mentor in the tech Industry:
+As a computer science student and budding tech professional, the tech ecosystem is full of many potential mentors and coaches who not only can help you accelerate your practical learning but can help you grow your career. These experts can provide you with much needed feedback on your abilities and goals, as well as sharing lessons that they have learned from their professional experiences. Here are more reasons why you should have a mentor in the tech industry:
 
 ### The Importance of Having a Mentor
 

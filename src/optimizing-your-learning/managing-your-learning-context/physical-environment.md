@@ -23,10 +23,10 @@ The good news is that we are not concerned with school structures today (you hap
 
 However, according to this article by UCAS, here are a number of factors to consider when choosing a place of study:
 
-- **Comfort:** Your comfort level in the space you choose to study will determine how well and how long you are able to study. Inconvenient study surroundings can lead to discomfort and distraction. If your study furniture is damaged or uncomfortable, it can stress your body, making you to lose focus. You should therefor ensure that regardless of where you choose to study, you feel comfortable for studying.
-- **Lighting:** Lighting has been shown to affect one’s ability to concentrate and to study effectively. Too bright or too dark lighting can affect the eyes and impact your ability to study effectively.
-- **Colour:** Colour has long been known to impact mood. Certain colours can inspire energy while others colours can demotivate you and make you lose energy,
-- **Noise:** Clearly, noise is a form of distraction and can hinder you from concentrating on what you are studying. Some people, though might prefer some type of sound or music when they are studying. Too much noise however can cause a strain and be quite a distraction when studying.
+- **Comfort:** Your comfort level in the space you choose to study will determine how well and how long you are able to study. Inconvenient study surroundings can lead to discomfort and distraction. If your study furniture is damaged or uncomfortable, it can stress your body, making you to lose focus. You should therefor ensure that regardless of where you choose to study, you feel comfortable when studying.
+- **Lighting:** Lighting has been shown to affect one’s ability to concentrate and to study effectively. Too bright or too dark lighting can affect how well your eyes can focus, as well as how quickly they become tired.
+- **Colour:** Colour has long been known to impact mood. Certain colours can inspire energy while others can demotivate you and make you lose energy,
+- **Noise:** Clearly, noise is a form of distraction and can hinder you from concentrating on what you are studying. However, some people might prefer some type of sound or music when they are studying. But it is important to remember that too much noise can cause a strain and be quite a distraction when studying.
 - **Clutter:** If your space is disorganized, it can affect the quality of your study and learning. A disorganized space makes it hard for you to find things easily and can also cause stress and anxiety which negatively impact your learning.
 
 <aside>
@@ -40,19 +40,19 @@ However, according to this article by UCAS, here are a number of factors to cons
 
 Here’s a recap of useful tips from the video:
 
-- **Carve out/define exclusive study space:** You should have a study/learning space that is dedicated for that purpose so that whenever you go to that space, you are more likely to observe and perform your learning tasks
+- **Carve out an exclusive study space:** You should have a study/learning space that is dedicated for that purpose so that whenever you go to that space, you are more likely to observe and perform your learning tasks
 - **Pay attention to lighting that works well:** We spoke about lighting earlier- it is important to ensure that the lighting is proper and allows you to focus on your study
 - **Have all the study materials in the same space:** Not having all the materials you need for your learning and study session results in you having to leave the study space and will be distracting for you
 - **Ensure your space is comfortable**
-- **Have notes for writing:** Your writing notes are not only important to help you keep track and memorize what you are learning. They are equally important to help you ‘park’ away distractions. When a distraction or task comes to mind, you can capture it in writing so that you can remember to deal with it later and instead focus on studying and learning.
+- **Have a notebbok for recording notes and distractions:** Your notes are not only important to help you keep track of what you are learning. They are equally important to help you ‘park’ away distractions. When a distraction comes to mind, you can capture it in writing so that you can remember to deal with it later.
 - **Determine what can derail you:** You should also know what items and things might distract or derail you and then, keep them away from your learning and study space.
 - **Switch locations when you can:** Finally, you can change locations from time to time as needed or even re-design your study space. We tend to be energized and motivated by new spaces.
 
 Additional tips for staying focused when studying online:
 
 - Put your phone away or on airplane mode.
-- Avoid opening many tabs and shut down tabs that are not relevant to your immediate learning or study process.
+- Avoid opening many tabs and shut down tabs that are not relevant to your immediate learning or study process. This is a form of "digital clutter" reduction.
 - Use apps that help you concentrate or stay on track with your learning.
-- If you do not need the internet while studying, you can make your study resources available online when possible and only connect to the internet when you need to.
+- If you do not need the internet while studying, you can make your study resources available offline, and only connect to the internet when you need to.
 
 ---

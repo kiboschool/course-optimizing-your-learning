@@ -258,10 +258,10 @@ At the end of each day’s work, take a few minutes to plan the following day.
 
 ---
 
-<aside>
-  
 ### The Not To Do List
 
+<aside>
+  
 📺 Watch the following video on how to use a Not To Do List to help manage your time
 
 </aside>

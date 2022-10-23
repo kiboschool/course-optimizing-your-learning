@@ -111,7 +111,6 @@ Now that we've learned more about time management, and some common challenges. L
 - Time Blocking
 - Calendaring
 - Planning Your Time
-- The To Do List
 - The Not To Do List
 
 ---
@@ -201,27 +200,6 @@ Read the following chapters on how to create a:
 1) [Termly schedule](https://pressbooks.bccampus.ca/studystrategizesucceed/chapter/see-your-semester-at-a-glance/)
 
 2) [Weekly schedule](https://pressbooks.bccampus.ca/studystrategizesucceed/chapter/create-a-weekly-schedule-that-works/)
-
----
-
-### The To Do List
-
-<aside>
-  
-**Creating a Daily To Do List**
-  
-At the end of each day’s work, take a few minutes to plan the following day.
-- Write down each task you hope to accomplish. 
-- Indicate which tasks are the highest priority.
-- Break large tasks into smaller units.  
-- Consider what you will accomplish in one work period (usually about one hour before taking a break). 
-- Create tasks that are well-defined; you should know when the task is finished.  For example, “work on research paper” does not have a clear goal.  By changing this to “find three academic articles for research paper”, or “create research paper outline”, you will be able to clearly see what you need to accomplish.  You will also be able to reward yourself for successful completion.
-- Check off tasks as you complete them.  This will increase your sense of accomplishment and create forward momentum.  When you have finished the day’s tasks, celebrate with a well-earned reward.  
-- Move any tasks yet to be completed to tomorrow’s task list.
-
-[Source](https://pressbooks.bccampus.ca/studystrategizesucceed/chapter/organize-your-day-for-maximum-productivity/)
-
-</aside>
 
 ---
 

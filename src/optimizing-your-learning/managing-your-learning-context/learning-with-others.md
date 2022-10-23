@@ -130,31 +130,31 @@ As a computer science student and budding tech professional, the tech ecosystem 
     
 - **To provide you with practical insights from the field**
     
-    As you go through your learning as a student and work on projects, it is important to ensure that your work as a developer is subject to testing and feedback from the actual final end users of what you are working on, Mentors and Coaches can provide insider insights on your products as well as how to navigate the industry
+    As you go through your learning as a student and work on projects, it is important to ensure that the skills you are developing are relevant for the current job market. Mentors can provide insider insights on how to navigate the industry.
     
 - **To help you grow your professional network**
     
-    It is sort of  common saying that ‘your network equals your net worth’. Needless to say, your career progress depends largely on your network. Whether you choose to become an entrepreneur or an intrapreneur within an organization, your network will be critical to your impact and success. This is where your mentors in the industry help by lending you the credibility and introducing you to other people who are critical for your career.
+    There is a common saying that ‘your network equals your net worth’. Needless to say, your career progress depends largely on your network. Whether you choose to become an entrepreneur or an intrapreneur within an organization, your network will be critical to your impact and success. This is where your mentors in the industry help by lending you the credibility and introducing you to other people who are critical for your career.
     
 - **To challenge you towards growth and improvement**
     
-    Some of the most successful people who know today attribute their success to having a coach or a mentor that helped them see what they could not see in themselves and helped them to discover and express their greatness. If you read through the stories of founders of Apple, Google and other companies, they talk about the importance of these mentors.
+    Some of the most successful people today attribute their success to having a mentor that helped them see what they could not see in themselves and discover and express their greatness. If you read through the stories of founders of Apple, Google and other companies, they talk about the importance of these mentors.
     
 - **To develop lifelong skills and skills for the workplace**
     
-    Your mentors will bring a professional perspective in their interactions with you. These will help you appreciate the skills that it takes to thrive and to work towards acquiring the same.
+    Your mentors will bring a professional perspective in their interactions with you. These will help you appreciate the non-technical skills that it takes to thrive and to work towards acquiring the same.
     
 
-In general, having a mentor does not only help you learn about the subject matter and form an essential part of your learning ecosystem, but they also have a longer-term impact on your career. Studies have shown that [having a mentor increases your chances of earning more and getting promoted](https://mccarthymentoring.com/why-mentoring-what-the-stats-say/). 
+In general, mentora do not only help you learn about the subject matter, they also have a longer-term impact on your career. Studies have shown that [having a mentor increases your chances of earning more and getting promoted](https://mccarthymentoring.com/why-mentoring-what-the-stats-say/). 
 
-As part of your experience at Kibo, you have been matched with a mentor, so your next goal is to make sure you get the most out of the relationship. Here are a few things to help you make the best of the relationship. Note that asking for someone to help you in your learning journey is a meaningful ask and therefore, you should be ready to make the best of the relationship and make the mentor’s engagement with you worthwhile. Here are some tips for getting the most out of a mentorship relationship:
-- You should show a willingness to learn and willingness to put into practice the ideas shared with you by the mentor
-- Be preapred for each meeting with yoru mentor
+As part of your experience at Kibo, you have been matched with a mentor. Note that asking for someone to help you in your learning journey is a meaningful ask and therefore, you should be ready to make the best of the relationship and make the mentor’s engagement with you worthwhile. Here are some tips for getting the most out of a mentorship relationship:
+- You should show a willingness to learn and a willingness to put into practice the ideas shared with you by the mentor.
+- Be prepared for each meeting with your mentor.
 - Be clear about your expectations in the mentorship relationship and make them known to the mentor.
-- But also be sure to keep your expectations reasonable. Remember that your mentors are workign professionals, who are managing a number of other personal and professional commmitments.
+- But also be sure to keep your expectations reasonable. Remember that your mentors are working professionals, who are managing a number of other personal and professional commmitments.
 - Schedule your regular meeting time with your mentor in advance (i.e. get on their calendar)
 - Listen actively to your mentor, be curious, and ask questions.
 - Engage respectfully and show gratitude to your mentor.
-- Help your mentor help you. Try to clearly articulate the ways that your mentor can support you.- 
+- Help your mentor help you. Try to clearly articulate the ways that your mentor can support you.
 
 ---

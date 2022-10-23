@@ -113,7 +113,6 @@ Now that we've learned more about time management, and some common challenges. L
 - Planning Your Time (Termly, Weekly, Daily)
 - The To Do List
 - The Not To Do List
-- Weekly Review
 
 ---
 
@@ -209,16 +208,6 @@ Here is what you can do with the information that you get from your completed ti
 <aside>
   
 📖 Read the following chapter on how to create a [termly schedule](https://pressbooks.bccampus.ca/studystrategizesucceed/chapter/see-your-semester-at-a-glance/)
-
-</aside>
-
---
-
-### Planning Your Time (Weekly)
-
-<aside>
-  
-📖 Read the following chapter on how to create a [weekly schedule](https://pressbooks.bccampus.ca/studystrategizesucceed/chapter/create-a-weekly-schedule-that-works/)
 
 </aside>
 

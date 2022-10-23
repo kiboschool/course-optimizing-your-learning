@@ -175,11 +175,22 @@ As mentioned in one of the videos, you can practice meditation by yourself with 
 <aside>
 
 
-📺 Watch the following video to learn how mindfulness and meditation change you.
+📺 Watch the following video to learn how mindfulness changes you.
 
 </aside>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/jCJdl6Vs7wg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+<aside>
+
+
+📺 Watch the following video to learn what meditation does to the brain
+
+</aside>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/rZN6DcV5chA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+
 
 ### Practicing Mindful Meditation
 

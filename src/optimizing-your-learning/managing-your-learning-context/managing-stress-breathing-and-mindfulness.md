@@ -94,7 +94,7 @@ The keys to managing stress that are explained in the above workbook include:
 
 ## Breathing
 
-As mentioned in the previous section, there are a number of ways to manage stress so that it doesn't negatively impact your mind and body. In the rest of this section we will discuss two of the methods, breathing and mindfulness, and then we will learn about some of the other methods in the next few sections of this lesson, e.g. Section 3.3 Food and Movement and Section 3.4 Sleep.
+As mentioned in the previous section, there are a number of ways to manage stress so that it doesn't negatively impact your mind and body. In the rest of this section we will discuss two of the methods, breathing and mindfulness, and then we will learn about some of the other methods in the next few sections of this lesson, i.e. Section 3.3 Food and Movement and Section 3.4 Sleep.
 
 <aside>
 

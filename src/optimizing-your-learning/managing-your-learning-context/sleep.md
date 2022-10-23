@@ -67,7 +67,7 @@ In this section we will discuss why sleep is so important for learning and livin
 
 <aside>
 
-💬 It is final assessment week at Kibo, and your chatting with your classmate Wambui about how you are both planning on getting through the week so that you can perform at your best on your final exmams and projects. Wambui tells you that she is behind on her Front End Web Development project, so she is planning on pulling back-to-back all nighters (not sleeping for two nights in a row) so that she can finnish her project, before sitting for her Data Structures final exam. Based on what you have learned so far in this course, what advice would you give her so that she can maximize her chance of success?
+💬 It is final assessment week at Kibo, and your chatting with your classmate Wambui about how you are both planning on getting through the week so that you can perform at your best on your final exams and projects. Wambui tells you that she is behind on her Front End Web Development project, so she is planning on pulling back-to-back all nighters (not sleeping for two nights in a row) so that she can finnish her project, before sitting for her Data Structures final exam. Based on what you have learned so far in this course, what advice would you give her so that she can maximize her chance of success?
 
 </aside>
 

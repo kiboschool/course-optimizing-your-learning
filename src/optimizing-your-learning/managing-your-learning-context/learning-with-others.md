@@ -36,17 +36,17 @@ Let us start off with an understanding of what Peer Learning is or what is somet
 
 Peer Learning is important because among other things when you learn with your peers:
 
-- You engage in active learning
-- You reinforce your understanding of the subject matter
-- The learning is more personalized, especially in one-on-one scenarios
-- You are able to build skills for working with and collaborating with others
-- You are better able to understand the topic as you and your colleagues can explain things in a common language
+- You engage in active learning.
+- You reinforce your understanding of the subject matter.
+- The learning is more personalized, especially in one-on-one scenarios.
+- You are able to build skills for working with and collaborating with others.
+- You are better able to understand the topic as you and your classmates can explain things in a common language.
 
 ---
 
 ## Peer Teaching
 
-While Peer Learning shows us learning that can happen with colleagues during exchanges in which all learners can learn from each other at any point in time, peer teaching is another strategy that should not be confused with peer learning. Peer teaching places emphasis on the teaching role. We will also explore why Peer Teaching can be so powerful to help your learning. 
+While peer learning shows us the learning that can happen between students without the involvement of a teacher, another similar strategy, peer teaching places emphasis on the teaching role of peers.
 
 <aside>
 

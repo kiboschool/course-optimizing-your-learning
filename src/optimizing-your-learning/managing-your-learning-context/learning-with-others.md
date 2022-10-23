@@ -62,9 +62,9 @@ While peer learning shows us the learning that can happen between students witho
 
 You might be used to a teacher or instructor as the one who assigns peer work or peer groups but as self-directed learners, peer learning and teaching are useful learning strategies that you can initiate among yourselves for your own benefit. Here are some of the scenarios in which you can implement peer teaching and learning to improve your learning experience:
 
-- **Collaborative Projects:** With this, you and other colleagues are either assigned a project to complete by your Faculty member or you identify a project or task and work towards solving it as a group. This involves each member of the group contributing something to the overall success and progress of the task. 
+- **Collaborative Projects:** With this, you and other classmates are either assigned a project to complete by your instructor, or you identify a project or task and work towards solving it as a group. This involves each member of the group contributing something to the overall success and progress of the task. 
     
-- **Peer Feedback and Assessments:** Feedback is important for self-awareness and self-improvement, however, we cannot truly give ourselves all the feedback we need to improve. It is for that reason that receiving peer feedback helps to reveal our blind spots and allows us to pursue more holistic growth. In peer assessment specifically, this involves ‘grading’ each others’ work. In many cases, there is a rubric to ensure that the process is objective. With peer grading, you can learn a lot from each other’s approaches to completing a task.
+- **Peer Feedback and Assessments:** Feedback is important for self-awareness and self-improvement. However, we cannot truly give ourselves all the feedback we need to improve. It is for that reason that receiving peer feedback helps to reveal our blind spots and allows us to pursue more holistic growth. In peer assessment specifically, this involves ‘grading’ each others’ work. In many cases, there is a rubric to ensure that the process is objective. With peer grading, you can learn a lot from each other’s approaches to completing a task.
     
 - **Study Groups:** These are intentionally created groups of learners who engage in regular collaborative learning, many times, performing learning tasks together. Learning tasks might include study, research, discussions, and more. Study groups can last as long as they are needed and are based on the ability of everyone to commit to the group and help to make the experience rewarding for others.
     
@@ -93,13 +93,17 @@ At Kibo, instructors serve as guides on your journey through the learning experi
 
 In online classrooms, your instructor takes on the following roles:
 
+<aside>
+    
 - **Designer:** In a museum, a curator locates the best artifacts to create an effective experience for those who visit. In an online learning environment, your instructors take on the role like that of a curator as they design the course. They will guide you toward readings and other learning materials that will serve your learning goals. Based on their experience in their field, they are able to help you focus your attention on learning resources that are accurate and relevant.
 - **Facilitator:**  Your instructor carefully creates opportunities for you to learn the skills you need for your future career, and designs assignments and learning activities to lead you towards intellectual, personal, and professional growth. As you review the course presentation, consider each of the learning activities and assignments. Think about the reasons why your instructor may have selected these course components to contribute to your development.
 - **Director:** Online instructors are available to answer questions along the way. As you learn, you will inevitably find areas that are unclear to you, either related to the course content or your learning process. By communicating with your instructor effectively, you will take full advantage of their role in guiding you on your journey
 
 Adapted from: [Learning to Learn Online at Fanshawe](https://opentextbooks.uregina.ca/learningtolearnonlineatfanshawe/chapter/describe-the-role-of-an-online-instructor/#footnote-67-1)
 
-In addition to the above, your Faculty and teachers are on hand to provide you with support as you navigate the world of online, self-directed learning. 
+</aside>
+
+In addition to the above, your instructors are on hand to provide you with support as you navigate the world of online, self-directed learning. 
 
 ---
 

@@ -144,7 +144,7 @@ You can watch the videos below and practice each technique to see if it helps yo
 
 ## Mindfulness and Meditation
 
-Finally, mindfulness and mindful meditation are two of the most powerful tools that you can use to manage stress. 
+Finally, mindfulness and meditation are two of the most powerful tools that you can use to manage stress. 
 
 <aside>
   

@@ -60,7 +60,7 @@ While peer learning shows us the learning that can happen between students witho
 
 ## Putting Peer Learning and Teaching to Work
 
-You might be used to a teacher or instructor as the one who assigns peer work or peer groups but as self-directed learners, peer learning is a useful learning strategy that you can initiate among yourselves for your own benefit. Here are some of the scenarios in which you can implement peer teaching and learning to improve your learning experience:
+You might be used to a teacher or instructor as the one who assigns peer work or peer groups but as self-directed learners, peer learning and teaching are useful learning strategies that you can initiate among yourselves for your own benefit. Here are some of the scenarios in which you can implement peer teaching and learning to improve your learning experience:
 
 - **Collaborative Projects:** With this, you and other colleagues are either assigned a project to complete by your Faculty member or you identify a project or task and work towards solving it as a group. This involves each member of the group contributing something to the overall success and progress of the task. 
     

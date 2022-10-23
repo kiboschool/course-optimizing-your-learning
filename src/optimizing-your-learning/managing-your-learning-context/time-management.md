@@ -110,7 +110,7 @@ Now that we've learned more about time management, and some common challenges. L
 - The Eisenhower Matrix
 - Time Blocking
 - Calendaring
-- Planning Your Time (Termly, Weekly, Daily)
+- Planning Your Time
 - The To Do List
 - The Not To Do List
 
@@ -195,34 +195,12 @@ Here is what you can do with the information that you get from your completed ti
 
 ---
 
-### Planning Your Time (Termly)
+### Planning Your Time
 
-<aside>
+Read the following chapters on how to create a:
+1) [termly schedule](https://pressbooks.bccampus.ca/studystrategizesucceed/chapter/see-your-semester-at-a-glance/)
 
-📺 Watch the following video on how to create a term schedule.
-
-</aside>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/tjjOv7vLxlI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-<aside>
-  
-📖 Read the following chapter on how to create a [termly schedule](https://pressbooks.bccampus.ca/studystrategizesucceed/chapter/see-your-semester-at-a-glance/)
-
-</aside>
-
---
-
-### Planning Your Time (Daily)
-
-<aside>
-
-
-📺 Watch the following video on how to plan your day effectively
-
-</aside>
-  
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/a54mf_Odli4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+2) [weekly schedule](https://pressbooks.bccampus.ca/studystrategizesucceed/chapter/create-a-weekly-schedule-that-works/)
 
 ---
 
@@ -256,16 +234,6 @@ At the end of each day’s work, take a few minutes to plan the following day.
 </aside>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/SappngY0ZQ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
----
-
-### Weekly Review
-
-<aside>
-
-📖 Read the following article on using a [**weekly review**](https://todoist.com/productivity-methods/weekly-review) to improve your productivity.
-
-</aside>
 
 ---
 

@@ -19,7 +19,7 @@ Options:
 - **Meditation:** Meditate for at least 5 minutes per day. You can use one of the meditation techniques from the [stress management workbook](https://www.purdue.edu/stepstoleaps/learning-modules/well-being/_docs/Manage-Stress-Workbook.pdf).
 - **Movement:** Carry out at least 30 minutes of moderate exercise per day.
 - **Sleep:** Practice at least 6 items on the sleep hygiene checklist, and attempt to sleep at least 7 hours per night.
-- **Time Management:** Try out one of the techniques in the "Improving Your Time Management" section (e.g. Time Auditing, The Eisenhower Matrix, Time Blocking, Calendaring, Planning Your Time, The To Do List, The Not To Do List, Weekly Review).
+- **Time Management:** Try out one of the techniques in the "Improving Your Time Management" section (e.g. Time Auditing, The Eisenhower Matrix, Time Blocking, Calendaring, Planning Your Time, The Not To Do List).
 
 
 ## Guidance

@@ -109,7 +109,7 @@ In addition to the above, your instructors are on hand to provide you with suppo
 
 ## Learning From Mentors, Coaches, and Industry Professionals
 
-In today’s hyper-connected world, you do not need to wait until you get into the workplace or get a boss for you to enjoy professional support from an industry coach or mentor. In addition to your Faculty as a source of support and inspiration, industry experts and coaches play an important role in your learning, professional development, and readiness for the workplace. 
+In today’s hyper-connected world, you do not need to wait until you get into the workplace or get a boss for you to enjoy professional support from an industry coach or mentor. In addition to your instructors, who act as a source of guidance and support, industry experts and coaches play an important role in your learning, professional development, and readiness for the workplace. 
 
 <aside>
 

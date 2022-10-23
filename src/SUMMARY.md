@@ -35,8 +35,6 @@
 	- [Final Presentation Milestone 1](optimizing-your-learning/understanding-your-mindsets-and-emotions/final-presentation-milestone-1.md)
 	
 
-<!--
-
 ### Week 3
 
 - [Week 3: Managing Your Learning Context](optimizing-your-learning/managing-your-learning-context.md)
@@ -50,13 +48,13 @@
 	- [Assignment 3 - Learning Context Experiment](optimizing-your-learning/managing-your-learning-context/assignment-3-energy-and-time-management-experiment.md)
 	- [Final Presentation Milestone 2](optimizing-your-learning/managing-your-learning-context/final-presentation-milestone-2.md)
 
- 
+<!-- 
 ### Week 4
 - [Week 4: Building Your Learning Toolkit](optimizing-your-learning/building-your-learning-toolkit.md)
 	- [Motivation](optimizing-your-learning/building-your-learning-toolkit/motivation.md)
-	- [Habits](optimizing-your-learning/building-your-learning-toolkit/habits.md)
-	- [Memory](optimizing-your-learning/building-your-learning-toolkit/memory.md)
 	- [Focus and Attention](optimizing-your-learning/building-your-learning-toolkit/focus-and-attention.md)
+	- [Memory](optimizing-your-learning/building-your-learning-toolkit/memory.md)
+	- [Habits](optimizing-your-learning/building-your-learning-toolkit/habits.md)
 	- [Flow State](optimizing-your-learning/building-your-learning-toolkit/flow-state.md)
 	- [Learning Strategies: Before Learning](optimizing-your-learning/building-your-learning-toolkit/learning-strategies-before-learning.md)
 	- [Learning Strategies: While Learning](optimizing-your-learning/building-your-learning-toolkit/learning-strategies-while-learning.md)
@@ -69,10 +67,4 @@
 
 - [Final Assessments](optimizing-your-learning/final-assessments.md)
 
-<!-- 
-[Wrap Up](optimizing-your-learning/how-to-get-anything-you-want-in-life/wrap-up.md) 
-[Wrap Up](optimizing-your-learning/understanding-your-mindsets-and-emotions/wrap-up.md)
-[Wrap Up](optimizing-your-learning/managing-your-learning-context/wrap-up.md)
-[Wrap Up](optimizing-your-learning/building-your-learning-toolkit/wrap-up.md)
 -->
-

@@ -40,7 +40,7 @@ By the end of this course, you will be able to:
 
 [Week 2: Understanding Your Mindsets and Emotions](/optimizing-your-learning/understanding-your-mindsets-and-emotions.md)
 
-[Week 3: Managing Your Learning Context] <!-- (/optimizing-your-learning/managing-your-learning-context.md) -->
+[Week 3: Managing Your Learning Context](/optimizing-your-learning/managing-your-learning-context.md)
 
 [Week 4: Building Your Learning Toolkit] <!-- (/optimizing-your-learning/building-your-learning-toolkit.md) -->
 

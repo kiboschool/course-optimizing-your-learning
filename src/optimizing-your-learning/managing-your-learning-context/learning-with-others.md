@@ -11,9 +11,9 @@
 
 </aside>
 
-Learning does not happen in a vacuum, nor is it a solo endeavor. In regular in-person classrooms, we are used to attending classes with fellow students. This happens to be the same in online classrooms as well. However, being in the same classroom with others does not mean one is learning effectively ‘with’ others. So, how do you ensure you have the right people in your learning space and maximize the presence and contribution of colleagues to your learning journey? 
+Learning does not happen in a vacuum, nor is it a solo endeavor. In regular in-person classrooms, we are used to attending classes with fellow students. This happens to be the same in online classrooms as well. However, being in the same classroom with others does not mean one is learning effectively ‘with’ others. So, how do you ensure you have the right people in your learning space and maximize the presence and contribution of classmates to your learning journey? 
 
-In this lesson, we will explore how you can effecively learn with other members of the Kibo community, specifially:
+In this lesson, we will explore how you can effectively learn with other members of the Kibo community, specifically:
 
 - Your Peers
 - Your Instructors
@@ -32,7 +32,7 @@ Let us start off with an understanding of what Peer Learning is or what is somet
 
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/ZTNgxOMgO9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/tzYp4Wl0OAQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 Peer Learning is important because among other things when you learn with your peers:
 

@@ -23,7 +23,7 @@ The good news is that we are not concerned with school structures today (you hap
 
 However, according to this article by UCAS, here are a number of factors to consider when choosing a place of study:
 
-- **Comfort:** Your comfort level in the space you choose to study will determine how well and how long you are able to study. Inconvenient study surroundings can lead to discomfort and distraction. If your study furniture, for example is damaged or not ideal, it can stress your body, making you to lose focus. You should therefor ensure that regardless of where you choose to study, you feel comfortable for studying.
+- **Comfort:** Your comfort level in the space you choose to study will determine how well and how long you are able to study. Inconvenient study surroundings can lead to discomfort and distraction. If your study furniture is damaged or uncomfortable, it can stress your body, making you to lose focus. You should therefor ensure that regardless of where you choose to study, you feel comfortable for studying.
 - **Lighting:** Lighting has been shown to affect one’s ability to concentrate and to study effectively. Too bright or too dark lighting can affect the eyes and impact your ability to study effectively.
 - **Colour:** Colour has long been known to impact mood. Certain colours can inspire energy while others colours can demotivate you and make you lose energy,
 - **Noise:** Clearly, noise is a form of distraction and can hinder you from concentrating on what you are studying. Some people, though might prefer some type of sound or music when they are studying. Too much noise however can cause a strain and be quite a distraction when studying.

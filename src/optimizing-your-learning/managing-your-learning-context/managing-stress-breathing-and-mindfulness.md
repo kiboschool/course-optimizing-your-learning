@@ -40,6 +40,13 @@ There are a number of things that you can do to counteract the impact that stres
 
 </aside>
 
+The keys to managing stress that are explained in the above workbookd include:
+- Tracking your stress levels
+- Identifying your sources of stress
+- Practicing mindfulness regularly
+- Being physically active
+- Practicing deep breathing
+- Doing pleasant activities
 
 <aside>
 

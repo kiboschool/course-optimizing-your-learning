@@ -78,6 +78,9 @@ The keys to managing stress that are explained in the above workbook include:
   
 </aside>
 
+
+## Reflection: Managing Stress
+
 <aside>
   
 **Answer the questions in the padlet below.**

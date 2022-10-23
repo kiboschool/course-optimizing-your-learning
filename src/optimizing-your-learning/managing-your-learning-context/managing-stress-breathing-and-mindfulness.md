@@ -147,6 +147,13 @@ You can watch the videos below and practice each technique to see if it helps yo
 Finally, mindfulness and mindful meditation are two of the most powerful tools that you can use to manage stress. 
 
 <aside>
+  
+🗣 “**Mindfulness** is your awareness of what's going on in the present moment without any judgment. **Meditation** is the training of attention which cultivates that mindfulness.”
+- Tara Brach
+  
+</aside>
+
+<aside>
 
 
 📺 Watch the following video on the impact that mindfulness can have on your life and mind.

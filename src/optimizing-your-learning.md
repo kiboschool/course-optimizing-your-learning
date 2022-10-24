@@ -42,6 +42,6 @@ By the end of this course, you will be able to:
 
 [Week 3: Managing Your Learning Context](/optimizing-your-learning/managing-your-learning-context.md)
 
-[Week 4: Building Your Learning Toolkit] <!-- (/optimizing-your-learning/building-your-learning-toolkit.md) -->
+[Week 4: Building Your Learning Toolkit](/optimizing-your-learning/building-your-learning-toolkit.md)
 
 [Week 5: Final Assessments] <!-- (/optimizing-your-learning/final-assessments.md) -->

@@ -1,6 +1,6 @@
 # Learning strategies after learning
 
-*Estimated Time: xx hours*
+*Estimated Time: 1 hours
 
 ---
 
@@ -9,13 +9,13 @@ In sections 4.5 - 4.7 we will discuss some strategies, tools, and techniques tha
 **Evaluating (After learning)**
 
 - Self-Reflection
-- Self-Evaluating
-
----
+- Self-Evaluation
 
 So far, we have explored learning and study strategies that you can implement. In addition, there will be other strategies that you choose to adopt in driving your learning as well as building your skills as a programmer. However, how do you evaluate your progress and know if your learning strategies are effective?
 
 In order for you to be able to gauge your learning, self-reflection and self-evaluation are important practices you will engage in. While there are different methods to practice self-reflection and self-evaluation, you can also harness peer evaluation and feedback from an instructor or mentor.
+
+---
 
 ## 1) Self-Reflection
 
@@ -36,16 +36,19 @@ Some other tools for self-reflection include:
 - Learning journals
 - Recordings
 
-## 2) Self-Evaluation/Self-Assessment
+---
+
+## 2) Self-Evaluation (or Self-Assessment)
 
 <aside>
-
 
 📺 Watch this video to learn about self-assessment.
 
 </aside>
 
-[https://youtu.be/Qo_5dJ-dlIQ](https://youtu.be/Qo_5dJ-dlIQ)
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/Qo_5dJ-dlIQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 
 Some other questions to ask yourself when evaluating the quality of your learning:
 
@@ -53,8 +56,6 @@ Some other questions to ask yourself when evaluating the quality of your learnin
 - What did I do that worked well? What did I do that didn’t work well?
 - What should I do differently next time? What should I do the same?
 - What am I still confused about? Or what do I still not fully understand?
-
----
 
 ### Putting it to work
 
@@ -67,12 +68,3 @@ Here are some steps to take to implement self-reflection and self-evaluation in 
 - Consider how you might adapt and adjust your learning strategies for more effective outcomes
 
 ---
-
-<aside>
-
-
-🤷🏿‍♀️ **So What? How does this section apply to me?**
-
-*[insert text]*
-
-</aside>

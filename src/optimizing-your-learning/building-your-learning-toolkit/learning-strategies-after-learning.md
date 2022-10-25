@@ -4,7 +4,7 @@
 
 ---
 
-In sections 4.5 - 4.7 we will discuss some strategies, tools, and techniques that can help you improve your learning through all 3 stages of self-directed learning. In this section we will focus on:
+In sections 4.3 - 4.5 we will discuss some strategies, tools, and techniques that can help you improve your learning through all 3 stages of self-directed learning. In this section we will focus on:
 
 **Evaluating (After learning)**
 
@@ -19,7 +19,7 @@ In order for you to be able to gauge your learning, self-reflection and self-eva
 
 ## 1) Self-Reflection
 
-The techniques discussed in [Section 1.5 (Reflective Practice)](/optimizing-your-learning/how-to-get-anything-you-want-in-life/reflective-practice.md) are useful for reflecting on your learning.
+The techniques discussed in [Section 1.6 (Reflective Practice)](/optimizing-your-learning/how-to-get-anything-you-want-in-life/reflective-practice.md) are useful for reflecting on your learning.
 
 <aside>
 

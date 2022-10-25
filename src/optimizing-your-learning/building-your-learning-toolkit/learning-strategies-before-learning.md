@@ -11,7 +11,6 @@ In sections 4.5 - 4.7 we will discuss some strategies, tools, and techniques tha
 - Goal setting
 - Implementation intentions
 - Understanding process
-- Learning plans
 - Learning contracts
 
 ---
@@ -22,7 +21,13 @@ To get started with the learning process, you have to set learning goals for you
 
 The videos below serve as an introduction to setting learning goals and in addition recommend a number of steps for setting learning goals as a developer
 
-[https://youtu.be/EeQejpbs-Zc](https://youtu.be/EeQejpbs-Zc)
+<aside>
+
+📺 Watch this video about goal setting for developers
+
+</aside>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/EeQejpbs-Zc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/gBy8BhwXBgs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
@@ -34,7 +39,6 @@ From the video, some of the steps highlighted in setting learning goals are:
 
 <aside>
 
-
 📺 Watch this video about how to set SMART goals.
 
 </aside>
@@ -45,7 +49,14 @@ From the video, some of the steps highlighted in setting learning goals are:
 
 ## 2) Implementation Intentions
 
-[https://www.youtube.com/watch?v=DUAB-BW-gZ8](https://www.youtube.com/watch?v=DUAB-BW-gZ8)
+<aside>
+
+📺 Watch this video on implementation intentions.
+
+</aside>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/DUAB-BW-gZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 
 [https://www.psychologytoday.com/ca/blog/dont-delay/201001/implementation-intentions-facilitate-action-control](https://www.psychologytoday.com/ca/blog/dont-delay/201001/implementation-intentions-facilitate-action-control)
 
@@ -87,13 +98,9 @@ As you use process templates and apply process thinking to learn and complete ta
 
 ---
 
-## 4) Learning plans
+## 4) Learning Contracts
 
 [https://www.bkconnection.com/static/Managing_Your_Own_Learning_EXCERPT.pdf](https://www.bkconnection.com/static/Managing_Your_Own_Learning_EXCERPT.pdf)
-
----
-
-## 5) Learning Contracts
 
 <aside>
 
@@ -120,7 +127,7 @@ With every contract, it is important to detail the responsibilities of each part
 - Initiates an alignment meeting with the Faculty to discuss their plan
 - Regularly check in with Faculty to review progress and get feedback
 
-**Faculty Responsibilities**
+**Instructor Responsibilities**
 
 - Provide support in developing the learning contract by reviewing student’s proposal
 - Recommend learning resources, strategies, etc
@@ -139,7 +146,7 @@ A typical Learning Contract will have the following core components:
 
 **3. Learning Strategies** - how will you learn and what activities will you engage in - field trips, class attendance, reading, completing projects, etc?
 
-**4. Milestones** **and timelines** - how will you accomplish each component of your learning across a time frame?
+**4. Milestones** **and Timelines** - how will you accomplish each component of your learning across a time frame?
 
 **5. Outputs and Assessment** - how will you show evidence of what you have learned - assignments/deliverables such as reports, presentations, prototypes, etc
 
@@ -171,12 +178,3 @@ A typical Learning Contract will have the following core components:
 Source: [https://roghiemstra.com/contract.html](https://roghiemstra.com/contract.html)
 
 ---
-
-<aside>
-
-
-🤷🏿‍♀️ **So What? How does this section apply to me?**
-
-*[insert text]*
-
-</aside>

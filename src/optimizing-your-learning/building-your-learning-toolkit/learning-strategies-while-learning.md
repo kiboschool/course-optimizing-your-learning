@@ -93,7 +93,29 @@ Utilizing Chunking - Barbara Oakley
 
 ---
 
-## 5) Deliberate Practice
+## 5) Pomodoro Technique
+
+<aside>
+
+
+📖 Read the following article on the [**Pomodoro technique**](https://modelthinkers.com/mental-model/pomodoro-technique).
+
+</aside>
+
+[https://todoist.com/productivity-methods/pomodoro-technique](https://todoist.com/productivity-methods/pomodoro-technique)
+
+<aside>
+
+
+📺 Watch the following video on the Pomodoro technique
+
+</aside>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/1l4w7uHdNaQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+---
+
+## 6) Deliberate Practice
 
 How do the very best become who they are? How do the great writers, sports people, artists, scientists, creators, and other stars emerge?
 
@@ -156,7 +178,9 @@ One thought about deliberate practice is that there has to be a very specific sk
 - Take time to reflect on your progress, and your strategies and analyze the impact that your current approach is resulting in.
 - Get regular feedback. As you work on your area of growth and practice, get feedback from a coach, your teacher or someone who can show you the gaps in your performance in order to find ways to improve continuously.
 
-## 6) Active Recall and Retrieval
+---
+
+## 7) Active Recall and Retrieval
 
 When we learn something, either in class or by self-study, it can either get stored in our short-term or long-term memory. Ideally, we want what we learn to get stored in our long-term memory to be able to use that over time. Our short-term memory might make it easier to recognize something we have learned in the short term but not necessarily recall it over the long term. Going back to our previous study on the neuroplasticity of the brain, we will remember that learning new information and skills requires our brains to build new connections. Recall strategies help us to do just that. 
 
@@ -206,7 +230,9 @@ Here are some techniques for retrieval of learning:
 - Writing essays
 - Group discussion
 
-## 7) Spaced Repetition
+---
+
+## 8) Spaced Repetition
 
 <aside>
 
@@ -224,25 +250,5 @@ Here are some techniques for retrieval of learning:
 📖 Read this article to learn about [**Spaced Retrieval**](https://modelthinkers.com/mental-model/spaced-retrieval).
 
 </aside>
-
-## 8) Pomodoro Technique
-
-<aside>
-
-
-📖 Read the following article on the [**Pomodoro technique**](https://modelthinkers.com/mental-model/pomodoro-technique).
-
-</aside>
-
-[https://todoist.com/productivity-methods/pomodoro-technique](https://todoist.com/productivity-methods/pomodoro-technique)
-
-<aside>
-
-
-📺 Watch the following video on the Pomodoro technique
-
-</aside>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/1l4w7uHdNaQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ---

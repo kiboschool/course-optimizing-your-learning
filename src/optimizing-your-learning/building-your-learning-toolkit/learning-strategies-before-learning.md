@@ -9,9 +9,8 @@ In sections 4.5 - 4.7 we will discuss some strategies, tools, and techniques tha
 **Planning (Before Learning)**
 
 - Goal setting
-- Implementation intentions
-- Understanding process
-- Learning contracts
+- Implementation Intentions
+- Learning Contracts
 
 ---
 
@@ -60,48 +59,11 @@ From the video, some of the steps highlighted in setting learning goals are:
 
 ---
 
-## 3) **Understanding Process - Process Thinking**
-
-What set of steps do you undertake in studying or in completing a task?
-
-Process thinking involves understanding all that needs to be done for a task or goal to be completed and finding the best path and procedure for getting them done.
-
-In his book on Self-Directed Learning, Maurice Gibbons advocates for using process templates as a way to foster process thinking and order. Process templates help to recognize the skills and actions required to complete an activity and to order them appropriately.
-
-One example from the book is the **Competence template** as shown below. The competence template shows the process/steps to becoming good at something:
-
-| 1 | Analyze your interests, talents | Choose a field of specialty |
-| --- | --- | --- |
-| 2 | Survey the field | Confirm, commit to the chosen specialty |
-| 3 | Observe specialists in the field | List knowledge and skills needed |
-| 4 | Plan a program of study and practice | Enact plan in key field area |
-| 5 | Set a challenge in your field | Plan and execute the challenge |
-| 6 | Review the process and achievement | Reconfirm, pursue specialty |
-
-The above process can be adapted to the learning of any new skill or competence. Once the process is laid out, it is easier for you to follow through by completing the tasks in the right order.
-
-As you use process templates and apply process thinking to learn and complete tasks, you are better equipped to drive autonomous learning and you will have the confidence to take on new tasks since you are able to organize the steps to completion of the task.
-
-### **Discuss**
-
-<aside>
-
-
-💬 Answer the following question in the padlet below.
-
-- How would you approach learning a new programming language - what steps would you take and in what sequence?
-</aside>
-
-[insert padlet]
-
----
-
-## 4) Learning Contracts
+## 3) Learning Contracts
 
 [https://www.bkconnection.com/static/Managing_Your_Own_Learning_EXCERPT.pdf](https://www.bkconnection.com/static/Managing_Your_Own_Learning_EXCERPT.pdf)
 
 <aside>
-
 
 📖 Read the following article on **[learning contracts](https://uwaterloo.ca/centre-for-teaching-excellence/teaching-resources/teaching-tips/tips-students/self-directed-learning/self-directed-learning-learning-contracts)**.
 
@@ -117,7 +79,7 @@ To be clear, the learning contract requires that you are ready to take ownership
 
 With every contract, it is important to detail the responsibilities of each party. The learning contract is no exception. Find below the basic responsibilities of students and teachers in using a learning contract
 
-**Student’s Responsibilities**
+**Student Responsibilities**
 
 - Identifies and proposes what they want to learn and how they want to learn it
 - Articulates what the outcomes, output, timelines, and evidence will be
@@ -168,10 +130,6 @@ A typical Learning Contract will have the following core components:
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 
-- **What is a Learning Contract?**
-- **What does it contain?**
-- **How do you create a Learning Contract?**
-- **How do you use a Learning Contract?**
 
 Source: [https://roghiemstra.com/contract.html](https://roghiemstra.com/contract.html)
 

@@ -1,6 +1,6 @@
-# Learning strategies before learning
+# Learning Strategies - Before Learning (Planning)
 
-*Estimated Time: xx hours*
+*Estimated Time: 1 hour*
 
 ---
 

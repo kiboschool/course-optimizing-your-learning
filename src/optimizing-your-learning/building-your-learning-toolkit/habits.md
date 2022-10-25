@@ -1,6 +1,6 @@
 # Habits
 
-*Estimated Time: xx hours*
+*Estimated Time: 1 hour*
 
 ---
 

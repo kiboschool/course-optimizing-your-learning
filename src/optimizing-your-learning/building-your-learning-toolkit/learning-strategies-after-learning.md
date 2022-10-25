@@ -1,6 +1,6 @@
-# Learning strategies after learning
+# Learning Strategies - After Learning (Evaluating)
 
-*Estimated Time: 1 hours
+*Estimated Time: 1 hour*
 
 ---
 

@@ -140,11 +140,11 @@ These components among others separate deliberate practice from regular practice
 <aside>
 
 
-📺 [Add directions]
+📺 Watch this video on the way deliberate practice works in Programming.
 
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/EiR-oQ0QnX8Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/EiR-oQ0QnX8"title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
 One thought about deliberate practice is that there has to be a very specific skill that you are practicing in order to give it the necessary focus. For example, a basketball player might focus on practicing and developing his shooting skills. As a software developer, that might mean focusing on a particular programming language. To engage in deliberate practice:

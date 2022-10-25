@@ -4,7 +4,7 @@
 
 ---
 
-In sections 4.5 - 4.7 we will discuss some strategies, tools, and techniques that can help you improve your learning through all 3 stages of self-directed learning. In this section we will focus on:
+In sections 4.3 - 4.5 we will discuss some strategies, tools, and techniques that can help you improve your learning through all 3 stages of self-directed learning. In this section we will focus on:
 
 **Planning (Before Learning)**
 

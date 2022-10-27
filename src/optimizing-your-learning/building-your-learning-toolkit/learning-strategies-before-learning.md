@@ -14,7 +14,7 @@ In sections 4.3 - 4.5 we will discuss some strategies, tools, and techniques tha
 
 ---
 
-## 1) Goal setting
+## 1) Goal Setting
 
 To get started with the learning process, you have to set learning goals or desired outcomes for yourself so that you know wear your learning journey is trying to take you, and have a clear pciture of what success looks like. We have talked about goal setting before in this course (in section 1.5 Self-Directed Learning), so in this section we will look specifically at goal setting for developers, as well as the SMART goals framework, which provides a way to set goals so that they are clear, realistic, and easy to evaluate.
 

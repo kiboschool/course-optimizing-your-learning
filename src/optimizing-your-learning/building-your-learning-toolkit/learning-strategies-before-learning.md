@@ -57,7 +57,7 @@ One of the ways to improve your ability to achieve your goals, is to couple well
 
 <aside>
 
-📖 Read the following article to learn more about **[implementation intentions]((https://www.psychologytoday.com/ca/blog/dont-delay/201001/implementation-intentions-facilitate-action-control)**.
+📖 Read the following article to learn more about **[implementation intentions](https://www.psychologytoday.com/ca/blog/dont-delay/201001/implementation-intentions-facilitate-action-control)**.
 
 </aside>
 

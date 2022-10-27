@@ -11,15 +11,13 @@ In sections 4.3 - 4.5 we will discuss some strategies, tools, and techniques tha
 - Self-Reflection
 - Self-Evaluation
 
-So far, we have explored learning and study strategies that you can implement. In addition, there will be other strategies that you choose to adopt in driving your learning as well as building your skills as a programmer. However, how do you evaluate your progress and know if your learning strategies are effective?
+So far, we have explored learning strategies that you can implement to plan and guide your learning more effectively. But, how can you evaluate if you your learning has been effective? 
 
-In order for you to be able to gauge your learning, self-reflection and self-evaluation are important practices you will engage in. While there are different methods to practice self-reflection and self-evaluation, you can also harness peer evaluation and feedback from an instructor or mentor.
+In order for you to be able to gauge your learning, you can use self-reflection and self-evaluation.
 
 ---
 
 ## 1) Self-Reflection
-
-The techniques discussed in [Section 1.6 (Reflective Practice)](/optimizing-your-learning/how-to-get-anything-you-want-in-life/reflective-practice.md) are useful for reflecting on your learning.
 
 <aside>
 
@@ -29,6 +27,8 @@ The techniques discussed in [Section 1.6 (Reflective Practice)](/optimizing-your
 </aside>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/tJP4eKEP0mE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+When carrying out self-reflection, you can use any of the techniques discussed in [Section 1.6 (Reflective Practice)](/optimizing-your-learning/how-to-get-anything-you-want-in-life/reflective-practice.md) to reflect on how your learning has progressed.
 
 Some other tools for self-reflection include:
 

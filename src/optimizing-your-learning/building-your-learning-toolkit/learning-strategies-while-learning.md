@@ -9,7 +9,7 @@ In sections 4.3 - 4.5 we will discuss some strategies, tools, and techniques tha
 **Monitoring (While Learning)**
 
 - Note Taking
-- Learning Log
+- Learning Diary
 - Asking Questions
 - Chunking
 - Pomodoro Technique
@@ -32,7 +32,7 @@ In sections 4.3 - 4.5 we will discuss some strategies, tools, and techniques tha
 
 ---
 
-## 2) Learning Log
+## 2) Keeping a Learning Diary
 
 The process of keeping a learning diary is simple. On the first page, draw up a daily diary and record in summary form what days and times you were engaged in your work. Then for each study session or activity keep a record of:
 
@@ -42,7 +42,11 @@ The process of keeping a learning diary is simple. On the first page, draw up a 
 - A note on the effectiveness of each session
 - Comment on how you might change your practice to be more effective next time.
 
-[Source](https://www.open.edu/openlearn/education-development/learning-how-learn/content-section-2.4)
+<aside>
+ 
+📖 Read this article to learn more about **[learning diaries](https://www.open.edu/openlearn/education-development/learning-how-learn/content-section-2.4)**.
+ 
+</aside>
 
 ---
 
@@ -56,7 +60,6 @@ The process of keeping a learning diary is simple. On the first page, draw up a 
 </aside>
 
 <aside>
-
 
 📺 Watch the following video on asking the right questions.
 
@@ -95,23 +98,20 @@ Utilizing Chunking - Barbara Oakley
 
 ## 5) Pomodoro Technique
 
+ 
 <aside>
-
-
-📖 Read the following article on the [**Pomodoro technique**](https://modelthinkers.com/mental-model/pomodoro-technique).
-
-</aside>
-
-[https://todoist.com/productivity-methods/pomodoro-technique](https://todoist.com/productivity-methods/pomodoro-technique)
-
-<aside>
-
 
 📺 Watch the following video on the Pomodoro technique
 
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/1l4w7uHdNaQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/8FfvK3AD7WE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+<aside>
+
+📖 Read the following article on the [**Pomodoro technique**](https://todoist.com/productivity-methods/pomodoro-technique).
+
+</aside>
 
 ---
 
@@ -127,7 +127,6 @@ The end goal of learning is not only to be informed but to improve our growth an
 
 <aside>
 
-
 📺 Watch the following video on deliberate practice.
 
 </aside>
@@ -135,7 +134,6 @@ The end goal of learning is not only to be informed but to improve our growth an
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/1-sjUoGO250" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <aside>
-
 
 📖 Read the following article on [**deliberate practice**](https://modelthinkers.com/mental-model/213).
 
@@ -152,7 +150,6 @@ These components among others separate deliberate practice from regular practice
 
 <aside>
 
-
 📺 Watch this video on the way deliberate practice works in Computer Programming.
 
 </aside>
@@ -160,7 +157,6 @@ These components among others separate deliberate practice from regular practice
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/a9jBcoMpquE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <aside>
-
 
 📺 Watch this video on the way deliberate practice works in Programming.
 
@@ -170,7 +166,6 @@ These components among others separate deliberate practice from regular practice
 
 
 One thought about deliberate practice is that there has to be a very specific skill that you are practicing in order to give it the necessary focus. For example, a basketball player might focus on practicing and developing his shooting skills. As a software developer, that might mean focusing on a particular programming language. To engage in deliberate practice:
-
 
 - Find out your current skill/knowledge level and the gaps that you have. When you assess your current level with the perspective of becoming an expert, you can recognize the gaps and the areas for improvement
 - Set clear and SMART goals that stretch you. What do you want to be able to do in a set period of time that you are not currently able to do? Identify a specific area of practice
@@ -187,7 +182,6 @@ When we learn something, either in class or by self-study, it can either get sto
 Recall can either be **passive** or **active** with passive recall happening when what is learned is passively reviewed such as reading something multiple times over. However, active recall involves more intentional activities that stimulate the brain and engage you in bringing up and encoding the information for longer-term storage and recall.
 
 <aside>
-
 
 📺 Watch this video to learn a number of strategies for practicing active recall.
 
@@ -236,13 +230,11 @@ Here are some techniques for retrieval of learning:
 
 <aside>
 
-
 📺 Watch this video to learn more about active recall and spaced repetition.
 
 </aside>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/-uMMRjrzPmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
 
 <aside>
 
@@ -252,3 +244,12 @@ Here are some techniques for retrieval of learning:
 </aside>
 
 ---
+
+## Discussion: Learning Strategies
+
+<aside>
+💬 **Answer the questions in the padlet below.**
+ 
+</aside>
+
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/eu7r5rpnb5cz8g54" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>

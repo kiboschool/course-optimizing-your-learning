@@ -9,36 +9,33 @@ In sections 4.3 - 4.5 we will discuss some strategies, tools, and techniques tha
 **Planning (Before Learning)**
 
 - Goal Setting
-- Implementation Intentions
+- Implementation Intentions (and Coping Plans)
 - Learning Contracts
 
 ---
 
 ## 1) Goal Setting
 
-To get started with the learning process, you have to set learning goals or desired outcomes for yourself so that you know wear your learning journey is trying to take you, and have a clear pciture of what success looks like. We have talked about goal setting before in this course (in section 1.5 Self-Directed Learning), so in this section we will look specifically at goal setting for developers, as well as the SMART goals framework, which provides a way to set goals so that they are clear, realistic, and easy to evaluate.
+To get started with the learning process, you have to set learning goals or desired outcomes for yourself so that you know wear your learning journey is trying to take you, and have a clear pciture of what success looks like. We have talked a little bit about goal setting before in this course (in section 1.5 Self-Directed Learning), but in this section we will look at how to set goals so that they can be as useful as possible.
 
 <aside>
 
-📺 Watch this video about goal setting for developers.
+📺 Watch this video about how to set goals using the S.M.A.R.T framework.
 
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/gBy8BhwXBgs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/i0QfCZjASX8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-From the video, some of the steps highlighted in setting learning goals are:
 
-- Prioritization
-- Structure
-- Accountability
+## Discussion: Your Goals
 
 <aside>
 
-📺 Watch this video about how to set SMART goals.
+💬 In the padlet below, share one of your goals for the rest of the year. It can be academic, professional, or personal. Then answer the rest of the questions in the padlet.
 
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/LQ5Uj1nryBc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/7mfctr5t6upp6oj" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
 ---
 

@@ -8,7 +8,7 @@
 
 
 🗣 **“Education is not the learning of facts, but the training of minds to think.”** 
-- Attributed to Albert Einstein*
+- Attributed to Albert Einstein
 
 </aside>
 

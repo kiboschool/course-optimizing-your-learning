@@ -56,12 +56,6 @@ Here is an example of an implementation intention: "If I have a bug in my code, 
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/DUAB-BW-gZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-<aside>
-
-📖 Read the following article to learn more about **[implementation intentions](https://www.psychologytoday.com/ca/blog/dont-delay/201001/implementation-intentions-facilitate-action-control)**.
-
-</aside>
-
 ---
 
 ## 3) Learning Contracts

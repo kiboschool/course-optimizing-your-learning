@@ -52,6 +52,18 @@ Here is an example of an implementation intention: "If I have a bug in my code, 
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/DUAB-BW-gZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+Implementation intensions are usually in the form of: If [situation A occurs], then I will [behavior X]. Here are some examples:
+
+- If I wake up tomorrow morning, then I will put on my shoes and go on a 20 minute walk.
+- If I am feeling tempted to eat a cookie, then I will eat an apple instead.
+- If I finish brushing my teeth, then I will journal for 15 minutes.
+- If there are stairs, then I will take them.
+
+And here are examples of implementation intentions that help you manage obstacles that could get in the way of you achieving your goals (i.e. coping plans):
+- If I don't understand the Mathematical Thinking material, I will go to offfice hours.
+- If my code isn't running, I will share a screenshot with my squad mates and ask for help.
+- If I don't understand the OYL assignment instructions, I will post a queston in the help channel on Discord.
+
 ## Discussion: Your Implementation Intentions
 
 <aside>

@@ -16,18 +16,25 @@ You might be already familiar with the concept of ‘bad habits’ - meaning thi
 
 As we kick off this lesson on implementing self-directed learning through specific learning strategies and behaviours, we will start out by exploring habits that prevent us from getting the best out of learning. 
 
+<aisde>
+    
+📺 Watch this video on getting real about "studying".
+
+</aside>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/NQmrHpj39j0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 <aside>
 
 
-📺 Watch this video about learning/study practices that are counter-productive
+📺 Watch this video about learning and study practices that are counter-productive
 
 </aside>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/hhGMoH2s8-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
-
-These points speak to studying but are clearly relevant to the way you think of your learning journey as well, as study is a form of learning. I want to highlight some of these habits and talk about them a bit more below:
+These points speak to studying but are clearly relevant to the way you think of your learning journey as a whole. Let's talk about some of the "bad habits" in more detail:
 
 - **Cramming**
     

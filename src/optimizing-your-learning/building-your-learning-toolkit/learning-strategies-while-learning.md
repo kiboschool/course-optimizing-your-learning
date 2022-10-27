@@ -248,6 +248,7 @@ Here are some techniques for retrieval of learning:
 ## Discussion: Learning Strategies
 
 <aside>
+ 
 💬 **Answer the questions in the padlet below.**
  
 </aside>

@@ -57,7 +57,7 @@ As this quote suggests, being able to be consistent in your actions, especially 
 
 <aside>
   
-**"We do not rise to the level lf our goals, we fall to the level of our systems."** 
+**"We do not rise to the level of our goals, we fall to the level of our systems."** 
 - James Clear
 
 </aside>

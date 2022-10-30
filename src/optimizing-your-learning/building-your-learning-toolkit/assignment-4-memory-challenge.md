@@ -23,6 +23,11 @@ According to James Clear, a useful way to classify habits is to ask the question
 Table 1 - Habit Inventory
 Habits Rating (Good, Neutral, Bad)
 
+| Habits | Rating (Good, Neutral, Bad) |
+| --- | --- |
+|  |  |
+|  |  |
+
 ### Task 2 - Breaking a Bad Habit
 
 Select one of the bad habits from your habit inventory that you would like to break. Identify the Cue, Cravings, Response, and Reward (i.e. the habit loop) for this habit.

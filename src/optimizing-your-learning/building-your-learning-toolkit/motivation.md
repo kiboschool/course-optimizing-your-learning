@@ -88,7 +88,7 @@ These points speak to studying but are clearly relevant to the way you think of 
 
 - **Cramming**
     
-    This is when you try to memorize a great amount of information in a short period of time. Cramming defeats the purpose of learning which is to understand, and while memorization is important and useful, cramming typically does not add much long-term retention. If you have ever crammed anything before, ask yourself how much of it you still remember. 
+    This is when you try to memorize a great amount of information in a short period of time. Cramming defeats the purpose of learning, which is to understand. While memorization is important and useful, cramming typically does not add much long-term retention. If you have ever crammed anything before, ask yourself how much of it you still remember. 
     
 - **Passive learning**
     

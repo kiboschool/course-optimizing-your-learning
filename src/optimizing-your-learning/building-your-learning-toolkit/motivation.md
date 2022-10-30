@@ -51,7 +51,9 @@ List of the "secrets" from the article:
 - Make a personal connection to your studies.
 - Read and think actively.
 - Ask big questions.
+- Cultivate empathy for others.
 - Set goals and make them real.
+- Find a way to contribute.
  
  
 <aside>

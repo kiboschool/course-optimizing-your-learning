@@ -10,7 +10,7 @@ In sections 4.3 - 4.5 we will discuss some strategies, tools, and techniques tha
 
 - Note Taking
 - Learning Diary
-- Asking Questions
+- Focus and Diffuse Modes
 - Chunking
 - Pomodoro Technique
 - Deliberate Practice
@@ -50,33 +50,20 @@ The process of keeping a learning diary is simple. On the first page, draw up a 
 
 ---
 
-## 3) Asking Questions
+## 3) Focus and Diffuse Modes 
 
 <aside>
 
 
-📖 Read the following article on [**asking powerful questions**](https://stephendupont.co/powerful-relevant-questions/).
-
+📺 Watch the following video on focus and diffuse modes.
+ 
 </aside>
 
-<aside>
-
-📺 Watch the following video on asking the right questions.
-
-</aside>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/tYnGiWlwcj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-Some useful questions to ask while learning:
-
-- Where have I seen this before?
-- How can I use this?
-- Why should I use this?
-- When should I use this?
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/lJtUg-3DfUk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ---
 
-## 4) Chunking
+## Chunking
 
 <aside>
 
@@ -93,6 +80,12 @@ Utilizing Chunking - Barbara Oakley
 - **observe an example**
 - **do it yourself**
 - **do it again and again in different contexts**
+
+<aside>
+
+📺 You can watch the followign videos on how to chunk. [Part 1](https://www.youtube.com/watch?v=kecXPTatRng) and [Part 2](https://www.youtube.com/watch?v=y-LUxouCCjo).
+ 
+</aside>
 
 ---
 

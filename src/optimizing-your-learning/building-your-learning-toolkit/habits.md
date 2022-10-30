@@ -27,6 +27,14 @@
 
 **One of the key messages from this video is that habits can help your brain become more efficient!**
 
+<aside>
+  
+**"One of the most important keys to success is having the discipline to do what you know you should do, even when you don't feel like doing it."** 
+-Todd Smith.
+
+</aside>
+
+But always being disciplined can be really challenging and mentally draining. Habits help can help you put important actions on autopilot, so that you keep doing them without having to constantly summon up the motivation and discipline.
 
 <aside>
 
@@ -37,7 +45,6 @@
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/v32ZtHUEqYQ"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-Habits can help you put your goals on autopilot.
 
 ---
 

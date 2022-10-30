@@ -21,11 +21,11 @@ In order for you to be able to gauge your learning, you can use self-reflection 
 
 When carrying out self-reflection, you can use any of the techniques discussed in [Section 1.6 (Reflective Practice)](/optimizing-your-learning/how-to-get-anything-you-want-in-life/reflective-practice.md) to reflect on how your learning has progressed.
 
-Some other tools for self-reflection include:
+<aside>
 
-- Journaling
-- Learning Journals
-- Recordings
+🌐 For more on reflection, explore the [**University of Edinburgh’s Reflector’s toolkit**](https://www.ed.ac.uk/reflection/reflectors-toolkit).
+
+</aside>
 
 ---
 

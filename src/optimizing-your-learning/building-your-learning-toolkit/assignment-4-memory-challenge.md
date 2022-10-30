@@ -29,7 +29,7 @@ According to James Clear, a useful way to classify habits is to ask the question
 - Select one of the bad habits from your habit inventory that you would like to break. 
 - Identify the Cue, Craving, Response, and Reward (i.e. the habit loop) for this habit.
 - Identify 1-2 actions that you could take to influence each stage of the habit loop so that you could break the habit, and create an action plan for breaking this habit.
-- Remember to make a bad habit you should make it: Invisible, Unattractive, Difficult, and Unsatisfying.
+- Remember to break a bad habit you should make it: Invisible, Unattractive, Difficult, and Unsatisfying.
 
 **Tip:** Re-watch the video in section 4.2 Habits that gives a detailed summary of James Clear’s book “Atomic Habits”. The end of the video has a great example of how to create a plan to break a habit.
 

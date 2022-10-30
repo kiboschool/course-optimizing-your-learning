@@ -19,21 +19,12 @@ In order for you to be able to gauge your learning, you can use self-reflection 
 
 ## 1) Self-Reflection
 
-<aside>
-
-
-📺 Watch this video to understand to learn more about self-reflection.
-
-</aside>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/tJP4eKEP0mE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
 When carrying out self-reflection, you can use any of the techniques discussed in [Section 1.6 (Reflective Practice)](/optimizing-your-learning/how-to-get-anything-you-want-in-life/reflective-practice.md) to reflect on how your learning has progressed.
 
 Some other tools for self-reflection include:
 
 - Journaling
-- Learning journals
+- Learning Journals
 - Recordings
 
 ---
@@ -61,10 +52,10 @@ Some other questions to ask yourself when evaluating the quality of your learnin
 
 Here are some steps to take to implement self-reflection and self-evaluation in measuring your learning progress
 
-- Review your learning goals previously
-- Evaluate how much you have been able to learn
+- Review your learning goals regularly and determine if any need to be updated
+- Evaluate how you are progressing towards your goals and how much you have been able to learn
 - Evaluate the effectiveness of your learning strategies in your learning achievement
-- Evaluate how well you are able to apply the knowledge
+- Evaluate how well you are able to apply the knowledge that you are learning
 - Consider how you might adapt and adjust your learning strategies for more effective outcomes
 
 ---

@@ -8,8 +8,8 @@ E*stimated Time: 4 hours*
 
 After completing this lesson, you will be able to:
 
-- Differentiate between effective and ineffective learning habits.
-- Create a plan for developing effective learning habits and breaking bad learning habits.
+- Differentiate between good and bad learning habits.
+- Create a plan for developing good learning habits and breaking bad learning habits.
 - Utilize habits to increase the effectiveness of your learning.
 - Identify and implement a variety of strategies to increase the effectiveness of your self-directed learning
 

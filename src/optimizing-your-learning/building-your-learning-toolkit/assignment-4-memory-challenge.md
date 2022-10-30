@@ -24,7 +24,7 @@ According to James Clear, a useful way to classify habits is to ask the question
 
 Table 1 - Habit Inventory
 
-![habit](./Habit.png)
+![habit](./Habits.png)
 
 ### Task 2 - Breaking a Bad Habit
 

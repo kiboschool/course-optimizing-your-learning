@@ -62,7 +62,7 @@ List of the "secrets" from the articles:
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/Na8m4GPqA30" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-Here are some key takeaway from the video:
+Here are some key takeaways from the video:
 - Remember that IQ is not the most important factor to doing well in school.
 - Some critical skills for success are: Self-discpline, Self-motivation, Resilience.
 - Hard work is neccessary, but not sufficient. **You have to work hard doing the right things.**

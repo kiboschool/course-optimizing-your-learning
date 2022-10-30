@@ -232,13 +232,6 @@ Here are some techniques for retrieval of learning:
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/-uMMRjrzPmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-<aside>
-
-
-📖 Read this article to learn about [**Spaced Retrieval**](https://modelthinkers.com/mental-model/spaced-retrieval).
-
-</aside>
-
 ---
 
 ## Discussion: Learning Strategies

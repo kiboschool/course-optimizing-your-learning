@@ -64,7 +64,7 @@ List of the "secrets" from the articles:
 
 Here are some key takeaways from the video:
 - Remember that IQ is not the most important factor to doing well in school.
-- Some critical skills for success are: Self-discpline, Self-motivation, Resilience.
+- Some critical skills for success are: Self-discipline, Self-motivation, Resilience.
 - Hard work is neccessary, but not sufficient. **You have to work hard doing the right things.**
 - When creating a study timetable, first block out the times when you have other commitments, then fill in your study time around it. This will create a more realistic schedule that you will be likely to stick with for longer.
 
@@ -86,11 +86,11 @@ These points speak to studying but are clearly relevant to the way you think of 
 
 - **Cramming**
     
-    Most of us have been guilty of this at some point as students/learners. This is when you try to memorize a great amount of information most times in a short period of time. Many students who cram do so when it is close to tests or examinations just to pass that examination or test. Cramming in itself defeats the purpose of learning which is to understand and while memorization is important and useful, cramming to remember learning content might seem to work in the short term but does not add much long-term value. If you have ever crammed anything before, ask yourself how much of it you still remember. 
+    This is when you try to memorize a great amount of information in a short period of time. Cramming defeats the purpose of learning which is to understand, and while memorization is important and useful, cramming typically does not add much long-term retention. If you have ever crammed anything before, ask yourself how much of it you still remember. 
     
 - **Passive learning**
     
-    Passive learning as explained in the video is just going through the motions of learning without real engagement, reflection, and practice on what you are learning. You might be forced or you might force yourself to engage in passive learning due to the pressure of knowing you should study and just tick that box. However, such learning ends up without any real impact despite the length of time that might have gone into it. 
+    Passive learning as explained in the video is just going through the motions of learning without real engagement, reflection, and practice on what you are learning. You might be forced or you might force yourself to engage in passive learning due to the pressure of knowing you should study and just tick that box. However, such learning ends up without any real impact despite the amount of time that might have gone into it. 
     
 - **Studying without a proper plan**
     
@@ -98,11 +98,11 @@ These points speak to studying but are clearly relevant to the way you think of 
     
 - **Procrastination and distraction**
     
-    With all the multiple channels of information, social connection, and more online, we are more distracted than ever before especially when studying online.  We are trying to study/engage in learning while watching Instagram reels or random YouTube videos. These not only elongate the time we have to focus on learning but also affect our brain’s ability to focus.
+    With all the multiple channels of information, social connection, and more online, we are more distracted than ever before especially when studying online.  We are trying to study/engage in learning while watching Instagram reels or random YouTube videos. These not only lengthen the time we spend learning but also affect our brain’s ability to focus.
     
 - **Not sleeping enough**
     
-    Rest is essential to the functioning of the brain and to our energy. When you do not get enough rest or sleep, you have low energy as well as an inability to focus or concentrate. This will clearly impact the quality of your learning negatively. 
+    Rest is essential to the functioning of the brain and to our energy. When you do not get enough rest or sleep, you have low energy as well as an inability to focus or concentrate. This will negatively impact the quality of your learning. 
     
 These are just a few of the several bad learning and study habits you might have picked up at some point that makes the learning process more tedious for you than it should be. The good news is you can learn new and more effective learning approaches and strategies. We will explore these more in the coming lessons.
     

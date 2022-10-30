@@ -63,7 +63,7 @@ The process of keeping a learning diary is simple. On the first page, draw up a 
 
 ---
 
-## Chunking
+## 4) Chunking
 
 <aside>
 

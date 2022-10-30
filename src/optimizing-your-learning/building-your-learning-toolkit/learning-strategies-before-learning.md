@@ -15,7 +15,7 @@ In sections 4.3 - 4.5 we will discuss some strategies, tools, and techniques tha
 
 ## 1) Goal Setting
 
-To get started with the learning process, you have to set learning goals or desired outcomes for yourself so that you know wear your learning journey is trying to take you, and have a clear pciture of what success looks like. We have talked a little bit about goal setting before in this course (in section 1.5 Self-Directed Learning), but in this section we will look at how to set goals so that they can be as useful as possible.
+To get started with the learning process, you have to set learning goals or desired outcomes for yourself so that you know wear your learning journey is trying to take you, and have a clear pciture of what success looks like. We have talked a little bit about goal setting before in this course (in section 1.5 Self-Directed Learning), but in this section we will look at how to set goals using the S.M.A.R.T framework so that they can be as useful as possible.
 
 <aside>
 
@@ -40,11 +40,11 @@ To get started with the learning process, you have to set learning goals or desi
 
 ## 2) Implementation Intentions
 
-One of the ways to improve your ability to achieve your goals, is to couple well set goals with something called "implementation intentions". These are "if-then" plans that specify when and how you will achieve your goals. They can also be used to state what you will do if certain things happen during your learning journey. 
+One of the ways to improve your ability to achieve your goals, is to couple well set goals with something called "implementation intentions". These are "if-then" plans that specify when and how you will achieve your goals. They can also be used to state what you will do if certain things happen during your learning journey. When they are used in this way, why are sometimes called "Coping Plans".
 
-Here are some examples of implementation intention: "If I have finished eating breaktfast, I will spend 15 minutes working my Mathematical Thinking problem set."
+Here is an examples of an implementation intention: "If I have finished eating breaktfast, I will spend 15 minutes working on my Mathematical Thinking problem set."
 
-The power of implementation intentions is that you are creating concreate plans of actions for how you will achieve your goals, as well as "get out of jail" plans for how to overcome obstacles. By creating these while your mind is still fresh, you are able to utilize them to reduce the cognitive burden of decision making later on. As we saw in the previous section, these can be a powerful way to create habits that support you in achieving your goals.
+The power of implementation intentions is that you are creating concrete plans of action for how you will achieve your goals, as well as "get out of jail" plans for how to overcome obstacles. By creating these while your mind is still fresh, you are able to utilize them to reduce the cognitive burden of decision making later on. As we saw in the previous section, these can be a powerful way to create habits that support you in achieving your goals.
 
 <aside>
 

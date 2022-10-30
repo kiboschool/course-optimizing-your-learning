@@ -1,4 +1,4 @@
-# Assignment 4 - Habit Change Plan
+# Assignment 4 - Habit Inventory and Change Plan
 
 ---
 

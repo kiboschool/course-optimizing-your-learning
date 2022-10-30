@@ -77,7 +77,7 @@ The process of keeping a learning diary is simple. On the first page, draw up a 
 
 <aside>
 
-📺 You can watch the followign videos on how to chunk. [Part 1](https://www.youtube.com/watch?v=kecXPTatRng) and [Part 2](https://www.youtube.com/watch?v=y-LUxouCCjo).
+📺 You can watch the following videos on how to chunk. [Part 1](https://www.youtube.com/watch?v=kecXPTatRng) and [Part 2](https://www.youtube.com/watch?v=y-LUxouCCjo).
  
 </aside>
 

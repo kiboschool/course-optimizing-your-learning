@@ -12,17 +12,65 @@
 
 </aside>
 
-You might be already familiar with the concept of ‘bad habits’ - meaning things that we do repeatedly which are negative or which do not lead us to our desired end goal. In fact, we probably all have bad habits we are trying to get rid of. And that is okay because it is part of what growth is all about. However, have you ever considered that you might have some ‘bad habits’ in the way that you learn? Some behaviours that might look helpful in the short term but hinder your ability to be a powerful learner in the long term? Learning should be fun and should have long-term value to us. However, some of these ‘bad habits’ can make learning tedious and make us have a wrong perspective towards learning. 
+You may already be familiar with the concept of ‘bad habits’; things that we do automatically that are negative or which do not lead us to our desired end goal. In fact, we probably all have bad habits we are trying to get rid of. However, have you ever considered that you might have some ‘bad learning habits’? Some behaviours that might look helpful in the short term but hinder your ability to be a powerful learner in the long term? Learning should be fun and should have long-term value to us. However, some of these ‘bad habits’ can make learning tedious and make us have a wrong perspective towards learning. 
 
-As we kick off this lesson on implementing self-directed learning through specific learning strategies and behaviours, we will start out by exploring habits that prevent us from getting the best out of learning. 
+As we kick off this lesson on implementing self-directed learning through specific learning strategies and behaviours, we will start by exploring habits that support or prevent us from getting the best out of learning. 
 
-<aisde>
+---
+
+### Good Study Habits
+
+<aside>
     
 📺 Watch this video on getting real about "studying".
 
 </aside>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/NQmrHpj39j0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+## Reflection: Getting Real About "Studying"
+
+<aside>
+
+🪞 **Answer the questions in the padlet below.**
+
+</aside>
+
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/zfyw4adlfg3ajziy" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
+
+
+<aside>
+    
+📖 Read the following article on [what the most successful college students do.](https://ideas.time.com/2013/03/13/secrets-of-the-most-successful-college-students/)
+    
+</aside>
+
+Some of the "secrets" from the articles: 
+- Pursue passion, not A’s.
+- Get comfortable with failure.
+- Make a personal connection to your studies.
+- Read and think actively.
+- Ask big questions.
+- Set goals and make them real.
+ 
+ 
+<aside>
+    
+📺 Watch this video on what top students do differently.
+
+</aside>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/Na8m4GPqA30" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+Here are some key takeaway from the video:
+- Remember that IQ is not the most important factor to doing well in school.
+- Some critical skills for success are: Self-discpline, Self-motivation, Resilience.
+- Hard work is neccessary, but not sufficient. **You have to work hard doing the right things.**
+- When creating a study timetable, first block out the times when you have other commitments, then fill in your study time around it. This will create a more realistic schedule that you will be likely to stick with for longer.
+
+---
+
+## Bad Study Habits
 
 <aside>
 

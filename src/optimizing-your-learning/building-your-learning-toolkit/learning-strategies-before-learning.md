@@ -40,9 +40,14 @@ To get started with the learning process, you have to set learning goals or desi
 
 ## 2) Implementation Intentions
 
-One of the ways to improve your ability to achieve your goals, is to couple well set goals with something called "implementation intentions". These are "if-then" plans that you set before you start working towards a goal that help you state what you will do if certain things happen during your learning journey. 
+One of the ways to improve your ability to achieve your goals, is to couple well set goals with something called "implementation intentions". These are "if-then" plans that specify when and how you will achieve your goals. They can also be used to state what you will do if certain things happen during your learning journey. 
 
-Here is an example of an implementation intention: "If I have a bug in my code, then I will spend at least 30 minutes trying to debug it myself before posting a message in the Programming 1 help channel to ask for help." The power of implementation intentions is that you are creating concreate plans of actions for how you will achieve your goals, as well as "get out of jail" plans for how to overcome obstacles. By creating these while your mind is still fresh, you are able to utilize them to reduce the cognitive burden of decision making later on.
+Here are some examples of implementation intention: 
+
+- "If I have finished eating breaktfast, I will spend 15 minutes working my Mathematical Thinking problem set."
+- "If I have a bug in my code, then I will spend at least 30 minutes trying to debug it myself before posting a message in the Programming 1 help channel to ask for help." 
+
+The power of implementation intentions is that you are creating concreate plans of actions for how you will achieve your goals, as well as "get out of jail" plans for how to overcome obstacles. By creating these while your mind is still fresh, you are able to utilize them to reduce the cognitive burden of decision making later on. As we saw in the previous section, these can be a powerful way to create habits that support you in achieving your goals.
 
 <aside>
 

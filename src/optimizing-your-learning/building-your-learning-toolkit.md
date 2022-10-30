@@ -1,6 +1,6 @@
 # Building Your Learning Toolkit
 
-E*stimated Time: 4 hours*
+E*stimated Time: 6 hours*
 
 ---
 

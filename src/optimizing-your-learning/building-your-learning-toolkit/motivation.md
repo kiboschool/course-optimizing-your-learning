@@ -12,9 +12,9 @@
 
 </aside>
 
-You may already be familiar with the concept of ‘bad habits’; things that we do automatically that are negative or which do not lead us to our desired end goal. In fact, we probably all have bad habits we are trying to get rid of. However, have you ever considered that you might have some ‘bad learning habits’? Some behaviours that might look helpful in the short term but hinder your ability to be a powerful learner in the long term? Learning should be fun and should have long-term value to us. However, some of these ‘bad habits’ can make learning tedious and make us have a wrong perspective towards learning. 
+You may already be familiar with the concept of ‘bad habits’; things that we do automatically that are negative or which do not lead us to our desired end goal. In fact, we probably all have bad habits we are trying to get rid of. However, have you ever considered that you might have some ‘bad learning habits’? Some behaviours that might look helpful in the short term but hinder your ability to be a powerful learner in the long term? Learning should be fun and should have long-term value to us. However, some of these ‘bad habits’ can make learning tedious and ineffective. 
 
-As we kick off this lesson on implementing self-directed learning through specific learning strategies and behaviours, we will start by exploring habits that support or prevent us from getting the best out of learning. 
+As we kick off this lesson on utilizing specific strategies to improve our learning, we will start by exploring habits that support or prevent us from getting the best out of the learning process. 
 
 ---
 
@@ -45,7 +45,7 @@ As we kick off this lesson on implementing self-directed learning through specif
     
 </aside>
 
-List of the "secrets" from the articles: 
+List of the "secrets" from the article: 
 - Pursue passion, not A’s.
 - Get comfortable with failure.
 - Make a personal connection to your studies.

@@ -106,7 +106,7 @@ These points speak to studying but are clearly relevant to the way you think of 
     
     Sleep is essential to the functioning of the brain and to our energy. When you do not get enough sleep, you have low energy. as well as an inability to focus, or consolidate your learning. This will negatively impact the quality of your learning. 
     
-These are just a few of the several bad learning and study habits you might have picked up at some point that makes the learning process less effective for you than it should be. The good news is you can learn new and more effective learning approaches and strategies. We will explore these more in the coming lessons.
+These are just a few of the several bad learning and study habits you might have picked up at some point that makes the learning process less effective for you than it should be. The good news is you can learn new and more effective learning approaches and strategies. We will explore these more in the coming sections of this week's lesson.
     
 
 ---

@@ -34,7 +34,7 @@ In sections 4.3 - 4.5 we will discuss some strategies, tools, and techniques tha
 
 ## 2) Keeping a Learning Diary
 
-The process of keeping a learning diary is simple. On the first page, draw up a daily diary and record in summary form what days and times you were engaged in your work. Then for each study session or activity keep a record of:
+The process of keeping a learning diary is simple. On the first page, draw up a daily diary and record in summary form what days and times you were engaged in your learning. Then for each study session or activity keep a record of:
 
 - The practical details - what, when, where and how you studied
 - The study methods and the various skills you used
@@ -60,6 +60,23 @@ The process of keeping a learning diary is simple. On the first page, draw up a 
 </aside>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/lJtUg-3DfUk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+- Focused Thinking - Concentrated, conscious, and relatively predictable. 
+- Diffuse Thinking - Relaxed, occurs largely subconsciously and can result in surprising connections.
+
+<aside>
+ 
+📖 Read this article to learn more about **[focused and diffuse thinking](https://modelthinkers.com/mental-model/focused-and-diffuse-thinking)**.
+ 
+</aside>
+
+<aside>
+
+📺 Watch the following video to learn how these two networks can be applied to working as a software developer.
+ 
+</aside>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/WgWuUj5TFCw"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ---
 
@@ -137,8 +154,8 @@ These components among others separate deliberate practice from regular practice
 
 <aside>
 
-📺 Watch this video on the way deliberate practice works in Computer Programming.
-
+📺 Watch this videos on the way deliberate practice works in Computer Programming.
+ 
 </aside>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/a9jBcoMpquE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>

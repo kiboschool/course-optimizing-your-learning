@@ -106,7 +106,7 @@ As this quote suggests, being able to be consistent in your actions, especially 
 
 <aside>
   
-Every action is a vote for the type of person you wish to become. Take a moment to imagine the type of person you’d like to become, then brainstorm the small habits that could help you build that new identity."
+**"Every action is a vote for the type of person you wish to become. Take a moment to imagine the type of person you’d like to become, then brainstorm the small habits that could help you build that new identity."**
 - James Clear
 
 </aside>

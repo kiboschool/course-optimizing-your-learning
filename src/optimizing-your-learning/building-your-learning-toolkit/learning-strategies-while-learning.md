@@ -1,38 +1,25 @@
-# Learning strategies while learning
+# Learning Strategies - While Learning (Monitoring)
 
-*Estimated Time: xx hours*
+*Estimated Time: 2 hours*
 
 ---
 
-In sections 4.5 - 4.7 we will discuss some strategies, tools, and techniques that can help you improve your learning through all 3 stages of self-directed learning. In this section we will focus on:
+In sections 4.3 - 4.5 we will discuss some strategies, tools, and techniques that can help you improve your learning through all 3 stages of self-directed learning. In this section we will focus on:
 
 **Monitoring (While Learning)**
 
-- Reading and understanding technical writing
-- Capture and create note-taking
-- Learning Log
-- Asking questions
+- Note Taking
+- Learning Diary
+- Focus and Diffuse Modes
 - Chunking
-- Pomodoro technique
-- Focused and diffuse thinking
-- Deliberate practice
-- Active recall and retrieval
-- Spaced repetition
+- Pomodoro Technique
+- Deliberate Practice
+- Active Recall and Retrieval
+- Spaced Repetition
 
 ---
 
-# While Learning
-
-## 1) Reading and Understanding Technical Writing
-
-<aside>
-
-
-📖 Read the following article to learn how to [read technical writing effectively](https://www.science.org/content/article/how-seriously-read-scientific-paper).
-
-</aside>
-
-## 2) Note-taking (Capture & Create method)
+## 1) Note-taking (Capture & Create Method)
 
 <aside>
 
@@ -45,9 +32,9 @@ In sections 4.5 - 4.7 we will discuss some strategies, tools, and techniques tha
 
 ---
 
-## 3) Learning Log
+## 2) Keeping a Learning Diary
 
-The process of keeping a learning diary is simple. On the first page, draw up a daily diary and record in summary form what days and times you were engaged in your work. Then for each study session or activity keep a record of:
+The process of keeping a learning diary is simple. On the first page, draw up a daily diary and record in summary form what days and times you were engaged in your learning. Then for each study session or activity keep a record of:
 
 - The practical details - what, when, where and how you studied
 - The study methods and the various skills you used
@@ -55,47 +42,80 @@ The process of keeping a learning diary is simple. On the first page, draw up a 
 - A note on the effectiveness of each session
 - Comment on how you might change your practice to be more effective next time.
 
-[Source](https://www.open.edu/openlearn/education-development/learning-how-learn/content-section-2.4)
+<aside>
+ 
+📖 Read this article to learn more about **[learning diaries](https://www.open.edu/openlearn/education-development/learning-how-learn/content-section-2.4)**.
+ 
+</aside>
 
 ---
 
-## 4) Asking Questions
+## 3) Focus and Diffuse Modes 
 
 <aside>
 
 
-📖 Read the following article on [**asking powerful questions**](https://stephendupont.co/powerful-relevant-questions/).
+📺 Watch the following video on focus and diffuse modes.
+ 
+</aside>
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/lJtUg-3DfUk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+- Focused Thinking - Concentrated, conscious, and relatively predictable. 
+- Diffuse Thinking - Relaxed, occurs largely subconsciously and can result in surprising connections.
+
+<aside>
+ 
+📖 Read this article to learn more about **[focused and diffuse thinking](https://modelthinkers.com/mental-model/focused-and-diffuse-thinking)**.
+ 
 </aside>
 
 <aside>
 
-
-📺 Watch the following video on asking the right questions.
-
+📺 Watch the following video to learn how these two networks can be applied to working as a software developer.
+ 
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/tYnGiWlwcj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-Some useful questions to ask while learning:
-
-- Where have I seen this before?
-- How can I use this?
-- Why should I use this?
-- When should I use this?
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/WgWuUj5TFCw"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ---
 
-## 5) Chunking
+## 4) Chunking
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/9VzJk5GF8sM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<aside>
 
-Utilizing Chunking - Barbara Oakley
 
-- **survey and priming**
-- **observe an example**
-- **do it yourself**
-- **do it again and again in different contexts**
+📺 Watch the following video on chunking.
+ 
+</aside>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/GlTDRuwKb_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+
+<aside>
+
+📺 You can watch the following videos on how to chunk. [Part 1](https://www.youtube.com/watch?v=kecXPTatRng) and [Part 2](https://www.youtube.com/watch?v=y-LUxouCCjo).
+ 
+</aside>
+
+---
+
+## 5) Pomodoro Technique
+
+ 
+<aside>
+
+📺 Watch the following video on the Pomodoro technique
+
+</aside>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/8FfvK3AD7WE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+<aside>
+
+📖 Read the following article on the [**Pomodoro technique**](https://todoist.com/productivity-methods/pomodoro-technique).
+
+</aside>
 
 ---
 
@@ -111,16 +131,6 @@ The end goal of learning is not only to be informed but to improve our growth an
 
 <aside>
 
-
-📺 Watch the following video on deliberate practice.
-
-</aside>
-
-[https://youtu.be/1-sjUoGO250](https://youtu.be/1-sjUoGO250)
-
-<aside>
-
-
 📖 Read the following article on [**deliberate practice**](https://modelthinkers.com/mental-model/213).
 
 </aside>
@@ -133,21 +143,33 @@ It is important to know that deliberate practice is not doing something repeated
 
 These components among others separate deliberate practice from regular practice.
 
-**Here is a video on the way Deliberate practice works in Computer Programming**
+
+<aside>
+
+📺 Watch this videos on the way deliberate practice works in Computer Programming.
+ 
+</aside>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/a9jBcoMpquE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-[https://youtu.be/EiR-oQ0QnX8](https://youtu.be/EiR-oQ0QnX8)
+<aside>
+
+📺 Watch this video on the way deliberate practice works in Programming.
+
+</aside>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/EiR-oQ0QnX8"title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 
 One thought about deliberate practice is that there has to be a very specific skill that you are practicing in order to give it the necessary focus. For example, a basketball player might focus on practicing and developing his shooting skills. As a software developer, that might mean focusing on a particular programming language. To engage in deliberate practice:
 
- 
+- **Find out your current skill/knowledge level and the gaps that you have.** When you assess your current level with the perspective of becoming an expert, you can recognize the gaps and the areas for improvement.
+- **Set clear and SMART goals that stretch you.** What do you want to be able to do in a set period of time that you are not currently able to do? Identify a specific area of practice.
+- **Focus** on this area of practice over time and give regular, consistent attention to it
+- **Take time to reflect on your progress**, and your strategies and analyze the impact that your current approach is resulting in.
+- **Get regular feedback.** As you work on your area of growth and practice, get feedback from a coach, your teacher or someone who can show you the gaps in your performance in order to find ways to improve continuously.
 
-- Find out your current skill/knowledge level and the gaps that you have. When you assess your current level with the perspective of becoming an expert, you can recognize the gaps and the areas for improvement
-- Set clear and SMART goals that stretch you. What do you want to be able to do in a set period of time that you are not currently able to do? Identify a specific area of practice
-- Focus on this area of practice over time and give regular, consistent attention to it
-- Take time to reflect on your progress, and your strategies and analyze the impact that your current approach is resulting in.
-- Get regular feedback. As you work on your area of growth and practice, get feedback from a coach, your teacher or someone who can show you the gaps in your performance in order to find ways to improve continuously.
+---
 
 ## 7) Active Recall and Retrieval
 
@@ -157,12 +179,11 @@ Recall can either be **passive** or **active** with passive recall happening whe
 
 <aside>
 
-
 📺 Watch this video to learn a number of strategies for practicing active recall.
 
 </aside>
 
-[https://youtu.be/MSq-KGj_cnY](https://youtu.be/MSq-KGj_cnY)
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/MSq-KGj_cnY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 - **List of the strategies from the video.**
     - Pre-test
@@ -180,7 +201,13 @@ Recall can either be **passive** or **active** with passive recall happening whe
 
 ### Retrieval Practice
 
-[https://youtu.be/4hu-8yPo8Pg](https://youtu.be/4hu-8yPo8Pg)
+<aside>
+
+📺 Watch this video to learn more about retrieval practice
+
+</aside>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/4hu-8yPo8Pg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 Retrieval practice which is also called practice testing, similar to recall is the act of bringing back information to mind. During study, we encounter new information and because we learn by making connections, it is important to be able to retrieve prior learnings in order to make connections to new concepts and ideas. 
 
@@ -193,100 +220,29 @@ Here are some techniques for retrieval of learning:
 - Writing essays
 - Group discussion
 
+---
+
 ## 8) Spaced Repetition
 
 <aside>
-
 
 📺 Watch this video to learn more about active recall and spaced repetition.
 
 </aside>
 
-[https://www.youtube.com/watch?v=-uMMRjrzPmE](https://www.youtube.com/watch?v=-uMMRjrzPmE)
-
-<aside>
-
-
-📖 Read this article to learn about [**Spaced Retrieval**](https://modelthinkers.com/mental-model/spaced-retrieval).
-
-</aside>
-
-## 9) Pomodoro Technique
-
-<aside>
-
-
-📖 Read the following article on the [**Pomodoro technique**](https://modelthinkers.com/mental-model/pomodoro-technique).
-
-</aside>
-
-[https://todoist.com/productivity-methods/pomodoro-technique](https://todoist.com/productivity-methods/pomodoro-technique)
-
-<aside>
-
-
-📺 Watch the following video on the Pomodoro technique
-
-</aside>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/1l4w7uHdNaQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/-uMMRjrzPmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ---
 
-## 10) Focused and Diffuse Thinking: The Two Neural Networks Support Your Thinking
+## Discussion: Learning Strategies
 
 <aside>
-
-
-📺 Watch the following videos to understand the focused and diffuse mode networks function.
-
+ 
+💬 **Answer the questions in the padlet below.**
+ 
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/dzjsk5e7srI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-<aside>
-
-
-📙 ***Focused Thinking** 
-Concentrated, conscious, and relatively predictable.*
-
-</aside>
-
-<aside>
-
-
-📙 ***Diffuse Thinking** 
-Relaxed, occurs largely subconsciously and can result in surprising connections.*
-
-</aside>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/1FvYJhpNvHY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-Potential alternative video: [https://www.youtube.com/watch?v=GlTDRuwKb_g](https://www.youtube.com/watch?v=GlTDRuwKb_g)
-
-<aside>
-
-
-📖 Read this article on [**focused and diffuse thinking**](https://modelthinkers.com/mental-model/focused-and-diffuse-thinking).
-
-</aside>
-
-<aside>
-
-
-📺 Watch the following video to learn how these two networks can be applied to working as a software developer.
-
-</aside>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/WgWuUj5TFCw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/eu7r5rpnb5cz8g54" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
 ---
 
-<aside>
-
-
-🤷🏿‍♀️ **So What? How does this section apply to me?**
-
-*[insert text]*
-
-</aside>

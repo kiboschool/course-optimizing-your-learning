@@ -1,182 +1,80 @@
-# Learning strategies before learning
+# Learning Strategies - Before Learning (Planning)
 
-*Estimated Time: xx hours*
+*Estimated Time: 1 hour*
 
 ---
 
-In sections 4.5 - 4.7 we will discuss some strategies, tools, and techniques that can help you improve your learning through all 3 stages of self-directed learning. In this section we will focus on:
+In sections 4.3 - 4.5 we will discuss some strategies, tools, and techniques that can help you improve your learning through all 3 stages of self-directed learning (i.e. Planning, Monitoring, and Evaluating). In this section we will focus on:
 
 **Planning (Before Learning)**
 
-- Goal setting
-- Implementation intentions
-- Understanding process
-- Learning plans
-- Learning contracts
+- Goal Setting
+- Implementation Intentions (and Coping Plans)
 
 ---
 
-## 1) Goal setting
+## 1) Goal Setting
 
-To get started with the learning process, you have to set learning goals for yourself or eventual outcomes that motivate you to go on the learning journey.
-
-The videos below serve as an introduction to setting learning goals and in addition recommend a number of steps for setting learning goals as a developer
-
-[https://youtu.be/EeQejpbs-Zc](https://youtu.be/EeQejpbs-Zc)
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/gBy8BhwXBgs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-From the video, some of the steps highlighted in setting learning goals are:
-
-- Prioritization
-- Structure
-- Accountability
+To get started with the learning process, you have to set learning goals or desired outcomes for yourself so that you know wear your learning journey is trying to take you, and have a clear pciture of what success looks like. We have talked a little bit about goal setting before in this course (in section 1.5 Self-Directed Learning), but in this section we will look at how to set goals using the S.M.A.R.T framework so that they can be as useful as possible.
 
 <aside>
 
-
-📺 Watch this video about how to set SMART goals.
+📺 Watch this video about how to set goals using the S.M.A.R.T framework.
 
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/LQ5Uj1nryBc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/i0QfCZjASX8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+
+## Discussion: Your Goals
+
+<aside>
+
+💬 In the padlet below, share one of your goals for the rest of the year. It can be academic, professional, or personal. Then answer the rest of the questions in the padlet.
+
+</aside>
+
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/7mfctr5t6upp6oj" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
 ---
 
 ## 2) Implementation Intentions
 
-[https://www.youtube.com/watch?v=DUAB-BW-gZ8](https://www.youtube.com/watch?v=DUAB-BW-gZ8)
+One of the ways to improve your ability to achieve your goals, is to couple well set goals with something called "implementation intentions". These are "if-then" plans that specify when and how you will achieve your goals. They can also be used to state what you will do if certain things happen during your learning journey. When they are used in this way, why are sometimes called "Coping Plans".
 
-[https://www.psychologytoday.com/ca/blog/dont-delay/201001/implementation-intentions-facilitate-action-control](https://www.psychologytoday.com/ca/blog/dont-delay/201001/implementation-intentions-facilitate-action-control)
+Here is an examples of an implementation intention: "If I have finished eating breaktfast, I will spend 15 minutes working on my Mathematical Thinking problem set."
 
----
-
-## 3) **Understanding Process - Process Thinking**
-
-What set of steps do you undertake in studying or in completing a task?
-
-Process thinking involves understanding all that needs to be done for a task or goal to be completed and finding the best path and procedure for getting them done.
-
-In his book on Self-Directed Learning, Maurice Gibbons advocates for using process templates as a way to foster process thinking and order. Process templates help to recognize the skills and actions required to complete an activity and to order them appropriately.
-
-One example from the book is the **Competence template** as shown below. The competence template shows the process/steps to becoming good at something:
-
-| 1 | Analyze your interests, talents | Choose a field of specialty |
-| --- | --- | --- |
-| 2 | Survey the field | Confirm, commit to the chosen specialty |
-| 3 | Observe specialists in the field | List knowledge and skills needed |
-| 4 | Plan a program of study and practice | Enact plan in key field area |
-| 5 | Set a challenge in your field | Plan and execute the challenge |
-| 6 | Review the process and achievement | Reconfirm, pursue specialty |
-
-The above process can be adapted to the learning of any new skill or competence. Once the process is laid out, it is easier for you to follow through by completing the tasks in the right order.
-
-As you use process templates and apply process thinking to learn and complete tasks, you are better equipped to drive autonomous learning and you will have the confidence to take on new tasks since you are able to organize the steps to completion of the task.
-
-### **Discuss**
+The power of implementation intentions is that you are creating concrete plans of action for how you will achieve your goals, as well as "get out of jail" plans for how to overcome obstacles. By creating these while your mind is still fresh, you are able to utilize them to reduce the cognitive burden of decision making later on. As we saw in the previous section, these can be a powerful way to create habits that support you in achieving your goals.
 
 <aside>
 
+📺 Watch this video on implementation intentions.
 
-💬 Answer the following question in the padlet below.
-
-- How would you approach learning a new programming language - what steps would you take and in what sequence?
 </aside>
 
-[insert padlet]
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/DUAB-BW-gZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
----
+Implementation intensions are usually in the form of: If [situation A occurs], then I will [behavior X]. Here are some examples:
 
-## 4) Learning plans
+- If I wake up tomorrow morning, then I will put on my shoes and go on a 20 minute walk.
+- If I am feeling tempted to eat a cookie, then I will eat an apple instead.
+- If I finish brushing my teeth, then I will journal for 15 minutes.
+- If there are stairs, then I will take them.
 
-[https://www.bkconnection.com/static/Managing_Your_Own_Learning_EXCERPT.pdf](https://www.bkconnection.com/static/Managing_Your_Own_Learning_EXCERPT.pdf)
+And here are examples of implementation intentions that help you manage obstacles that could get in the way of you achieving your goals (i.e. coping plans):
+- If I don't understand the Mathematical Thinking material, I will go to offfice hours.
+- If my code isn't running, I will share a screenshot with my squad mates and ask for help.
+- If I don't understand the OYL assignment instructions, I will post a queston in the help channel on Discord.
 
----
-
-## 5) Learning Contracts
+## Discussion: Your Implementation Intentions
 
 <aside>
 
-
-📖 Read the following article on **[learning contracts](https://uwaterloo.ca/centre-for-teaching-excellence/teaching-resources/teaching-tips/tips-students/self-directed-learning/self-directed-learning-learning-contracts)**.
+💬 **Answer the questions in the padlet below.**
 
 </aside>
 
-### Purpose of the Learning Contract
-
-A learning contract gives you the ability to independently determine what you want to learn and how you want to learn it. With a learning contract, you are able to take ownership for your learning, create clear goals and timelines, source what you need for your learning, and engage with your teacher/Faculty to receive support and feedback as you complete the learning process. With the learning contract, you are able to explore different learning styles and strategies and find/stick to the ones that work for you.
-
-As you might already know, a contract represents an agreement between 2 people and so, the learning contract in this case is an agreement between you as a student and your Faculty on what areas of learning have been identified. The learning contract not only holds you accountable but also helps the Faculty or supervisor know how best they can support you. 
-
-To be clear, the learning contract requires that you are ready to take ownership of your learning and you are an active learner versus a passive learner who expects to be told what you need to do or learn. You will need to evaluate what you need to learn, set goals, structure your own learning and reach out for support.
-
-With every contract, it is important to detail the responsibilities of each party. The learning contract is no exception. Find below the basic responsibilities of students and teachers in using a learning contract
-
-**Student’s Responsibilities**
-
-- Identifies and proposes what they want to learn and how they want to learn it
-- Articulates what the outcomes, output, timelines, and evidence will be
-- Identifies learning resources and strategies to employ
-- Initiates an alignment meeting with the Faculty to discuss their plan
-- Regularly check in with Faculty to review progress and get feedback
-
-**Faculty Responsibilities**
-
-- Provide support in developing the learning contract by reviewing student’s proposal
-- Recommend learning resources, strategies, etc
-- Be available to provide feedback and meet regularly with student for support and accountability
-- Evaluate student’s completed learning evidence
-
-*[Read more here about Learning Contracts](https://uwaterloo.ca/centre-for-teaching-excellence/teaching-resources/teaching-tips/tips-students/self-directed-learning/self-directed-learning-learning-contracts)*
-
-### Learning Contract Components and Examples
-
-A typical Learning Contract will have the following core components:
-
-**1. Learning Objectives and** **Outcome(s)** - define what is to be learned/accomplished in a way that is measurable. What do you intend that your learning equips you to do or to know?
-
-**2. Learning Resources** - what materials will you need in this learning process- videos, books, documentaries, etc?
-
-**3. Learning Strategies** - how will you learn and what activities will you engage in - field trips, class attendance, reading, completing projects, etc?
-
-**4. Milestones** **and timelines** - how will you accomplish each component of your learning across a time frame?
-
-**5. Outputs and Assessment** - how will you show evidence of what you have learned - assignments/deliverables such as reports, presentations, prototypes, etc
-
-**6. Faculty/Evaluator Feedback -** evaluation of your learning accomplishment according to your Faculty/supervisor
-
-[*Read more*](http://2differentiate.pbworks.com/w/page/860073/Learning%20Contract)
-
-### Steps to create and use your Learning Contract
-
-- Identify what you want to learn and how you want to learn it. Write that down and propose it. Note that you will go through an alignment process with your Faculty on this
-- Identify what learning strategies and approaches you might take to complete this learning
-- Identify the learning resources and materials that you will need according to the strategies you have chosen
-- Identify the milestones in your learning journey and what the timelines will be for those milestones
-- Determine what assignments and deliverables you will complete to evidence your learning
-- Initiate a meeting with your Faculty to discuss your initial learning contract.
-- Get feedback, implement it and secure a sign off from your faculty
-- Set a time to meet and ensure to meet regularly with your faculty to ensure progress
-
-| Learning Outcomes and Objectives (What are you going to learn?) | Learning Resources (What resources including books, videos, and materials will you need?) | Learning Strategies (How will you learn it - reading, projects, events and conferences, etc) | Milestones/Timelines (How long will it take you to complete different stages of the learning?) | Outputs/Evidence of Learning (What will be the evidence that you have achieved the learning outcomes set?) | Faculty/Evaluator (Who will evaluate your learning?) |
-| --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-
-- **What is a Learning Contract?**
-- **What does it contain?**
-- **How do you create a Learning Contract?**
-- **How do you use a Learning Contract?**
-
-Source: [https://roghiemstra.com/contract.html](https://roghiemstra.com/contract.html)
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/gajp1kl0u4ibs2zk" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
 ---
 
-<aside>
-
-
-🤷🏿‍♀️ **So What? How does this section apply to me?**
-
-*[insert text]*
-
-</aside>

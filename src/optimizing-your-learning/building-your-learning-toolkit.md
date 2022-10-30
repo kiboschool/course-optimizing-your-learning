@@ -8,11 +8,7 @@ E*stimated Time: 4 hours*
 
 After completing this lesson, you will be able to:
 
-- Differentiate between effective and ineffective learning habits
-- Create a plan for developing effective learning habits
-- Implement techniques to improve your memory
-- Utilize strategies to overcome distractions and increase your focus
-- Utilize the flow state to improve your learning engagement
+- Utilize habits to increase the effectiveness of your learning.
 - Identify and implement a variety of strategies to increase the effectiveness of your self-directed learning
 
 ## Getting Focused

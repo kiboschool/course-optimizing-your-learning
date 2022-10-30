@@ -100,7 +100,7 @@ These points speak to studying but are clearly relevant to the way you think of 
     
 - **Procrastination and distraction**
     
-    With all the multiple channels of information, social connection, and more online, we are more distracted than ever before especially when studying online.  We are trying to study/engage in learning while watching Instagram reels or random YouTube videos. These not only lengthen the time we spend learning but also affect our brain’s ability to focus.
+    With all the multiple channels of information, social connection, and more online, we are more distracted than ever, especially when studying online. We are trying to study/engage in learning while watching Instagram reels or random YouTube videos. These not only lengthen the time we spend learning, but also affect our brain’s ability to focus.
     
 - **Not sleeping enough**
     

@@ -36,6 +36,10 @@
 
 As this quote suggests, being able to be consistent in your actions, especially when you don't feel like it, is one of the keys to success. But always being disciplined can be really challenging and mentally draining. Habits can help you put important actions on autopilot, so that you keep doing them without having to constantly summon up the motivation and discipline.
 
+---
+
+## Goals versus Habits and Systems
+
 <aside>
 
 
@@ -44,6 +48,22 @@ As this quote suggests, being able to be consistent in your actions, especially 
 </aside>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/v32ZtHUEqYQ"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+<aside>
+  
+**"We do not rise to the level lf our goals, we fall to the level of our systems."** 
+- James Clear
+
+</aside>
+
+<aside>
+
+
+📺 Watch the following video to learn more about using habits and systems to achieve your goals.
+
+</aside>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/QXd6jeDElWM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
 ---

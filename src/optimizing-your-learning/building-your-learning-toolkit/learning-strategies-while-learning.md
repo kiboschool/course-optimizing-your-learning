@@ -131,14 +131,6 @@ The end goal of learning is not only to be informed but to improve our growth an
 
 <aside>
 
-📺 Watch the following video on deliberate practice.
-
-</aside>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/1-sjUoGO250" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-<aside>
-
 📖 Read the following article on [**deliberate practice**](https://modelthinkers.com/mental-model/213).
 
 </aside>
@@ -171,11 +163,11 @@ These components among others separate deliberate practice from regular practice
 
 One thought about deliberate practice is that there has to be a very specific skill that you are practicing in order to give it the necessary focus. For example, a basketball player might focus on practicing and developing his shooting skills. As a software developer, that might mean focusing on a particular programming language. To engage in deliberate practice:
 
-- Find out your current skill/knowledge level and the gaps that you have. When you assess your current level with the perspective of becoming an expert, you can recognize the gaps and the areas for improvement
-- Set clear and SMART goals that stretch you. What do you want to be able to do in a set period of time that you are not currently able to do? Identify a specific area of practice
-- Focus on this area of practice over time and give regular, consistent attention to it
-- Take time to reflect on your progress, and your strategies and analyze the impact that your current approach is resulting in.
-- Get regular feedback. As you work on your area of growth and practice, get feedback from a coach, your teacher or someone who can show you the gaps in your performance in order to find ways to improve continuously.
+- **Find out your current skill/knowledge level and the gaps that you have.** When you assess your current level with the perspective of becoming an expert, you can recognize the gaps and the areas for improvement.
+- **Set clear and SMART goals that stretch you.** What do you want to be able to do in a set period of time that you are not currently able to do? Identify a specific area of practice.
+- **Focus** on this area of practice over time and give regular, consistent attention to it
+- **Take time to reflect on your progress**, and your strategies and analyze the impact that your current approach is resulting in.
+- **Get regular feedback.** As you work on your area of growth and practice, get feedback from a coach, your teacher or someone who can show you the gaps in your performance in order to find ways to improve continuously.
 
 ---
 

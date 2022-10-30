@@ -22,8 +22,6 @@ This week's assignment will require you to write about your habits and develop a
 
 According to James Clear, a useful way to classify habits is to ask the question, “Does this behavior help me become the type of person I wish to be?” Good habits reinforce your desired identity, bad habits conflict with your desired identity, and neutral habits seem unrelated.
 
-Table 1 - Habit Inventory
-
 ![habit](./Habits.png)
 
 ### Task 2 - Breaking a Bad Habit

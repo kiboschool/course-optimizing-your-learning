@@ -118,8 +118,8 @@ These are just a few of the several bad learning and study habits you might have
 
 🪞 **Answer the questions in the padlet below.**
 
-- Which bad learning habits have you been guilty of?
-- Are there other bad learning habits you know that should be on this list?
+- Which bad learning habits mentioned in the video have you been guilty of?
+- Are there other bad learning habits that you think should be on this list?
 
 </aside>
 

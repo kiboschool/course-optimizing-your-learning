@@ -56,7 +56,7 @@
 	- [Learning Strategies: Before Learning](optimizing-your-learning/building-your-learning-toolkit/learning-strategies-before-learning.md)
 	- [Learning Strategies: While Learning](optimizing-your-learning/building-your-learning-toolkit/learning-strategies-while-learning.md)
 	- [Learning Strategies: After Learning](optimizing-your-learning/building-your-learning-toolkit/learning-strategies-after-learning.md)
-	- [Assignment 4 - Habits Inventory and Reflection](optimizing-your-learning/building-your-learning-toolkit/assignment-4-memory-challenge.md)
+	- [Assignment 4 - Habits Inventory and Change Plan](optimizing-your-learning/building-your-learning-toolkit/assignment-4-memory-challenge.md)
 	- [Final Presentation Milestone 3](optimizing-your-learning/building-your-learning-toolkit/final-presentation-milestone-3.md)
 
 <!--

@@ -50,7 +50,7 @@ After completing this lesson, you will be able to:
 
 [4.5 Learning Strategies: After Learning](/optimizing-your-learning/building-your-learning-toolkit/learning-strategies-after-learning.md)
 
-[Assignment 4: Habit Inventory and Reflectio ](/optimizing-your-learning/building-your-learning-toolkit/assignment-4-memory-challenge.md)
+[Assignment 4: Habit Inventory and Change Plan ](/optimizing-your-learning/building-your-learning-toolkit/assignment-4-memory-challenge.md)
 
 [Final Presentation - Milestone 3](/optimizing-your-learning/building-your-learning-toolkit/final-presentation-milestone-3.md)
 

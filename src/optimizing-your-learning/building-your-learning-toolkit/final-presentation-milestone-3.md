@@ -10,6 +10,6 @@ By now you should be completing the learning portion of your group SDL project. 
   - Learning outcomes - i.e. what you think the viewer will learn by watching your video lesson.
   - Content and/or activities related to your topic. This should teach your viewer the information that is listed in your learning outcomes.
   - An assessment that tests how well your viewer has achieved your learning outcomes.
-  - Your video lesson should not just be a lecture, but instead should include vidual elements that make the lesson engaging. Try to include activities or questions that require the viewer to learn actively.
+  - Your video lesson should not just be a lecture, but instead should include visual elements that make the lesson engaging. Try to include activities or questions that require the viewer to learn actively.
 
 ---

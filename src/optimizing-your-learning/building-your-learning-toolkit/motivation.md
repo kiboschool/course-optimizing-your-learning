@@ -45,7 +45,7 @@ As we kick off this lesson on implementing self-directed learning through specif
     
 </aside>
 
-Some of the "secrets" from the articles: 
+List of the "secrets" from the articles: 
 - Pursue passion, not A’s.
 - Get comfortable with failure.
 - Make a personal connection to your studies.

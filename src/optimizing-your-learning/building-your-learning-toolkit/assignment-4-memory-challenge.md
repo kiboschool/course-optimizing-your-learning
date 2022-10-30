@@ -21,12 +21,8 @@ Think through all the things that you do in a typical day and identify your habi
 According to James Clear, a useful way to classify habits is to ask the question, “Does this behavior help me become the type of person I wish to be?” Good habits reinforce your desired identity, bad habits conflict with your desired identity, and neutral habits seem unrelated.
 
 Table 1 - Habit Inventory
-Habits Rating (Good, Neutral, Bad)
 
-| Habits | Rating (Good, Neutral, Bad) |
-| --- | --- |
-|  |  |
-|  |  |
+![habit](./Habit.png)
 
 ### Task 2 - Breaking a Bad Habit
 

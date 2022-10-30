@@ -34,7 +34,7 @@
 
 </aside>
 
-But always being disciplined can be really challenging and mentally draining. Habits help can help you put important actions on autopilot, so that you keep doing them without having to constantly summon up the motivation and discipline.
+But always being disciplined can be really challenging and mentally draining. Habits can help you put important actions on autopilot, so that you keep doing them without having to constantly summon up the motivation and discipline.
 
 <aside>
 

@@ -1,4 +1,15 @@
-# Final assessments
+# Final Assessments
+
+---
+
+<aside>
+
+
+📝 Complete the assignments below
+
+</aside>
+
+**Due date: November 13th, 2022**
 
 ---
 

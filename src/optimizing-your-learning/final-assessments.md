@@ -86,10 +86,10 @@ Use Gibbs' Reflective Cycle to reflect on your experience of working in a group 
 ### Submission
 
 You will need to submit the following by the deadline (November 20th, 2022):
-1- Your group learning plan (for Milestone 1)
-2- A video lesson on your SDL topic (for Milestone 3)
-3- Your Learning self-evaluation (for Milestone 4)
-4- Your group learning experience reflection (for Milestone 4)
+- Your group learning plan (for Milestone 1)
+- A video lesson on your SDL topic (for Milestone 3)
+- Your Learning self-evaluation (for Milestone 4)
+- Your group learning experience reflection (for Milestone 4)
 
 Please create one pdf with all four components of the submission, and submit it on Gradescope. For the video, you can upload the video to Youtube (please make it "Unlisted") and include the link in your submission. Once you have uploaded your submission to Gradescope, please also upload it to the Woolf platform.
 

@@ -35,8 +35,9 @@ Personal Learning Charter Prompts:
 - **5 - My Learning Tools and Resource System** 
   - What learning strategies will you use to achieve your learning goals? (select 2-4 strategies and describe how you will implement them).
 - **6 - My Learning Metrics and Milestones System** 
-  - What does success in learning look like to you?
-  - How will you measure your learning progress?
+  - Answer the following questions for one of your learning goals:
+    - What does success in learning look like to you?
+    - How will you measure your learning progress towards success? What are some intermediary milestones?
 
 
 The total word count for this essay is 1000-2000 words, and your grade on this assessment counts towards 25% of your final grade for this course.

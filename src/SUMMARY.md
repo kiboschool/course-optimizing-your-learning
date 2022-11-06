@@ -64,11 +64,8 @@
 - [Memory](optimizing-your-learning/building-your-learning-toolkit/memory.md)
 - [Flow State](optimizing-your-learning/building-your-learning-toolkit/flow-state.md)
 
--->
-<!--	
+-->	
 
 ### Week 5
 
 - [Final Assessments](optimizing-your-learning/final-assessments.md)
-
--->

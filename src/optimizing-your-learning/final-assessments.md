@@ -15,7 +15,7 @@
 
 **Due date: November 13th, 2022**
 
-Your first final assessment for Optimizing Your Learning is to use all the lessons learnt and reflections you have carried out throughout the course to create your personal learning charter. Your learning charter will contain **six sections**, which are listed below. In each section, you will respond to the prompts given below.
+Your first final assessment for Optimizing Your Learning is to use all the lessons learnt and reflections you have carried out throughout the course to create your personal learning charter. Your learning charter will contain **seven sections**, which are listed below. In each section, you will respond to the prompts given below.
 
 Personal Learning Charter Prompts:
 - **1 - Who Am I**
@@ -23,18 +23,18 @@ Personal Learning Charter Prompts:
 - **2 - My Learning Beliefs**
   - What are your key beliefs about how learning happens?
   - What is one limiting or empowering belief that you have about how you learn?
-- **My Learning Motivations** 
+- **3 - My Learning Motivations** 
   - What intrinsic and extrinsic factors motivate you to learn? 
-- **3 - My Learning Goals and Implementation Intentions** 
+- **4 - My Learning Goals and Implementation Intentions** 
   - What are some knowledge/skills that you wish to acquire in the next 12 months? (Share between 3 - 5)
   - For each knowledge/skill, what is one associated S.M.A.R.T. goal that you would like to achieve?
   - For each S.M.A.R.T. goal, what is one implementation intention that you can use to achieve your goals?  
-- **4 - My Strengths and Weaknesses**
+- **5 - My Strengths and Weaknesses**
   - What are your learning strengths? 
   - What are your learning weaknesses?
-- **5 - My Learning Tools and Resource System** 
+- **6 - My Learning Tools and Resource System** 
   - What learning strategies will you use to achieve your learning goals? (select 2-4 strategies and describe how you will implement them).
-- **6 - My Learning Metrics and Milestones System** 
+- **7 - My Learning Metrics and Milestones System** 
   - Answer the following questions for one of your learning goals:
     - What does success in learning look like to you?
     - How will you measure your learning progress towards success? What are some intermediary milestones?

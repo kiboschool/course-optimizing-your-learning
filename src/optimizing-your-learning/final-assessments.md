@@ -55,7 +55,7 @@ Please save your learning charter as a pdf and submit it on Gradescope, then upl
 
 **Due date: November 20th, 2022**
 
-For your second final assessment, you have been working in groups of 4-5 students to carry out a self-directed learning project. Note that you have been working on this project since week 2 by completing the "Final Presentation Milestones''. Your goal for the project was to select a topic that your group wanted to learn about, create a learning plan as a group, implement the learning plan, create a video lesson that teaches your group's topic to the rest of your classmates, evaluate and reflect on the overall experience.  S
+For your second final assessment, you have been working in groups of 4-5 students to carry out a self-directed learning project. Note that you have been working on this project since week 2 by completing the "Final Presentation Milestones''. Your goal for the project was to select a topic that your group wanted to learn about, create a learning plan as a group, implement the learning plan, create a video lesson that teaches your group's topic to the rest of your classmates, evaluate and reflect on the overall experience.  
 
 The milestones for this project were as follows:
 

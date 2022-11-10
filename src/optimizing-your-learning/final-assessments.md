@@ -42,7 +42,7 @@ Personal Learning Charter Prompts:
 
 The total word count for this essay is 1000-2000 words, and your grade on this assessment counts towards 25% of your final grade for this course.
 
-Please use the six sections listed above as the subheadings of your personal learning charter. Under each subheading, you should include your written response to the relevant prompt.
+Please use the seven sections listed above as the subheadings of your personal learning charter. Under each subheading, you should include your written response to the relevant prompt.
 
 ### Submission
 

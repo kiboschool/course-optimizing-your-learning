@@ -79,16 +79,21 @@ Your learning self-evaluation should answer the following questions:
 - When learning, what did you do that worked well, and what did you do that didn’t work well?
 - What should you do differently next time when learning a new topic? What should you do the same?
 
+*Each group member should write this individually as it is a self-evaluation.*
+
 **Group Learning Experience Reflection**
 
 Use Gibbs' Reflective Cycle to reflect on your experience of working in a group to complete this project. Remember to include all 6 steps of Gibbs' Cycle: Description, Feelings, Evaluation, Analysis, Conclusion, and Action Plan.
+
+*Each group member should write this individually and reflect on their personal experience of working with the rest of their group members.*
+
 
 ### Submission
 
 You will need to submit the following by the deadline (November 20th, 2022):
 - Your group learning plan (for Milestone 1)
 - A video lesson on your SDL topic (for Milestone 3)
-- Your Learning self-evaluation (for Milestone 4)
+- Your Learning self-evaluation (for Milestone 4) 
 - Your group learning experience reflection (for Milestone 4)
 
 Please create one pdf with all four components of the submission, and submit it on Gradescope. For the video, you can upload the video to Youtube (please make it "Unlisted") and include the link in your submission. Once you have uploaded your submission to Gradescope, please also upload it to the Woolf platform.

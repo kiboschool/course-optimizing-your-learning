@@ -38,24 +38,10 @@ The ability of your brain to change, by creating, strengthening, weakening, or d
 
 </aside>
 
-<aside>
-
-
-📖 Read this article on how the brain learns **[Understanding Your Brain to Help You Learn Better](https://kids.frontiersin.org/articles/10.3389/frym.2020.00054)**.
-
-</aside>
-
-<aside>
-
-
-📖 **Optional:** Read this Scientific American article to delve deeper into how the brain learns (**[The Brain Learns in Unexpected Ways](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8284127/pdf/nihms-1711577.pdf)**).
-
-</aside>
 
 ## Reflection: Neuroplasticity in Action
 
 <aside>
-
 
 🪞 Think about something that you are really good at; something that you can currently do with very little effort. What did it feel like when you first tried to do this thing?
 **Post your answer in the padlet bellow.**

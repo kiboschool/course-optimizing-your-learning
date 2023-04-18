@@ -75,13 +75,6 @@ A set of cognitive processes that help us self-regulate so we can effectively pl
 <aside>
 
 
-📖 **Optional:** Read the following article on [**the relationship between college students’ executive functioning and study strategies**](https://files.eric.ed.gov/fulltext/EJ742215.pdf).
-
-</aside>
-
-<aside>
-
-
 📖 Read the following article on challenges and possible solutions for **[executive dysfunction in university students](https://www.beyondbooksmart.com/executive-functioning-strategies-blog/a-day-in-the-life-of-a-college-student-with-executive-dysfunction)**.
 
 </aside>
@@ -105,12 +98,7 @@ Below are some more Executive Functioning skills that influence your ability to 
 
 [Source](https://www.thepathway2success.com/10-executive-functioning-skills-the-ultimate-guide/)
 
-<aside>
 
-
-📖 **Optional:** Read the following article to learn more about [**executive functions for learning**](https://www.thepathway2success.com/10-executive-functioning-skills-the-ultimate-guide/).
-
-</aside>
 
 <aside>
 
@@ -129,27 +117,5 @@ Below are some more Executive Functioning skills that influence your ability to 
 </aside>
 
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/embed/y4ko5ualij2kqemb" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
-
----
-
-## Influence of Context on Executive Function Skills
-
-<aside>
-
-
-📺 Watch the following talk about shaping your context as a strategy for improving your executive function skills.
-
-</aside>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/qAC-5hTK-4c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-<aside>
-
-
-📖 **Optional:** Read the following article about [**Rethinking Executive Function and its Development**](https://www.psychologie.uzh.ch/dam/jcr:3b0aceb7-6994-4aeb-bf3d-2ddf33c27370/Doebel.PerspPsychSci.2020.pdf).
-
-</aside>
-
-In week 3, we will delve deeper into how to manage your learning context in order to improve how you learn.
 
 ---

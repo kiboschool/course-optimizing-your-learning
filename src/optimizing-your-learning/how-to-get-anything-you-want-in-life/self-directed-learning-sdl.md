@@ -64,12 +64,6 @@ Self-directed learning allows you to take responsibility for your own learning, 
 
 **One of the key reasons that we are teaching you self-directed learning is because this is how the majority of your learning will be once you are in a professional setting. So, it is important for you to get comfortable with taking more ownership of your learning now.**
 
-<aside>
-
-
-📖 **Optional:** Read the following article on [**self-directed learning skills in university students**](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.02324/full).
-
-</aside>
 
 <aside>
 
@@ -202,92 +196,8 @@ When you need to ask the community or Kibo team for help, one of the worst ways 
 - Details of what you have tried so far. "*I have tried [details of how you have tried to solve the problem already].*"
 - Any helpful context.
 - Specific ask. "*Can you help me [specific ask]*"
-</aside>
-
-<!--
-<aside>
-
-📖 Read the following article to learn more about [**Planning (Self-Management), Monitoring, Evaluating (Self-Modifying)**](https://www.learningpersonalized.com/holy-trinity-self-direction-self-managing-self-monitoring-self-modifying/).
-
-</aside>
--->
-
----
-
-# Questions to Guide Your Self-Directed Learning Process
-
-When setting out to direct your own learning, it can be useful to ask yourself the following questions in order to help shape and guide you through the process.
-
-[Adapted from Source](https://blog.futurefocusedlearning.net/10-self-directed-learning-questions)
-
-### Planning
-
-- **WHAT DO I WANT OR NEED TO LEARN?**
     
-- **WHY IS THIS IMPORTANT?**
-    - What is important or necessary? (e.g. Is there a specific problem to be solved? Is there a challenge that I need to face? Is there information that will construct something of value to me or others?)
-    - What is the context that is driving me to learn this? (e.g. Is this a hobby or skill? Is this for personal knowledge development? Is this learning for a job or a career development?)
-    - What else has motivated me to seek this knowledge?
-    - Why is this meaningful to me or to others?
-    - What would happen if I don’t find out what I need to or didn’t develop my skills adequately?
-    - How will this knowledge change things for me or others?
-- **HOW DO I INTEND TO USE THIS KNOWLEDGE?**
-    - For personal development? For problem-solving? For general interest? For use in other learning challenges? To respond to specific questions?
-- **WHAT ARE MY CAPABILITIES AND LIMITATIONS?**
-    - Capabilities - What do I know or what can I do now that will help me?
-    - Limitations - What can’t I do? And can I learn how to do it? (considering timeframe, budget, etc.)
-- **WHAT DO I KNOW ALREADY AND WHAT DO I NEED TO FIND OUT?**
-    - What do I already know about this topic from different sources (e.g. my assumptions, personal experience, other people)?
-    - Missing knowledge
-        - What don’t I know about the who, what, where, when, why, and how relating to this topic?
-        - What is the history of the problem or challenge? What is known by others?
-        - What have others missed in the past? What is still unknown by others?
-- **WHERE CAN I FIND OUT WHAT I NEED TO KNOW?**
-    - What traditional sources can I use? (e.g. Books, articles, film, art and design, conversation/collaboration, courses, hands-on workshops, seminars, mentoring/practicums.)
-    - What online sources can I use? (e.g. websites, blogs, wikis, videos, podcasts, online learning/MOOCs)
-- **HOW WILL MY LEARNING ACTUALLY TAKE PLACE?**
-    - Where will I learn? 
-    - How will I learn? 
-    - With whom will I learn? 
-    - What will be the structure of my learning sessions? Frequency, duration, etc.
-- **HOW WILL I KNOW MY LEARNING IS SUCCESSFUL?**
-    - What would success look like? And how will I measure that?
-    - What evidence do I need to collect in order to evaluate my success?
-    - How will I collect this evidence?
-
-By the end of the planning stage, you should have a strong sense of why what you are learning is important to you, what you want to accomplish, how far your current abilities are from that goal, how you plan to close the gap, and how you will know when the gap is closed. You have essentially created the map for your learning, which you can use to drive the rest of the process. 
-
-![Map](./map.jpeg)
-
-
-
-### Monitoring
-
-- **HOW DO I KNOW MY LEARNING IS PROGRESSING SUCCESSFULLY?**
-    - What evidence do I need to collect in order to evaluate my progress
-    - How will I collect this evidence?
-- **WHAT WILL I DO WHEN I HIT A ROADBLOCK?**
-    - What will I do if I don’t understand something?
-    - What will I do if I get interrupted while learning?
-    - What will I do if the learning seems too hard, or boring, or I don’t feel engaged in learning?
-- **WHO CAN I ASK FOR HELP WHILE LEARNING?**
-    - Family, friends, and teachers? Other professionals and experienced enthusiasts? Peers/Advanced Peers? Those who have failed to solve the problem and gained insights from that?
-
-Once you begin your learning journey (you are traversing your map), you will need tools (e.g. a compass) to help you know if you are heading in the right direction. You will also want to interact with guides (e.g. experts, instructors, peers) along the way that can help you if you get lost or stuck.
-
-![Compas](./compas.jpeg)
-
-### Evaluating
-
-- **HOW WILL I KNOW MY LEARNING WAS SUCCESSFUL?**
-    - What were the results of my efforts?
-    - How did I succeed or fall short of accomplishing my goal?
-    - What went well, and what didn’t?
-    - How can I improve my efforts, processes, and outcomes in the future?
-
-
-The critical question to ask yourself when you think that your learning is complete is "How do I know my learning is complete and that I have actually reached my goal?" And what evidence can you provide to support your answer to this question.
-
+</aside>
 
 <aside>
 
@@ -309,13 +219,5 @@ Here is a summary of the 20 tips from the article:
 | Make a list of topics “to master” | Create your own personal learning record |  |
 | Keep your goals realistic | Value progress over performance |  |
 | | Build a network of “learning colleagues”|  |
-
----
-
-<aside>
-
-⚠️ During the first live class we will do a group activity to practice the self-directed learning process.
-
-</aside>
 
 ---

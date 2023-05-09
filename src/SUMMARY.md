@@ -26,8 +26,6 @@
 	- [Know Theyself](optimizing-your-learning/understanding-your-mindsets-and-emotions/identity.md)
 	- [Beliefs That Hinder Learning](optimizing-your-learning/understanding-your-mindsets-and-emotions/beliefs-that-hinder-learning.md)
 	- [A Powerful Mindset That Supports Learning](optimizing-your-learning/understanding-your-mindsets-and-emotions/a-powerful-mindset-that-supports-learning.md)
-	- [Seek Discomfort](optimizing-your-learning/understanding-your-mindsets-and-emotions/a-powerful-mindset-that-supports-learning.md)
-	- [The Power of Failiure](optimizing-your-learning/understanding-your-mindsets-and-emotions/identity.md)
 	- [Introduction to Emotional Intelligence](optimizing-your-learning/understanding-your-mindsets-and-emotions/introduction-to-emotional-intelligence.md)
 	- [Understanding and Enhancing Your Self-Awareness](optimizing-your-learning/understanding-your-mindsets-and-emotions/understanding-and-enhancing-your-self-awarenes.md)
 	- [Developing Self-Regulation Skills](optimizing-your-learning/understanding-your-mindsets-and-emotions/developing-self-regulation-skills.md)
@@ -42,10 +40,8 @@
 	- [Motivation](optimizing-your-learning/managing-your-learning-context/motivation.md)
 	- [Managing Stress, Breathing, and Mindfulness](optimizing-your-learning/managing-your-learning-context/managing-stress-breathing-and-mindfulness.md)
 	- [You Are What You Eat](optimizing-your-learning/managing-your-learning-context/food-and-movement.md)
-	- [Boost Your Brain Through Movement](optimizing-your-learning/managing-your-learning-context/food-and-movement.md)
 	- [Sleep is Non-Negotiable](optimizing-your-learning/managing-your-learning-context/sleep.md)
 	- [Making Time Work for You](optimizing-your-learning/managing-your-learning-context/time-management.md)
-	- [Beating Procrastination](optimizing-your-learning/managing-your-learning-context/time-management.md)
 	- [Control Your Space](optimizing-your-learning/managing-your-learning-context/physical-environment.md)
 	- [Build Your Tribe](optimizing-your-learning/managing-your-learning-context/learning-with-others.md)
 	- [Assignment 3 - Learning Context Experiment](optimizing-your-learning/managing-your-learning-context/assignment-3-energy-and-time-management-experiment.md)
@@ -73,6 +69,10 @@
 - [Learning Approaches](optimizing-your-learning/how-to-get-anything-you-want-in-life/learning-approaches.md)
 - [Learning Strategies: After Learning](optimizing-your-learning/building-your-learning-toolkit/learning-strategies-after-learning.md)
 
+	- [Seek Discomfort](optimizing-your-learning/understanding-your-mindsets-and-emotions/a-powerful-mindset-that-supports-learning.md)
+	- [The Power of Failiure](optimizing-your-learning/understanding-your-mindsets-and-emotions/identity.md)
+	- [Boost Your Brain Through Movement](optimizing-your-learning/managing-your-learning-context/food-and-movement.md)
+	- [Beating Procrastination](optimizing-your-learning/managing-your-learning-context/time-management.md)
 
 -->
 <!--	

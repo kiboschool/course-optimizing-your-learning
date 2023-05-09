@@ -14,9 +14,7 @@
 	- [Motivation](optimizing-your-learning/how-to-get-anything-you-want-in-life/motivation.md)
 	- [How Learning Happens](optimizing-your-learning/how-to-get-anything-you-want-in-life/how-learning-happens.md)
 	- [Executive Functioning Skills](optimizing-your-learning/how-to-get-anything-you-want-in-life/executive-functioning-skills.md)
-	- [Learning Approaches](optimizing-your-learning/how-to-get-anything-you-want-in-life/learning-approaches.md)
-	- [Self Directed Learning](optimizing-your-learning/how-to-get-anything-you-want-in-life/self-directed-learning-sdl.md)
-	- [Reflective Practice](optimizing-your-learning/how-to-get-anything-you-want-in-life/reflective-practice.md)
+	- [Learning How To Learning](optimizing-your-learning/how-to-get-anything-you-want-in-life/self-directed-learning-sdl.md)
 	- [Assignment 1 - Orientation Reflection](optimizing-your-learning/how-to-get-anything-you-want-in-life/assignment-1-individual-sdl.md)
 
 
@@ -56,6 +54,7 @@
 	- [Learning Strategies: Before Learning](optimizing-your-learning/building-your-learning-toolkit/learning-strategies-before-learning.md)
 	- [Learning Strategies: While Learning](optimizing-your-learning/building-your-learning-toolkit/learning-strategies-while-learning.md)
 	- [Learning Strategies: After Learning](optimizing-your-learning/building-your-learning-toolkit/learning-strategies-after-learning.md)
+	- [Reflective Practice](optimizing-your-learning/how-to-get-anything-you-want-in-life/reflective-practice.md)
 	- [Assignment 4 - Habits Inventory and Change Plan](optimizing-your-learning/building-your-learning-toolkit/assignment-4-memory-challenge.md)
 	- [Final Presentation Milestone 3](optimizing-your-learning/building-your-learning-toolkit/final-presentation-milestone-3.md)
 
@@ -67,6 +66,8 @@
 - [Focus and Attention](optimizing-your-learning/building-your-learning-toolkit/focus-and-attention.md)
 - [Memory](optimizing-your-learning/building-your-learning-toolkit/memory.md)
 - [Flow State](optimizing-your-learning/building-your-learning-toolkit/flow-state.md)
+- [Learning Approaches](optimizing-your-learning/how-to-get-anything-you-want-in-life/learning-approaches.md)
+
 
 -->
 <!--	

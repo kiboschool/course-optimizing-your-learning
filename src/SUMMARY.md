@@ -13,7 +13,6 @@
 - [Week 1: How to Get Anything You Want in Life](optimizing-your-learning/how-to-get-anything-you-want-in-life.md)
 	- [Motivation](optimizing-your-learning/how-to-get-anything-you-want-in-life/motivation.md)
 	- [How Learning Happens](optimizing-your-learning/how-to-get-anything-you-want-in-life/how-learning-happens.md)
-	- [What Got You Here Won't Get You There](optimizing-your-learning/how-to-get-anything-you-want-in-life/what-got-you-here.md)
 	- [Skills Need for Success](optimizing-your-learning/how-to-get-anything-you-want-in-life/executive-functioning-skills.md)
 	- [Directing Your Learning](optimizing-your-learning/how-to-get-anything-you-want-in-life/self-directed-learning-sdl.md)
 	- [Assignment 1 - Orientation Reflection](optimizing-your-learning/how-to-get-anything-you-want-in-life/assignment-1-individual-sdl.md)
@@ -68,7 +67,8 @@
 - [Flow State](optimizing-your-learning/building-your-learning-toolkit/flow-state.md)
 - [Learning Approaches](optimizing-your-learning/how-to-get-anything-you-want-in-life/learning-approaches.md)
 - [Learning Strategies: After Learning](optimizing-your-learning/building-your-learning-toolkit/learning-strategies-after-learning.md)
-
+	
+	- [What Got You Here Won't Get You There](optimizing-your-learning/how-to-get-anything-you-want-in-life/what-got-you-here.md)
 	- [Seek Discomfort](optimizing-your-learning/understanding-your-mindsets-and-emotions/a-powerful-mindset-that-supports-learning.md)
 	- [The Power of Failiure](optimizing-your-learning/understanding-your-mindsets-and-emotions/identity.md)
 	- [Boost Your Brain Through Movement](optimizing-your-learning/managing-your-learning-context/food-and-movement.md)

@@ -14,8 +14,8 @@
 	- [Motivation](optimizing-your-learning/how-to-get-anything-you-want-in-life/motivation.md)
 	- [How Learning Happens](optimizing-your-learning/how-to-get-anything-you-want-in-life/how-learning-happens.md)
 	- [What Got You Here Won't Get You There](optimizing-your-learning/how-to-get-anything-you-want-in-life/what-got-you-here.md)
-	- [Skills Need for Success](optimizing-your-learning/how-to-get-anything-you-want-in-life/executive-functioning-skills.md)
-	- [Directing Your Learning](optimizing-your-learning/how-to-get-anything-you-want-in-life/self-directed-learning-sdl.md)
+	- [Skills Needed for Success](optimizing-your-learning/how-to-get-anything-you-want-in-life/executive-functioning-skills.md)
+	- [Direct Your Learning](optimizing-your-learning/how-to-get-anything-you-want-in-life/self-directed-learning-sdl.md)
 	- [Assignment 1 - Orientation Reflection](optimizing-your-learning/how-to-get-anything-you-want-in-life/assignment-1-individual-sdl.md)
 
 

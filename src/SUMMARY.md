@@ -13,7 +13,6 @@
 - [Week 1: How to Get Anything You Want in Life](optimizing-your-learning/how-to-get-anything-you-want-in-life.md)
 	- [Motivation](optimizing-your-learning/how-to-get-anything-you-want-in-life/motivation.md)
 	- [How Learning Happens](optimizing-your-learning/how-to-get-anything-you-want-in-life/how-learning-happens.md)
-	- [Memory](optimizing-your-learning/building-your-learning-toolkit/memory.md)
 	- [What Got You Here Won't Get You There](optimizing-your-learning/how-to-get-anything-you-want-in-life/what-got-you-here.md)
 	- [Skills Need for Success](optimizing-your-learning/how-to-get-anything-you-want-in-life/executive-functioning-skills.md)
 	- [Directing Your Learning](optimizing-your-learning/how-to-get-anything-you-want-in-life/self-directed-learning-sdl.md)
@@ -26,8 +25,6 @@
 	- [Motivation](optimizing-your-learning/understanding-your-mindsets-and-emotions/motivation.md)
 	- [Know Theyself](optimizing-your-learning/understanding-your-mindsets-and-emotions/identity.md)
 	- [Beliefs That Hinder Learning](optimizing-your-learning/understanding-your-mindsets-and-emotions/beliefs-that-hinder-learning.md)
-	- [Seek Discomfort](optimizing-your-learning/understanding-your-mindsets-and-emotions/seek-discomfort.md)
-	- [The Power of Failure](optimizing-your-learning/understanding-your-mindsets-and-emotions/failure.md)
 	- [A Powerful Mindset That Supports Learning](optimizing-your-learning/understanding-your-mindsets-and-emotions/a-powerful-mindset-that-supports-learning.md)
 	- [Introduction to Emotional Intelligence](optimizing-your-learning/understanding-your-mindsets-and-emotions/introduction-to-emotional-intelligence.md)
 	- [Understanding and Enhancing Your Self-Awareness](optimizing-your-learning/understanding-your-mindsets-and-emotions/understanding-and-enhancing-your-self-awarenes.md)
@@ -43,10 +40,8 @@
 	- [Motivation](optimizing-your-learning/managing-your-learning-context/motivation.md)
 	- [Managing Stress, Breathing, and Mindfulness](optimizing-your-learning/managing-your-learning-context/managing-stress-breathing-and-mindfulness.md)
 	- [You Are What You Eat](optimizing-your-learning/managing-your-learning-context/food-and-movement.md)
-	- [Boost Your Brain Through Movement](optimizing-your-learning/managing-your-learning-context/movement.md)
 	- [Sleep is Non-Negotiable](optimizing-your-learning/managing-your-learning-context/sleep.md)
-	- [Making Time Work for You](optimizing-your-learning/managing-your-learning-context/time-management.md)
-	- [Beating Procrastination](optimizing-your-learning/managing-your-learning-context/procrastination.md)
+	- [Make Time Work for You](optimizing-your-learning/managing-your-learning-context/time-management.md)
 	- [Control Your Space](optimizing-your-learning/managing-your-learning-context/physical-environment.md)
 	- [Build Your Tribe](optimizing-your-learning/managing-your-learning-context/learning-with-others.md)
 	- [Assignment 3 - Learning Context Experiment](optimizing-your-learning/managing-your-learning-context/assignment-3-energy-and-time-management-experiment.md)
@@ -72,7 +67,12 @@
 - [Learning Approaches](optimizing-your-learning/how-to-get-anything-you-want-in-life/learning-approaches.md)
 - [Learning Strategies: After Learning](optimizing-your-learning/building-your-learning-toolkit/learning-strategies-after-learning.md)
 	
+	- [Memory](optimizing-your-learning/building-your-learning-toolkit/memory.md)
+	- [Seek Discomfort](optimizing-your-learning/understanding-your-mindsets-and-emotions/seek-discomfort.md)
+	- [The Power of Failure](optimizing-your-learning/understanding-your-mindsets-and-emotions/failure.md)
 
+	- [Boost Your Brain Through Movement](optimizing-your-learning/managing-your-learning-context/movement.md)
+	- [Beating Procrastination](optimizing-your-learning/managing-your-learning-context/procrastination.md)
 
 
 -->

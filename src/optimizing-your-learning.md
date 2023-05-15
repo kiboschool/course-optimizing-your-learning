@@ -44,4 +44,4 @@ By the end of this course, you will be able to:
 
 [Week 4: Building Your Learning Toolkit](/optimizing-your-learning/building-your-learning-toolkit.md)
 
-[Week 5: Final Assessments] <!-- (/optimizing-your-learning/final-assessments.md) -->
+[Week 5: Final Assessments](/optimizing-your-learning/final-assessments.md)

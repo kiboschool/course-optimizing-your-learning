@@ -1,4 +1,4 @@
-# Sleep
+# Sleep is Non-Negotiable
 
 *Estimated Time: 1 hour*
 

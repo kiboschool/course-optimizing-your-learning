@@ -1,4 +1,4 @@
-# Physical Environment
+# Control Your Space
 
 *Estimated Time: 1 hour*
 

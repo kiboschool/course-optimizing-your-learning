@@ -41,7 +41,7 @@ After completing this lesson, you will be able to:
 
 [3.1 Motivation](/optimizing-your-learning/managing-your-learning-context/motivation.md)
 
-[3.2 Managing Stress](/optimizing-your-learning/managing-your-learning-context/managing-stress-breathing-and-mindfulness.md)
+[3.2 Manage Your Stress](/optimizing-your-learning/managing-your-learning-context/managing-stress-breathing-and-mindfulness.md)
 
 [3.3 You Are What You Eat](/optimizing-your-learning/managing-your-learning-context/food-and-movement.md)
 

@@ -49,6 +49,6 @@ After completing this lesson, you will be able to:
 
 [1.5 Use Technology to Learn Better](/optimizing-your-learning/how-to-get-anything-you-want-in-life/what-got-you-here.md)
 
-[Assignment 1: Letter to the Future](/optimizing-your-learning/how-to-get-anything-you-want-in-life/assignment-1-individual-sdl.md)
+[Assignment 1: Letter to Future Self](/optimizing-your-learning/how-to-get-anything-you-want-in-life/assignment-1-individual-sdl.md)
 
 ---

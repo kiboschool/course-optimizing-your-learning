@@ -38,10 +38,10 @@
 
 - [Week 3: Managing Your Learning Context](optimizing-your-learning/managing-your-learning-context.md)
 	- [Motivation](optimizing-your-learning/managing-your-learning-context/motivation.md)
-	- [Managing Stress, Breathing, and Mindfulness](optimizing-your-learning/managing-your-learning-context/managing-stress-breathing-and-mindfulness.md)
+	- [Manage Your Stress](optimizing-your-learning/managing-your-learning-context/managing-stress-breathing-and-mindfulness.md)
 	- [You Are What You Eat](optimizing-your-learning/managing-your-learning-context/food-and-movement.md)
 	- [Boost Your Brain Through Movement](optimizing-your-learning/managing-your-learning-context/movement.md)
-	- [Sleep is Non-Negotiable](optimizing-your-learning/managing-your-learning-context/sleep.md)
+	- [Sleep is Essential](optimizing-your-learning/managing-your-learning-context/sleep.md)
 	- [Make Time Work for You](optimizing-your-learning/managing-your-learning-context/time-management.md)
 	- [Control Your Space](optimizing-your-learning/managing-your-learning-context/physical-environment.md)
 	- [Build Your Tribe](optimizing-your-learning/managing-your-learning-context/learning-with-others.md)

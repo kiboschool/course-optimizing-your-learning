@@ -40,6 +40,7 @@
 	- [Motivation](optimizing-your-learning/managing-your-learning-context/motivation.md)
 	- [Managing Stress, Breathing, and Mindfulness](optimizing-your-learning/managing-your-learning-context/managing-stress-breathing-and-mindfulness.md)
 	- [You Are What You Eat](optimizing-your-learning/managing-your-learning-context/food-and-movement.md)
+	- [Boost Your Brain Through Movement](optimizing-your-learning/managing-your-learning-context/movement.md)
 	- [Sleep is Non-Negotiable](optimizing-your-learning/managing-your-learning-context/sleep.md)
 	- [Make Time Work for You](optimizing-your-learning/managing-your-learning-context/time-management.md)
 	- [Control Your Space](optimizing-your-learning/managing-your-learning-context/physical-environment.md)
@@ -63,23 +64,3 @@
 
 - [Final Assessments](optimizing-your-learning/final-assessments.md)
 
-<!--
-- [Learning Approaches](optimizing-your-learning/how-to-get-anything-you-want-in-life/learning-approaches.md)
-- [Learning Strategies: After Learning](optimizing-your-learning/building-your-learning-toolkit/learning-strategies-after-learning.md)
-	
-	- [Memory](optimizing-your-learning/building-your-learning-toolkit/memory.md)
-	- [Seek Discomfort](optimizing-your-learning/understanding-your-mindsets-and-emotions/seek-discomfort.md)
-	- [The Power of Failure](optimizing-your-learning/understanding-your-mindsets-and-emotions/failure.md)
-
-	- [Boost Your Brain Through Movement](optimizing-your-learning/managing-your-learning-context/movement.md)
-	- [Beating Procrastination](optimizing-your-learning/managing-your-learning-context/procrastination.md)
-
-[Welcome](optimizing-your-learning/welcome.md)
-
-
--->
-<!--	
-
-
-
--->

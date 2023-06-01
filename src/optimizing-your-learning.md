@@ -7,6 +7,8 @@
 ![brain](./brain.jpeg)
 Photo by Milad Fakurian on Unsplash
 
+## Todo: Add intructor welcome video
+
 ## Course Introduction
 
 Kibo’s mission is to educate collaborative innovators who use technology to solve pressing problems. 
@@ -31,10 +33,10 @@ By the end of this course, you will be able to:
 
 ## Course and Instructor Information
 
-The instructor for this course is: Instructor Name.
+The instructor for this course is: Tolu Agunbiade.
 The course will run from July 10 to August 13, 2023. Note that this is a **5 week course**.
 
-Live classes will be held on Tuesdays 5:30-7:00 pm GMT.
+Live classes will be held on Tuesdays 5:30-7:00 pm GMT. The live classes are mandatory.
 
 Office hours will be held xxx. This is an optional chance to get additional support from the instructor.
 
@@ -45,8 +47,6 @@ Office hours will be held xxx. This is an optional chance to get additional supp
 👩🏿‍🏫 Complete this course by exploring each week’s lesson. Lessons will be released each Sunday.
 
 </aside>
-
-[Week 0: Welcome!](/optimizing-your-learning/welcome.md)
 
 [Week 1: How to Get Anything You Want in Life](/optimizing-your-learning/how-to-get-anything-you-want-in-life.md)
 

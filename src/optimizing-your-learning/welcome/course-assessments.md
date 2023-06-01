@@ -12,9 +12,9 @@
  
 During weeks 1, 2, 3, and 4. you will have a weekly assignment that will be due on the Monday of the following week. The weekly assignments are:
 
-Week 1 - Letter to the Future (Due date: xxx)
+Week 1 - Letter to Future Self (Due date: xxx)
 
-Week 2 - Limiting Beliefs Plan (Due date: xxx)
+Week 2 - Overcoming Limiting Beliefs (Due date: xxx)
 
 Week 3 - Learning Context Experiment (Due date: xxx)
 

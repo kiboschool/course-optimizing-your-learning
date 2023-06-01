@@ -1,7 +1,6 @@
 # Optimizing Your Learning
 
-[Optimizing Your Learning](optimizing-your-learning.md)
-[Welcome](optimizing-your-learning/welcome.md)
+[Welcome!](optimizing-your-learning.md)
 [Course Topics](optimizing-your-learning/welcome/course-topics.md)
 [Course Expectations](optimizing-your-learning/welcome/course-expectations.md)
 [Course Assessments](optimizing-your-learning/welcome/course-assessments.md)
@@ -73,6 +72,8 @@
 
 	- [Boost Your Brain Through Movement](optimizing-your-learning/managing-your-learning-context/movement.md)
 	- [Beating Procrastination](optimizing-your-learning/managing-your-learning-context/procrastination.md)
+
+[Welcome](optimizing-your-learning/welcome.md)
 
 
 -->

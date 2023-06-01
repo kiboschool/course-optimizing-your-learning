@@ -3,8 +3,13 @@
 *Estimated Time: 7 hours*
 
 ---
+## Introduction
 
-## **Learning Outcomes**
+> 📺 Watch the following video from your instructor to learn about what you will be studying in week 1
+
+Insert video by the instructor introducing the main topics of the week and giving a short explanation of the week’s assessment.
+
+## Learning Outcomes
 
 After completing this lesson, you will be able to:
 
@@ -38,7 +43,7 @@ After completing this lesson, you will be able to:
 
 [2.1 Motivation](/optimizing-your-learning/understanding-your-mindsets-and-emotions/motivation.md)
 
-[2.2 Identity ](/optimizing-your-learning/understanding-your-mindsets-and-emotions/identity.md)
+[2.2 Know Thyself ](/optimizing-your-learning/understanding-your-mindsets-and-emotions/identity.md)
 
 [2.3 Beliefs That Hinder Learning](/optimizing-your-learning/understanding-your-mindsets-and-emotions/beliefs-that-hinder-learning.md)
 
@@ -55,7 +60,5 @@ After completing this lesson, you will be able to:
 [Assignment 2: Overcoming Limiting Beliefs](/optimizing-your-learning/understanding-your-mindsets-and-emotions/assignment-2-identity-and-limiting-beliefs.md)
 
 [Final Presentation - Milestone 1](/optimizing-your-learning/understanding-your-mindsets-and-emotions/final-presentation-milestone-1.md)
-
-<!-- [Wrap up](/optimizing-your-learning/understanding-your-mindsets-and-emotions/wrap-up.md) -->
 
 ---

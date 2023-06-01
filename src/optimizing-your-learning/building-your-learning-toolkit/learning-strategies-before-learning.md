@@ -1,19 +1,10 @@
-# Learning Strategies - Before Learning (Planning)
+# Set Goals You Can Achieve
 
 *Estimated Time: 1 hour*
 
 ---
 
-In sections 4.3 - 4.5 we will discuss some strategies, tools, and techniques that can help you improve your learning through all 3 stages of self-directed learning (i.e. Planning, Monitoring, and Evaluating). In this section we will focus on:
-
-**Planning (Before Learning)**
-
-- Goal Setting
-- Implementation Intentions (and Coping Plans)
-
----
-
-## 1) Goal Setting
+## Goal Setting
 
 To get started with the learning process, you have to set learning goals or desired outcomes for yourself so that you know wear your learning journey is trying to take you, and have a clear pciture of what success looks like. We have talked a little bit about goal setting before in this course (in section 1.5 Self-Directed Learning), but in this section we will look at how to set goals using the S.M.A.R.T framework so that they can be as useful as possible.
 
@@ -26,7 +17,7 @@ To get started with the learning process, you have to set learning goals or desi
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/i0QfCZjASX8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
-## Discussion: Your Goals
+### Discussion: Your Goals
 
 <aside>
 
@@ -38,7 +29,7 @@ To get started with the learning process, you have to set learning goals or desi
 
 ---
 
-## 2) Implementation Intentions
+## Implementation Intentions
 
 One of the ways to improve your ability to achieve your goals, is to couple well set goals with something called "implementation intentions". These are "if-then" plans that specify when and how you will achieve your goals. They can also be used to state what you will do if certain things happen during your learning journey. When they are used in this way, why are sometimes called "Coping Plans".
 
@@ -66,7 +57,7 @@ And here are examples of implementation intentions that help you manage obstacle
 - If my code isn't running, I will share a screenshot with my squad mates and ask for help.
 - If I don't understand the OYL assignment instructions, I will post a queston in the help channel on Discord.
 
-## Discussion: Your Implementation Intentions
+### Discussion: Your Implementation Intentions
 
 <aside>
 

@@ -4,8 +4,8 @@
 
 ---
 
-TODO: Add welcome video from instructor.
-
+![brain](./brain.jpeg)
+Photo by Milad Fakurian on Unsplash
 
 ## Course Description
 

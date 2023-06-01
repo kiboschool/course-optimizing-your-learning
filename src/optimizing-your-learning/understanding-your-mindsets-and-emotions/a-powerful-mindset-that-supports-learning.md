@@ -85,3 +85,11 @@ If we think about the learnings from the previous section on Learned Helplessnes
 - Vincent Van Gogh
 
 </aside>
+
+---
+
+## Grit
+
+Add a subsection on Grit
+
+---

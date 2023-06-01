@@ -4,6 +4,7 @@
 [Course Topics](optimizing-your-learning/welcome/course-topics.md)
 [Course Expectations](optimizing-your-learning/welcome/course-expectations.md)
 [Course Assessments](optimizing-your-learning/welcome/course-assessments.md)
+[Live Class](optimizing-your-learning/live-class.md)
 
 
 ## Lessons

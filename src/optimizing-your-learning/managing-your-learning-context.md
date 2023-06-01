@@ -45,13 +45,15 @@ After completing this lesson, you will be able to:
 
 [3.3 You Are What You Eat](/optimizing-your-learning/managing-your-learning-context/food-and-movement.md)
 
-[3.4 Sleep is Essential](/optimizing-your-learning/managing-your-learning-context/sleep.md)
+[3.4 Boost Your Brain Through Movement](/optimizing-your-learning/managing-your-learning-context/movement.md)
 
-[3.5 Make Time Work For Your](/optimizing-your-learning/managing-your-learning-context/time-management.md)
+[3.5 Sleep is Essential](/optimizing-your-learning/managing-your-learning-context/sleep.md)
 
-[3.6 Control Your Space ](/optimizing-your-learning/managing-your-learning-context/physical-environment.md)
+[3.6 Make Time Work For Your](/optimizing-your-learning/managing-your-learning-context/time-management.md)
 
-[3.7 Build Your Tribe](/optimizing-your-learning/managing-your-learning-context/learning-with-others.md)
+[3.7 Control Your Space ](/optimizing-your-learning/managing-your-learning-context/physical-environment.md)
+
+[3.8 Build Your Tribe](/optimizing-your-learning/managing-your-learning-context/learning-with-others.md)
 
 [Assignment 3: Learning Context Experiment](/optimizing-your-learning/managing-your-learning-context/assignment-3-energy-and-time-management-experiment.md)
 

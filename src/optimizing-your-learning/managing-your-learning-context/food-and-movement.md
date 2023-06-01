@@ -1,10 +1,10 @@
-# Food and Hydration, and Movement
+# Food and Hydration
 
 *Estimated Time: 1 hour*
 
 ---
 
-In this section, we will discuss the impact that the food and drink that you consume, and the amount that you move your body impact your ability to learn effectively.
+In this section, we will discuss the impact that the food and drink that you consume on your ability to learn effectively.
 
 ## Food
 

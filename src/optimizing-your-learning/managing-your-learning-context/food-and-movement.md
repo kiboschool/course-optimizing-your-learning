@@ -1,4 +1,4 @@
-# Food and Hydration
+# You Are What You Eat
 
 *Estimated Time: 1 hour*
 

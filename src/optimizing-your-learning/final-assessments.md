@@ -1,4 +1,4 @@
-# Final assessments
+# Final Assessments
 
 ---
 
@@ -20,25 +20,25 @@ Total word count should be 1250-1500 words.
 
 ---
 
-## **Final group presentation (25%) - Learning Together Session**
+## **Final Presentation (25%) - Learning Together Video**
 
-During the course of the class, you have already completed the following milestones for the group project:
+During the course of the class, you have already completed the following milestones for the final project:
 
-Milestone 1 -  Determine your learning goal and create a group learning plan that distributes responsibilities to different group members.
+Milestone 1 -  Determine your learning goal and create a learning plan.
 
 Milestone 2 - Carry out your learning plan.
 
-Milestone 3 - Create an artifact to demonstrate your group’s learning.
+Milestone 3 - Create an video lesson to demonstrate your learning.
 
 During the final week of the course you will be focusing on:
 
 - Evaluating the quality of your learning
-- Reflecting on the group learning experience
+- Reflecting on the learning experience
 
 At the end of the week you will need to submit:
 
 - Milestones 1 & 3
-- Learning evaluation and peer evaluation
+- Learning self-evaluation.
 - Video presentation about your SDL project (max length: 10 minutes)
 
 ---

@@ -23,7 +23,7 @@
 
 - [Week 2: Understanding Your Mindsets and Emotions](optimizing-your-learning/understanding-your-mindsets-and-emotions.md)
 	- [Motivation](optimizing-your-learning/understanding-your-mindsets-and-emotions/motivation.md)
-	- [Know Theyself](optimizing-your-learning/understanding-your-mindsets-and-emotions/identity.md)
+	- [Know Thyself](optimizing-your-learning/understanding-your-mindsets-and-emotions/identity.md)
 	- [Beliefs That Hinder Learning](optimizing-your-learning/understanding-your-mindsets-and-emotions/beliefs-that-hinder-learning.md)
 	- [A Powerful Mindset That Supports Learning](optimizing-your-learning/understanding-your-mindsets-and-emotions/a-powerful-mindset-that-supports-learning.md)
 	- [Introduction to Emotional Intelligence](optimizing-your-learning/understanding-your-mindsets-and-emotions/introduction-to-emotional-intelligence.md)

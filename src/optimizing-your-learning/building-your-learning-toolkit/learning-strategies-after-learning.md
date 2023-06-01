@@ -1,4 +1,4 @@
-# Growth Through Reflection
+# Grow Through Reflection
 
 *Estimated Time: 1 hour*
 

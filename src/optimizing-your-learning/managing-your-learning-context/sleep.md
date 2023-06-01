@@ -1,4 +1,4 @@
-# Sleep is Non-Negotiable
+# Sleep is Essential
 
 *Estimated Time: 1 hour*
 

@@ -1,12 +1,10 @@
-# Learning Strategies - While Learning (Monitoring)
+# Strategies for Learning
 
 *Estimated Time: 2 hours*
 
 ---
 
-In sections 4.3 - 4.5 we will discuss some strategies, tools, and techniques that can help you improve your learning through all 3 stages of self-directed learning. In this section we will focus on:
-
-**Monitoring (While Learning)**
+In this section we will focus on strategies for learning including:
 
 - Note Taking
 - Learning Diary
@@ -14,12 +12,12 @@ In sections 4.3 - 4.5 we will discuss some strategies, tools, and techniques tha
 - Chunking
 - Pomodoro Technique
 - Deliberate Practice
-- Active Recall and Retrieval
+- Active Recall and Retrieval/Testing
 - Spaced Repetition
 
 ---
 
-## 1) Note-taking (Capture & Create Method)
+## Note-taking (Capture & Create Method)
 
 <aside>
 
@@ -32,7 +30,7 @@ In sections 4.3 - 4.5 we will discuss some strategies, tools, and techniques tha
 
 ---
 
-## 2) Keeping a Learning Diary
+## Keeping a Learning Diary
 
 The process of keeping a learning diary is simple. On the first page, draw up a daily diary and record in summary form what days and times you were engaged in your learning. Then for each study session or activity keep a record of:
 
@@ -50,7 +48,7 @@ The process of keeping a learning diary is simple. On the first page, draw up a 
 
 ---
 
-## 3) Focus and Diffuse Modes 
+## Focus and Diffuse Modes 
 
 <aside>
 
@@ -80,7 +78,7 @@ The process of keeping a learning diary is simple. On the first page, draw up a 
 
 ---
 
-## 4) Chunking
+## Chunking
 
 <aside>
 
@@ -100,7 +98,7 @@ The process of keeping a learning diary is simple. On the first page, draw up a 
 
 ---
 
-## 5) Pomodoro Technique
+## Pomodoro Technique
 
  
 <aside>
@@ -119,7 +117,7 @@ The process of keeping a learning diary is simple. On the first page, draw up a 
 
 ---
 
-## 6) Deliberate Practice
+## Deliberate Practice
 
 How do the very best become who they are? How do the great writers, sports people, artists, scientists, creators, and other stars emerge?
 
@@ -171,7 +169,7 @@ One thought about deliberate practice is that there has to be a very specific sk
 
 ---
 
-## 7) Active Recall and Retrieval
+## Active Recall and Retrieval/Testing
 
 When we learn something, either in class or by self-study, it can either get stored in our short-term or long-term memory. Ideally, we want what we learn to get stored in our long-term memory to be able to use that over time. Our short-term memory might make it easier to recognize something we have learned in the short term but not necessarily recall it over the long term. Going back to our previous study on the neuroplasticity of the brain, we will remember that learning new information and skills requires our brains to build new connections. Recall strategies help us to do just that. 
 
@@ -222,7 +220,7 @@ Here are some techniques for retrieval of learning:
 
 ---
 
-## 8) Spaced Repetition
+## Spaced Repetition
 
 <aside>
 

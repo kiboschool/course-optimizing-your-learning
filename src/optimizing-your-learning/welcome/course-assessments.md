@@ -18,7 +18,7 @@ Week 2 - Overcoming Limiting Beliefs (Due date: xxx)
 
 Week 3 - Learning Context Experiment (Due date: xxx)
 
-Week 4 - Habit Change Plan (Due date: xxx
+Week 4 - Habit Inventory and Change Plan (Due date: xxx
 
 More information about each assignment can be found on the assignment page of each week’s lesson.
 

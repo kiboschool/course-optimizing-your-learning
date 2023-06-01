@@ -12,13 +12,13 @@
  
 During weeks 1, 2, 3, and 4. you will have a weekly assignment that will be due on the Monday of the following week. The weekly assignments are:
 
-Week 1 - Orientation Reflection (Due date: October 17th, 2022)
+Week 1 - Letter to the Future (Due date: xxx)
 
-Week 2 - Limiting Beliefs Plan (Due date: October 24th, 2022)
+Week 2 - Limiting Beliefs Plan (Due date: xxx)
 
-Week 3 - Learning Context Experiment (Due date: October 31st, 2022)
+Week 3 - Learning Context Experiment (Due date: xxx)
 
-Week 4 - Memory Challenge (Due date: November 7th, 2022)
+Week 4 - Habit Change Plan (Due date: xxx
 
 More information about each assignment can be found on the assignment page of each week’s lesson.
 
@@ -47,30 +47,30 @@ The total word count for this essay is 1000-1500 words, and your grade on this a
 
 ---
 
-## **Final Group Presentation (25%) - Group SDL**
+## **Final Presentation (25%) - Self-Directed Learning (SDL)**
 
 <aside>
 "People learn the most when teaching others." - Peter F. Drucker
 </aside>
 
-For your second final assessment, you will work in groups of 4-5 students to carry out a self-directed learning project. Your goal is to select a topic that you will learn about, create a learning plan for your group, implement the learning plan, and then submit a video lesson teaching the topic to the rest of your classmates. 
+For your second final assessment, you will carry out a self-directed learning project by yourself. Your goal is to select a topic that you will learn about, create a learning plan, implement your learning plan, and then submit a video lesson teaching the topic to the rest of your classmates. 
 
 You will be required to work on this project throughout the 5 weeks of the course, and there are some milestones that you will need to reach during weeks 2, 3, and 4.
 
-- Week 2: Milestone 1 (Planning) -  Determine your group members, pick your topic, set your specific learning goals, and create a group learning plan that distributes responsibilities to different group members.
+- Week 2: Milestone 1 (Planning) -  Pick your topic, set your specific learning goals, and create a plan and schedule for how you will achieve your learning goals.
 
 - Week 3: Milestone 2 (Monitoring) - Carry out your learning plan and monitor your progress.
 
 - Week 4: Milestone 3 (Evaluation 1) - Create your video lesson on your chosen topic.
 
-- Week 5: Milestone 4 (Evaluation 2) - Evaluate the quality of your learning, and reflect on the group learning experience.
+- Week 5: Milestone 4 (Evaluation 2) - Evaluate the quality of your learning, and reflect on the learning experience.
 
 At the end of the term you will need to submit:
 
-- Your group learning plan (Milestone 1)
+- Your learning plan (Milestone 1)
 - A video lesson on your SDL topic (Milestone 3)
-- Your Learning self-evaluation and peer evaluations (Milestone 4)
-- A written reflection on the group learning experience (Milestone 4)
+- Your Learning self-evaluation (Milestone 4)
+- A written reflection on the learning experience (Milestone 4)
 
 More details, as well as template documents for some of the Milestone deliverables will be provide in the Final Presentation Milestone sections in Lessons 2, 3, and 4, and the Week 5 Final Assessment lesson.
 

@@ -1,4 +1,4 @@
-# Movement and Exercise
+# Boost Your Brain Through Movement
 
 *Estimated Time: 1 hour*
 

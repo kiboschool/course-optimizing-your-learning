@@ -1,4 +1,4 @@
-# Managing Stress, Breathing, and Mindfulness
+# Manage Your Stress
 
 *Estimated Time: 1.5 hours*
 

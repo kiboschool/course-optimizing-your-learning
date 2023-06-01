@@ -1,4 +1,4 @@
-# Learning With Others
+# Build Your Tribe
 
 *Estimated Time: 1 hour*
 

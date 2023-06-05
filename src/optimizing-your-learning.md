@@ -4,9 +4,6 @@
 
 ---
 
-![brain](./brain.jpeg)
-Photo by Milad Fakurian on Unsplash
-
 ## Todo: Add intructor welcome video
 
 ## Course Introduction
@@ -40,20 +37,7 @@ Live classes will be held on Tuesdays 5:30-7:00 pm GMT. The live classes are man
 
 Office hours will be held xxx. This is an optional chance to get additional support from the instructor.
 
-## Weekly Lessons
+![brain](./brain.jpeg)
+Photo by Milad Fakurian on Unsplash
 
-<aside>
-
-👩🏿‍🏫 Complete this course by exploring each week’s lesson. Lessons will be released each Sunday.
-
-</aside>
-
-[Week 1: How to Get Anything You Want in Life](/optimizing-your-learning/how-to-get-anything-you-want-in-life.md)
-
-[Week 2: Understanding Your Mindsets and Emotions](/optimizing-your-learning/understanding-your-mindsets-and-emotions.md)
-
-[Week 3: Managing Your Learning Context](/optimizing-your-learning/managing-your-learning-context.md)
-
-[Week 4: Building Your Learning Toolkit](/optimizing-your-learning/building-your-learning-toolkit.md)
-
-[Week 5: Final Assessments](/optimizing-your-learning/final-assessments.md)
+---

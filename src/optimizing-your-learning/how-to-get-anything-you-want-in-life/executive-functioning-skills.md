@@ -240,8 +240,11 @@ Below are some more Executive Functioning skills that influence your ability to 
   <summary> Planning</summary>
   
 -Break tasks into smaller, manageable chunks: Divide larger assignments or projects into smaller, actionable tasks to make them less overwhelming and easier to plan for.
+  
 -Use a planner or digital calendar: Write down deadlines, important dates, and study sessions in a planner or use a digital calendar with reminders to help stay organized and on track.
+  
 -Prioritize tasks: Determine the importance and urgency of each task and prioritize them accordingly. Focus on high-priority items first to ensure they are completed in a timely manner.
+  
 </details>
   
 <details>

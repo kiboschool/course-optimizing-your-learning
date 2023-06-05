@@ -1,6 +1,6 @@
 # How to Get Anything You Want in Life
 
-E*stimated Time: 7 hours*
+E*stimated Time: 5 hours*
 
 ---
 ## Introduction

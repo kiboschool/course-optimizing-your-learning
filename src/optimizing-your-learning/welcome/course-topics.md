@@ -8,7 +8,7 @@
 
 **Week 1 - How to Get Anything You Want in Life**
 
-Learning is an activity that defines human development. The fact that you can walk, talk, read, etc. is all due to your ability to learn. And in a modern world that is changing at break neck speed, the ability to learn effectively and efficiently is one of the most important skills that will help you to achieve your goals. But most educational institutions are so focused on **what** we should learn, that they often forget to teach students **how** learning actually happens and **how** they can harness this process to become more effective learners. Therefore, to kickstart your journey to optimizing your learning, we will learn about what happens in your brain when you learn, then we will explore a set of critical cognitive skills that govern how affective you are when learning. Finally, we will explore how to leverage technology to improve the way you learn.
+Learning is an activity that defines human development. The fact that you can walk, talk, read, etc. is all due to your ability to learn. And in a modern world that is changing at break neck speed, the ability to learn effectively and efficiently is one of the most important skills that will help you to achieve your goals. But most educational institutions are so focused on **what** we should learn, that they often forget to teach students **how** learning actually happens and **how** they can harness this process to become more effective learners. Therefore, to kickstart your journey to optimizing your learning, we will learn about what happens in your brain when you learn, then we will explore a set of critical cognitive skills that govern how affective you are when learning. 
 
 ![emotions](./emotions.jpeg)
 

@@ -144,8 +144,8 @@ As the day comes to an end, Juma intends to go to bed early to ensure a good nig
 
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/help-alex-akua-and-juma-5t13navmart6hk9z" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
-<summary> Open to see some useful advice for Alex (or anyone with flexible attention challenges). </summary>
   <details>
+  <summary> Open to see some useful advice for Alex (or anyone with flexible attention challenges). </summary>
   
 - Morning:
     - Set a specific time limit for phone usage in the morning to avoid getting engrossed in social media. Use apps or features that limit screen time or set reminders to help manage phone usage.
@@ -165,6 +165,45 @@ As the day comes to an end, Juma intends to go to bed early to ensure a good nig
   
 </details>
 
+<details>
+  <summary> Open to see some useful advice for Akua (or anyone with working memory challenges). </summary>
+  
+- Morning:
+    - Develop a habit of using a planner or digital calendar to write down her class schedule and important deadlines. This will provide a visual reminder and help her stay organized.
+    - Practice actively reviewing her schedule each morning to reinforce the information in her working memory. By regularly checking her schedule, she can improve her ability to recall and remember class details.
+- Mid-morning:
+  - Develop effective note-taking strategies during lectures. Encourage Akua to jot down key points, use symbols or diagrams, and summarize information in her own words. These techniques can enhance her understanding and retention of the material.
+  - Consider recording lectures with the professor's permission. This way, Akua can review the recordings later to reinforce her memory of the instructions and structure required for in-class writing exercises.
+- Afternoon:
+  - Practice active learning techniques like summarizing information in her own words, outlining, asking questions, and making connections between different sources. These active learning strategies can help encode information into her long-term memory more effectively.
+- Late Afternoon:
+    - Engage actively during study group sessions by asking questions, participating in discussions, and explaining concepts to others. These interactions can reinforce her understanding and retention of the material.
+    - Utilize visual aids, such as concept maps or diagrams, to organize and connect ideas discussed during the study group. Visual representations can assist Akua in retaining and recalling information more efficiently.
+- Evening:
+  - Develop a step-by-step approach for following instructions during online assignments. Akua can write down the sequence of steps or create a checklist to refer to while completing the assignment. Breaking down the instructions into smaller, manageable chunks can enhance her working memory performance.
+  
+</details>
+  
+<details>
+  <summary> Open to see some useful advice for Juma (or anyone with inhibitory control challenges). </summary>
+
+- Morning:
+  - Establish a morning routine that includes specific time slots for phone usage. Juma can set a limit on the amount of time he spends on his phone before starting his study session. Using apps or features that track and limit screen time can be helpful.
+  - Keep the phone out of sight and in a different room while studying to minimize distractions and resist the impulse to check notifications. 
+- Mid-morning:
+  - Practice active listening during lectures. Juma can engage with the material by taking detailed notes, asking questions, and participating in discussions.  -   - Actively involving himself in the learning process can help improve his focus and inhibit distractions.
+  - Utilize active learning strategies like summarizing key points, repeating information in his own words, or visualizing concepts to help maintain attention and enhance understanding.
+- Lunchtime:
+  - Plan and prepare healthy meals in advance to avoid impulsive food choices. Juma can pack a nutritious lunch or snacks from home to resist the temptation of unhealthy options nearby.
+  - Engage in mindful eating by focusing on the taste, texture, and satisfaction of the chosen meal. This can help Juma resist immediate gratification and make healthier choices.
+-Evening:
+  - Create a distraction-free study environment by putting the phone in a different room, using website blockers to limit access to social media, or employing productivity apps that block distracting notifications.
+  - Implement the "out of sight, out of mind" principle by keeping the phone in a designated area away from the study space. This can reduce the temptation to check notifications and minimize the risk of getting distracted.
+- Night:
+   - Establish a bedtime routine that promotes healthy sleep habits. Juma can set a specific time to wind down, avoid stimulating activities like watching TV or playing video games close to bedtime, and create a relaxing environment conducive to sleep.
+  - Set a bedtime alarm to remind Juma of his commitment to getting adequate rest. Resisting the urge to stay up late can help improve his overall cognitive functioning, including inhibitory control.
+  
+</details>
 ---
 
 ## Executive Functioning Skills for Learning

@@ -40,11 +40,11 @@ After completing this lesson, you will be able to:
 
 [4.1 Motivation](/optimizing-your-learning/building-your-learning-toolkit/motivation.md)
 
-[4.2 Build Good Habits](/optimizing-your-learning/building-your-learning-toolkit/habits.md)
+[4.2 Set Goals You Can Achieve](/optimizing-your-learning/building-your-learning-toolkit/learning-strategies-before-learning.md)
 
-[4.3 Stay Focused](/optimizing-your-learning/building-your-learning-toolkit/focus-and-attention.md)
+[4.3 Build Good Habits](/optimizing-your-learning/building-your-learning-toolkit/habits.md)
 
-[4.4 Set Goals You Can Achieve](/optimizing-your-learning/building-your-learning-toolkit/learning-strategies-before-learning.md)
+[4.4 Stay Focused](/optimizing-your-learning/building-your-learning-toolkit/focus-and-attention.md)
 
 [4.5 Strategies for Learning](/optimizing-your-learning/building-your-learning-toolkit/learning-strategies-while-learning.md)
 

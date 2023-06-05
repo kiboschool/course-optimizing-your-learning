@@ -19,7 +19,6 @@ So far in Lesson 1, we have discussed why learning is important and what actuall
 
 <aside>
 
-
 📙 **Executive Function:**
 A set of cognitive processes that help us self-regulate so we can effectively plan, prioritize, and sustain effort towards our long-term goals.
 
@@ -29,6 +28,27 @@ A set of cognitive processes that help us self-regulate so we can effectively pl
 
 - **Flexible Attention (Mental Flexibility):** "Helps us to sustain or shift attention in response to different demands or to apply different rules in different settings."
 
+<aside>
+**Meet Alex**
+
+Alex is a Kibo student with poor flexible attention skills. He often finds it challenging to shift his focus between different tasks, adapt to changes in routines or plans, and prioritize effectively. Here's an example of a day in his life:
+
+**Morning**
+Alex wakes up and checks his phone for notifications. He get engrossed in scrolling through social media, responding to messages, and watching videos. As a result, he loses track of time and ends up running late for his morning class.
+
+**Mid-morning:**
+In class, his Programming 1 instructor announces a change in the course plan for the next two weeks and provides an updated assignment due date. However, Alex fails to fully grasp the changes, and does not adjust his study plans accordingly.
+
+**Lunchtime:**
+Alex meets up with a squadmate for lunch. As they eat, his friend mentions an upcoming career event that clashes with a group project meeting scheduled later in the day. Despite the conflict, Alex doesn't think about the option of shifting the group meeting, and instead insists that all squad members should miss out on the career event and attend the meeting.
+
+**Afternoon:**
+Alex heads to the Lagos Hub to study. He sits down at a table with his laptop an notes, intending to work on an assignment. However, his attention becomes fixated on a nearby conversation between two other students, making it hard for him to concentrate on his own work. He struggles to filter out the distraction and shift his attention back to his studies.
+
+**Evening:**
+Alex receives an email from his Communicating for Success instructor, providing feedback on a recent assignment and requesting revisions. However, when he starts reading the email, he becomes overwhelmed by the amount of feedback and struggles to focus on the specific areas that need improvement. He finds it difficult to prioritize the revisions and decide where to start.
+</aside>
+
 - **Working Memory:** "Governs our ability to retain and manipulate distinct pieces of information over short periods of time."
 
 - **Inhibitory Control (Impulse Inhibition):** "Enables us to set priorities and resist impulsive actions or responses."
@@ -36,8 +56,7 @@ A set of cognitive processes that help us self-regulate so we can effectively pl
 
 [Source](https://developingchild.harvard.edu/science/key-concepts/executive-function/#:~:text=Executive%20function%20and%20self%2Dregulation%20skills%20depend%20on%20three%20types,in%20coordination%20with%20each%20other.)
 
-<aside>
-
+<aside>  
 
 📖 **Optional:** Read the following article on [**Executive Functions**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4084861/).
 

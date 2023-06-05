@@ -78,8 +78,32 @@ Akua sits down to complete an online assignment that requires her to follow a se
 
 - **Inhibitory Control (Impulse Inhibition):** "Enables us to set priorities and resist impulsive actions or responses."
 
+<aside>
+  
+**Meet Juma**
+
+Juma is a Kibo student with poor inhibitory skills. He often struggles with impulse control, emotional regulation, and resisting distractions, leading to difficulties in staying focused, managing time effectively, and making informed decisions. Here's an example of a day in Juma's life:
+
+**Morning:**
+Juma wakes up and plans to start his day by studying for an upcoming exam. However, he finds it challenging to resist the temptation of checking his phone for notifications and getting caught up in social media. As a result, he ends up spending more time than intended on his phone, delaying his study session.
+
+**Mid-morning:**
+Juma attends the Web Foundations office hours where the instructor is walking through an approach to overcome a common challenge students have been having with this week's assignment. However, while the instructor is speaking, Juma's mind wanders, and he starts daydreaming, and he misses out on critical information.
+
+**Lunchtime:**
+At lunch, Juma plans to grab a healthy meal. However, as he is walking to the nearest shop, he notices his favorite fast food joint nearby and succumbs to the temptation, choosing an unhealthy meal instead. He finds it hard to resist the immediate gratification of the unhealthy food choice.
+
+**Evening:**
+Juma plans to spend the evening reviewing his notes and preparing for a class presentation. However, when he sits down to study, he gets easily distracted by notifications on his phone, social media updates, or online videos. He finds it difficult for him to resist the distractions and focus on his academic tasks.
+
+**Night:**
+As the day comes to an end, Juma intends to go to bed early to ensure a good night's sleep for an early morning class. However, he struggles to resist the temptation of staying up late to watch anime.
+
+</aside>
 
 [Source](https://developingchild.harvard.edu/science/key-concepts/executive-function/#:~:text=Executive%20function%20and%20self%2Dregulation%20skills%20depend%20on%20three%20types,in%20coordination%20with%20each%20other.)
+
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/reflection-on-student-examples-kdkllxy2n56m56nx" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
 <aside>  
 
@@ -114,14 +138,36 @@ Akua sits down to complete an online assignment that requires her to follow a se
 
 ---
 
+## Helping Alex, Akua, and Juma
+
+> In the padlet below, suggest some actions Alex, Akua, or Juma could implement to improve their ability to succeed, inspite of the challenges that they currently have with their executive functioning skills.
+
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/help-alex-akua-and-juma-5t13navmart6hk9z" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
+
+<summary> Open to see some useful advice for Alex (or anyone with flexible attention challenges). </summary>
+  <details>
+  
+- Morning:
+    - Set a specific time limit for phone usage in the morning to avoid getting engrossed in social media. Use apps or features that limit screen time or set reminders to help manage phone usage.
+    - Establish a morning routine that includes tasks like setting an alarm, getting ready, and organizing materials needed for the day. Following a routine can help create structure and improve time management.
+- Mid-morning:
+    - Develop a habit of actively listening and taking notes during class to improve information processing and flexibility. Practice summarizing key points and checking for updates or changes in the syllabus regularly.
+    - If there are any changes or announcements in class, write them down immediately and review the syllabus afterward to update study plans accordingly.
+ - Lunchtime:
+    - Practice active listening and engage in mindful conversations with friends. Pay attention to details and actively participate in discussions to improve flexibility in social interactions.
+    - When conflicting events arise, take a moment to consider the options and be open to adjusting plans. Communicate with the group to discuss alternative meeting times or find solutions that accommodate everyone's schedules.
+ - Afternoon:
+    - Find a quiet and distraction-free study environment to help improve focus and attention. Use noise-cancelling headphones or study in a secluded area of the library to minimize external distractions.
+    - Implement techniques like the Pomodoro Technique, where you work for a set period (e.g., 25 minutes) and then take a short break (e.g., 5 minutes) to rest and reset your attention. This method can help train your mind to shift focus between tasks more effectively.
+- Evening:
+  - Break down the feedback received from the professor into smaller, manageable tasks. Prioritize the revisions based on the importance and urgency of each point. Create a to-do list or use a task management tool to stay organized and focused.
+  - Practice reading and comprehending complex information by actively highlighting or underlining key areas. Take brief breaks during reading to reflect on the main points and ensure understanding.
+  
+</details>
+
+---
+
 ## Executive Functioning Skills for Learning
-
-<aside>
-
-
-📖 Read the following article on challenges and possible solutions for **[executive dysfunction in university students](https://www.beyondbooksmart.com/executive-functioning-strategies-blog/a-day-in-the-life-of-a-college-student-with-executive-dysfunction)**.
-
-</aside>
 
 Below are some more Executive Functioning skills that influence your ability to learn effectively. With each skill listed, in addition to the explanation, you will find a few strategies highlighted that you can use to improve the skill.
 
@@ -141,7 +187,6 @@ Below are some more Executive Functioning skills that influence your ability to 
 | Perseverance | Being able to see things through, the quality of sticking with the work or the task even as it gets more difficult and challenging.| Strategies such as seeking help, pacing yourself, and staying positive can help with completing a task, even when it is challenging. |
 
 [Source](https://www.thepathway2success.com/10-executive-functioning-skills-the-ultimate-guide/)
-
 
 
 <aside>

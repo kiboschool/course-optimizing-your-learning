@@ -238,6 +238,7 @@ Below are some more Executive Functioning skills that influence your ability to 
 
 <details>
   <summary> Planning</summary>
+  
 -Break tasks into smaller, manageable chunks: Divide larger assignments or projects into smaller, actionable tasks to make them less overwhelming and easier to plan for.
 -Use a planner or digital calendar: Write down deadlines, important dates, and study sessions in a planner or use a digital calendar with reminders to help stay organized and on track.
 -Prioritize tasks: Determine the importance and urgency of each task and prioritize them accordingly. Focus on high-priority items first to ensure they are completed in a timely manner.
@@ -245,6 +246,7 @@ Below are some more Executive Functioning skills that influence your ability to 
   
 <details>
   <summary> Organization </summary>
+  
 -Declutter and create an organized study space: Remove unnecessary items, tidy up your study area, and create designated spaces for different materials (e.g., notebooks, textbooks) to minimize distractions and locate resources easily.
 -Use folders and color-coding: Assign specific folders or binders for each subject and use color-coded tabs or labels to categorize and organize course materials.
 -Develop a filing system: Establish a consistent system for organizing digital files on your computer, using clear and logical folder structures and file naming conventions for easy retrieval.
@@ -252,6 +254,7 @@ Below are some more Executive Functioning skills that influence your ability to 
   
 <details>
   <summary> Task initiation </summary>
+  
 -Break tasks into smaller, actionable steps: Divide tasks into smaller, more manageable steps to make them less intimidating and easier to initiate. Start with the first step, which is often the most challenging.
 -Set deadlines and create a timeline: Establish specific deadlines for different phases of a task or project and create a timeline that outlines when each step should be completed. This provides a sense of structure and helps with initiating tasks.
 -Use visual cues and reminders: Place visual cues, such as sticky notes or visual timers, in prominent locations to remind yourself to start a task or assignment at a designated time.
@@ -259,6 +262,7 @@ Below are some more Executive Functioning skills that influence your ability to 
   
 <details>
   <summary>Flexibility </summary>
+  
 -Practice adaptability in daily life: Purposefully introduce changes or variations into your routine to build flexibility and adaptability skills. Try different study environments or study materials to adapt to different learning situations.
 -Seek alternative solutions: When faced with challenges or unexpected circumstances, brainstorm and consider alternative approaches or strategies to overcome obstacles and adapt your plans.
 -Reflect and learn from experiences: Regularly reflect on situations where you had to be flexible or where inflexibility hindered your progress. Identify lessons learned and areas for improvement to enhance your flexibility in the future.
@@ -266,6 +270,7 @@ Below are some more Executive Functioning skills that influence your ability to 
   
 <details>
   <summary>Attention </summary>
+  
 -Minimize distractions: Create a focused study environment by turning off or silencing electronic devices, closing unnecessary tabs on your computer, and finding a quiet space where you can concentrate.
 -Use active listening techniques: Engage actively in class lectures or discussions by taking detailed notes, asking questions, and participating actively. These techniques help maintain attention and improve comprehension.
 -Practice mindfulness exercises: Train your attention and focus by practicing mindfulness techniques, such as deep breathing, meditation, or focusing on a single task without distractions for a specific period.
@@ -273,6 +278,7 @@ Below are some more Executive Functioning skills that influence your ability to 
   
 <details>
   <summary>Self-control </summary>
+  
 -Implement self-reward systems: Set up a reward system where you can earn small incentives after completing certain tasks or reaching specific milestones, helping you stay motivated and maintain self-control.
 -Develop impulse control strategies: When faced with distractions or temptations, employ techniques like the "5-minute rule" (waiting for 5 minutes before giving in) or using apps that block access to distracting websites or apps.
 -Practice delaying gratification: Train yourself to resist immediate desires by consciously delaying gratification. Start with small tasks or activities and gradually increase the duration.
@@ -280,6 +286,7 @@ Below are some more Executive Functioning skills that influence your ability to 
   
 <details>
   <summary> Working memory </summary>
+  
 -Use mnemonic devices: Utilize memory aids, such as acronyms, visualization techniques, or associations, to help retain and recall information more effectively.
 -Practice active engagement: Actively engage with the material by summarizing key points, teaching concepts to others, or creating mental connections between new information and existing knowledge.
 -Utilize external memory aids: Make use of external tools like flashcards, sticky notes, or digital note-taking apps to offload information from your working memory and free up mental resources.
@@ -287,6 +294,7 @@ Below are some more Executive Functioning skills that influence your ability to 
   
 <details>
   <summary> Metacognition </summary>
+  
 -Set learning goals: Clearly define what you want to achieve in your learning process and establish specific goals for each study session or assignment.
 -Reflect on learning strategies: Regularly evaluate and reflect on the effectiveness of your study techniques, identifying which methods work best for you and making adjustments as needed.
 -Monitor your progress: Continuously assess your understanding of the material, track your learning progress, and identify areas where further review or clarification is necessary.
@@ -294,6 +302,7 @@ Below are some more Executive Functioning skills that influence your ability to 
   
 <details>
   <summary> Time management </summary>
+  
 -Use a time tracking tool: Monitor how you spend your time by using time tracking apps or spreadsheets to gain insight into where your time is being allocated and identify areas for improvement.
 -Break tasks into time blocks: Allocate specific time blocks for different tasks, setting a start and end time for each activity to create a structured schedule.
 -Prioritize important tasks: Identify high-priority tasks and tackle them early in the day when your energy and focus are usually higher.
@@ -301,6 +310,7 @@ Below are some more Executive Functioning skills that influence your ability to 
   
 <details>
   <summary> Perseverance </summary>
+  
 -Set realistic expectations: Understand that challenges and setbacks are a natural part of the learning process. Set realistic expectations and view difficulties as opportunities for growth rather than reasons to give up.
 -Seek support and feedback: Reach out to professors, peers, or academic resources for help and guidance when facing challenges. Utilize their expertise and feedback to persist in your efforts.
 -Practice positive self-talk: Develop a positive and growth-oriented mindset by reframing negative thoughts and using positive self-talk. Remind yourself of your capabilities and past successes to maintain motivation and perseverance.

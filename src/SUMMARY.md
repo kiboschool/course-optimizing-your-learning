@@ -15,7 +15,6 @@
 	- [How Learning Happens](optimizing-your-learning/how-to-get-anything-you-want-in-life/how-learning-happens.md)
 	- [Skills You Need to Succeed](optimizing-your-learning/how-to-get-anything-you-want-in-life/executive-functioning-skills.md)
 	- [Direct Your Learning](optimizing-your-learning/how-to-get-anything-you-want-in-life/self-directed-learning-sdl.md)
-	- [Use Technology to Learn Better](optimizing-your-learning/how-to-get-anything-you-want-in-life/what-got-you-here.md)
 	- [Assignment 1 - Letter to Future Self](optimizing-your-learning/how-to-get-anything-you-want-in-life/assignment-1-individual-sdl.md)
 
 

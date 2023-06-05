@@ -1,6 +1,6 @@
 # Direct Your Learning
 
-*Estimated Time: 1.5 hours*
+*Estimated Time: 2 hours*
 
 ---
 

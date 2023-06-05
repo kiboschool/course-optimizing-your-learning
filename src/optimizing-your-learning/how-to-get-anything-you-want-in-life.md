@@ -16,7 +16,6 @@ After completing this lesson, you will be able to:
 - Explain how learning happens in the brain, and apply this knowledge to improve your learning process.
 - Implement methods to improve your executive functioning skills.
 - Implement self-directed learning using simple steps and frameworks.
-- Use tools (e.g. AI writing assistants) to improve your learning process.
 
 ## Getting Focused
 
@@ -47,8 +46,6 @@ After completing this lesson, you will be able to:
 [1.3 Skills You Need to Succeed](/optimizing-your-learning/how-to-get-anything-you-want-in-life/executive-functioning-skills.md)
 
 [1.4 Directed Your Learning](/optimizing-your-learning/how-to-get-anything-you-want-in-life/self-directed-learning-sdl.md)
-
-[1.5 Use Technology to Learn Better](/optimizing-your-learning/how-to-get-anything-you-want-in-life/what-got-you-here.md)
 
 [Assignment 1: Letter to Future Self](/optimizing-your-learning/how-to-get-anything-you-want-in-life/assignment-1-individual-sdl.md)
 

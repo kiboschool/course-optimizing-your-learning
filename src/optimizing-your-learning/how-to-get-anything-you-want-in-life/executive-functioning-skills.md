@@ -1,4 +1,4 @@
-# Executive Functioning Skills
+# Skills You Need to Succeed
 
 *Estimated Time: 2 hours*
 

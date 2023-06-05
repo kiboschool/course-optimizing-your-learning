@@ -29,6 +29,7 @@ A set of cognitive processes that help us self-regulate so we can effectively pl
 - **Flexible Attention (Mental Flexibility):** "Helps us to sustain or shift attention in response to different demands or to apply different rules in different settings."
 
 <aside>
+  
 **Meet Alex**
 
 Alex is a Kibo student with poor flexible attention skills. He often finds it challenging to shift his focus between different tasks, adapt to changes in routines or plans, and prioritize effectively. Here's an example of a day in his life:
@@ -47,9 +48,33 @@ Alex heads to the Lagos Hub to study. He sits down at a table with his laptop an
 
 **Evening:**
 Alex receives an email from his Communicating for Success instructor, providing feedback on a recent assignment and requesting revisions. However, when he starts reading the email, he becomes overwhelmed by the amount of feedback and struggles to focus on the specific areas that need improvement. He finds it difficult to prioritize the revisions and decide where to start.
+  
 </aside>
 
 - **Working Memory:** "Governs our ability to retain and manipulate distinct pieces of information over short periods of time."
+
+<aside>
+  
+**Meet Akua**
+  
+Akua is a Kibo student with poor working memory skills. She struggles with remembering and manipulating information in her mind, leading to difficulties in following instructions, recalling information, and organizing her thoughts. Here's an example of a day in his life:
+  
+**Morning:**
+Akua wakes up and checks her calendar to see which classes and appointments she has for the day. However, when she leaves her home to go to her in-person classes at KNUST, she forgets both her phone and laptop at home. She has to rely on her memory to recall the information, which leads to confusion and delays. She even forgets to show up for her monhtly meeting with her Kibo student advisor.
+
+**Mid-morning:**
+In her first class, the professor assigns a short in-class writing exercise. Akua listens attentively to the instructions but struggles to retain the details and the specific structure required. As a result, she feels overwhelmed and finds it difficult to organize her thoughts and produce a coherent response.
+
+**Afternoon:**
+Akua heads to the library to work on a writing assignment. She spends time gathering information. However, as she tries to integrate the information into her writing, she struggles to recall the main points and connect them coherently. She finds it challenging to hold multiple pieces of information in mind simultaneously.
+
+**Late Afternoon:**
+Akua attends a study group session for one of her courses. As the group discusses different concepts and problem-solving strategies, Akua finds it difficult to follow the conversation and retain the important details. She frequently asks others to repeat information or explain concepts multiple times.
+
+**Evening:**
+Akua sits down to complete an online assignment that requires her to follow a series of steps. However, she struggles to hold the instructions in mind long enough to execute them accurately. She often has to refer back to the instructions repeatedly, which slows down her progress and affects her efficiency.
+
+</aside>
 
 - **Inhibitory Control (Impulse Inhibition):** "Enables us to set priorities and resist impulsive actions or responses."
 

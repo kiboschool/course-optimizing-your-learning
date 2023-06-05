@@ -7,7 +7,7 @@
 
 </aside>
 
-**Due date: October 17th, 2022**
+**Due date: July 17th, 2023, 10pm GMT**
 
 ## Brief
 
@@ -18,8 +18,7 @@ Write a letter to yourself in five weeks time and discuss:
 - Your current learning strengths. 
 - Your current learning weaknesses.
 - Three goals that you would like to focus on during the course.
-- One topic that you would like to learn more about at the end of the course using your improved learning skills. Include your reason for wanting to learn more about this topic.
-
+- One topic that you would like to learn more about at the end of the course using your improved learning skills.
 
 ## Submission
 

@@ -1,4 +1,4 @@
-# Self-Directed Learning (SDL)
+# Direct Your Learning
 
 *Estimated Time: 1.5 hours*
 
@@ -175,7 +175,7 @@ The table below outlines behaviors that effective self-directed learners exhibit
 | Diagnosing Learning Needs | Attention and Focusing | Self-Evaluation |
 | Goal Setting | Self-Instruction   | Reflection |
 | Strategic Planning | Help Seeking  |  |
-| Determining Learning Strategy | |  |
+| Determining Learning Strategy | Testing |  |
 
 
 Here is some useful expansions on some of the key terms in the table:
@@ -183,6 +183,7 @@ Here is some useful expansions on some of the key terms in the table:
 - **Goal Setting:** Taking the learning needs one step further, the learner formulates clear goals by asking questions like: What will I be able to do once I have completed my learning? 
 - **Strategic Planning and Determing a Learning Strategy:** In order to build upon existing knowledge and ideas, the learner has to determine an appropriate approach to, and resources for, learning. 
 - **Help Seeking:** While self-directed learning is about being in control of your own learning, it doesn't mean that you need to learn alone. An important practice to use when learning, is knowing when to ask for help, where you can find help, and who you can approach for help. 
+- **Testing:** When you are learning, it is critical to have an accurate signal of the gap between your current compentency and your target competency. One way to get an accruate estimate of that gap it through frequently testing yourself.
 - **Self-Evaluation:** After learning strategies are implemented, the learner then evaluates their learning to see how effective the process was. Using their learning goals as a benchmark, the learner can determine how effective their learning process was and can subsequently improve on it. 
 
 

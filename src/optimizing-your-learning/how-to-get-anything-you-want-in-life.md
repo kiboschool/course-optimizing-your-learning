@@ -7,7 +7,7 @@ E*stimated Time: 7 hours*
 
 > 📺 Watch the following video from your instructor to learn about what you will be studying in week 1
 
-Insert video by the instructor introducing the main topics of the week and giving a short explanation of the week’s assessment.
+TODO: Insert video by the instructor introducing the main topics of the week and giving a short explanation of the week’s assessment.
 
 ## Learning Outcomes
 
@@ -16,6 +16,7 @@ After completing this lesson, you will be able to:
 - Explain how learning happens in the brain, and apply this knowledge to improve your learning process.
 - Implement methods to improve your executive functioning skills.
 - Implement self-directed learning using simple steps and frameworks.
+- Use tools (e.g. AI writing assistants) to improve your learning process.
 
 ## Getting Focused
 

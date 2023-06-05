@@ -233,8 +233,6 @@ Below are some more Executive Functioning skills that influence your ability to 
 | Time Management | The ability to allocate and prioritize time effectively to complete tasks and meet deadlines. | Ali creates a detailed weekly schedule, allocates specific time slots for studying, assignments, and personal activities, and consistently completes tasks ahead of deadlines. | Fred frequently underestimates the time required for assignments, procrastinates until the last minute, and often submits rushed or incomplete work. |
 | Perseverance | The capacity to persist in efforts, maintain motivation, and overcome obstacles or setbacks to achieve goals.  | Robb despite facing setbacks and challenges, seeks help, stays motivated, and persists until he successfully completes the project. | Neil easily gets discouraged by setbacks, loses motivation quickly, and tends to abandon tasks before putting in sufficient effort to overcome obstacles |
 
-[Source](https://www.thepathway2success.com/10-executive-functioning-skills-the-ultimate-guide/)
-
 ## Improving Executive Function Skills for Learning
 
 <aside>
@@ -345,9 +343,9 @@ Below are some more Executive Functioning skills that influence your ability to 
 <details>
   <summary> Perseverance </summary>
   
--Set realistic expectations: Understand that challenges and setbacks are a natural part of the learning process. Set realistic expectations and view difficulties as opportunities for growth rather than reasons to give up.
+-Set realistic expectations: Understand that challenges and setbacks are a natural part of the learning process. View difficulties as opportunities for growth rather than reasons to give up.
   
--Seek support and feedback: Reach out to professors, peers, or academic resources for help and guidance when facing challenges. Utilize their expertise and feedback to persist in your efforts.
+-Seek support and feedback: Reach out to instructors, advisors, peers, or academic resources for help and guidance when facing challenges. Utilize their expertise and feedback to persist in your efforts.
   
 -Practice positive self-talk: Develop a positive and growth-oriented mindset by reframing negative thoughts and using positive self-talk. Remind yourself of your capabilities and past successes to maintain motivation and perseverance.
   

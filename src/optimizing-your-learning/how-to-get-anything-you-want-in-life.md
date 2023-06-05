@@ -45,7 +45,7 @@ After completing this lesson, you will be able to:
 
 [1.3 Skills You Need to Succeed](/optimizing-your-learning/how-to-get-anything-you-want-in-life/executive-functioning-skills.md)
 
-[1.4 Directed Your Learning](/optimizing-your-learning/how-to-get-anything-you-want-in-life/self-directed-learning-sdl.md)
+[1.4 Direct Your Learning](/optimizing-your-learning/how-to-get-anything-you-want-in-life/self-directed-learning-sdl.md)
 
 [Assignment 1: Letter to Future Self](/optimizing-your-learning/how-to-get-anything-you-want-in-life/assignment-1-individual-sdl.md)
 

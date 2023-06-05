@@ -35,7 +35,7 @@ A set of cognitive processes that help us self-regulate so we can effectively pl
 Alex is a Kibo student with poor flexible attention skills. He often finds it challenging to shift his focus between different tasks, adapt to changes in routines or plans, and prioritize effectively. Here's an example of a day in his life:
 
 **Morning**
-Alex wakes up and checks his phone for notifications. He get engrossed in scrolling through social media, responding to messages, and watching videos. As a result, he loses track of time and ends up running late for his morning class.
+Alex wakes up and checks his phone for notifications. He gets engrossed in scrolling through social media, responding to messages, and watching videos. As a result, he loses track of time and ends up running late for his morning class.
 
 **Mid-morning:**
 In class, his Programming 1 instructor announces a change in the course plan for the next two weeks and provides an updated assignment due date. However, Alex fails to fully grasp the changes, and does not adjust his study plans accordingly.
@@ -57,13 +57,13 @@ Alex receives an email from his Communicating for Success instructor, providing 
   
 **Meet Akua**
   
-Akua is a Kibo student with poor working memory skills. She struggles with remembering and manipulating information in her mind, leading to difficulties in following instructions, recalling information, and organizing her thoughts. Here's an example of a day in his life:
+Akua is a Kibo student with poor working memory skills. She struggles with remembering and manipulating information in her mind, leading to difficulties in following instructions, recalling information, and organizing her thoughts. Here's an example of a day in her life:
   
 **Morning:**
-Akua wakes up and checks her calendar to see which classes and appointments she has for the day. However, when she leaves her home to go to her in-person classes at KNUST, she forgets both her phone and laptop at home. She has to rely on her memory to recall the information, which leads to confusion and delays. She even forgets to show up for her monhtly meeting with her Kibo student advisor.
+Akua wakes up and checks her calendar to see which classes and appointments she has for the day. However, when she leaves her home to go to her in-person classes at KNUST, she forgets both her phone and laptop at home, so she has to rely on her memory to recall the information about her schedule, which leads to confusion and delays. She even forgets to show up for her monhtly meeting with her Kibo student advisor.
 
 **Mid-morning:**
-In her first class, the professor assigns a short in-class writing exercise. Akua listens attentively to the instructions but struggles to retain the details and the specific structure required. As a result, she feels overwhelmed and finds it difficult to organize her thoughts and produce a coherent response.
+In her first class, the instructor assigns a short in-class writing exercise. Akua listens attentively to the instructions but struggles to retain the details and the specific structure required. As a result, she feels overwhelmed and finds it difficult to organize her thoughts and produce a coherent response.
 
 **Afternoon:**
 Akua heads to the library to work on a writing assignment. She spends time gathering information. However, as she tries to integrate the information into her writing, she struggles to recall the main points and connect them coherently. She finds it challenging to hold multiple pieces of information in mind simultaneously.
@@ -82,19 +82,19 @@ Akua sits down to complete an online assignment that requires her to follow a se
   
 **Meet Juma**
 
-Juma is a Kibo student with poor inhibitory skills. He often struggles with impulse control, emotional regulation, and resisting distractions, leading to difficulties in staying focused, managing time effectively, and making informed decisions. Here's an example of a day in Juma's life:
+Juma is a Kibo student with poor inhibitory control skills. He often struggles with impulse control, emotional regulation, and resisting distractions, leading to difficulties in staying focused, managing time effectively, and making informed decisions. Here's an example of a day in Juma's life:
 
 **Morning:**
 Juma wakes up and plans to start his day by studying for an upcoming exam. However, he finds it challenging to resist the temptation of checking his phone for notifications and getting caught up in social media. As a result, he ends up spending more time than intended on his phone, delaying his study session.
 
 **Mid-morning:**
-Juma attends the Web Foundations office hours where the instructor is walking through an approach to overcome a common challenge students have been having with this week's assignment. However, while the instructor is speaking, Juma's mind wanders, and he starts daydreaming, and he misses out on critical information.
+Juma attends the Web Foundations office hours where the instructor is walking through an approach to overcome a common challenge students have been having with this week's assignment. However, while the instructor is speaking, Juma's mind wanders, and he starts daydreaming, as a result he misses out on critical information.
 
 **Lunchtime:**
 At lunch, Juma plans to grab a healthy meal. However, as he is walking to the nearest shop, he notices his favorite fast food joint nearby and succumbs to the temptation, choosing an unhealthy meal instead. He finds it hard to resist the immediate gratification of the unhealthy food choice.
 
 **Evening:**
-Juma plans to spend the evening reviewing his notes and preparing for a class presentation. However, when he sits down to study, he gets easily distracted by notifications on his phone, social media updates, or online videos. He finds it difficult for him to resist the distractions and focus on his academic tasks.
+Juma plans to spend the evening reviewing his notes and preparing for a class presentation. However, when he sits down to study, he gets easily distracted by notifications on his phone, social media updates, and online videos. He finds it difficult for him to resist the distractions and focus on his academic tasks.
 
 **Night:**
 As the day comes to an end, Juma intends to go to bed early to ensure a good night's sleep for an early morning class. However, he struggles to resist the temptation of staying up late to watch anime.
@@ -124,6 +124,14 @@ As the day comes to an end, Juma intends to go to bed early to ensure a good nig
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/two4uoi69zw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+
+### Summary of the tips from the videos
+
+**Tip 1:** Learn to look closely.
+**Tip 2:** Stop and think.
+**Tip 3:** Exercise.
+**Tip 4:** Challenge yourself.
+**Tip 5:** Try another way.
 
 ## Reflection: Executive Functioning Skills
 
@@ -157,11 +165,11 @@ As the day comes to an end, Juma intends to go to bed early to ensure a good nig
     - Practice active listening and engage in mindful conversations with friends. Pay attention to details and actively participate in discussions to improve flexibility in social interactions.
     - When conflicting events arise, take a moment to consider the options and be open to adjusting plans. Communicate with the group to discuss alternative meeting times or find solutions that accommodate everyone's schedules.
  - Afternoon:
-    - Find a quiet and distraction-free study environment to help improve focus and attention. Use noise-cancelling headphones or study in a secluded area of the library to minimize external distractions.
+    - Find a quiet and distraction-free study environment to help improve focus and attention. Use noise-cancelling headphones or study in a secluded setting to minimize external distractions.
     - Implement techniques like the Pomodoro Technique, where you work for a set period (e.g., 25 minutes) and then take a short break (e.g., 5 minutes) to rest and reset your attention. This method can help train your mind to shift focus between tasks more effectively.
 - Evening:
-  - Break down the feedback received from the professor into smaller, manageable tasks. Prioritize the revisions based on the importance and urgency of each point. Create a to-do list or use a task management tool to stay organized and focused.
-  - Practice reading and comprehending complex information by actively highlighting or underlining key areas. Take brief breaks during reading to reflect on the main points and ensure understanding.
+  - Break down the feedback received from the instructor into smaller, manageable tasks. Prioritize the revisions based on the importance and urgency of each point. Create a to-do list or use a task management tool to stay organized and focused.
+
   
 </details>
 
@@ -169,18 +177,18 @@ As the day comes to an end, Juma intends to go to bed early to ensure a good nig
   <summary> Open to see some useful advice for Akua (or anyone with working memory challenges). </summary>
   
 - Morning:
-    - Develop a habit of using a planner or digital calendar to write down her class schedule and important deadlines. This will provide a visual reminder and help her stay organized.
-    - Practice actively reviewing her schedule each morning to reinforce the information in her working memory. By regularly checking her schedule, she can improve her ability to recall and remember class details.
+    - Develop a habit of using a physical planner or digital calendar to write down class schedules and important deadlines. This will provide a visual reminder and help her stay organized.
+    - Practice actively reviewing schedule each morning to reinforce the information in her working memory. By regularly checking her schedule, she can improve her ability to recall and remember details.
 - Mid-morning:
-  - Develop effective note-taking strategies during lectures. Encourage Akua to jot down key points, use symbols or diagrams, and summarize information in her own words. These techniques can enhance her understanding and retention of the material.
-  - Consider recording lectures with the professor's permission. This way, Akua can review the recordings later to reinforce her memory of the instructions and structure required for in-class writing exercises.
+  - Develop effective note-taking strategies during class. Jot down key points, use symbols or diagrams, and summarize information in own words. These techniques can enhance her understanding and retention of the material.
+  - Consider recording classes (with the instructor's permission), or reviewing the class recordings created by the instructor. 
 - Afternoon:
   - Practice active learning techniques like summarizing information in her own words, outlining, asking questions, and making connections between different sources. These active learning strategies can help encode information into her long-term memory more effectively.
 - Late Afternoon:
     - Engage actively during study group sessions by asking questions, participating in discussions, and explaining concepts to others. These interactions can reinforce her understanding and retention of the material.
-    - Utilize visual aids, such as concept maps or diagrams, to organize and connect ideas discussed during the study group. Visual representations can assist Akua in retaining and recalling information more efficiently.
+    - Utilize visual aids, such as concept maps or diagrams, to organize and connect ideas discussed during the study group. Visual representations can assist her in retaining and recalling information more efficiently.
 - Evening:
-  - Develop a step-by-step approach for following instructions during online assignments. Akua can write down the sequence of steps or create a checklist to refer to while completing the assignment. Breaking down the instructions into smaller, manageable chunks can enhance her working memory performance.
+  - Develop a step-by-step approach for following instructions during online assignments. She can write down the sequence of steps or create a checklist to refer to while completing the assignment. Breaking down the instructions into smaller, manageable chunks can enhance her working memory performance.
   
 </details>
   
@@ -188,20 +196,19 @@ As the day comes to an end, Juma intends to go to bed early to ensure a good nig
   <summary> Open to see some useful advice for Juma (or anyone with inhibitory control challenges). </summary>
 
 - Morning:
-  - Establish a morning routine that includes specific time slots for phone usage. Juma can set a limit on the amount of time he spends on his phone before starting his study session. Using apps or features that track and limit screen time can be helpful.
+  - Establish a morning routine that includes specific time slots for phone usage. He can set a limit on the amount of time he spends on his phone before starting his study session. Using apps or features that track and limit screen time can be helpful.
   - Keep the phone out of sight and in a different room while studying to minimize distractions and resist the impulse to check notifications. 
 - Mid-morning:
-  - Practice active listening during lectures. Juma can engage with the material by taking detailed notes, asking questions, and participating in discussions.     - Actively involving himself in the learning process can help improve his focus and inhibit distractions.
+  - Practice active listening during lectures. Juma can engage with the material by taking detailed notes, asking questions, and participating in discussions. Actively involving himself in the learning process can help improve his focus and inhibit distractions.
   - Utilize active learning strategies like summarizing key points, repeating information in his own words, or visualizing concepts to help maintain attention and enhance understanding.
 - Lunchtime:
   - Plan and prepare healthy meals in advance to avoid impulsive food choices. Juma can pack a nutritious lunch or snacks from home to resist the temptation of unhealthy options nearby.
   - Engage in mindful eating by focusing on the taste, texture, and satisfaction of the chosen meal. This can help Juma resist immediate gratification and make healthier choices.
 -Evening:
   - Create a distraction-free study environment by putting the phone in a different room, using website blockers to limit access to social media, or employing productivity apps that block distracting notifications.
-  - Implement the "out of sight, out of mind" principle by keeping the phone in a designated area away from the study space. This can reduce the temptation to check notifications and minimize the risk of getting distracted.
 - Night:
-   - Establish a bedtime routine that promotes healthy sleep habits. Juma can set a specific time to wind down, avoid stimulating activities like watching TV or playing video games close to bedtime, and create a relaxing environment conducive to sleep.
-  - Set a bedtime alarm to remind Juma of his commitment to getting adequate rest. Resisting the urge to stay up late can help improve his overall cognitive functioning, including inhibitory control.
+   - Establish a bedtime routine that promotes healthy sleep habits. He can set a specific time to wind down, avoid stimulating activities like watching TV or playing video games close to bedtime, and create a relaxing environment conducive to sleep.
+  - Set a bedtime alarm to remind him of his commitment to getting adequate rest. Resisting the urge to stay up late can help improve his overall cognitive functioning, including inhibitory control.
   
 </details>
 
@@ -209,20 +216,20 @@ As the day comes to an end, Juma intends to go to bed early to ensure a good nig
 
 ## Executive Functioning Skills for Learning
 
-Below are some more Executive Functioning skills that influence your ability to learn effectively. With each skill listed, in addition to the explanation, you will find a few strategies highlighted that you can use to improve the skill.
+Below are some more Executive Functioning skills that influence your ability to learn effectively. With each skill listed, in addition to the definition, you will find a description of what it looks like when a student is strong in this skill or poor in this skill.
 
 ![executive-functioning-skills.webp](/optimizing-your-learning/how-to-get-anything-you-want-in-life/executive-functioning-skills/executive-functioning-skills.webp)
 
 | Executive Function Skill | Definition | Example of Good | Example of Poor | 
 | --- | --- | --- | --- |
-| Planning | The ability to set goals, develop strategies, and create a roadmap to achieve desired outcomes.  | Ope creates a detailed study schedule at the beginning of each term, mapping out specific times for each subject and allowing ample time for assignments and exam preparation. | Jack often waits until the last minute to start studying for tests, leading to cramming sessions and increased stress levels. |
-| Organization | The skill to arrange and coordinate resources, information, and tasks in a systematic and efficient manner.  | Emmy keeps a meticulously organized binder with separate sections for each subject, color-coded dividers, and a designated spot for assignments and handouts. | William frequently misplaces important documents, struggles to keep track of due dates, and often has a cluttered and disorganized study area. |
+| Planning | The ability to set goals, develop strategies, and create a roadmap to achieve desired outcomes.  | Ope creates a detailed study schedule at the beginning of each term, mapping out specific times for each subject and allowing ample time for assignments and test preparation. | Jack often waits until the last minute to start studying for tests, leading to cramming sessions and increased stress levels. |
+| Organization | The skill to arrange and coordinate resources, information, and tasks in a systematic and efficient manner.  | Emmy keeps a meticulously organized Google Drive with separate folders for each subject and a designated spot for assignments and handouts. | William frequently misplaces important documents, struggles to keep track of due dates, and often has a cluttered and disorganized study area. |
 | Task Initiation | The ability to start and initiate a task or activity without unnecessary delay or procrastination.  | Seun promptly begins working on a research paper as soon as the topic is assigned, breaking it down into smaller tasks and setting achievable milestones. | Oliver often procrastinates starting assignments until the night before they are due, causing stress and negatively impacting the quality of his work. |
-| Flexibility | The capacity to adapt and adjust strategies, plans, or approaches when faced with changes or unexpected situations. | Misan adapts her study plans when a professor reschedules a test, adjusting her schedule accordingly and allocating extra time to review the new material. | Daniel becomes frustrated and resistant when group members suggest changes to a project, insisting on sticking to the original plan even if it's no longer optimal. |
-| Attention | The ability to sustain focus on a task or stimuli while filtering out distractions. | Oyin maintains focused attention during class, actively listens to the instructor, takes detailed notes, and actively participates in class discussions. | Peter struggles to concentrate during lectures, frequently getting distracted by external stimuli or drifting off into unrelated thoughts. |
-| Self-control | The capacity to regulate emotions, impulses, and behaviors to achieve long-term goals, even in the face of distractions or temptations. | Akin can mentally juggle complex concepts during a class, making connections between different ideas and easily recalling information during exams. | Catherine frequently gets sidetracked by online distractions, spending excessive time on social media or gaming instead of focusing on assignments. |
-| Working Memory | The ability to hold and manipulate information in mind for short-term use.  | Leila resists the temptation to spend hours on social media during study sessions, utilizing website blockers or setting specific time limits to stay on track. | Harry frequently gets sidetracked by online distractions, spending excessive time on social media or gaming instead of focusing on assignments. |
-| Metacognition | The capacity to think about and regulate one's own thinking processes, including planning, monitoring, and evaluating one's own performance. | Nekesa reflects on his learning progress regularly, evaluates the effectiveness of his study techniques, and adjusts his strategies based on his understanding and performance. | John doesn't reflect on her learning process, uses ineffective study methods without realizing it, and struggles to accurately assess her own understanding of the material|
+| Flexibility | The capacity to adapt and adjust strategies, plans, or approaches when faced with changes or unexpected situations. | Misan adapts her study plans when an instructor moves an assignment due date, adjusting her schedule accordingly and allocating extra time to review the new material. | Daniel becomes frustrated and resistant when group members suggest changes to a project, insisting on sticking to the original plan even if it's no longer optimal. |
+| Attention | The ability to sustain focus on a task or stimuli while filtering out distractions. | Oyin maintains focused attention during class, actively listens to the instructor, takes detailed notes, and actively participates in class discussions. | Peter struggles to concentrate during class, frequently getting distracted by external stimuli or drifting off into unrelated thoughts. |
+| Self-control | The capacity to regulate emotions, impulses, and behaviors to achieve long-term goals, even in the face of distractions or temptations. | Leila resists the temptation to spend hours on social media during study sessions, utilizing website blockers or setting specific time limits to stay on track. | Catherine frequently gets sidetracked by online distractions, spending excessive time on social media or gaming instead of focusing on assignments. |
+| Working Memory | The ability to hold and manipulate information in mind for short-term use.  | Akin can mentally juggle complex concepts during a class, making connections between different ideas and easily recalling information during exams.  | Sarah struggles to remember the steps required to solve a math problem, often needing to refer back to the instructions or notes repeatedly.|
+| Metacognition | The capacity to think about and regulate one's own thinking processes, including planning, monitoring, and evaluating one's own performance. | Nekesa reflects on her learning progress regularly, evaluates the effectiveness of her study techniques, and adjusts her strategies based on her understanding and performance. | John doesn't reflect on his learning process, uses ineffective study methods without realizing it, and struggles to accurately assess his own understanding of the material.|
 | Time Management | The ability to allocate and prioritize time effectively to complete tasks and meet deadlines. | Ali creates a detailed weekly schedule, allocates specific time slots for studying, assignments, and personal activities, and consistently completes tasks ahead of deadlines. | Fred frequently underestimates the time required for assignments, procrastinates until the last minute, and often submits rushed or incomplete work. |
 | Perseverance | The capacity to persist in efforts, maintain motivation, and overcome obstacles or setbacks to achieve goals.  | Robb despite facing setbacks and challenges, seeks help, stays motivated, and persists until he successfully completes the project. | Neil easily gets discouraged by setbacks, loses motivation quickly, and tends to abandon tasks before putting in sufficient effort to overcome obstacles |
 

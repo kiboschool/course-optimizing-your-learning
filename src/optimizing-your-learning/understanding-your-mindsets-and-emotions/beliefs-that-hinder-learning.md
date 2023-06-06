@@ -153,7 +153,7 @@ If you frequently compare yourself to others and feel jealous or envious of thei
 
 Limiting beliefs can often lead to avoidance or procrastination, as you may believe that you're incapable of succeeding or fear failure. Notice if you frequently find yourself avoiding challenges or putting off important tasks.
     
-*Example:* Wanjiku is passionate about writing and wants to join the college newspaper. However, she constantly puts off submitting her application, believing, "I'm not a good enough writer. They won't accept me, so there's no point in trying."
+*Example:* Wanjiku is passionate about writing and wants to start a blog. However, she constantly puts off publishing her drafts, believing, "I'm not a good enough writer. People will criticize my writing, so there's no point in trying."
 
 **Lack of progress or growth** 
     

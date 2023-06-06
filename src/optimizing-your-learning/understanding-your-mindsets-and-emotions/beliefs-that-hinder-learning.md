@@ -201,7 +201,7 @@ The concept of learned helplessness is very similar to limiting beliefs. It is b
   
 **Meet Chinedu**
 
-Chinedu had a passion for computers since he was young. His family encouraged his interest in technology, and he excelled in computer-related subjects in secondary school. With high hopes, he entered college to pursue a degree in Computer Science.
+Chinedu had a passion for computers since he was young. His family encouraged his interest in technology, and he excelled in computer-related subjects in secondary school. With high hopes, he joined Kibo to pursue a degree in Computer Science.
 
 Initially, Chinedu found the coursework challenging but manageable. However, as he progressed through his program, he encountered more complex programming concepts and advanced algorithms that proved difficult to grasp. He started struggling to keep up with the pace of the classes and felt overwhelmed by the increasing workload.
 

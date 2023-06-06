@@ -7,7 +7,7 @@
 
 > 📺 Watch the following video from your instructor to learn about what you will be studying in week 1
 
-Insert video by the instructor introducing the main topics of the week and giving a short explanation of the week’s assessment.
+TODO: Insert video by the instructor introducing the main topics of the week and giving a short explanation of the week’s assessment.
 
 ## Learning Outcomes
 

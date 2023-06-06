@@ -322,4 +322,15 @@ Do you experience ANTs? What are some of the most common ANTs (e.g. Overgenerali
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/DzySGqf-82I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+<aside>
+
+🪞 **Answer the questions on the padlet below.**
+In the padlet below you will describe a recent ANT thought, and determine if there is a more balanced thought you could have.
+    
+</aside>
+
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/managing-ants-4827uqk02ozsv8m7" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
+
+<aside>
+    
 ---

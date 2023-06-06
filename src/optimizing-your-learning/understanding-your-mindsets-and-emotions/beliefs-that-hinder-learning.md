@@ -135,7 +135,7 @@ Limiting beliefs often generate feelings of fear, self-doubt, or anxiety. If a p
 
 Notice if you set arbitrary limits on yourself, believing that you cannot achieve something without valid reasons. These self-imposed limitations can stem from limiting beliefs.
     
-*Example:* Amina dreams of studying abroad for a semester. However, she convinces herself that it's not possible because she believes, "I don't have enough money or academic skills to study abroad. It's better not to even try."
+*Example:* Amina dreams of getting an internship at Microsoft. However, she convinces herself that it's not possible because she believes, "I don't have the connections or academic skills to land the internship. It's better not to even try."
 
 **Repeating patterns** 
     

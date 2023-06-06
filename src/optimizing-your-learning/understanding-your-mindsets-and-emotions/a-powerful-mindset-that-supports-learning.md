@@ -40,7 +40,6 @@ When you enter a mindset, you enter a new world. In one world—the world of fix
 
 <aside>
 
-
 📖 **Optional:** Read this article on [**what can be learned from growth mindset controversies**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8299535/).
 
 </aside>
@@ -67,7 +66,6 @@ If we think about the learnings from the previous section on Learned Helplessnes
 
 
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/embed/nw076pkpj5oma0i9" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
-<aside>
 
 <aside>
 
@@ -78,7 +76,7 @@ If we think about the learnings from the previous section on Learned Helplessnes
 
 ---
 
-##Embracing Failure
+## Embracing Failure
 
 📺 One characteristic of a fixed mindset is a fear of failure or mistakes. Watch the following video to learn how failure can be good for learning.
 
@@ -123,7 +121,7 @@ Ifeoma had a lifelong dream of participating in a prestigious coding competition
 </aside>
 
 
-##Reflection: Learning from Failure
+## Reflection: Learning from Failure
 
 <aside>
 🪞 **Answer the questions in the padlet below.**

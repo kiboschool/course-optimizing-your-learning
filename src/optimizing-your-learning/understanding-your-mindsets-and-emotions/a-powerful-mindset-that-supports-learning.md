@@ -5,8 +5,6 @@
 ---
 
 <aside>
-
-
 🗣 “No matter what your ability is, effort is what ignites that ability and turns it into accomplishment.”
 - Carol Dweck
 
@@ -28,6 +26,19 @@ When you enter a mindset, you enter a new world. In one world—the world of fix
 
 <div data-tf-widget="sUHVc8JG" data-tf-iframe-props="title=Mindset Self-Assessment" data-tf-medium="snippet" style="width:100%;height:400px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
 
+</aside>
+
+
+---
+
+<aside>
+    
+**Meet Adebayo and Adaora**
+    
+Adebayo, a Kibo student, believes that programming is a talent reserved for a select few, and he often feels overwhelmed by the challenges he faces. One day, he is tasked with developing a complex software application as part of a group project. As he looks at the project requirements, he immediately feels a sense of doubt and anxiety. He convinces himself that he doesn't have the natural talent for programming and that his teammates are more skilled than him. Throughout the project, Adebayo remains hesitant to contribute ideas or take on significant coding tasks. He avoids seeking help or guidance, fearing that it would expose his perceived inadequacies. As the project progresses, he becomes increasingly frustrated and demotivated, doubting his ability to make a meaningful contribution. Despite his team's encouragement and support, Adebayo's mindset holds him back from fully engaging in the project. He struggles to see setbacks as opportunities for learning and growth. Ultimately, his fixed mindset hinders his progress and prevents him from realizing his full potential as a computer science student. Adebayo has a fixed mindset regarding his programming skills.
+    
+Adaora, also a Kibo student, has a passion for programming and loves to embrace challenges with enthusiasm and determination. One day, she is participating in a coding competition that tests problem-solving skills. Excited by the opportunity to showcase her abilities, she eagerly dives into the competition. As she encounters complex programming problems, she sees each one as a thrilling puzzle waiting to be solved. Adaora immerses herself in research, explores various coding techniques, and seeks guidance from her instructor, mentor, and other experienced programmers. She actively collaborates with other participants, engaging in lively discussions and exchanging ideas. Throughout the competition, Adaora encounters setbacks and encounters challenges that test her skills. However, instead of being discouraged, she views these obstacles as opportunities for growth. She embraces each failure as a stepping stone to success, analyzing her mistakes, and using them as learning experiences to refine her approach. Adaora's mindset empowers her to persevere, remaining resilient in the face of difficulties. Her positive attitude and belief in her ability to improve propel her forward, enabling her to make significant progress in the competition. Regardless of the final outcome, Adaora emerges from the experience with a deep sense of personal growth and an unwavering commitment to her continuous development as a skilled computer scientist. Adaora has a growth mindset regarding her coding skills.
+    
 </aside>
 
 <aside>

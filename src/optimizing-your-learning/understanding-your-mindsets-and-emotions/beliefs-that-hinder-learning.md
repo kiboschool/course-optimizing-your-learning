@@ -213,6 +213,8 @@ With each disappointing grade, Chinedu internalized it as proof of his incompete
 
 Chinedu became passive in class discussions and group projects, believing his contributions held no value. He stopped taking risks and exploring new programming languages or techniques, fearing that he would only encounter more failure. His confidence plummeted, and he felt stuck in a cycle of self-doubt.
     
+Chinedu is experiencing **learned helpless**.
+    
 </aside>
 
 <aside>
@@ -233,7 +235,7 @@ Chinedu became passive in class discussions and group projects, believing his co
 
 <aside>
 
-📖 Read the following article to learn more about our updated understanding [learned helplessness](https://bigthink.com/neuropsych/learned-helplessness-imaginable/).
+📖 **Optional**: Read the following article to learn more about our updated understanding [learned helplessness](https://bigthink.com/neuropsych/learned-helplessness-imaginable/).
 
 </aside>
 

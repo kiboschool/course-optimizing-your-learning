@@ -82,7 +82,7 @@ Here are some examples of limiting beliefs:
 
 - **Step 1 (Awareness): Recognize that you have a belief and that it is limiting**
     - Identify your limiting beliefs by:
-        - Listening for when you are feeling frustrated or disappointed, or you keep making the same mistake over and over, or you can’t overcome a challenge, pause and think about what underlying belief could be causing this situation.
+        - Listening for when you are feeling frustrated or disappointed, or you keep making the same mistake over and over, or you can’t overcome a challenge. Pause and think about what underlying belief could be causing this situation.
         - Another option is to listen out for when you say phrases that start with “I can’t”, “I’m not”, “I wish” (or any of the earlier examples of limiting beliefs). These are potential limiting beliefs.
          - You might also identify some by noticing times when you talk yourself out of actions that would lead you towards long term goals that are meaningful to you.
 

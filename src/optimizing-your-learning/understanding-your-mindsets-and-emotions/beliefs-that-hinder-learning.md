@@ -29,7 +29,7 @@ In this section we will explore some belief systems and behaviors that can hinde
 
 </aside>
 
-In the previous section of this week’s lesson, you reflected on your different identities. While it is great to have a strong set of identities, as you saw in the final reflection, your identities can shape your beliefs about yourself. And as a consequence, they can shape what you believe you are capable, or deserving, of, leading to something called **limiting beliefs**.
+In the previous section of this week’s lesson, you reflected on your different identities. While it is great to have a strong set of identities, as you saw in the final reflection, your identities can shape your beliefs about yourself. As a consequence, they can shape what you believe you are capable, or deserving, of, leading to something called **limiting beliefs**.
 
 <aside>
 

@@ -61,25 +61,6 @@ Time Management is one of the executive functioning skills that is important for
 
 </aside>
 
-
-<aside>
-
-
-📺 Watch the following video on ways to conquer procrastination.
-
-</aside>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/HbxTkvfIOIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-
-<aside>
-
-🛠 Watch the following guided meditation to stop procrastination.
-
-</aside>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/SXMBkHlL2Dc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
 ---
 
 ## Improving Your Time Management
@@ -87,7 +68,6 @@ Time Management is one of the executive functioning skills that is important for
 Now that we've learned more about time management, and some common challenges. Let's explore some tools and techniques that you can implement to improve how you use your time. We will look at:
 - Time Auditing
 - The Eisenhower Matrix
-- Time Blocking
 - Calendaring
 - Planning Your Time
 - The Not To Do List
@@ -145,19 +125,6 @@ Here is what you can do with the information that you get from your completed ti
 📖 Read the following article on the **[Eisenhower Matrix](https://todoist.com/productivity-methods/eisenhower-matrix)**.
 
 </aside>
-
----
-
-### Time Blocking
-
-<aside>
-
-
-📺 Watch the following video on time blocking.
-
-</aside>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/YlkCB3ruVQE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ---
 

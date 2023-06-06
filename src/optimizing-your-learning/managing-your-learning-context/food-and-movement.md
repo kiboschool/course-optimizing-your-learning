@@ -1,4 +1,4 @@
-# You Are What You Eat
+# You Are What You Eat: The Impact of Food And Hydration
 
 *Estimated Time: 1 hour*
 

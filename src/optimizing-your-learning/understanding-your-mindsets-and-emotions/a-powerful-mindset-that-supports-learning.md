@@ -82,7 +82,7 @@ When studying challenging technical subjects  the intentional planning and imple
 
 ## Advise Adebayo
 
->In the padlet below, give Adebayo some advice, to help him overcome his fixed minset regarding his programming skills.
+>In the padlet below, give Adebayo some advice, to help him overcome his fixed mindset regarding his programming skills.
 
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/advise-adebayo-t9ljtv7fh3lxxulr" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 

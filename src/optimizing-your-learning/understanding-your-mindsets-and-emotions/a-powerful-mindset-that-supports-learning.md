@@ -24,7 +24,7 @@ When you enter a mindset, you enter a new world. In one world—the world of fix
 
 📝 Complete the following Mindset Self-Assessment
 
-<div data-tf-widget="sUHVc8JG" data-tf-iframe-props="title=Mindset Self-Assessment" data-tf-medium="snippet" style="width:100%;height:400px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
+<div data-tf-widget="sUHVc8JG" data-tf-iframe-props="title=Mindset Self-Assessment" data-tf-medium="snippet" style="width:100%;height:450px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
 
 </aside>
 

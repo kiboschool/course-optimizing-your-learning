@@ -207,7 +207,7 @@ Initially, Chinedu found the coursework challenging but manageable. However, as 
 
 With each setback, Chinedu's self-confidence waned, and he began doubting his abilities. Negative thoughts filled his mind, telling him, "I'm not smart enough for this," or "Everyone else seems to understand this except me." The more he believed these thoughts, the more they reinforced his feelings of powerlessness.
 
-As a result, Chinedu began avoiding challenging assignments and procrastinating on projects. He convinced himself that no matter how much effort he put in, he would never reach the level of his peers. He stopped seeking help from professors or classmates, convinced that their assistance wouldn't make a difference.
+As a result, Chinedu began avoiding challenging assignments and procrastinating on projects. He convinced himself that no matter how much effort he put in, he would never reach the level of his peers. He stopped seeking help from his instructors and classmates, convinced that their assistance wouldn't make a difference, and that they would just think he wasn't good enough to be at Kibo.
 
 With each disappointing grade, Chinedu internalized it as proof of his incompetence. He saw his failures as fixed characteristics rather than opportunities for growth. Over time, his motivation dwindled, and he found it harder to find joy in the subject he once loved.
 

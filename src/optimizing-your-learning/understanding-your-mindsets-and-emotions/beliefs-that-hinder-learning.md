@@ -251,6 +251,24 @@ What are some ways that you can practice [learned optimism](https://positivepsyc
 
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/embed/zcivnu95sv5z6ws4" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
+## Counteracting Learned Helplessness
+
+Remember Chinedu? Let's talk about some tactics that he could use to overcome his learned helplessness. If you ever feel caught in a similar situation, these might be helpful for you as well!
+
+1 - **Recognize and challenge negative beliefs:** Chinedu needs to become aware of his negative self-talk and challenge the limiting beliefs that contribute to his learned helplessness. He can start by questioning the validity of his thoughts and replacing them with more positive and empowering statements. For example, instead of thinking, "I'm not smart enough," he can reframe it as, "I have the capacity to learn and improve."
+
+2 - **Seek support and guidance:** It's essential for Chinedu to seek support from professors, teaching assistants, or tutoring services. By reaching out for help, he can gain a deeper understanding of challenging concepts and receive guidance on effective study strategies. Building relationships with classmates who share similar struggles can also provide a supportive network for learning and growth.
+
+3 - **Break tasks into smaller, manageable steps:** Large projects or assignments may feel overwhelming to Chinedu, leading to procrastination or avoidance. By breaking them down into smaller, more achievable tasks, he can make progress incrementally. Celebrating each completed step can boost motivation and instill a sense of accomplishment.
+
+4 - **Embrace a growth mindset:** Chinedu should cultivate a growth mindset, which emphasizes the belief that abilities and intelligence can be developed through effort and practice. Embracing challenges as opportunities for growth and viewing failures as learning experiences will help him bounce back from setbacks and persist in the face of difficulties. [We will learn more about this in the next section of this week's lesson.]
+
+5 - **Set realistic goals and track progress:** Chinedu can set specific, attainable goals that align with his academic aspirations. Breaking these goals into smaller milestones and regularly tracking his progress will provide a sense of achievement and help him stay motivated. Celebrating even small victories can reinforce positive beliefs about his abilities.
+
+6 - **Learn how to learn:** Chinedu can enhance his learning experience by adopting effective learning habits. This includes creating a structured study schedule, finding a conducive study environment, utilizing active learning techniques, and seeking opportunities for hands-on practice.
+
+7 - **Embrace mistakes and learn from them:** Chinedu should view mistakes and failures as natural parts of the learning process. Instead of allowing them to reinforce his helplessness, he can analyze what went wrong, identify areas for improvement, and adjust his strategies accordingly. Embracing a growth mindset will enable him to see setbacks as valuable learning opportunities.
+
 ---
 
 ## Automatic Negative Thoughts (ANTS)
@@ -284,13 +302,6 @@ To close out this section, we are going to explore the driver that creates the t
 
 </aside>
 
-<!--
-<aside>
-
-📖 You can read more about ANTs and how to stop them [here](https://www.hopetherapyandwellness.com/blog/137299-how-to-stop-automatic-negative-thoughts-ants).
-
-</aside>
--->
 
 ## Reflection: ANTs
 

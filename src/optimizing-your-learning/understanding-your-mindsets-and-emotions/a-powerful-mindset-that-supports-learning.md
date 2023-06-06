@@ -99,8 +99,8 @@ When studying challenging technical subjects  the intentional planning and imple
 
 ## Embracing Failure
 
+<aside>
 📺 One characteristic of a fixed mindset is a fear of failure or mistakes. Watch the following video to learn how failure can be good for learning.
-
 </aside>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/MQx39z99_Js"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>

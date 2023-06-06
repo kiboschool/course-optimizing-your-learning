@@ -1,6 +1,6 @@
 # Beliefs That Hinder Learning
 
-*Estimated Time: 1.5 hours*
+*Estimated Time: 4 hours*
 
 ---
 

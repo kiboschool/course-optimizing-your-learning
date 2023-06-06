@@ -198,6 +198,24 @@ Becoming aware of your limiting beliefs requires introspection and self-reflecti
 The concept of learned helplessness is very similar to limiting beliefs. It is based on the idea that previous experiences can limit what you think you are capable of, even when those limitations are removed.
 
 <aside>
+  
+**Meet Chinedu**
+
+Chinedu had a passion for computers since he was young. His family encouraged his interest in technology, and he excelled in computer-related subjects in secondary school. With high hopes, he entered college to pursue a degree in Computer Science.
+
+Initially, Chinedu found the coursework challenging but manageable. However, as he progressed through his program, he encountered more complex programming concepts and advanced algorithms that proved difficult to grasp. He started struggling to keep up with the pace of the classes and felt overwhelmed by the increasing workload.
+
+With each setback, Chinedu's self-confidence waned, and he began doubting his abilities. Negative thoughts filled his mind, telling him, "I'm not smart enough for this," or "Everyone else seems to understand this except me." The more he believed these thoughts, the more they reinforced his sense of helplessness.
+
+As a result, Chinedu began avoiding challenging assignments and procrastinating on projects. He convinced himself that no matter how much effort he put in, he would never reach the level of his peers. He stopped seeking help from professors or classmates, convinced that their assistance wouldn't make a difference.
+
+With each disappointing grade, Chinedu internalized it as proof of his incompetence. He saw his failures as fixed characteristics rather than opportunities for growth. Over time, his motivation dwindled, and he found it harder to find joy in the subject he once loved.
+
+Chinedu became passive in class discussions and group projects, believing his contributions held no value. He stopped taking risks and exploring new programming languages or techniques, fearing that he would only encounter more failure. His confidence plummeted, and he felt stuck in a cycle of self-doubt.
+    
+</aside>
+
+<aside>
 
 
 📺  Watch the following video on learned helplessness.

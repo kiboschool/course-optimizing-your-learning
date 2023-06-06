@@ -123,7 +123,7 @@ Identifying a limiting belief can sometimes be challenging, as they can be deepl
     
 If you frequently catch yourself using negative language or self-critical statements, such as "I'm not good enough" or "I always fail," it's likely a sign of a limiting belief.
     
-*Example:* Chioma receives a lower grade than she expected on her first exam. She immediately starts berating herself, saying, "I'm so stupid. I'll never be able to succeed in this program. Maybe I'm just not cut out for this."
+*Example:* Chioma receives a lower grade than she expected on her first programming assignment. She immediately starts berating herself, saying, "I'm so stupid. I'll never be able to succeed in this degree. Maybe I'm just not cut out for this."
 
 **Feelings of fear or self-doubt** 
     

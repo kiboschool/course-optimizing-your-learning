@@ -135,6 +135,56 @@ If creating an empowering belief seems too challenging, you can work on just que
 
 ## Reflection: Limiting Beliefs
 
+<aside> 
+    
+**Reminder: How to Identify Your Limiting Beliefs** 🔎 
+
+Identifying a limiting belief can sometimes be challenging, as they can be deeply ingrained and automatic. However, here are some signs that can help you recognize when something may be a limiting belief:
+
+**Negative self-talk** 
+If you frequently catch yourself using negative language or self-critical statements, such as "I'm not good enough" or "I always fail," it's likely a sign of a limiting belief.
+    
+*Example:* Chioma receives a lower grade than she expected on her first exam. She immediately starts berating herself, saying, "I'm so stupid. I'll never be able to succeed in this program. Maybe I'm just not cut out for this."
+
+**Feelings of fear or self-doubt** 
+    
+Limiting beliefs often generate feelings of fear, self-doubt, or anxiety. If a particular belief or thought consistently holds you back or makes you feel inadequate, it may be a limiting belief.
+    
+*Example:* Kwame is assigned a group project where he has to give a presentation. He feels a surge of fear and self-doubt, thinking, "I'm not good at public speaking. I'll embarrass myself in front of the class. Maybe I should avoid taking any leadership roles."
+    
+**Self-imposed limitations** 
+
+Notice if you set arbitrary limits on yourself, believing that you cannot achieve something without valid reasons. These self-imposed limitations can stem from limiting beliefs.
+    
+*Example:* Amina dreams of studying abroad for a semester. However, she convinces herself that it's not possible because she believes, "I don't have enough money or academic skills to study abroad. It's better not to even try."
+
+**Repeating patterns** 
+    
+If you find yourself repeatedly facing similar challenges or obstacles in various areas of your life, it could indicate a common underlying limiting belief that needs to be addressed.
+    
+*Example:* Chukwuemeka finds himself struggling to make friends in his new environment. He recalls similar experiences from high school and concludes, "I'm just not good at making friends. It seems like everyone else effortlessly connects with others, but I'm always left out."
+
+**Comparison and jealousy** 
+    
+If you frequently compare yourself to others and feel jealous or envious of their accomplishments, it may be a sign of a limiting belief about your own abilities or worth.
+    
+*Example:* Abena constantly compares herself to her classmates who seem to excel academically. She becomes jealous, thinking, "Everyone else is so much smarter than me. I'm just not as intelligent or capable as them. I'll never be able to keep up."
+
+**Avoidance or procrastination** 
+
+Limiting beliefs can often lead to avoidance or procrastination, as you may believe that you're incapable of succeeding or fear failure. Notice if you frequently find yourself avoiding challenges or putting off important tasks.
+    
+*Example:* Wanjiku is passionate about writing and wants to join the college newspaper. However, she constantly puts off submitting her application, believing, "I'm not a good enough writer. They won't accept me, so there's no point in trying."
+
+**Lack of progress or growth** 
+    
+If you feel stuck or stagnant in certain areas of your life, it may be a result of limiting beliefs that prevent you from taking necessary steps towards growth and development.
+    
+*Example:* Ade has set a goal to improve his time management skills. However, he consistently falls into the habit of procrastination and fails to make progress. He thinks, "I'll never be able to manage my time effectively. It's just not something I'm capable of."
+
+</aside>
+    
+    
 <aside>
 
 🪞 **Answer the following question in the padlet below.**

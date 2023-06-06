@@ -109,7 +109,7 @@ In the field of computer science, problem-solving, innovation, and continuous le
 
 Don't believe me? Here are some ways that failure can be the road to your computer science success:
 
-1. **Helping you to dentify areas for improvement:** Failure exposes areas where improvement is needed. It highlights the gaps in knowledge or skills and serves as a clear indicator of what needs to be addressed. By experiencing failure, you can identify specific areas where you need to focus your efforts to enhance your understanding and competence.
+1. **Helping you identify areas for improvement:** Failure exposes areas where improvement is needed. It highlights the gaps in knowledge or skills and serves as a clear indicator of what needs to be addressed. By experiencing failure, you can identify specific areas where you need to focus your efforts to enhance your understanding and competence.
 
 2. **Building problem-solving skills:** Computer science often involves complex problem-solving. Failure provides an opportunity to engage in critical thinking and analyze what went wrong. It challenges you to identify alternative approaches, debug errors, and develop creative solutions. Through this process, you refine your problem-solving skills and become more adept at overcoming challenges.
 

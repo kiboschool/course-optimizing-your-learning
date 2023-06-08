@@ -6,6 +6,14 @@
 
 Time Management is one of the executive functioning skills that is important for effective learning. As mentioned in the week 1 lesson, it can be defined as "the ability to use time efficiently and effectively in the accomplishment of set tasks and goals." This is a skill that a lot of people struggle with, and it can have a significant impact on your ability to learn well. Therefore, in this section we will explore some common time management challenges and myths, as well as some tips and tools that can help you improve your ability to manage your time.
 
+<aside>
+
+**Meet Ada**
+  
+Ada, a first year student as Kibo, possesses immense potential, but she struggles with poor time management skills. Ada's days often lack structure and organization. She frequently finds herself procrastinating, leaving tasks until the last minute, and struggling to meet deadlines. The lack of a clear plan or routine contributes to a constant feeling of overwhelm, as she tries to juggle coursework, coding assignments, and other responsibilities.Due to her poor time management, Ada often finds herself spending excessive hours on non-productive activities such as scrolling through social media, watching videos, or getting lost in unrelated interests. This leads to a vicious cycle of falling behind on important tasks, causing stress and anxiety. Ada's disorganized approach also affects her ability to prioritize effectively. She often tackles tasks based on urgency rather than importance, which leads to neglecting critical assignments and sacrificing quality in her work. Additionally, Ada struggles to estimate the time required for each task, resulting in frequent underestimation or overestimation. This leads to time pressure, rushed work, and compromised learning opportunities. The consequences of Ada's poor time management skills begin to manifest in her academic performance. She receives lower grades than she is capable of, as she struggles to dedicate sufficient time to studying and fully grasping complex concepts. Ada's lack of structure also hampers her ability to collaborate effectively with classmates and take advantage of valuable learning opportunities.
+ 
+</aside>
+
 ---
 
 ## Introduction to Time Management
@@ -173,6 +181,13 @@ Read the following chapters on how to create a:
 
 <aside>
 
+<aside>
 
+**Meet Emeka**
+  
+With meticulous planning and strategic execution, Emeka navigates the demanding world of studying computer science with ease. Emeka begins each week by conducting time audits, tracking how he spends each moment to optimize productivity. He prioritizes tasks, tackling the most critical ones first. By time blocking, he dedicates specific hours to coding, studying, and personal development, eliminating distractions. Emeka relies on calendars and to-do lists, maintaining a visual representation of his schedule and ensuring no task goes unnoticed. Regular breaks and leisure activities are scheduled to maintain work-life balance and prevent burnout. Emeka's peers marvel at his organizational skills and ability to accomplish remarkable feats within demanding deadlines. Through his disciplined time management, Emeka sets himself up for a future full of limitless possibilities in the world of technology.
+ 
+</aside>
+ 
 ---
 

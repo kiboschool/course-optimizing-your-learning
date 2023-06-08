@@ -16,7 +16,7 @@ Ama knows deep down that she needs to incorporate exercise into her daily routin
 
 But as the weeks go by, Ama notices the toll her sedentary lifestyle is taking on her overall well-being. She struggles to maintain a healthy sleep schedule, often finding herself tossing and turning, her mind unable to quiet down after hours of intense screen time. Her energy levels plummet, leaving her feeling drained even before the day begins.
 
-</aisde>
+</aside>
 
 
 <aside>

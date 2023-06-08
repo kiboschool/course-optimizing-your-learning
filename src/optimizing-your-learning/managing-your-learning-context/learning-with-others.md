@@ -11,6 +11,22 @@
 
 </aside>
 
+
+<aside>
+
+**Meet Kwame**
+ 
+Kwame prefers to tackle his coursework and assignments independently, relying solely on his own abilities and resources. Kwame's determination to be a self-reliant learner initially brings him a sense of independence and control over his studies. He dedicates countless hours to coding, researching, and practicing programming concepts on his own. However, as the semester progresses, he starts experiencing the potential pitfalls of his solo learning approach.
+
+One of the significant challenges Kwame faces is the absence of diverse perspectives and insights. Without engaging with classmates and discussing ideas with peers, he misses out on the opportunity to broaden his understanding, discover alternative solutions, and challenge his own assumptions. The lack of diverse input limits his growth and inhibits the development of critical thinking and problem-solving skills.
+Furthermore, without the support and collaboration of others, Kwame encounters difficulties in identifying and rectifying misconceptions. He unknowingly reinforces incorrect ideas and struggles to fill gaps in his knowledge without external guidance or input. This hinders his ability to grasp complex concepts and impedes his progress in more challenging programming tasks.
+
+Another drawback of Kwame's solo learning approach is the potential for isolation and reduced motivation. As he spends long hours immersed in his studies without the support and camaraderie of peers, he feels disconnected from the vibrant learning community around him. The absence of a supportive network impacts his motivation and makes it challenging for him to stay inspired and driven to excel.
+
+Moreover, by solely relying on his own resources, Kwame misses out on valuable learning opportunities and experiences. Collaborative projects, group discussions, and mentorship from professors provide chances to gain real-world skills, enhance teamwork abilities, and expand his professional network. Without engaging in these activities, Kwame limits his growth potential and hinders his future career prospects.
+    
+</aisde>
+
 Learning does not happen in a vacuum, nor is it a solo endeavor. In regular in-person classrooms, we are used to attending classes with fellow students. This happens to be the same in online classrooms as well. However, being in the same classroom with others does not mean one is learning effectively ‘with’ others. So, how do you ensure you have the right people in your learning space and maximize the presence and contribution of classmates to your learning journey? 
 
 In this lesson, we will explore how you can effectively learn with other members of the Kibo community, specifically:

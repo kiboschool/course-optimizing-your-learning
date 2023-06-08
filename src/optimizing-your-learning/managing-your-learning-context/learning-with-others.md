@@ -25,7 +25,7 @@ Another drawback of Kwame's solo learning approach is the potential for isolatio
 
 Moreover, by solely relying on his own resources, Kwame misses out on valuable learning opportunities and experiences. Collaborative projects, group discussions, and mentorship from professors provide chances to gain real-world skills, enhance teamwork abilities, and expand his professional network. Without engaging in these activities, Kwame limits his growth potential and hinders his future career prospects.
     
-</aisde>
+</aside>
 
 Learning does not happen in a vacuum, nor is it a solo endeavor. In regular in-person classrooms, we are used to attending classes with fellow students. This happens to be the same in online classrooms as well. However, being in the same classroom with others does not mean one is learning effectively ‘with’ others. So, how do you ensure you have the right people in your learning space and maximize the presence and contribution of classmates to your learning journey? 
 

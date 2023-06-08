@@ -6,6 +6,14 @@
 
 In this section, we will discuss the impact that the food and drink that you consume on your ability to learn effectively.
 
+<aside>
+
+**Meet Kwaku**
+  
+Due to the demands of his coursework and a hectic schedule, Kwaku finds himself neglecting his nutrition and hydration. He often skips meals, relying on unhealthy snacks and fast food for convenience. Additionally, Kwaku has developed a habit of excessively consuming cola drinks, which further exacerbates his poor dietary choices. This combination of poor nutrition and inadequate hydration has detrimental effects on Kwaku's overall well-being and academic performance. His energy levels are constantly fluctuating, leading to persistent fatigue and difficulty concentrating during lectures. Kwaku struggles to retain information and finds it challenging to engage actively with the coursework. Furthermore, the lack of proper hydration compounds the negative impact on Kwaku's physical and cognitive functions. His body is deprived of essential fluids, affecting his overall alertness, cognitive abilities, and memory retention. The excessive consumption of cola drinks not only fails to adequately hydrate him but also contributes to additional health concerns.
+  
+</aside>
+
 ## Food
 
 <aside>

@@ -181,8 +181,6 @@ Read the following chapters on how to create a:
 
 <aside>
 
-<aside>
-
 **Meet Emeka**
   
 With meticulous planning and strategic execution, Emeka navigates the demanding world of studying computer science with ease. Emeka begins each week by conducting time audits, tracking how he spends each moment to optimize productivity. He prioritizes tasks, tackling the most critical ones first. By time blocking, he dedicates specific hours to coding, studying, and personal development, eliminating distractions. Emeka relies on calendars and to-do lists, maintaining a visual representation of his schedule and ensuring no task goes unnoticed. Regular breaks and leisure activities are scheduled to maintain work-life balance and prevent burnout. Emeka's peers marvel at his organizational skills and ability to accomplish remarkable feats within demanding deadlines. Through his disciplined time management, Emeka sets himself up for a future full of limitless possibilities in the world of technology.

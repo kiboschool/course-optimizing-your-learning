@@ -6,6 +6,14 @@
 
 In this section, we will explore the impact that stress has on your brain, and then we will discuss how to use breathing, mindfulness, and other techniques to manage your stress and improve your learning outcomes.
 
+<aside>
+  
+**Meet John**
+  
+John is a diligent and ambitious first-year computer science student. As his first term progresses, John finds himself increasingly stressed and anxious due to the demanding workload. He grapples with programming assignments, complicated algorithms, and challenging theory concepts. Each day brings new deadlines, and he feels overwhelmed and unsure of how to manage it all. Sleep eludes him as he worries about his grades and feels inadequate. Even during class time, his mind constantly drifts to the mounting pile of pending assignments. John feels isolated, seeing his classmates seemingly effortlessly handling the coursework, intensifying his self-doubt and anxiety. He hesitates to seek help, fearing judgment and appearing incapable. As his stress builds, his academic performance suffers, and he becomes forgetful, missing deadlines and skipping classes. John knows he needs to take action but feels lost and overwhelmed.
+
+</aside>
+
 ## Impact of Stress
 
 <aside>

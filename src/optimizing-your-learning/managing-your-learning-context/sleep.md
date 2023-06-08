@@ -17,6 +17,7 @@ In this section we will discuss why sleep is so important for learning and livin
 <aside>
 
 **Meet Nneka**
+  
 Driven by her academic goals, Nneka often sacrifices precious hours of rest to stay up late studying, coding, and completing assignments. She believes that pushing herself to the limits and sacrificing sleep is the key to achieving her desired grades and future success. With each passing night, sleep takes a backseat as Nneka immerses herself in her studies.
 
 As time goes by, the consequences of Nneka's sleep deprivation begin to manifest. She experiences chronic fatigue during the day, struggling to concentrate and absorb new information effectively. Simple tasks become more difficult, and her once-sharp mind feels foggy and sluggish. The lack of quality sleep begins to affect her emotional well-being, leaving her feeling irritable and overwhelmed by stress.

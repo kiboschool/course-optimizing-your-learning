@@ -14,6 +14,17 @@
 
 In this section we will discuss why sleep is so important for learning and living, explore the consequences of sleep deprivation, and learn how to get better sleep.
 
+<aside>
+
+**Meet Nneka**
+Driven by her academic goals, Nneka often sacrifices precious hours of rest to stay up late studying, coding, and completing assignments. She believes that pushing herself to the limits and sacrificing sleep is the key to achieving her desired grades and future success. With each passing night, sleep takes a backseat as Nneka immerses herself in her studies.
+
+As time goes by, the consequences of Nneka's sleep deprivation begin to manifest. She experiences chronic fatigue during the day, struggling to concentrate and absorb new information effectively. Simple tasks become more difficult, and her once-sharp mind feels foggy and sluggish. The lack of quality sleep begins to affect her emotional well-being, leaving her feeling irritable and overwhelmed by stress.
+
+Moreover, Nneka's physical health starts to suffer due to her disrupted sleep patterns. She becomes more susceptible to illnesses, frequently falling ill and having to battle through the day while feeling unwell. Despite these warning signs, Nneka dismisses the importance of sleep, believing that she can push through any challenges with sheer determination. However, deep down, Nneka senses that something is amiss. She notices classmates who maintain a healthier work-life balance, achieving academic success while still prioritizing sufficient sleep. A sense of concern and curiosity begins to stir within her, prompting her to question whether her current approach is sustainable.
+
+</aside>
+
 ## Introduction to Sleep
 
 <aside>

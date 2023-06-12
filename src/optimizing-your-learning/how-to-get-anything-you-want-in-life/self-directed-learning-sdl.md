@@ -46,7 +46,7 @@ The ability to set goals, plan for achievement, independently manage time and ef
 Here is a summary of how the two most extreme types of learners (the dependent learner and the self-directed learner) compare:
 - **Dependent Learner**
     - Relies on an instructor to set learning goals, monitor learning progress, and evaluate learning outcomes.
-    - Is able to completes list of instructor-created tasks
+    - Is able to complete a list of instructor-created tasks
     - Has little awareness that there is an option for them to take some control over their learning
     - This type of learner is common place in traditional primary and secondary school environments, and many university environments with the "chew & pour" mentality
  

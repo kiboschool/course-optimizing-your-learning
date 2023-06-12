@@ -128,9 +128,13 @@ As the day comes to an end, Juma intends to go to bed early to ensure a good nig
 ### Summary of the tips from the videos
 
 **Tip 1:** Learn to look closely.
+
 **Tip 2:** Stop and think.
+
 **Tip 3:** Exercise.
+
 **Tip 4:** Challenge yourself.
+
 **Tip 5:** Try another way.
 
 ## Reflection: Executive Functioning Skills

@@ -178,11 +178,11 @@ The table below outlines behaviors that effective self-directed learners exhibit
 
 Here is some useful expansions on some of the key terms in the table:
 - **Diagnosing Learning needs:** It all starts with questions like: What do I not know? What do I need to learn? Why do I want to learn this? 
-- **Goal Setting:** Taking the learning needs one step further, the learner formulates clear goals by asking questions like: What will I be able to do once I have completed my learning? 
-- **Strategic Planning and Determing a Learning Strategy:** In order to build upon existing knowledge and ideas, the learner has to determine an appropriate approach to, and resources for, learning. 
-- **Help Seeking:** While self-directed learning is about being in control of your own learning, it doesn't mean that you need to learn alone. An important practice to use when learning, is knowing when to ask for help, where you can find help, and who you can approach for help. 
-- **Testing:** When you are learning, it is critical to have an accurate signal of the gap between your current compentency and your target competency. One way to get an accruate estimate of that gap it through frequently testing yourself.
-- **Self-Evaluation:** After learning strategies are implemented, the learner then evaluates their learning to see how effective the process was. Using their learning goals as a benchmark, the learner can determine how effective their learning process was and can subsequently improve on it. 
+- **Goal Setting:** Taking the learning needs one step further, you should formulate clear goals by asking questions like: What will I be able to do once I have completed my learning? 
+- **Strategic Planning and Determing a Learning Strategy:** In order to build upon existing knowledge and ideas, you have to determine an appropriate approach to, and resources for, learning. 
+- **Help Seeking:** While self-directed learning is about being in control of your own learning, it doesn't mean that you need to learn alone. An important practice to use when learning is knowing when to ask for help, where you can find help, and who you can approach for help. 
+- **Testing:** When you are learning, it is critical to have an accurate signal of the gap between your current compentency and your target competency. One way to get an accruate estimate of that gap it through frequently testing yourself and getting feedback. You can test yourself by carrying out your goal task and seeing how well you do. E.g., if you are learning how to use loops in python, test yourself by building a pyhton program using loops; if you are learning for an exam, test yourself by completing practice exam questions under exam conditions.
+- **Self-Evaluation:** After learning strategies are implemented, you can evaluate your learning to see how effective the process was. You can also do this periodically while you are learning. Using your learning goals as a benchmark, you can determine how effective your learning process was and can subsequently improve on it. 
 
 
 <aside>

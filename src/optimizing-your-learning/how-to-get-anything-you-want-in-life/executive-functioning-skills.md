@@ -171,9 +171,11 @@ As the day comes to an end, Juma intends to go to bed early to ensure a good nig
     - Communicate with the group to discuss alternative meeting times or find solutions that accommodate everyone's schedules.
  - Afternoon:
     - Find a quiet and distraction-free study environment to help improve focus and attention. Use earplugs or noise-cancelling headphones, or study in a secluded setting to minimize external distractions.
-    - Implement techniques like the Pomodoro Technique, where you work for a set period (e.g., 25 minutes) and then take a short break (e.g., 5 minutes) to rest and reset your attention. This method can help train your mind to shift focus between tasks more effectively.
+    - Implement techniques like the Pomodoro Technique, where you work for a set period (e.g., 25 minutes) and then take a short break (e.g., 5 minutes) to rest and reset your attention.
 - Evening:
-  - Break down the feedback received from the instructor into smaller, manageable tasks. Prioritize the revisions based on the importance and urgency of each point. Create a to-do list or use a task management tool to stay organized and focused.
+  - Break down the feedback received from the instructor into smaller, manageable tasks. 
+  - Prioritize the revisions based on the importance and urgency of each point. 
+  - Create a to-do list or use a task management tool to stay organized and focused.
 
   
 </details>

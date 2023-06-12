@@ -184,18 +184,18 @@ As the day comes to an end, Juma intends to go to bed early to ensure a good nig
   <summary> Open to see some useful advice for Akua (or anyone with working memory challenges). </summary>
   
 - Morning:
-    - Develop a habit of using a physical planner or digital calendar to write down class schedules and important deadlines. This will provide a visual reminder and help her stay organized.
-    - Practice actively reviewing schedule each morning to reinforce the information in her working memory. By regularly checking her schedule, she can improve her ability to recall and remember details.
+    - Develop a habit of using a physical planner or digital calendar to write down class schedules and important deadlines. This will provide a visual reminder and help you stay organized.
+    - Practice actively reviewing your schedule each morning to reinforce the information in your working memory. By regularly checking your schedule, you can improve your ability to recall and remember details.
 - Mid-morning:
-  - Develop effective note-taking strategies during class. Jot down key points, use symbols or diagrams, and summarize information in own words. These techniques can enhance her understanding and retention of the material.
+  - Develop effective note-taking strategies during class. Jot down key points, use symbols or diagrams, and summarize information in your own words. These techniques can enhance your understanding and retention of the material.
   - Consider recording classes (with the instructor's permission), or reviewing the class recordings created by the instructor. 
 - Afternoon:
-  - Practice active learning techniques like summarizing information in her own words, outlining, asking questions, and making connections between different sources. These active learning strategies can help encode information into her long-term memory more effectively.
+  - Practice active learning techniques like summarizing information in your own words, outlining, asking questions, and making connections between different ideas. These active learning strategies can help encode information into her long-term memory more effectively.
 - Late Afternoon:
-    - Engage actively during study group sessions by asking questions, participating in discussions, and explaining concepts to others. These interactions can reinforce her understanding and retention of the material.
-    - Utilize visual aids, such as concept maps or diagrams, to organize and connect ideas discussed during the study group. Visual representations can assist her in retaining and recalling information more efficiently.
+    - Engage actively during study group sessions by asking questions and participating in the discussions. These interactions can reinforce her understanding and retention of the material.
+    - Use visual aids, such as concept maps or diagrams, to organize and connect ideas discussed during the study group. Visual representations can assist you in retaining and recalling information more efficiently.
 - Evening:
-  - Develop a step-by-step approach for following instructions during online assignments. She can write down the sequence of steps or create a checklist to refer to while completing the assignment. Breaking down the instructions into smaller, manageable chunks can enhance her working memory performance.
+  - Develop a step-by-step approach for following instructions during online assignments. You can write down the sequence of steps in the instructions or create a checklist to refer back to while completing the assignment. Breaking down the instructions into smaller, manageable chunks can enhance your working memory performance.
   
 </details>
   
@@ -203,19 +203,18 @@ As the day comes to an end, Juma intends to go to bed early to ensure a good nig
   <summary> Open to see some useful advice for Juma (or anyone with inhibitory control challenges). </summary>
 
 - Morning:
-  - Establish a morning routine that includes specific time slots for phone usage. He can set a limit on the amount of time he spends on his phone before starting his study session. Using apps or features that track and limit screen time can be helpful.
-  - Keep the phone out of sight and in a different room while studying to minimize distractions and resist the impulse to check notifications. 
+  - Establish a morning routine that includes specific time slots for phone usage. You can set a limit on the amount of time you spends on your phone before starting your study session. Using apps or features that track and limit screen time can be helpful.
+  - Keep your phone out of sight and in a different room while studying to minimize distractions and resist the impulse to check notifications. 
 - Mid-morning:
-  - Practice active listening during lectures. Juma can engage with the material by taking detailed notes, asking questions, and participating in discussions. Actively involving himself in the learning process can help improve his focus and inhibit distractions.
-  - Utilize active learning strategies like summarizing key points, repeating information in his own words, or visualizing concepts to help maintain attention and enhance understanding.
+  - Practice active listening during classes. You can engage with the material by taking detailed notes, asking questions, and participating in the class discussions. Actively involving yourself in the learning process can help improve your focus and block out distractions.
+  - Utilize active learning strategies like summarizing key points, repeating information in your own words, or visualizing concepts can help maintain attention and enhance understanding.
 - Lunchtime:
-  - Plan and prepare healthy meals in advance to avoid impulsive food choices. Juma can pack a nutritious lunch or snacks from home to resist the temptation of unhealthy options nearby.
-  - Engage in mindful eating by focusing on the taste, texture, and satisfaction of the chosen meal. This can help Juma resist immediate gratification and make healthier choices.
--Evening:
+  - Plan and prepare healthy meals in advance to avoid impulsive food choices. You can pack a nutritious lunch or snacks from home to resist the temptation of unhealthy options nearby.
+- Evening:
   - Create a distraction-free study environment by putting the phone in a different room, using website blockers to limit access to social media, or employing productivity apps that block distracting notifications.
 - Night:
-   - Establish a bedtime routine that promotes healthy sleep habits. He can set a specific time to wind down, avoid stimulating activities like watching TV or playing video games close to bedtime, and create a relaxing environment conducive to sleep.
-  - Set a bedtime alarm to remind him of his commitment to getting adequate rest. Resisting the urge to stay up late can help improve his overall cognitive functioning, including inhibitory control.
+   - Establish a bedtime routine that promotes healthy sleep habits. You can set a specific time to wind down, avoid stimulating activities like watching TV or playing video games close to bedtime, and create a relaxing environment conducive to sleep.
+  - Set a bedtime alarm to remind you of your commitment to getting adequate rest. Resisting the urge to stay up late can help improve your overall cognitive functioning.
   
 </details>
 

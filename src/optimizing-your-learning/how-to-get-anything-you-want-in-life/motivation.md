@@ -70,7 +70,7 @@ M. Driscoll
 - **Experience**
 - **Interactions**
 - **Process**
-- **Future…problems, opportunities, learning**
+- **Future…problems, opportunities**
 
 <aside>
 

@@ -47,7 +47,7 @@ All weekly assignments have a stated assignment deadline on their assignment pag
 
 The most effective way to communicate with the instructor for this course is through posting a message in the #help-oyl channel in Discord. All questions posted there will receive a response within 24 hours. 
 
-All course announcements from the instructor will also be posted to the pinned announcement in the #help-oyl channel in Discord.
+Course announcements from the instructor will also be posted in the #help-oyl channel in Discord.
 
 ---
 

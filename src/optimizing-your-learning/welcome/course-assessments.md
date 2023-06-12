@@ -32,7 +32,7 @@ All four assignments will be worth 50% of your final grade, therefore each assig
 Learn to plan and plan to learn.
 </aside>
 
-One of your final assessments for this course will be the creation of a personal learning charter. This learning charter will inlcude the following information: 
+One of your final assessments for this course will be the creation of a personal learning charter. This learning charter will include the following information: 
 
 - Who You Are
 - Your Learning Beliefs

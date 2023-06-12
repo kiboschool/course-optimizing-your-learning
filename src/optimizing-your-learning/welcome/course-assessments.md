@@ -12,13 +12,13 @@
  
 During weeks 1, 2, 3, and 4. you will have a weekly assignment that will be due on the Monday of the following week. The weekly assignments are:
 
-Week 1 - Letter to Future Self (Due date: xxx)
+Week 1 - Letter to Future Self (Due date: July 17th, 2023, 10pm GMT)
 
-Week 2 - Overcoming Limiting Beliefs (Due date: xxx)
+Week 2 - Overcoming Limiting Beliefs (Due date: July 24th, 2023, 10pm GMT)
 
-Week 3 - Learning Context Experiment (Due date: xxx)
+Week 3 - Learning Context Experiment (Due date: July 31st, 2023, 10pm GMT)
 
-Week 4 - Habit Inventory and Change Plan (Due date: xxx
+Week 4 - Habit Inventory and Change Plan (Due date: August 7th, 2023, 10pm GMT)
 
 More information about each assignment can be found on the assignment page of each week’s lesson.
 

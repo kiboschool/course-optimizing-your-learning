@@ -203,7 +203,7 @@ As the day comes to an end, Juma intends to go to bed early to ensure a good nig
   <summary> Open to see some useful advice for Juma (or anyone with inhibitory control challenges). </summary>
 
 - Morning:
-  - Establish a morning routine that includes specific time slots for phone usage. You can set a limit on the amount of time you spends on your phone before starting your study session. Using apps or features that track and limit screen time can be helpful.
+  - Establish a morning routine that includes specific time slots for phone usage. You can set a limit on the amount of time you spend on your phone before starting your study session. Using apps or features that track and limit screen time can be helpful.
   - Keep your phone out of sight and in a different room while studying to minimize distractions and resist the impulse to check notifications. 
 - Mid-morning:
   - Practice active listening during classes. You can engage with the material by taking detailed notes, asking questions, and participating in the class discussions. Actively involving yourself in the learning process can help improve your focus and block out distractions.

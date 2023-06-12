@@ -342,7 +342,7 @@ Below are some more Executive Functioning skills that influence your ability to 
   
 -Break tasks into time blocks: Allocate specific time blocks for different tasks, setting a start and end time for each activity to create a structured schedule.
   
--Prioritize important tasks: Identify high-priority tasks and tackle them early in the day when your energy and focus are usually higher.
+-Prioritize important tasks: Identify high-priority tasks and tackle them when your energy and focus are highest (usually earlier in the day).
   
 </details>
   

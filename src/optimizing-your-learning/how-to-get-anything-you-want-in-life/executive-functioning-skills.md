@@ -88,7 +88,7 @@ Juma is a Kibo student with poor inhibitory control skills. He often struggles w
 Juma wakes up and plans to start his day by studying for an upcoming exam. However, he finds it challenging to resist the temptation of checking his phone for notifications and getting caught up in social media. As a result, he ends up spending more time than intended on his phone, delaying his study session.
 
 **Mid-morning:**
-Juma attends the Web Foundations office hours where the instructor is walking through an approach to overcome a common challenge students have been having with this week's assignment. However, while the instructor is speaking, Juma's mind wanders, and he starts daydreaming, as a result he misses out on critical information.
+Juma attends the Web Foundations office hours where the instructor is walking through an approach to overcome a common challenge students have been having with this week's assignment. However, while the instructor is speaking, Juma's mind wanders, and he starts daydreaming. As a result he misses out on critical information.
 
 **Lunchtime:**
 At lunch, Juma plans to grab a healthy meal. However, as he is walking to the nearest shop, he notices his favorite fast food joint nearby and succumbs to the temptation, choosing an unhealthy meal instead. He finds it hard to resist the immediate gratification of the unhealthy food choice.

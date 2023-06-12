@@ -94,7 +94,7 @@ Juma attends the Web Foundations office hours where the instructor is walking th
 At lunch, Juma plans to grab a healthy meal. However, as he is walking to the nearest shop, he notices his favorite fast food joint nearby and succumbs to the temptation, choosing an unhealthy meal instead. He finds it hard to resist the immediate gratification of the unhealthy food choice.
 
 **Evening:**
-Juma plans to spend the evening reviewing his notes and preparing for a class presentation. However, when he sits down to study, he gets easily distracted by notifications on his phone, social media updates, and online videos. He finds it difficult for him to resist the distractions and focus on his academic tasks.
+Juma plans to spend the evening reviewing his notes and preparing for a class presentation. However, when he sits down to study, he gets easily distracted by notifications on his phone, social media updates, and online videos. He finds it difficult to resist the distractions and focus on his academic tasks.
 
 **Night:**
 As the day comes to an end, Juma intends to go to bed early to ensure a good night's sleep for an early morning class. However, he struggles to resist the temptation of staying up late to watch anime.

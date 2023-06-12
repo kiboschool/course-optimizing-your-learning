@@ -72,7 +72,7 @@ At the end of the term you will need to submit:
 - Your learning self-evaluation (Milestone 4)
 - A written reflection on the learning experience (Milestone 4)
 
-More details, as well as template documents for some of the Milestone deliverables will be provide in the Final Presentation Milestone sections in Lessons 2, 3, and 4, and the Week 5 Final Assessment lesson.
+More details, as well as template documents for some of the Milestone deliverables will be provided in the Final Presentation Milestone sections in Lessons 2, 3, and 4, and the Week 5 Final Assessment lesson.
 
 ---
 

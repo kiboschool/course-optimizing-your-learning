@@ -56,13 +56,11 @@ Here is a summary of how the two most extreme types of learners (the dependent l
     - Can identify their desires, and knows what they need to do to pursue them.
     - Sees the instructor as a learning consultant who can provide advice and feedback.
     - Can identify and source the resources needed to complete their learning.
-    - This type of learner is common place in on the job learning.
-
+    - This type of learner is common place in professional environments.
 
 Self-directed learning allows you to take responsibility for your own learning, which results in greater ownership and autonomy. In self-directed learning, the teacher acts as a guide/facilitator/consultant to support you and give you feedback during your learning journey. At Kibo, you will learn using a combination of all four levels mentioned in the video during different parts of your formal academic courses, and any additional side projects that you choose to take on.
 
-
-**One of the key reasons that we are teaching you self-directed learning is because this is how the majority of your learning will be once you are in a professional setting. So, it is important for you to get comfortable with taking more ownership of your learning now.**
+One of the most challenging transitions young professionals have to make is going from being a **Dependent Learner in formal school environments**, sometimes through university, into being a **Self-Directed Learner in the workplace**. A key reason we are teaching you self-directed learning is because this is how the majority of your learning will be once you are in a professional setting. So, it is important for you to get comfortable with taking more ownership of your learning now.
 
 
 <aside>

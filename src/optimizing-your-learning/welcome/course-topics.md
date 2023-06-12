@@ -24,7 +24,7 @@ After spending the first two weeks of this course focused primarily on the brain
 
 **Week 4 - Building Your Learning Toolkit**
 
-Finally, in week 4 we will get very tactical about ways to optimize your learning. We will start the week by learning how to set high quality goals, and utilize an approach to help you achieve those goals. Next we will discus how you can use habits to make your learning process more automatic and effortless, then we will explore ways to improve your focus and attention. Next you will be introduced to numerous strategies to improve your learning, before discussing you to use reflection to learn from your past experiences.
+Finally, in week 4 we will get very tactical about ways to optimize your learning. We will start the week by learning how to set high quality goals, and utilize an approach to help you achieve those goals. Next we will discuss how you can use habits to make your learning process more automatic and effortless, then we will explore ways to improve your focus and attention. Next you will be introduced to numerous strategies to improve your learning, before discussing you to use reflection to learn from your past experiences.
 
 **Week 5 - Final Assessment**
 

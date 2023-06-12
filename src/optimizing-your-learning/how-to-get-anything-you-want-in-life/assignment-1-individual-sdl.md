@@ -13,12 +13,14 @@
 
 Word count: 500 - 750 words.
 
-Write a letter to yourself in five weeks time and discuss:
-- Your feelings about your current learning abilities.
+Write a letter to yourself in five weeks time (at the end of the OYL course) and discuss:
+- Your feelings about your current learning skills.
 - Your current learning strengths. 
 - Your current learning weaknesses.
-- Three goals that you would like to focus on during the course.
+- Three goals you would like to focus on during the course to improve your learning skills.
 - One topic that you would like to learn more about at the end of the course using your improved learning skills.
+
+Ensure that you reference the material presented in the week 1 lessons in your letter.
 
 ## Submission
 

@@ -276,7 +276,7 @@ Below are some more Executive Functioning skills that influence your ability to 
   
 -Set deadlines and create a timeline: Establish specific deadlines for different phases of a task or project and create a timeline that outlines when each step should be completed. This provides a sense of structure and helps with initiating tasks.
   
--Use visual cues and reminders: Place visual cues, such as sticky notes or visual timers, in prominent locations to remind yourself to start a task or assignment at a designated time.
+-Use visual cues and reminders: Place visual cues, such as sticky notes or visual timers, in prominent locations to remind yourself to start a task or assignment at a designated time. You can also set reminders on your phone, or add tasks to you calendar.
   
 </details>
   

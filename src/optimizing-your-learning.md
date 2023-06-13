@@ -1,6 +1,4 @@
-# Optimizing Your Learning (OYL)
-
-**KC001** *3 ECTS*
+# KC001: Optimizing Your Learning (OYL)
 
 ---
 

@@ -118,13 +118,9 @@ Anthony is a first year student who is determined to make the most of his Kibo e
 **Step 2:** Anthony identifies the key steps required to achieve his SMART goal:
   
 a. Attend all Programming 1, Programming 2, and Mathematical Thinking classes during the first two terms at Kibo.
-  
 b. Join a study group or find a coding partner to collaborate on projects.
-  
 c. Choose an AI-related project and outline the necessary steps to complete it.
-  
 d. Create a study schedule to allocate dedicated time for coding practice and coursework.
-  
 e. Regularly review course notes, complete assignments ahead of deadlines, and seek clarification when needed.
 
 **Step 3:** Anthony now writes specific implementation intentions to support each step:

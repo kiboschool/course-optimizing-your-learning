@@ -111,7 +111,7 @@ When studying challenging technical subjects  the intentional planning and imple
 
 In the field of computer science, problem-solving, innovation, and continuous learning are crucial, therefore failure serves as a stepping stone to success. Embracing failure as an opportunity for growth and learning can lead to greater mastery and achievement. It is through failure that you can develop the skills, resilience, and mindset necessary for success in your computer science journey. 
 
-Don't believe me? Here are some ways that failure can be the road to your computer science success:
+Don't believe this? Here are some ways that failure can be the road to your computer science success:
 
 1. **Helping you identify areas for improvement:** Failure exposes areas where improvement is needed. It highlights the gaps in knowledge or skills and serves as a clear indicator of what needs to be addressed. By experiencing failure, you can identify specific areas where you need to focus your efforts to enhance your understanding and competence.
 

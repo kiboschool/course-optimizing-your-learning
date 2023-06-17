@@ -113,7 +113,7 @@ Here's a step-by-step process for writing implementation intentions:
 
 Anthony is a first year student who is determined to make the most of his Kibo experience. Let's see how he develops his SMART goal and corresponding implementation intentions:
   
-**Step 1:** Anthony reflects on his long-term vision of becoming a software engineer specializing in artificial intelligence. After careful consideration, he sets a SMART goals: "Within the next two terms, develop proficiency in Python programming language, complete an AI-related project, and earn a minimum GPA of 3.7."
+**Step 1:** Anthony reflects on his long-term vision of becoming a software engineer specializing in artificial intelligence. After careful consideration, he sets some SMART goals: "Within the next two terms, I will develop proficiency in Python programming language, complete an AI-related project with a classmate, and earn a minimum GPA of 3.7."
   
 **Step 2:** Anthony identifies the key steps required to achieve his SMART goal:
 a. Attend all Programming 1, Programming 2, and Mathematical Thinking classes during the first two terms at Kibo.

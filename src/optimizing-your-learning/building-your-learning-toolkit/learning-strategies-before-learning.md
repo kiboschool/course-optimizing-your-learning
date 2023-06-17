@@ -117,21 +117,19 @@ Anthony is a first year student who is determined to make the most of his Kibo e
   
 **Step 2:** Anthony identifies the key steps required to achieve his SMART goal:
   
-a. Attend all Programming 1, Programming 2, and Mathematical Thinking classes during the first two terms at Kibo.
-b. Join a study group or find a coding partner to collaborate on projects.
-c. Choose an AI-related project and outline the necessary steps to complete it.
-d. Create a study schedule to allocate dedicated time for coding practice and coursework.
-e. Regularly review course notes, complete assignments ahead of deadlines, and seek clarification when needed.
+- Attend all Programming 1, Programming 2, and Mathematical Thinking classes during the first two terms at Kibo.
+- Join a study group or find a coding partner to collaborate on projects.
+- Choose an AI-related project and outline the necessary steps to complete it.
+- Create a study schedule to allocate dedicated time for coding practice and coursework.
+- Regularly review course notes, complete assignments ahead of deadlines, and seek clarification when needed.
 
 **Step 3:** Anthony now writes specific implementation intentions to support each step:
   
-a. If it's Monday, Wednesday, or Friday at 7 PM, then I will log in to the Python programming course and complete at least one practice exercise.
-  
-b. If I am confused by a topic in class, then I will attend office hours or post my question in the Discord help forum.
-  
-c. If it's Tuesday or Thursday from 8 PM, then I will watch at least one video on AI.
-  
-d. If I receive graded assignments, then I will review the feedback and seek clarification during office hours.
+- If it's Monday, Wednesday, or Friday at 7 PM, then I will log in to the Python programming course and complete at least one practice exercise.
+- If I don't feel like doing a practice exercise, I will review the feedback from my last assignment.
+- If I am confused by a topic in class, then I will attend office hours or post my question in the Discord help forum.
+- If it's Tuesday or Thursday from 8 PM, then I will watch at least one video on AI.
+- If I receive graded assignments, then I will review the feedback and seek clarification during office hours.
 
 **Step 4:** Anthony makes sure to diligently follow his implementation intentions, taking consistent action toward his SMART goal. Every Sunday evening, he spends 15 minutes evaluating his progress and visualizing his success. Along the way, he adjusts his implementation intentions as needed, and seeks support when facing challenges.
   

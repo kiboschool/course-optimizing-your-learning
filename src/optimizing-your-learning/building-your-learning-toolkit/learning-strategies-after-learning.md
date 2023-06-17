@@ -82,6 +82,27 @@ Steps of What? So What? Now What? Model:
 
 </aside>
 
+<aside>
+
+**What? Now What? So What? Example**
+
+*What?*
+During the class, we focused on understanding the concept of conditionals in programming. The instructor employed interactive teaching methods, including live coding examples and class discussions. We explored various conditional statements such as if, else, and elif, and their applications in solving programming problems. Additionally, we practiced writing code snippets using conditionals and had the opportunity to seek clarification on challenging concepts.
+
+*Now What?*
+From the class, I gained a clear understanding of the syntax and structure of conditionals. I can now confidently implement these statements in my programming projects to control the flow of execution based on specific conditions. The live coding demonstrations were particularly helpful, as they provided practical examples that illustrated the logical flow of conditionals in action. This experience has motivated me to explore more complex conditional statements and delve deeper into their applications.
+
+*So What?*
+The interactive class on conditionals had several significant implications. Firstly, it empowered me to develop logical thinking and problem-solving skills, as conditionals play a crucial role in designing algorithms and developing efficient code. Understanding conditionals allows me to create programs that can make decisions and adapt their behavior based on different scenarios.
+
+Moreover, conditionals are a fundamental building block in programming, serving as the foundation for more advanced concepts and techniques. By mastering conditionals, I have acquired a versatile toolset that I can leverage in future programming endeavors. This knowledge will continue to be relevant throughout my computer science journey.
+
+Furthermore, the interactive nature of the class fostered a collaborative learning environment. Engaging in class discussions and sharing insights with my peers allowed me to gain different perspectives and deepen my understanding of conditionals. This interaction not only enhanced my comprehension but also cultivated teamwork and communication skills, which are essential in the field of computer science.
+
+In conclusion, the interactive class on conditionals provided me with a solid foundation for understanding and implementing these crucial programming constructs. Armed with this knowledge, I am now better equipped to write code that can make intelligent decisions and adapt to various situations. Moving forward, I plan to practice implementing conditionals in coding exercises, seek out additional resources to explore advanced conditional statements, and engage in collaborative study sessions to further enhance my skills. By continuously building upon this foundational knowledge, I am confident that I will become a proficient programmer capable of solving complex problems and contributing to the field of computer science.
+  
+</aside>
+
 ---
 
 ### Gibbs’ Reflective Cycle
@@ -137,6 +158,31 @@ Steps of Gibbs’ Reflective Cycle:
 
 
 🌐 For more on reflection, explore the [**University of Edinburgh’s Reflector’s toolkit**](https://www.ed.ac.uk/reflection/reflectors-toolkit).
+
+</aside>
+
+
+<aside>
+  
+**Gibbs' Reflective Cycle Example**
+
+**Description:**
+During the class, we delved into the fundamental concept of conditionals in programming. The instructor employed various interactive teaching methods, including live coding examples and engaging class discussions. We explored different conditional statements such as if, else, and elif, and their applications in solving programming problems. Additionally, we practiced writing code snippets using conditionals and had the opportunity to ask questions and seek clarification on challenging concepts.
+
+**Feelings:**
+Initially, I felt a mixture of excitement and apprehension. As a novice computer science student, the topic of conditionals seemed both intriguing and complex. However, the interactive nature of the class and the instructor's clear explanations helped to alleviate my concerns and fostered a sense of curiosity and eagerness to learn.
+
+**Evaluation:**
+The class structure and teaching methods were highly effective in promoting a comprehensive understanding of conditionals. By providing real-time coding examples, the instructor made abstract concepts more tangible and relatable. Furthermore, the interactive discussions allowed me to exchange ideas with my peers and deepen my comprehension through shared insights. The instructor's responsiveness to questions and willingness to elaborate on challenging topics contributed greatly to my learning experience.
+
+**Analysis:**
+Throughout the class, I grasped the basic syntax and structure of conditionals, gaining confidence in applying them to solve programming problems. The live coding demonstrations proved invaluable, as they illustrated the logical flow of conditional statements and showcased their practical usage. Additionally, participating in the discussions enabled me to analyze different scenarios where conditionals can be utilized, enhancing my ability to identify suitable conditions and outcomes.
+
+**Conclusion:**
+The 90-minute interactive class on conditionals provided a solid foundation for my understanding of this crucial programming concept. The instructor's teaching style and interactive approach fostered a positive learning environment, allowing me to overcome initial apprehensions and actively engage with the material. I am now equipped with the knowledge and skills to utilize conditionals effectively in my programming endeavors.
+
+**Action Plan:**
+To build upon the knowledge gained, I plan to practice implementing conditionals in programming exercises and projects independently. I will also explore additional resources, such as online tutorials and coding challenges, to deepen my understanding of complex conditional statements and explore more advanced applications. Engaging in group study sessions with classmates who share similar interests will provide an opportunity for collaborative learning and further enhance my mastery of conditionals.
 
 </aside>
 

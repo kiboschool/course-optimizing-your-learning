@@ -44,11 +44,9 @@ After completing this lesson, you will be able to:
 
 [4.3 Build Good Habits](/optimizing-your-learning/building-your-learning-toolkit/habits.md)
 
-[4.4 Stay Focused](/optimizing-your-learning/building-your-learning-toolkit/focus-and-attention.md)
+[4.4 Strategies for Learning](/optimizing-your-learning/building-your-learning-toolkit/learning-strategies-while-learning.md)
 
-[4.5 Strategies for Learning](/optimizing-your-learning/building-your-learning-toolkit/learning-strategies-while-learning.md)
-
-[4.6 Grow Through Reflection](/optimizing-your-learning/building-your-learning-toolkit/learning-strategies-after-learning.md)
+[4.5 Grow Through Reflection](/optimizing-your-learning/building-your-learning-toolkit/learning-strategies-after-learning.md)
 
 [Assignment 4: Habit Inventory and Change Plan ](/optimizing-your-learning/building-your-learning-toolkit/assignment-4-memory-challenge.md)
 

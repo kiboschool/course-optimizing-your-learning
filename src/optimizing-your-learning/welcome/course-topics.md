@@ -4,7 +4,7 @@
 
 ---
 
-**Todo: Insert student video about OYL
+**Todo: Insert student video about OYL**
 
 ![oyl topics](./topics.png)
 

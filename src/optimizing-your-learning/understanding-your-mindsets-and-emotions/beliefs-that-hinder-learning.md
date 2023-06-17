@@ -95,7 +95,7 @@ Identifying a limiting belief can sometimes be challenging, as they can be deepl
     
 **Feelings of fear or self-doubt:** Limiting beliefs often generate feelings of fear, self-doubt, or anxiety. If a particular belief or thought consistently holds you back or makes you feel inadequate, it may be a limiting belief.
     
-*Example:* Kwame is assigned a group project where he has to give a presentation. He feels a surge of fear and self-doubt, thinking, "I'm not good at public speaking. I'll embarrass myself in front of the class. In the future, I should avoid any opportuniities that require me to speak in public."
+*Example:* Kwame is assigned a group project where he has to give a presentation. He feels a surge of fear and self-doubt, thinking, "I'm not good at public speaking. I'll embarrass myself in front of the class. In the future, I should avoid any opportunities that require me to speak in public."
 </aside>
 
 <aside>    

@@ -187,7 +187,7 @@ Becoming aware of your limiting beliefs requires introspection and self-reflecti
 
 6.  **Reflection:** Reflect on past experiences where you may have felt stuck or held back. Consider the beliefs that were present during those times and how they may have influenced your actions or decisions.
 
-7.  **Comparison trap:** Be mindful of comparing yourself to others and the beliefs that arise from such comparisons. Notice if you have thoughts like "I'll never be as successful as them" or "I'm not good enough compared to them," as these can indicate limiting beliefs.
+7.  **Comparison traps:** Be mindful of comparing yourself to others and the beliefs that arise from such comparisons. Notice if you have thoughts like "I'll never be as successful as them" or "I'm not good enough compared to them," as these can indicate limiting beliefs.
 
 8.  **Pay attention to self-talk:** Observe the language and tone of your inner dialogue. Notice if you frequently use negative or self-critical language, as this can provide clues about your limiting beliefs.
 

@@ -81,6 +81,7 @@ Now that we've learned more about time management, and some common challenges. L
 - Time Auditing
 - The Eisenhower Matrix
 - Calendaring and Planning Your Time
+- Time Blocking
 - The Not To Do List
 
 ---
@@ -158,6 +159,19 @@ Read the following chapters on how to create a:
 
 ---
 
+### Time Blocking
+
+<aside>
+
+
+📺 Watch the following video on time blocking.
+
+</aside>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/YlkCB3ruVQE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+---
+
 ### The Not To Do List
 
 <aside>
@@ -184,7 +198,7 @@ Read the following chapters on how to create a:
 
 **Meet Emeka**
   
-With meticulous planning and strategic execution, Emeka navigates the demanding world of studying computer science with ease. Emeka begins each week by conducting time audits, tracking how he spends each moment to optimize productivity. He prioritizes tasks, tackling the most critical ones first. By time blocking, he dedicates specific hours to coding, studying, and personal development, eliminating distractions. Emeka relies on calendars and to-do lists, maintaining a visual representation of his schedule and ensuring no task goes unnoticed. Regular breaks and leisure activities are scheduled to maintain work-life balance and prevent burnout. Emeka's peers marvel at his organizational skills and ability to accomplish remarkable feats within demanding deadlines. Through his disciplined time management, Emeka sets himself up for a future full of limitless possibilities in the world of technology.
+With meticulous planning and strategic execution, Emeka effectively navigates the demanding world of studying computer science. Emeka begins each week by conducting time audits, tracking how he spends each moment to optimize productivity. He prioritizes tasks, tackling the most critical ones first. By time blocking, he dedicates specific hours to coding, studying, and personal development, eliminating distractions. Emeka relies on calendars and to-do lists, maintaining a visual representation of his schedule and ensuring no task goes unnoticed. Regular breaks and leisure activities are scheduled to maintain work-life balance and prevent burnout. Emeka's peers marvel at his organizational skills and ability to accomplish remarkable feats within demanding deadlines. Through his disciplined time management, Emeka sets himself up for a future full of limitless possibilities in the world of technology.
  
 </aside>
  

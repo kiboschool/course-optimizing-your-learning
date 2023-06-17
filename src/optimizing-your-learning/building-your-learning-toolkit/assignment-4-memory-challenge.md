@@ -30,7 +30,7 @@ You should create a habit inventory table that looks like this:
 
 | Habit | Frequency | Rating | Size of Impact |
 | -- | -- | -- | -- |
-| Eaiting Chocolate when stressed | Daily | Negative | Medium |
+| Eaiting chocolate when stressed | Daily | Negative | Medium |
 |  |  |  |  |
 |  |  |  |  |
 

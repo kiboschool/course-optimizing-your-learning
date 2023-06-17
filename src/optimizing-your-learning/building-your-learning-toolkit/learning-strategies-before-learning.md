@@ -16,8 +16,36 @@ To get started with the learning process, you have to set learning goals or desi
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/i0QfCZjASX8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+Here are some typical goals that a computer science student might set. For each goal, you will see a non-SMART version and a SMART version.
 
-### Discussion: Your Goals
+|Version 1: Non-SMART Goal | Version 2: SMART Goal|
+| -- | -- |
+| Improve programming skills. | Develop proficiency in Python programming language by completing an online course and building a basic web application within the next six months. |
+| Get good grades in computer science courses. | Achieve a minimum GPA of 3.5 in computer science courses during the current term. |
+| Learn more about artificial intelligence. | Enroll in a course on artificial intelligence by the end of the year and complete at least one AI-related project. |
+| Find an internship in a tech company. | Secure a summer internship at a reputable tech company in the local area by submitting applications to at least five companies, networking with industry professionals, and enhancing relevant skills through personal projects. |
+
+## How to Set SMART Goals
+
+Setting SMART goals is an effective way to plan and achieve your desired outcomes. Here's a step-by-step process you can use to set these goals:
+
+1. **Identify Your Long-Term Vision:** Consider your aspirations and long-term objectives in the field of computer science. Determine where you see yourself in the future and what accomplishments you hope to achieve. This will provide a broader context for setting your SMART goals.
+
+2. **Reflect on Your Short-Term Goals:** Break down your long-term vision into smaller, manageable goals that can be achieved within a reasonable time frame. These short-term goals will serve as milestones on your journey towards your larger objectives.
+
+3. **Make Your Goals Specific:** Ensure your goals are clear and well-defined. Instead of setting a generic goal like "improve programming skills," make it more specific, such as "build a basic web application using Python"
+
+4. **Ensure Goals Are Measurable:** Establish criteria or indicators to measure your progress. This allows you to track your advancements and stay motivated. For example, you can set a measurable goal by stating, "Complete three programming projects by the end of the semester."
+
+5.**Determine Achievability:** Assess the feasibility of your goals. Ensure they are challenging yet realistic given your current skill level, resources, and time constraints. Setting unattainable goals can lead to frustration, while overly simple goals may not provide enough motivation.
+
+6. **Check for Relevance:** Check that your goals are aligned with your long-term vision and current needs. Consider how each goal contributes to your overall development as a computer science student. Goals should be relevant to your personal and professional growth.
+
+7. **Set Time-bound Objectives:** Establish deadlines or target dates for accomplishing your goals. This helps create a sense of urgency and prevents procrastination. For instance, you might set a goal like, "Complete an online course on data structures and algorithms within the next three months."
+
+8. **Regularly Review and Revise:** Revisit your SMART goals periodically, such as weekly or monthly, to evaluate your progress. Adjust them as needed based on new insights, changes in priorities, or unforeseen circumstances. Regularly reviewing and refining your goals will help keep you on track and motivated.
+
+## Discussion: Your Goals
 
 <aside>
 

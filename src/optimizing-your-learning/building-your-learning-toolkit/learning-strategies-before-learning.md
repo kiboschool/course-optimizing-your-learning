@@ -137,7 +137,7 @@ c. If it's Tuesday or Thursday from 8 PM, then I will watch at least one video o
   
 d. If I receive graded assignments, then I will review the feedback and seek clarification during office hours if necessary.
 
-**Step 4:** Anthony makes sure to diligently follow his implementation intentions, taking consistent action toward his SMART goal. Every Sunday evening, he spends 15 minutes evaluating his progress and visualizing his succes. Akong the way, he adjusts his implementation intentions as needed, and seeks support when facing challenges.
+**Step 4:** Anthony makes sure to diligently follow his implementation intentions, taking consistent action toward his SMART goal. Every Sunday evening, he spends 15 minutes evaluating his progress and visualizing his success. Akong the way, he adjusts his implementation intentions as needed, and seeks support when facing challenges.
   
 </aside>
   

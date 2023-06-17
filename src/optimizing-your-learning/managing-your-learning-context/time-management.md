@@ -80,8 +80,7 @@ Additionally, Ada struggles to estimate the time required for each task, resulti
 Now that we've learned more about time management, and some common challenges. Let's explore some tools and techniques that you can implement to improve how you use your time. We will look at:
 - Time Auditing
 - The Eisenhower Matrix
-- Calendaring
-- Planning Your Time
+- Calendaring and Planning Your Time
 - The Not To Do List
 
 ---
@@ -151,10 +150,6 @@ The second sheet in the time audit template shared above also contains a templat
 </aside>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/AhXogyf_-BU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
----
-
-### Planning Your Time
 
 Read the following chapters on how to create a:
 1) [Termly schedule](https://pressbooks.bccampus.ca/studystrategizesucceed/chapter/see-your-semester-at-a-glance/)

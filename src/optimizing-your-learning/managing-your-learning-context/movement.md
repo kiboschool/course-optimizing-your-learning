@@ -59,3 +59,13 @@ But as the weeks go by, Aba notices the toll her sedentary lifestyle is taking o
 
 ---
 
+<aside>
+  
+**In the padlet below, give Aba advice on how to improve her current situation.**
+ 
+</aside>
+
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/advise-aba-w4e779fezcf6ssse" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
+
+---
+

@@ -277,7 +277,7 @@ Remember Chinedu? Let's talk about some tactics that he could use to overcome hi
 
 3 - **Break tasks into smaller, manageable steps:** Large projects or assignments may feel overwhelming to Chinedu, leading to procrastination or avoidance. By breaking them down into smaller, more achievable tasks, he can make progress incrementally. Celebrating each completed step can boost motivation and instill a sense of accomplishment.
 
-4 - **Embrace a growth mindset:** Chinedu should cultivate a growth mindset, which emphasizes the belief that abilities and intelligence can be developed through effort and practice. Embracing challenges as opportunities for growth and viewing failures as learning experiences will help him bounce back from setbacks and persist in the face of difficulties. [We will learn more about this in the next section of this week's lesson.]
+4 - **Embrace a growth mindset:** Chinedu should cultivate a growth mindset, which emphasizes the belief that abilities and intelligence can be developed through effort and practice. Embracing challenges as opportunities for growth and viewing failures as learning experiences will help him bounce back from setbacks and persist in the face of difficulties. We will learn more about this in the next section of this week's lesson.
 
 5 - **Set realistic goals and track progress:** Chinedu can set specific, attainable goals that align with his academic aspirations. Breaking these goals into smaller milestones and regularly tracking his progress will provide a sense of achievement and help him stay motivated. Celebrating even small victories can reinforce positive beliefs about his abilities.
 

@@ -221,11 +221,11 @@ Chinedu had a passion for computers since he was young. His family encouraged hi
 
 Initially, Chinedu found the coursework challenging but manageable. However, as he progressed through his program, he encountered more complex programming concepts and advanced algorithms that proved difficult to grasp. He started struggling to keep up with the pace of the classes and felt overwhelmed by the increasing workload.
 
-With each setback, Chinedu's self-confidence waned, and he began doubting his abilities. Negative thoughts filled his mind, telling him, "I'm not smart enough for this," or "Everyone else seems to understand this except me." The more he believed these thoughts, the more they reinforced his feelings of powerlessness.
+With each setback, Chinedu's self-confidence decreased, and he began doubting his abilities. Negative thoughts filled his mind, telling him, "I'm not smart enough for this," or "Everyone else seems to understand this except me." The more he believed these thoughts, the more they reinforced his feelings of powerlessness.
 
 As a result, Chinedu began avoiding challenging assignments and procrastinating on projects. He convinced himself that no matter how much effort he put in, he would never reach the level of his peers. He stopped seeking help from his instructors and classmates, convinced that their assistance wouldn't make a difference, and that they would just think he wasn't good enough to be at Kibo.
 
-With each disappointing grade, Chinedu internalized it as proof of his incompetence. He saw his failures as fixed characteristics rather than opportunities for growth. Over time, his motivation dwindled, and he found it harder to find joy in the subject he once loved.
+With each disappointing grade, Chinedu internalized it as proof of his incompetence. Even when he was studying Computer Systems, an area that he was highliy skilled in, he still performed poor academically because he stopped putting in the effort. Over time, his motivation dwindled, and he found it harder to find joy in the subject he once loved.
 
 Chinedu became passive in class discussions and group projects, believing his contributions held no value. He stopped taking risks and exploring new programming languages or techniques, fearing that he would only encounter more failure. His confidence plummeted, and he felt stuck in a cycle of self-doubt.
     

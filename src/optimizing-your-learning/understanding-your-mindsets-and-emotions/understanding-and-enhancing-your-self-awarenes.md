@@ -8,7 +8,7 @@
 
 
 🗣 “Self-awareness is the ability to take an honest look at your life without any attachment to it being right or wrong, good or bad.” 
-– Debbie Ford
+- Debbie Ford
 
 </aside>
 

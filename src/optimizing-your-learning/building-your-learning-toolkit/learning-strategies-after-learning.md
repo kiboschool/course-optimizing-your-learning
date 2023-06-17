@@ -1,4 +1,4 @@
-# Grow Through Reflection and Self-Evaluation
+# Grow Through Reflection
 
 *Estimated Time: 1 hour*
 

@@ -97,8 +97,6 @@ Here's a step-by-step process for writing implementation intentions:
 
 4. **Use If-Then Statements:** Formulate if-then statements that link specific triggers or situations to the corresponding action steps. This mental cue will help you remember and initiate the intended action. For instance, "If it's Monday evening at 7 PM, then I will go to the library and study algorithms."
 
-5. **Make the Statements Concrete and Visual:** Ensure that your implementation intentions are clear, vivid, and easy to imagine. Use descriptive language and create mental images that enhance the sense of commitment and readiness to act.
-
 ## Discussion: Your Implementation Intentions
 
 <aside>

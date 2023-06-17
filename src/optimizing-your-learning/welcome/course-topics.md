@@ -4,6 +4,8 @@
 
 ---
 
+**Todo: Insert student video about OYL
+
 ![oyl topics](./topics.png)
 
 **Week 1 - How to Get Anything You Want in Life**

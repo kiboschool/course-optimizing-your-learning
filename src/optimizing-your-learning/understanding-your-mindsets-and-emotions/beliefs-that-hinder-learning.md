@@ -78,39 +78,6 @@ Here are some examples of limiting beliefs:
 
 </aside>
 
-### How to overcome limiting beliefs
-
-- **Step 1 (Awareness): Recognize that you have a belief and that it is limiting**
-    - Identify your limiting beliefs by:
-        - Listening for when you are feeling frustrated or disappointed, or you keep making the same mistake over and over, or you can’t overcome a challenge. Pause and think about what underlying belief could be causing this situation.
-        - Another option is to listen out for when you say phrases that start with “I can’t”, “I’m not”, “I wish” (or any of the earlier examples of limiting beliefs). These are potential limiting beliefs.
-         - You might also identify some by noticing times when you talk yourself out of actions that would lead you towards long term goals that are meaningful to you.
-
-- **Step 2 (Question): Separate "the stories" from "the facts"**
-    - Analyze the accuracy of the limiting belief by determining its source:
-        - Is it informed by assumptions, external expectations, or stereotypes?
-        - Are there any facts or evidence to support that the belief is true?
-    - Question what you know about the situation until you are left with answers that are supported by concrete facts.
-    - Look for evidence that proves or disproves your belief. Often, limiting beliefs lack solid evidence and are based on misconceptions or fear. 
-    - Seek examples of people who have overcome similar challenges or have achieved what you desire, despite any perceived limitations.
-
-- **Step 3 (Reframe) Develop an alternate belief**
-    - One powerful way to develop an alternate belief is to reverse the "Limiting Belief" into an "Empowering Belief", and see what it feels like to live with this new reality. For example:
-        - Limiting Belief: "I **shouldn't** speak up in class because my answer is probably **wrong** and people will think I am **dumb**."
-        - Empowering Belief: "I **should** speak up in class because my answer is probably **correct** and people will think I am **smart**."
-
-- **Step 4: (Take Action) Put the empowering belief into practice**
-    - When a situation triggers the old limiting belief, think of the empowering belief instead, and let it guide your behavior.
-    - You can also use quotes and visualisation to help you disrupt your "limiting belief" and replace it with your "empowering belief".
-    - Some additional ways to overcome your limiting belief include:
-        -  **Visualize success:** Use the power of visualization to imagine yourself successfully overcoming your limiting beliefs. Picture yourself achieving your goals, breaking through barriers, and living your life without those self-imposed limitations. This visualization can help reinforce your new empowering beliefs.
-        -  **Take small steps:** Break down your goals into smaller, manageable steps. By taking action towards your goals, you'll build evidence that disproves your limiting beliefs. Celebrate each small victory along the way, as it will further strengthen your belief in your abilities.
-        -  **Surround yourself with support:** Seek out positive and supportive individuals who can help you challenge your limiting beliefs. Surrounding yourself with people who believe in you and your potential can be immensely helpful in overcoming self-doubt and building confidence.
-        -  **Practice self-compassion:** Be kind to yourself throughout this process. Recognize that challenging and changing deep-seated beliefs takes time and effort. Treat yourself with compassion and understanding if you face setbacks or encounter resistance along the way.
-        -  **Repeat the process:** Overcoming limiting beliefs is an ongoing process. As you grow and face new challenges, new beliefs may arise. Continually practice self-awareness and question any beliefs that hold you back, applying the steps outlined above to overcome them.
-
-
-
 ## Reflection: Limiting Beliefs
 
 <aside> 
@@ -190,6 +157,34 @@ Becoming aware of your limiting beliefs requires introspection and self-reflecti
 7.  **Comparison traps:** Be mindful of comparing yourself to others and the beliefs that arise from such comparisons. Notice if you have thoughts like "I'll never be as successful as them" or "I'm not good enough compared to them," as these can indicate limiting beliefs.
 
 8.  **Pay attention to self-talk:** Observe the language and tone of your inner dialogue. Notice if you frequently use negative or self-critical language, as this can provide clues about your limiting beliefs.
+
+## How to overcome limiting beliefs
+
+- **Step 1 (Awareness): Recognize that you have a belief and that it is limiting**
+    - Identify your limiting beliefs using the methods mentioned above.
+
+- **Step 2 (Question): Separate "the stories" from "the facts"**
+    - Analyze the accuracy of the limiting belief by determining its source:
+        - Is it informed by assumptions, external expectations, or stereotypes?
+        - Are there any facts or evidence to support that the belief is true?
+    - Question what you know about the situation until you are left with answers that are supported by concrete facts.
+    - Look for evidence that proves or disproves your belief. Often, limiting beliefs lack solid evidence and are based on misconceptions or fear. 
+    - Seek examples of people who have overcome similar challenges or have achieved what you desire, despite any perceived limitations.
+
+- **Step 3 (Reframe) Develop an alternate belief**
+    - One powerful way to develop an alternate belief is to reverse the "Limiting Belief" into an "Empowering Belief", and see what it feels like to live with this new reality. For example:
+        - Limiting Belief: "I **shouldn't** speak up in class because my answer is probably **wrong** and people will think I am **dumb**."
+        - Empowering Belief: "I **should** speak up in class because my answer is probably **correct** and people will think I am **smart**."
+
+- **Step 4: (Take Action) Put the empowering belief into practice**
+    - When a situation triggers the old limiting belief, think of the empowering belief instead, and let it guide your behavior.
+    - You can also use quotes and visualisation to help you disrupt your "limiting belief" and replace it with your "empowering belief".
+    - Some additional ways to overcome your limiting belief include:
+        -  **Visualize success:** Use the power of visualization to imagine yourself successfully overcoming your limiting beliefs. Picture yourself achieving your goals, breaking through barriers, and living your life without those self-imposed limitations. This visualization can help reinforce your new empowering beliefs.
+        -  **Take small steps:** Break down your goals into smaller, manageable steps. By taking action towards your goals, you'll build evidence that disproves your limiting beliefs. Celebrate each small victory along the way, as it will further strengthen your belief in your abilities.
+        -  **Surround yourself with support:** Seek out positive and supportive individuals who can help you challenge your limiting beliefs. Surrounding yourself with people who believe in you and your potential can be immensely helpful in overcoming self-doubt and building confidence.
+        -  **Practice self-compassion:** Be kind to yourself throughout this process. Recognize that challenging and changing deep-seated beliefs takes time and effort. Treat yourself with compassion and understanding if you face setbacks or encounter resistance along the way.
+        -  **Repeat the process:** Overcoming limiting beliefs is an ongoing process. As you grow and face new challenges, new beliefs may arise. Continually practice self-awareness and question any beliefs that hold you back, applying the steps outlined above to overcome them.
 
 ---
 

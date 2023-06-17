@@ -20,7 +20,7 @@ Write a letter to yourself in five weeks time (at the end of the OYL course) and
 - Three goals you would like to focus on during the course to improve your learning skills.
 - One topic that you would like to learn more about at the end of the course using your improved learning skills.
 
-Ensure that you reference the material presented in the week 1 lessons in your letter.
+Be sure to mention some of the material presented in the week 1 lessons in your letter.
 
 ## Submission
 

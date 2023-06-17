@@ -135,9 +135,9 @@ b. If I am confused by a topic in class, then I will attend office hours or post
   
 c. If it's Tuesday or Thursday from 8 PM, then I will watch at least one video on AI.
   
-d. If I receive graded assignments, then I will review the feedback and seek clarification during office hours if necessary.
+d. If I receive graded assignments, then I will review the feedback and seek clarification during office hours.
 
-**Step 4:** Anthony makes sure to diligently follow his implementation intentions, taking consistent action toward his SMART goal. Every Sunday evening, he spends 15 minutes evaluating his progress and visualizing his success. Akong the way, he adjusts his implementation intentions as needed, and seeks support when facing challenges.
+**Step 4:** Anthony makes sure to diligently follow his implementation intentions, taking consistent action toward his SMART goal. Every Sunday evening, he spends 15 minutes evaluating his progress and visualizing his success. Along the way, he adjusts his implementation intentions as needed, and seeks support when facing challenges.
   
 </aside>
   

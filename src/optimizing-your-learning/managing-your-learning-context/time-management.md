@@ -138,6 +138,8 @@ Here is what you can do with the information that you get from your completed ti
 
 </aside>
 
+The second sheet in the time audit template shared above also contains a template for the Eisenhower matrix.
+
 ---
 
 ### The Art of Calendaring

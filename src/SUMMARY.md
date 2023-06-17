@@ -54,7 +54,7 @@
 	- [Set Goals You Can Achieve](optimizing-your-learning/building-your-learning-toolkit/learning-strategies-before-learning.md)
 	- [Build Good Habits](optimizing-your-learning/building-your-learning-toolkit/habits.md)
 	- [Strategies for Learning](optimizing-your-learning/building-your-learning-toolkit/learning-strategies-while-learning.md)
-	- [Grow Through Reflection](optimizing-your-learning/how-to-get-anything-you-want-in-life/reflective-practice.md)
+	- [Growth Through Reflection](optimizing-your-learning/building-your-learning-toolkit/learning-strategies-after-learning.md)
 	- [Assignment 4 - Habits Inventory and Change Plan](optimizing-your-learning/building-your-learning-toolkit/assignment-4-memory-challenge.md)
 	- [Final Presentation Milestone 3](optimizing-your-learning/building-your-learning-toolkit/final-presentation-milestone-3.md)
 

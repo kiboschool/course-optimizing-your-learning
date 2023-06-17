@@ -16,7 +16,7 @@
 
 **Meet Kwame**
  
-Kwame prefers to tackle his coursework and assignments independently, relying solely on his own abilities and resources. Kwame's determination to be a self-reliant learner initially brings him a sense of independence and control over his studies. He dedicates countless hours to coding, researching, and practicing programming concepts on his own. However, as the semester progresses, he starts experiencing the potential pitfalls of his solo learning approach.
+Kwame prefers to tackle his coursework and assignments independently, relying solely on his own abilities and resources. Kwame's determination to be a self-reliant learner initially brings him a sense of independence and control over his studies. He dedicates countless hours to coding, researching, and practicing programming concepts on his own. However, as the term progresses, he starts experiencing the potential pitfalls of his solo learning approach.
 
 One of the significant challenges Kwame faces is the absence of diverse perspectives and insights. Without engaging with classmates and discussing ideas with peers, he misses out on the opportunity to broaden his understanding, discover alternative solutions, and challenge his own assumptions. The lack of diverse input limits his growth and inhibits the development of critical thinking and problem-solving skills.
 Furthermore, without the support and collaboration of others, Kwame encounters difficulties in identifying and rectifying misconceptions. He unknowingly reinforces incorrect ideas and struggles to fill gaps in his knowledge without external guidance or input. This hinders his ability to grasp complex concepts and impedes his progress in more challenging programming tasks.

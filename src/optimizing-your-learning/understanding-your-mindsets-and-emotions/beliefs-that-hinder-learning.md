@@ -129,7 +129,7 @@ If you frequently catch yourself using negative language or self-critical statem
     
 Limiting beliefs often generate feelings of fear, self-doubt, or anxiety. If a particular belief or thought consistently holds you back or makes you feel inadequate, it may be a limiting belief.
     
-*Example:* Kwame is assigned a group project where he has to give a presentation. He feels a surge of fear and self-doubt, thinking, "I'm not good at public speaking. I'll embarrass myself in front of the class. Maybe I should avoid taking any leadership roles."
+*Example:* Kwame is assigned a group project where he has to give a presentation. He feels a surge of fear and self-doubt, thinking, "I'm not good at public speaking. I'll embarrass myself in front of the class. In the future, I should avoid any opportuniities that require me to speak in public."
     
 **Self-imposed limitations** 
 

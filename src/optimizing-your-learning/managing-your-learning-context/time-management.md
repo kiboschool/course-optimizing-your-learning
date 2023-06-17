@@ -4,7 +4,7 @@
 
 ---
 
-Time Management is one of the executive functioning skills that is important for effective learning. As mentioned in the week 1 lesson, it can be defined as "the ability to use time efficiently and effectively in the accomplishment of set tasks and goals." This is a skill that a lot of people struggle with, and it can have a significant impact on your ability to learn well. Therefore, in this section we will explore some common time management challenges and myths, as well as some tips and tools that can help you improve your ability to manage your time.
+Time Management is one of the executive functioning skills that is important for effective learning. It can be defined as "the ability to use time efficiently and effectively in the accomplishment of set tasks and goals." This is a skill that a lot of people struggle with, and it can have a significant impact on your ability to learn well. Therefore, in this section we will explore some common time management challenges, as well as some tips and tools that can help you improve your ability to manage your time.
 
 <aside>
 

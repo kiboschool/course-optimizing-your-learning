@@ -163,7 +163,7 @@ Becoming aware of your limiting beliefs requires introspection and self-reflecti
 
 8.  **Pay attention to self-talk:** Observe the language and tone of your inner dialogue. Notice if you frequently use negative or self-critical language, as this can provide clues about your limiting beliefs.
 
-## How to overcome limiting beliefs
+## How to Overcome Limiting Beliefs
 
 - **Step 1 (Awareness): Recognize that you have a belief and that it is limiting**
     - Identify your limiting beliefs using the methods mentioned above.

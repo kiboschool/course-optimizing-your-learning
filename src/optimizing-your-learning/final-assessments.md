@@ -2,43 +2,92 @@
 
 ---
 
-## **Final Essay (25%) - Personal Learning Charter**
+<aside>
 
-Respond to the following prompts to create your learning charter in a document format. The prompts will serve as sections of your document.  
+📝 Complete the assignments below
 
-- Who You Are
-- Your Stories of Learning [What is one story of a successful learning attempt and one story of an unsuccessful learning attempt]
-- Your Learning Commitments and Affirmations
-- Your Learning Motivations and Interests [What drives you to learn & what are your key beliefs about learning]
-- Your Learning Goals [What are some knowledge and skills that you wish to acquire in the next 6 months]
-- Your Strengths and Weaknesses [SWOT] - Learning Superpowers / Learning Kryptonite
-- Your Learning Preferences and Approaches
-- Your Learning Tool System  [Strategies and Resources]
-- Your Learning Metrics and Milestones system [How you will measure your learning progress]
-
-Total word count should be 1250-1500 words.
+</aside>
 
 ---
 
-## **Final Presentation (25%) - Learning Together Video**
+## **Final Essay (25% of final grade) - Personal Learning Charter**
 
-During the course of the class, you have already completed the following milestones for the final project:
+**Due date: August 13th, 2023, 10pm GMT**
 
-Milestone 1 -  Determine your learning goal and create a learning plan.
+Your first final assessment for Optimizing Your Learning is to use all the lessons learnt and reflections you have carried out throughout the course to create your personal learning charter. Your learning charter will contain **seven sections**, which are listed below. In each section, you will respond to the prompts given below.
 
-Milestone 2 - Carry out your learning plan.
+Personal Learning Charter Prompts:
+- **1 - Who Am I**
+  - Describe your core, chosen, and given identities, and discuss how they influence how you approach learning?
+- **2 - My Learning Beliefs**
+  - What are your key beliefs about how learning happens?
+  - What is one limiting or empowering belief that you have about how you learn?
+- **3 - My Learning Motivations** 
+  - What intrinsic and extrinsic factors motivate you to learn? 
+- **4 - My Learning Goals and Implementation Intentions** 
+  - What are some knowledge/skills that you wish to acquire in the next 12 months? (Share between 3 - 5)
+  - For each knowledge/skill, what is one associated S.M.A.R.T. goal that you would like to achieve?
+  - For each S.M.A.R.T. goal, what is one implementation intention that you can use to achieve your goals?  
+- **5 - My Strengths and Weaknesses**
+  - What are your learning strengths? 
+  - What are your learning weaknesses?
+- **6 - My Learning Tools and Resource System** 
+  - What learning strategies will you use to achieve your learning goals? (select 2-4 strategies and describe how you will implement them).
+- **7 - My Learning Metrics and Milestones System** 
+  - Answer the following questions for one of your learning goals:
+    - What does success in learning look like to you?
+    - How will you measure your learning progress towards success? What are some intermediary milestones?
 
-Milestone 3 - Create an video lesson to demonstrate your learning.
 
-During the final week of the course you will be focusing on:
+The total word count for this essay is 1000-2000 words, and your grade on this assessment counts towards 25% of your final grade for this course.
 
-- Evaluating the quality of your learning
-- Reflecting on the learning experience
+Please use the seven sections listed above as the subheadings of your personal learning charter. Under each subheading, you should include your written response to the relevant prompt.
 
-At the end of the week you will need to submit:
+### Submission
 
-- Milestones 1 & 3
-- Learning self-evaluation.
-- Video presentation about your SDL project (max length: 10 minutes)
+Please save your learning charter as a pdf and submit it on Gradescope, then upload a copy to the Woolf platform.
+
+---
+
+## **Final Presentation (25% of final grade) - Self-Directed Learning**
+
+**Due date: November 20th, 2022**
+
+Your second final assessment is your self-directed learning project. Note that you have been working on this project since week 2 by completing the "Final Presentation Milestones''. Your goal for the project was to select a topic to learn about, create and implement a learning plan, create a video lesson that teaches the topic to the rest of your classmates, and evaluate and reflect on the overall experience.  
+
+The milestones for this project were as follows:
+
+- Week 2: Milestone 1 (Planning) - Pick your topic, set your specific learning goals, and create a plan and schedule for how you will achieve your learning goals.
+
+- Week 3: Milestone 2 (Monitoring) - Carry out your learning plan and monitor your progress.
+
+- Week 4: Milestone 3 (Evaluation 1) - Create your video lesson on your chosen topic.
+
+- Week 5: Milestone 4 (Evaluation 2) - Evaluate the quality of your learning, and reflect on the learning experience.
+
+### Milestone 4 Instructions
+
+**Self-Evaluation Directions**
+
+Your learning self-evaluation should answer the following questions:
+
+- How well did you achieve your learning goals? 
+- How satisfied are you with the final video lesson that you produced? Why or why not?
+- How effective was the learning plan that you created for Milestone 1? Did you end up deviating from the plan? If so, in what ways?
+- When learning, what did you do that worked well, and what did you do that didn’t work well?
+
+**Learning Experience Reflection**
+
+Use Gibbs' Reflective Cycle to reflect on your SDL experience. Remember to include all 6 steps of Gibbs' Cycle: Description, Feelings, Evaluation, Analysis, Conclusion, and Action Plan.
+
+### Submission
+
+You will need to submit the following by the deadline:
+- Your learning plan (Milestone 1)
+- A video lesson on your SDL topic (Milestone 3)
+- Your learning self-evaluation (Milestone 4)
+- A written reflection on the learning experience (Milestone 4)
+
+Please create one pdf with all the written components of the submission, and submit it on Gradescope. For the video, you can upload the video to your Google drive and include the link where indicated in Gradescope. Once you have uploaded your submission to Gradescope, please also upload it to the Woolf platform.
 
 ---

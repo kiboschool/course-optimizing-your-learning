@@ -4,7 +4,7 @@
 
 ---
 
-In this section, we will discuss the impact that the food and drink that you consume on your ability to learn effectively.
+In this section, we will discuss the impact the food and drink you consume has on your ability to learn effectively.
 
 <aside>
 

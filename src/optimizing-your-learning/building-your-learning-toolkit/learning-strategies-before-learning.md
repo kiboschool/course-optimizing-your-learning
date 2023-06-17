@@ -37,7 +37,7 @@ Setting SMART goals is an effective way to plan and achieve your desired outcome
 
 4. **Ensure Goals Are Measurable:** Establish criteria or indicators to measure your progress. This allows you to track your advancements and stay motivated. For example, you can set a measurable goal by stating, "Complete three programming projects by the end of the semester."
 
-5.**Determine Achievability:** Assess the feasibility of your goals. Ensure they are challenging yet realistic given your current skill level, resources, and time constraints. Setting unattainable goals can lead to frustration, while overly simple goals may not provide enough motivation.
+5. **Determine Achievability:** Assess the feasibility of your goals. Ensure they are challenging yet realistic given your current skill level, resources, and time constraints. Setting unattainable goals can lead to frustration, while overly simple goals may not provide enough motivation.
 
 6. **Check for Relevance:** Check that your goals are aligned with your long-term vision and current needs. Consider how each goal contributes to your overall development as a computer science student. Goals should be relevant to your personal and professional growth.
 
@@ -85,7 +85,21 @@ And here are examples of implementation intentions that help you manage obstacle
 - If my code isn't running, I will share a screenshot with my squad mates and ask for help.
 - If I don't understand the OYL assignment instructions, I will post a queston in the help channel on Discord.
 
-### Discussion: Your Implementation Intentions
+## How to Create Implementation Intentions
+
+Here's a step-by-step process for writing implementation intentions:
+
+1. **Identify Your SMART Goal:** Start by revisiting your SMART goal and ensuring that it is specific, measurable, achievable, relevant, and time-bound. This will serve as the foundation for creating your implementation intentions.
+
+2. **Break Down Your Goal into Actionable Steps:** Identify the key steps or actions required to achieve your SMART goal. Break them down into smaller, manageable tasks that you can work on consistently.
+
+3. **Define the "When" and "Where" for Each Step:** For each action step, determine the specific time and location where you will carry out the task. This adds clarity and makes it easier to follow through. For example, instead of saying "I will study algorithms," specify "I will study algorithms for one hour at the library from 7 PM to 8 PM every Monday and Wednesday."
+
+4. **Use If-Then Statements:** Formulate if-then statements that link specific triggers or situations to the corresponding action steps. This mental cue will help you remember and initiate the intended action. For instance, "If it's Monday evening at 7 PM, then I will go to the library and study algorithms."
+
+5. **Make the Statements Concrete and Visual:** Ensure that your implementation intentions are clear, vivid, and easy to imagine. Use descriptive language and create mental images that enhance the sense of commitment and readiness to act.
+
+## Discussion: Your Implementation Intentions
 
 <aside>
 
@@ -95,5 +109,30 @@ And here are examples of implementation intentions that help you manage obstacle
 
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/gajp1kl0u4ibs2zk" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
+<aside>
+  
+**Meet Anthony**
+
+Anthony is a first year student who is determined to make the most of his Kibo experience. Let's see how he develops his SMART goal and corresponding implementation intentions:
+  
+**Step 1:** Anthony reflects on his long-term vision of becoming a software engineer specializing in artificial intelligence. After careful consideration, he sets a SMART goals: "Within the next two terms, develop proficiency in Python programming language, complete an AI-related project, and earn a minimum GPA of 3.7."
+  
+**Step 2:** Anthony identifies the key steps required to achieve his SMART goal:
+a. Attend all Programming 1, Programming 2, and Mathematical Thinking classes during the first two terms at Kibo.
+b. Join a study group or find a coding partner to collaborate on projects.
+c. Choose an AI-related project and outline the necessary steps to complete it.
+d. Create a study schedule to allocate dedicated time for coding practice and coursework.
+e. Regularly review course notes, complete assignments ahead of deadlines, and seek clarification when needed.
+
+**Step 3:** Anthony now writes specific implementation intentions to support each step:
+a. If it's Monday, Wednesday, or Friday at 7 PM, then I will log in to the Python programming course and complete at least one practice exercise.
+b. If I am confused by a topic in class, then I will attend office hours or post my question in the Discord help forum.
+c. If it's Tuesday or Thursday from 8 PM, then I will watch at least one video on AI.
+d. If I receive graded assignments, then I will review the feedback and seek clarification during office hours if necessary.
+
+**Step 4:** Anthony makes sure to diligently follow his implementation intentions, taking consistent action toward his SMART goal. Every Sunday evening, he spends 15 minutes evaluating his progress and visualizing his succes. Akong the way, he adjusts his implementation intentions as needed, and seeks support when facing challenges.
+  
+</aside>
+  
 ---
 

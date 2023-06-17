@@ -283,7 +283,7 @@ Remember Chinedu? Let's talk about some tactics that he could use to overcome hi
 
 6 - **Learn how to learn:** Chinedu can enhance his learning experience by adopting effective learning habits. This includes creating a structured study schedule, finding a conducive study environment, utilizing active learning techniques, and seeking opportunities for hands-on practice.
 
-7 - **Embrace mistakes and learn from them:** Chinedu should view mistakes and failures as natural parts of the learning process. Instead of allowing them to reinforce his helplessness, he can analyze what went wrong, identify areas for improvement, and adjust his strategies accordingly. Embracing a growth mindset will enable him to see setbacks as valuable learning opportunities.
+7 - **Embrace mistakes and learn from them:** Chinedu should view mistakes and failures as natural parts of the learning process. Instead of allowing them to reinforce his helplessness, he can analyze what went wrong, identify areas for improvement, and adjust his strategies accordingly. Using mistakes as fuel for learning will enable him to see setbacks as valuable learning opportunities.
 
 ---
 

@@ -15,12 +15,29 @@ In this section we will focus on strategies for learning including:
 - Active Recall and Retrieval/Testing
 - Spaced Repetition
 
+<aside>
+ 
+**Meet Emmanuela and Philips**
+
+Emmanuela, a fist year student at Kibo, is a dedicated and proactive learner. She understands the importance of deep learning and employs various effective study techniques to enhance her understanding of the course materials.
+
+Firstly, Emmanuela takes detailed notes during class, ensuring she captures the key concepts and examples. She actively listens to the instructor and asks questions when she doesn't grasp a particular topic. Later, she reviews her notes and organizes them using chunking techniques, grouping related information together to form a coherent structure. Emmanuela also engages in active recall to reinforce her learning. She regularly quizzes herself on the material, attempting to recall important concepts and principles without referring to her notes. This practice not only helps her identify knowledge gaps but also strengthens her memory and understanding.
+
+Recognizing the benefits of spaced repetition, Emmanuela revisits her notes and quizzes at strategic intervals. She schedules regular study sessions with her classmates, spreading them out over time rather than cramming all the information at once. This approach helps her consolidate the learned material into long-term memory and promotes better retention. Additionally, Emmanuela actively participates in deliberate practice. She works through practice exercises, coding challenges, and projects provided on the course website. By applying her knowledge in practical scenarios, she solidifies her understanding, improves her problem-solving skills, and gains hands-on experience.
+ 
+Emmanuela's commitment to deep learning pays off. She performs well on assessments, demonstrates a strong understanding of the subject matter, and develops a solid foundation in computer science that will benefit her throughout her academic and professional journey.
+
+Philips, one of Emmanuela's classmates, takes a more casual approach to his studies. Rather than taking comprehensive notes, Philips mainly skims through the course materials and highlights key sentences or phrases. He does not actively engage with the content or attempt to synthesize the information to ensure he understands it in his own words.
+
+Unlike Emmanuela, Philips neglects spaced repetition and active recall. He tends to study sporadically, cramming the material just before exams. This approach limits his ability to retain information in the long term, as it does not promote the necessary repetition needed for solidifying knowledge. Philips also avoids deliberate practice. He seldom completes the practice exercises provided on the course website, missing out on opportunities to apply what he has learned in practical scenarios. Consequently, his problem-solving abilities and practical skills remain underdeveloped and he lacks confidence when faced with novel problems. Due to his shallow learning approach, Philips lacks a solid foundation, and he may find it challenging to progress in his computer science studies as the topics build upon the fundamentals and become more complex.
+
+</aside>
+
 ---
 
 ## Note-taking (Capture & Create Method)
 
 <aside>
-
 
 📺 Watch the following video on using the capture and create note taking method.
 

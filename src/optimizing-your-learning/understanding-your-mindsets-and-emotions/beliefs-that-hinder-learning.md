@@ -195,7 +195,7 @@ Becoming aware of your limiting beliefs requires introspection and self-reflecti
 
 **Meet Ama**
  
-Ama has always been passionate about technology. However, as her first term at Kibo progressed, she started doubting her abilities. She found herself comparing her skills to those of her classmates, who seemed to grasp programming concepts effortlessly, and began to develop a limiting belief that she wasn't smart enough to succeed in computer science.
+Ama has always been passionate about technology. However, as her first term at Kibo progressed, she started doubting her abilities. She found herself comparing her skills to those of her classmates, who seemed to grasp programming concepts effortlessly. As a result, she developed a limiting belief that she wasn't smart enough to succeed in computer science.
 
 One day, Ama gathered up the courage to share her struggles with a classmate, James. To her surprise, James revealed that he had recently felt the same way, and that many of their classmates face similar challenges. And that she shouldn't give up because success in computer science requires persistence and practice because your brain needs the time to form strong neural connections.
 

@@ -80,37 +80,51 @@ Here are some examples of limiting beliefs:
 
 
     
-## How to Identify Your Limiting Beliefs** 🔎 
+## How to Identify Your Limiting Beliefs 🔎 
 
 Identifying a limiting belief can sometimes be challenging, as they can be deeply ingrained and automatic. However, here are some signs that can help you recognize when something may be a limiting belief:
 
+<aside>
 **Negative self-talk:** If you frequently catch yourself using negative language or self-critical statements, such as "I'm not good enough" or "I always fail," it's likely a sign of a limiting belief.
     
 *Example:* Chioma receives a lower grade than she expected on her first programming assignment. She immediately starts berating herself, saying, "I'm so stupid. I'll never be able to succeed in this degree. Maybe I'm just not cut out for this."
+</aside>
 
+<aside>
 **Feelings of fear or self-doubt:** Limiting beliefs often generate feelings of fear, self-doubt, or anxiety. If a particular belief or thought consistently holds you back or makes you feel inadequate, it may be a limiting belief.
     
 *Example:* Kwame is assigned a group project where he has to give a presentation. He feels a surge of fear and self-doubt, thinking, "I'm not good at public speaking. I'll embarrass myself in front of the class. In the future, I should avoid any opportuniities that require me to speak in public."
-    
+</aside>
+
+<aside>    
 **Self-imposed limitations:** Notice if you set arbitrary limits on yourself, believing that you cannot achieve something without valid reasons. These self-imposed limitations can stem from limiting beliefs.
     
 *Example:* Amina dreams of getting an internship at Microsoft. However, she convinces herself that it's not possible because she believes, "I don't have the connections or academic skills to land the internship. It's better not to even try."
+</aside>
 
+<aside>
 **Repeating patterns:** If you find yourself repeatedly facing similar challenges or obstacles in various areas of your life, it could indicate a common underlying limiting belief that needs to be addressed.
     
 *Example:* Chukwuemeka finds himself struggling to make friends in his new environment. He recalls similar experiences from high school and concludes, "I'm just not good at making friends. It seems like everyone else effortlessly connects with others, but I'm always left out."
+</aside>
 
+<aside>
 **Comparison and jealousy:** If you frequently compare yourself to others and feel jealous or envious of their accomplishments, it may be a sign of a limiting belief about your own abilities or worth.
     
 *Example:* Abena constantly compares herself to her classmates who seem to excel academically. She becomes jealous, thinking, "Everyone else is so much smarter than me. I'm just not as intelligent or capable as them. I'll never be able to keep up."
+</aside>
 
+<aside>
 **Avoidance or procrastination:** Limiting beliefs can often lead to avoidance or procrastination, as you may believe that you're incapable of succeeding or fear failure. Notice if you frequently find yourself avoiding challenges or putting off important tasks.
     
 *Example:* Wanjiku is passionate about writing and wants to start a blog. However, she constantly puts off publishing her drafts, believing, "I'm not a good enough writer. People will criticize my writing, so there's no point in trying."
+</aside>
 
+<aside>
 **Lack of progress or growth:** If you feel stuck or stagnant in certain areas of your life, it may be a result of limiting beliefs that prevent you from taking necessary steps towards growth and development.
     
 *Example:* Ade has set a goal to improve his time management skills. However, he consistently falls into the habit of procrastination and fails to make progress. He thinks, "I'll never be able to manage my time effectively. It's just not something I'm capable of."
+</aside>
 
     
 ## Reflection: Limiting Beliefs
@@ -169,6 +183,20 @@ Becoming aware of your limiting beliefs requires introspection and self-reflecti
         -  **Surround yourself with support:** Seek out positive and supportive individuals who can help you challenge your limiting beliefs. Surrounding yourself with people who believe in you and your potential can be immensely helpful in overcoming self-doubt and building confidence.
         -  **Practice self-compassion:** Be kind to yourself throughout this process. Recognize that challenging and changing deep-seated beliefs takes time and effort. Treat yourself with compassion and understanding if you face setbacks or encounter resistance along the way.
         -  **Repeat the process:** Overcoming limiting beliefs is an ongoing process. As you grow and face new challenges, new beliefs may arise. Continually practice self-awareness and question any beliefs that hold you back, applying the steps outlined above to overcome them.
+
+<aside>
+
+**Meet Ama**
+ 
+Ama has always been passionate about technology. However, as her first term at Kibo progressed, she started doubting her abilities. She found herself comparing her skills to those of her classmates, who seemed to grasp programming concepts effortlessly, and began to develop a limiting belief that she wasn't smart enough to succeed in computer science.
+
+One day, Ama gathered up the courage to share her struggles with a classmate, James. To her surprise, James revealed that he had recently felt the same way, and that many of their classmates face similar challenges. And that she shouldn't give up because success in computer science requires persistence and practice because your brain needs the time to form strong neural connections.
+
+Inspired by their conversation, Ama decided to confront her limiting beliefs head-on. She began by attending office hours and seeking help from her classmates, instructors, and teaching assistants in office hours and the Discord help forums. They patiently explained complex concepts and provided her with additional resources for self study. Ama also joined a study group comprised of supportive classmates. Together, they tackled programming assignments, reviewed class material, and shared their struggles and triumphs. This collaborative environment gave her a sense of belonging and boosted her confidence.
+
+As Ama actively engaged in the learning process, she noticed small victories along the way. Solving a particularly challenging coding problem or successfully debugging a program brought her a sense of accomplishment. These moments gradually chipped away at her limiting belief, replacing it with an empowering belief in her ability to learn and grow. Ama also realized that consistent practice was key to improving her skills, so she made sure to do all the practice exercises on the coursesites. Though there were times when she faced setbacks, she embraced them as opportunities to learn and refine her approach. By the end of her first year, Ama had transformed her self-perception. She had overcome her limiting beliefs and recognized her own potential. With a renewed sense of confidence, she eagerly looked forward to the upcoming years of her computer science journey, knowing that she was capable of achieving ganything she put her mind to.
+    
+</aside>
 
 ---
 

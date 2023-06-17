@@ -103,11 +103,11 @@ Here are some examples of limiting beliefs:
     - When a situation triggers the old limiting belief, think of the empowering belief instead, and let it guide your behavior.
     - You can also use quotes and visualisation to help you disrupt your "limiting belief" and replace it with your "empowering belief".
     - Some additional things that can help you overcome your limiting belief include:
-        -  Visualizing success: Use the power of visualization to imagine yourself successfully overcoming your limiting beliefs. Picture yourself achieving your goals, breaking through barriers, and living your life without those self-imposed limitations. This visualization can help reinforce your new empowering beliefs.
-        -  Taking small steps: Break down your goals into smaller, manageable steps. By taking action towards your goals, you'll build evidence that disproves your limiting beliefs. Celebrate each small victory along the way, as it will further strengthen your belief in your abilities.
-        -  Surrounding yourself with support: Seek out positive and supportive individuals who can help you challenge your limiting beliefs. Surrounding yourself with people who believe in you and your potential can be immensely helpful in overcoming self-doubt and building confidence.
-        -  Practicing self-compassion: Be kind to yourself throughout this process. Recognize that challenging and changing deep-seated beliefs takes time and effort. Treat yourself with compassion and understanding if you face setbacks or encounter resistance along the way.
-        -  Repeating the process: Overcoming limiting beliefs is an ongoing process. As you grow and face new challenges, new beliefs may arise. Continually practice self-awareness and question any beliefs that hold you back, applying the steps outlined above to overcome them.
+        -  **Visualize success:** Use the power of visualization to imagine yourself successfully overcoming your limiting beliefs. Picture yourself achieving your goals, breaking through barriers, and living your life without those self-imposed limitations. This visualization can help reinforce your new empowering beliefs.
+        -  **Take small steps:** Break down your goals into smaller, manageable steps. By taking action towards your goals, you'll build evidence that disproves your limiting beliefs. Celebrate each small victory along the way, as it will further strengthen your belief in your abilities.
+        -  **Surround yourself with support:** Seek out positive and supportive individuals who can help you challenge your limiting beliefs. Surrounding yourself with people who believe in you and your potential can be immensely helpful in overcoming self-doubt and building confidence.
+        -  **Practice self-compassion:** Be kind to yourself throughout this process. Recognize that challenging and changing deep-seated beliefs takes time and effort. Treat yourself with compassion and understanding if you face setbacks or encounter resistance along the way.
+        -  **Repeat the process:** Overcoming limiting beliefs is an ongoing process. As you grow and face new challenges, new beliefs may arise. Continually practice self-awareness and question any beliefs that hold you back, applying the steps outlined above to overcome them.
 
 
 

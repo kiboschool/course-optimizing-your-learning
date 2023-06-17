@@ -8,7 +8,7 @@
 
 </aside>
 
-**Due date: August 7th, 2023**
+**Due date: August 7th, 2023, 10pm GMT**
 
 ## Brief
 

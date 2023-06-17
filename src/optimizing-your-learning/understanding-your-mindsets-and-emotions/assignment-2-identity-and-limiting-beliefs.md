@@ -9,7 +9,7 @@
 
 </aside>
 
-**Due date: October 24th, 2022**
+**Due date: July 24th, 2023, 10pm GMT**
 
 ## Brief
 

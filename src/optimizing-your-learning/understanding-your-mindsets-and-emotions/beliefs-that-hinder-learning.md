@@ -273,7 +273,7 @@ Remember Chinedu? Let's talk about some tactics that he could use to overcome hi
 
 1 - **Recognize and challenge negative beliefs:** Chinedu needs to become aware of his negative self-talk and challenge the limiting beliefs that contribute to his learned helplessness. He can start by questioning the validity of his thoughts and replacing them with more positive and empowering statements. For example, instead of thinking, "I'm not smart enough," he can reframe it as, "I have the capacity to learn and improve."
 
-2 - **Seek support and guidance:** It's essential for Chinedu to seek support from professors, teaching assistants, or tutoring services. By reaching out for help, he can gain a deeper understanding of challenging concepts and receive guidance on effective study strategies. Building relationships with classmates who share similar struggles can also provide a supportive network for learning and growth.
+2 - **Seek support and guidance:** It's essential for Chinedu to seek support from instructors and teaching assistants. By reaching out for help, he can gain a deeper understanding of challenging concepts and receive guidance on effective study strategies. Building relationships with classmates who share similar struggles can also provide a supportive network for learning and growth.
 
 3 - **Break tasks into smaller, manageable steps:** Large projects or assignments may feel overwhelming to Chinedu, leading to procrastination or avoidance. By breaking them down into smaller, more achievable tasks, he can make progress incrementally. Celebrating each completed step can boost motivation and instill a sense of accomplishment.
 

@@ -142,7 +142,7 @@ Here are the key steps of James Clear's habit-building process:
    - Place your programming resources, such as your laptop, coding materials, or textbooks, in your designated spot as visual cues.
    - Place a visible reminder or sticky note on your desk or computer screen to prompt you to start coding. Or set a reminder on your phone or calendar.
 
-- **Step 3 - Create a Craving [Make it attractive]:
+- **Step 3 - Create a Craving [Make it attractive]**
    - Reflect on the benefits and value of practicing programming consistently. Visualize how it will improve your coding skills, problem-solving abilities, and confidence.
    - Create a desire to learn and progress by reminding yourself of your long-term goals or projects you're passionate about.
    - Find coding exercises or projects that align with your interests or career goals.
@@ -186,19 +186,19 @@ The model for breaking a bad habit, as outlined by James Clear in his book "Atom
 - **Step 1 - Identify the bad habit**
   - Recognize the specific bad habit you want to break, e.g. Scrolling on social media instead of studying.
 
-- **Step 2 - Identify and Modify the Cue [make it invisible]:
+- **Step 2 - Identify and Modify the Cue [Make it invisible]**
   - Identify the cues that trigger your urge to scroll on social media, such as certain times of the day, specific locations, or emotional states.
   - Modify your environment to minimize these cues. For example, turn off notifications, keep your phone out of sight, or use apps that limit access to social media during study hours.
 
-- **Step 3 - Identify the Craving [make it unattractive]:
+- **Step 3 - Identify the Craving [Make it unattractive]**
   - Understand the underlying reasons or desires that drive your craving to scroll on social media. It could be a need for distraction, entertainment, or social connection. Or it could be some underlying anxiety about the assignment you are avoiding.
   - Find alternatives ways to fulfill those needs, or reach out to the community for help. 
 
-- **Step 4 - Identify and Change Response [make it difficult]:
+- **Step 4 - Identify and Change Response [Make it difficult]**
   - Make it more difficult to flow through with your usual response to the cue.
   - Replace the habit of scrolling on social media with a positive response, which in this case is studying.
 
-- **Step 4 - Identify and Change Reward [make it unsatisfying]:
+- **Step 4 - Identify and Change Reward [Make it unsatisfying]**
   - Determine and interogate the percieved reward for your bad habit. E.g., relief from anxiety. 
   - Create a replacement reward for not engaging in the bad habit. E.g., If you are able to study for 30 minutes instead of scrolling on social media, you could reward yourself with a short break to engage in a preferred activity, a healthy snack, or a moment of relaxation.
   - Associate the new reward with the feeling of accomplishment.

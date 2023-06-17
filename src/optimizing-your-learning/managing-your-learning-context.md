@@ -49,7 +49,7 @@ After completing this lesson, you will be able to:
 
 [3.5 Sleep is Essential](/optimizing-your-learning/managing-your-learning-context/sleep.md)
 
-[3.6 Make Time Work For Your](/optimizing-your-learning/managing-your-learning-context/time-management.md)
+[3.6 Make Time Work For You](/optimizing-your-learning/managing-your-learning-context/time-management.md)
 
 [3.7 Control Your Space ](/optimizing-your-learning/managing-your-learning-context/physical-environment.md)
 

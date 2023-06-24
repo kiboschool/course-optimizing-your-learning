@@ -24,7 +24,7 @@ This week's assignment will require you to write about your habits and develop a
   - Does it detract from my productivity, health, or overall happiness?
 - Determine the size of the impact that each habit has on your life, either small, medium, or significant.
 - Select the top three habits you want to change. Prioritize habits that have a significant negative impact on your life.
-- Identify a potential replacement habit for each of the three negative habits that you want to break. Think about alternative behaviors or actions that can replace the undesirable habits and move you closer to your desired outcomes.
+- Identify a potential replacement habit for each of the three negative habits that you want to break. Think about alternative behaviors or actions that can replace undesirable habits and move you closer to your desired outcomes.
 
 You should create a habit inventory table that looks like this:
 

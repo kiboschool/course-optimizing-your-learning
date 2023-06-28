@@ -53,14 +53,14 @@ Here is a summary of how the two most extreme types of learners (the dependent l
  
 - **Self-Directed Learner**
     - Is able to set their learning goals, monitor learning progress, and evaluate their learning outcomes.
-    - Can identify their desires, and knows what they need to do to pursue them.
+    - Can identify their desires and knows what they need to do to pursue them.
     - Sees the instructor as a learning consultant who can provide advice and feedback.
     - Can identify and source the resources needed to complete their learning.
-    - This type of learner is common place in professional environments.
+    - This type of learner is commonplace in professional environments.
 
-Self-directed learning allows you to take responsibility for your own learning, which results in greater ownership and autonomy. In self-directed learning, the teacher acts as a guide/facilitator/consultant to support you and give you feedback during your learning journey. At Kibo, you will learn using a combination of all four levels mentioned in the video during different parts of your formal academic courses, and any additional side projects that you choose to take on.
+Self-directed learning allows you to take responsibility for your own learning, which results in greater ownership and autonomy. In self-directed learning, the teacher acts as a guide/facilitator/consultant to support you and give you feedback during your learning journey. At Kibo, you will learn using a combination of all four levels mentioned in the video during different parts of your formal academic courses and any additional side projects that you choose to take on.
 
-One of the most challenging transitions young professionals have to make is going from being a **Dependent Learner in formal school environments**, sometimes through university, into being a **Self-Directed Learner in the workplace**. A key reason we are teaching you self-directed learning is because this is how the majority of your learning will be once you are in a professional setting. So, it is important for you to get comfortable with taking more ownership of your learning now.
+One of the most challenging transitions young professionals have to make is going from being a **Dependent Learner in formal school environments**, sometimes through university, into being a **Self-Directed Learner in the workplace**. A key reason we are teaching you self-directed learning is that this is how the majority of your learning will be once you are in a professional setting. So, it is important for you to get comfortable with taking more ownership of your learning now.
 
 
 <aside>
@@ -74,7 +74,7 @@ One of the most challenging transitions young professionals have to make is goin
 
 You will notice that a lot of the characteristics discussed in the video are similar to the executive functioning skills discussed in the earlier section. Therefore, people with strong executive functioning skills are well set up to be effective self-directed learners.
 
-**Summmary of the characteristics mentioned in the video:**
+**Summary of the characteristics mentioned in the video:**
 - Disciplined, Methodical
 - Logical, Analytical
 - Reflective and Self-Aware
@@ -94,7 +94,7 @@ You will notice that a lot of the characteristics discussed in the video are sim
 
 <aside>
 
-💬 Think about the self-directed learner profile described in the above videos, and write a short Day in the Life essay for a fictional first-year CS student, who is an excellent self-directed learner. What do you think they think, feel, and do on a typical day that demonstrates their self-directed learning skills and traits? 
+💬 Think about the self-directed learner profile described in the above videos, and write a short Day in the Life essay for a fictional first-year CS student who is an excellent self-directed learner. What do you think they think, feel, and do on a typical day that demonstrates their self-directed learning skills and traits? 
 **Add your description to the padlet below.**
 
 </aside>
@@ -110,7 +110,7 @@ You will notice that a lot of the characteristics discussed in the video are sim
     
 
 
-📺 Watch this video from David (a Kibo mentor and Software Engineering Manager at Verkada) where he talks about self-driven learning and curiosity as key skills that he looks for when hiring software engineers.
+📺 Watch this video from David (a Kibo mentor and Software Engineering Manager at Verkada), where he talks about self-driven learning and curiosity as key skills that he looks for when hiring software engineers.
 
 </aside>
 
@@ -176,12 +176,12 @@ The table below outlines behaviors that effective self-directed learners exhibit
 | Determining Learning Strategy | Testing |  |
 
 
-Here is some useful expansions on some of the key terms in the table:
+Here are some useful expansions on some of the key terms in the table:
 - **Diagnosing Learning needs:** It all starts with questions like: What do I not know? What do I need to learn? Why do I want to learn this? 
 - **Goal Setting:** Taking the learning needs one step further, you should formulate clear goals by asking questions like: What will I be able to do once I have completed my learning? 
-- **Strategic Planning and Determing a Learning Strategy:** In order to build upon existing knowledge and ideas, you have to determine an appropriate approach to, and resources for, learning. 
+- **Strategic Planning and Determining a Learning Strategy:** In order to build upon existing knowledge and ideas, you have to determine an appropriate approach to and resources for learning. 
 - **Help Seeking:** While self-directed learning is about being in control of your own learning, it doesn't mean that you need to learn alone. An important practice to use when learning is knowing when to ask for help, where you can find help, and who you can approach for help. 
-- **Testing:** When you are learning, it is critical to have an accurate signal of the gap between your current compentency and your target competency. One way to get an accruate estimate of that gap it through frequently testing yourself and getting feedback. You can test yourself by carrying out your goal task and seeing how well you do. E.g., if you are learning how to use loops in python, test yourself by building a pyhton program using loops; if you are learning for an exam, test yourself by completing practice exam questions under exam conditions.
+- **Testing:** When you are learning, it is critical to have an accurate signal of the gap between your current competency and your target competency. One way to get an accurate estimate of that gap is by frequently testing yourself and getting feedback. You can test yourself by carrying out your goal task and seeing how well you do. E.g., if you are learning how to use loops in Python, test yourself by building a python program using loops; if you are learning for an exam, test yourself by completing practice exam questions under exam conditions.
 - **Self-Evaluation:** After learning strategies are implemented, you can evaluate your learning to see how effective the process was. You can also do this periodically while you are learning. Using your learning goals as a benchmark, you can determine how effective your learning process was and can subsequently improve on it. 
 
 

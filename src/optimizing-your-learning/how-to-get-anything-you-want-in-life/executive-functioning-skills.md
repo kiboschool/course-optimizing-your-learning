@@ -206,8 +206,8 @@ As the day comes to an end, Juma intends to go to bed early to ensure a good nig
   - Establish a morning routine that includes specific time slots for phone usage. You can set a limit on the amount of time you spend on your phone before starting your study session. Using apps or features that track and limit screen time can be helpful.
   - Keep your phone out of sight and in a different room while studying to minimize distractions and resist the impulse to check notifications. 
 - Mid-morning:
-  - Practice active listening during classes. You can engage with the material by taking detailed notes, asking questions, and participating in the class discussions. Actively involving yourself in the learning process can help improve your focus and block out distractions.
-  - Utilize active learning strategies like summarizing key points, repeating information in your own words, or visualizing concepts can help maintain attention and enhance understanding.
+  - Practice active listening during classes. You can engage with the material by taking detailed notes, asking questions, and participating in class discussions. Actively involving yourself in the learning process can help improve your focus and block out distractions.
+  - Active learning strategies like summarizing key points, repeating information in your own words, or visualizing concepts can help maintain attention and enhance understanding.
 - Lunchtime:
   - Plan and prepare healthy meals in advance to avoid impulsive food choices. You can pack a nutritious lunch or snacks from home to resist the temptation of unhealthy options nearby.
 - Evening:

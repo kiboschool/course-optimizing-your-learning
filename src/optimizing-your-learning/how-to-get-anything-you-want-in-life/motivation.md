@@ -19,7 +19,8 @@
 
 💬 **How would you define learning in your own words?**
 Post your definition in the padlet below.
-**Note:** In order to see and interact with the padlet, you will need to be logged in to your padlet account!
+
+⚠️ **Note:** In order to see and interact with the padlets in this course, you will need to be logged in to your padlet account! If you have created a padlet account yet, you can use your Kibo School account to sign up using this link (https://padlet.com/auth/signup). Just click on "Sign Up with Google".
 
 </aside>
 

@@ -188,7 +188,7 @@ The model for breaking a bad habit, as outlined by James Clear in his book "Atom
 - **Step 1 - Identify the bad habit (i.e., the response)**
   - Recognize the specific bad habit you want to break, e.g., Scrolling on social media instead of studying.
 
-- **Step 2 - Identify the Cue****
+- **Step 2 - Identify the Cue**
   - Identify the cues that trigger your urge to carry out your response, such as certain times of the day, specific locations, or emotional states.
 
 - **Step 3 - Understand the Craving**

@@ -96,7 +96,7 @@ As this quote suggests, being able to be consistent in your actions, especially 
 
 </aside>
 
-If you want to use habits to improve the way you live and learn, I would recommed reading James Clear's book, [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299). Below is a detailed video summary of the main ideas from the book.
+If you want to use habits to improve the way you live and learn, I would recommend reading James Clear's book, [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299). Below is a detailed video summary of the main ideas from the book.
 
 <aside>
 
@@ -152,7 +152,7 @@ Here are the key steps of James Clear's habit-building process:
    - When the cue prompts you to start programming, sit down at your designated spot, open your coding environment, and prepare to work on programming exercises or projects.
    - Set a timer for your desired practice duration to ensure you stay focused and committed.
    - Break down the habit into smaller actions. Start with a specific coding exercise or a manageable portion of a project.
-   - Use online platforms or coding websites that offer pre-designed coding challenges or exercises to save time on finding resources.
+   - Use online platforms or coding websites that offer pre-designed coding challenges or exercises to save time in finding resources.
 
 - **Step 5 - Create a Reward [Make it satisfying]**
    - After completing your programming practice, reward yourself with something enjoyable or satisfying. It could be a short break to relax, a treat, or a small personal reward.
@@ -167,7 +167,7 @@ Give yourself rewards or small treats after completing a week or month of consis
      - Identify potential obstacles or distractions that may hinder your habit, such as social media, procrastination, or competing priorities.
      - Minimize distractions by turning off notifications, setting boundaries, or using productivity tools to stay focused during your programming practice.
   - Create an accountability system
-    - Share your habit goal with a classmate or friend who is also interested in coding. Check in with each other regularly to ensure you're both staying on track.
+    - Share your habit goal with a classmate or friend who is also interested in coding. Check-in with each other regularly to ensure you're both staying on track.
     - Consider participating in coding challenges or competitions with others to foster accountability and friendly competition.
 
 ---
@@ -183,24 +183,37 @@ The model for breaking a bad habit, as outlined by James Clear in his book "Atom
 
 **Here is an example of how you can use James Clear's approach to break a bad habit:**
 
-- **Step 1 - Identify the bad habit**
-  - Recognize the specific bad habit you want to break, e.g. Scrolling on social media instead of studying.
+**Phase 1: Awareness**
 
-- **Step 2 - Identify and Modify the Cue [Make it invisible]**
-  - Identify the cues that trigger your urge to scroll on social media, such as certain times of the day, specific locations, or emotional states.
-  - Modify your environment to minimize these cues. For example, turn off notifications, keep your phone out of sight, or use apps that limit access to social media during study hours.
+- **Step 1 - Identify the bad habit (i.e., the response)**
+  - Recognize the specific bad habit you want to break, e.g., Scrolling on social media instead of studying.
 
-- **Step 3 - Identify the Craving [Make it unattractive]**
-  - Understand the underlying reasons or desires that drive your craving to scroll on social media. It could be a need for distraction, entertainment, or social connection. Or it could be some underlying anxiety about the assignment you are avoiding.
-  - Find alternatives ways to fulfill those needs, or reach out to the community for help. 
+- **Step 2 - Identify the Cue****
+  - Identify the cues that trigger your urge to carry out your response, such as certain times of the day, specific locations, or emotional states.
 
-- **Step 4 - Identify and Change Response [Make it difficult]**
-  - Make it more difficult to flow through with your usual response to the cue.
-  - Replace the habit of scrolling on social media with a positive response, which in this case is studying.
+- **Step 3 - Understand the Craving**
+  - Understand the underlying reasons or desires that drive your craving to carry out your response. For the scrolling social media example: It could be a need for distraction, entertainment, or social connection. Or it could be some underlying anxiety about the assignment you are avoiding.
 
-- **Step 4 - Identify and Change Reward [Make it unsatisfying]**
-  - Determine and interogate the percieved reward for your bad habit. E.g., relief from anxiety. 
-  - Create a replacement reward for not engaging in the bad habit. E.g., If you are able to study for 30 minutes instead of scrolling on social media, you could reward yourself with a short break to engage in a preferred activity, a healthy snack, or a moment of relaxation.
+- **Step 4 - Understand the Reward**
+  - Determine and interrogate the perceived reward for your bad habit. E.g., relief from anxiety. 
+
+
+**Phase 2: Change**
+
+- **Step 5 - Modify the Cue [Make it invisible]**
+  - Modify your environment to minimize these cues. For the social media example: turn off notifications, keep your phone out of sight, or use apps that limit access to social media during study hours.
+
+- **Step 6 - Change the Impact of the Craving [Make it unattractive]**
+  - Create a negative association for the craving. For the social media example: You can decide that spending too much time on social media is a sign of laziness.
+  - Find alternative ways to fulfill those needs or reach out to the community for help. For the social media example: You can check Discord instead and post a question about what you are studying in the help channel.
+
+- **Step 7 - Change Response [Make it difficult]**
+  - Make it more difficult to flow through with your usual response to the cue. For the social media example: You can put your phone in another room when you are studying.
+  - Replace the habit of scrolling on social media with a positive response, which in this case, is studying.
+ 
+- **Step 8 - Change the Reward [Make it unsatisfying]**
+  - Create a negative consequence for carrying out the typical response. For the social media example: every time you stop studying to check social media, you need to do an activity that you dislike as a consequence.
+  - Create a replacement reward for not engaging in the bad habit. For the social media example: If you are able to study for 30 minutes instead of scrolling on social media, you could reward yourself with a short break to engage in a preferred activity, a healthy snack, or a moment of relaxation.
   - Associate the new reward with the feeling of accomplishment.
-
+    
 ---

@@ -2,7 +2,7 @@
 
 ---
 
-## Todo: Add intructor welcome video
+## To do: Add instructor welcome video
 
 ## Course Introduction
 
@@ -15,6 +15,10 @@ Optimizing Your Learning aims to give you the tools to do this successfully. You
 We hope that all these will allow you to gain a mastery of, and confidence in, your ability to achieve your goals at Kibo and beyond. As a result, we hope that you will see challenges that you encounter in a new light: as hurdles that can be overcome. While also seeing yourself in a new light: as an individual who can uncover what it takes to solve even the most complex problems. 
 
 Since the goal of this course is to help you improve your learning skills, there will be lots of opportunities to test out some of the techniques shared in the lessons in our weekly live classes, weekly assignments, and the practice activities and discussions that are embedded throughout the lessons.
+
+> 📺 Watch the following video from the founding students to learn why optimizing your learning is a valuable course at Kibo
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/nY-Jevu4I3g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## Course Learning Outcomes
 

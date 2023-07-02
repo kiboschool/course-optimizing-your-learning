@@ -17,7 +17,7 @@ This week's assignment will require you to create a Google Slides presentation a
 
 ### Task 1 - Identify Your Limiting Beliefs
 
-Use the information in [Section 2.3](optimizing-your-learning/understanding-your-mindsets-and-emotions/beliefs-that-hinder-learning.md) to help identify 3-5 limiting beliefs do you want to overcome. 
+Use the information in Section 2.3 to help identify 3-5 limiting beliefs you want to overcome. 
 
 
 **Here are some examples of limiting beliefs:**

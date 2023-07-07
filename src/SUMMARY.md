@@ -59,13 +59,6 @@
 	- [Assignment 4 - Habits Inventory and Change Plan](optimizing-your-learning/building-your-learning-toolkit/assignment-4-memory-challenge.md)
 	- [Final Presentation Milestone 3](optimizing-your-learning/building-your-learning-toolkit/final-presentation-milestone-3.md)
 
-<!--
-- [Focus and Attention](optimizing-your-learning/building-your-learning-toolkit/focus-and-attention.md)
-- [Memory](optimizing-your-learning/building-your-learning-toolkit/memory.md)
-- [Flow State](optimizing-your-learning/building-your-learning-toolkit/flow-state.md)
-
--->	
-
 ### Week 5
 
 - [Final Assessments](optimizing-your-learning/final-assessments.md)

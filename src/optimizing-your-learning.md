@@ -50,4 +50,3 @@ Office hours will be held on **Thursdays 3:00 - 4:00 pm GMT**. This is an option
 Photo by Milad Fakurian on Unsplash
 
 ---
-

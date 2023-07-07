@@ -1,20 +1,30 @@
 # Optimizing Your Learning (OYL)
 
-**KC001** *3 ETCS*
-
 ---
 
-![brain](./brain.jpeg)
-Photo by Milad Fakurian on Unsplash
+## Introduction
 
+> 📺 Watch the following video to get an introduction to the course from your instructor, Tolu Agunbiade.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/P6MpEJx_MLk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+**Note:** All the material for the entire course is going to be released at the start of the course as opposed to weekly, as mentioned in the above video. This is being done to give you more flexibility to work ahead of the weekly pace if needed and better manage your time.
 
 ## Course Description
 
-Optimizing Your Learning aims to transform you into an effective and empowered self-directed learner. In the modern world, long-term academic, professional, and personal success is driven by the ability of individuals to take control of their learning. Therefore, this course will support you in developing the knowledge, skills, and mindsets needed to take ownership of your learning and build your self-efficacy.
+Kibo’s mission is to educate collaborative innovators who use technology to solve pressing problems. 
 
-During the course, you will develop competence in skills that are most critical for effective self-directed learning (i.e. planning, monitoring, and evaluating your learning) while also learning how to use learning strategies to maximize your overall learning efficiency and efficacy. You will also use the emotional intelligence framework to explore your identity, self-awareness, motivation, and self-regulation skills in support of your development as a self-directed learner.
+For you to become a "collaborative innovator", you will need to be able to direct your learning, reflect critically, and course correct when needed so that you can effectively deepen your expertise in the subject matter of focus. 
 
-The course will conclude with the creation of a personal learning charter that will help guide you in your learning throughout your time at Kibo and in other areas of your life.
+Optimizing Your Learning aims to give you the tools to do this successfully. You will learn why self-directed learning and learning how to learn can drive long-term success. You will also learn about how to understand and harness your identities, beliefs, and interests to develop learning habits grounded in ownership, motivation, and persistence. Finally, you will be introduced to a variety of learning strategies and approaches that will help shape the development of powerful and effective learning mindsets and skills. 
+
+We hope that all these will allow you to gain a mastery of, and confidence in, your ability to achieve your goals at Kibo and beyond. As a result, we hope that you will see challenges that you encounter in a new light: as hurdles that can be overcome. While also seeing yourself in a new light: as an individual who can uncover what it takes to solve even the most complex problems. 
+
+Since the goal of this course is to help you improve your learning skills, there will be lots of opportunities to test out some of the techniques shared in the lessons in our weekly live classes, weekly assignments, and the practice activities and discussions that are embedded throughout the lessons.
+
+> 📺 Watch the following video from the founding students to learn why optimizing your learning is a valuable course at Kibo
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/nY-Jevu4I3g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## Course Learning Outcomes
 
@@ -26,22 +36,18 @@ By the end of this course, you will be able to:
 - Identify the internal and external factors that influence your learning and develop strategies to leverage them to increase the effectiveness of your learning.
 - Develop a reflective practice to support deep learning.
 
-## Weekly Lessons
+## Course and Instructor Information
 
-<aside>
+The instructor for this course is: Tolu Agunbiade.
+To teaching assistant for this course is: Keno Omu
+The course will run from July 10 to August 13, 2023. Note that this is a **5-week course**.
 
-👩🏿‍🏫 Complete this course by exploring each week’s lesson. Lessons will be released each Sunday.
+Live classes will be held on **Tuesdays 5:30 - 7:00 pm GMT**. The live classes are mandatory.
 
-</aside>
+Office hours will be held on **Thursdays 3:00 - 4:00 pm GMT**. This is an optional chance to get additional support from your instructor.
 
-[Week 0: Welcome!](/optimizing-your-learning/welcome.md)
+![brain](./brain.jpeg)
+Photo by Milad Fakurian on Unsplash
 
-[Week 1: How to Get Anything You Want in Life](/optimizing-your-learning/how-to-get-anything-you-want-in-life.md)
+---
 
-[Week 2: Understanding Your Mindsets and Emotions](/optimizing-your-learning/understanding-your-mindsets-and-emotions.md)
-
-[Week 3: Managing Your Learning Context](/optimizing-your-learning/managing-your-learning-context.md)
-
-[Week 4: Building Your Learning Toolkit](/optimizing-your-learning/building-your-learning-toolkit.md)
-
-[Week 5: Final Assessments](/optimizing-your-learning/final-assessments.md)

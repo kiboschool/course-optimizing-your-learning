@@ -8,7 +8,7 @@
 
 </aside>
 
-**Due date: November 7th, 2022**
+**Due date: August 7th, 2023, 10pm GMT**
 
 ## Brief
 
@@ -16,35 +16,32 @@ This week's assignment will require you to write about your habits and develop a
 
 ### Task 1 - Habit Identification
 
-- Think through all the things that you do in a typical day and identify your habits. 
-- Try to identify between 10-15 habits that you have. These can be habits that you do daily (e.g. make your bed after waking up), or they can be habits that you do after specific cues (e.g. eat chocolate when you feel anxious). 
-- Create a table like the habit inventory (Table 1) shown below, and then rate whether you think each of your habits is good, neutral, or bad. 
+- Make a list of 10 - 15 habits you engage in regularly. Consider habits across various areas of your life, such as personal, professional, health, relationships, and leisure.
+- Review each habit and determine how often you engage in it. Indicate whether it's daily, weekly, monthly, or once in a while.
+- Now, categorize each habit as positive, negative, or neutral based on their impact on your well-being, productivity, or goals. You can ask yourself the following questions to determine this:
+  - Does this habit align with my values and goals?
+  - Does it contribute positively to my well-being, relationships, or personal growth?
+  - Does it detract from my productivity, health, or overall happiness?
+- Determine the size of the impact that each habit has on your life, either small, medium, or significant.
+- Select the top three habits you want to change. Prioritize habits that have a significant negative impact on your life.
+- Identify a potential replacement habit for each of the three negative habits that you want to break. Think about alternative behaviors or actions that can replace undesirable habits and move you closer to your desired outcomes.
 
-According to James Clear, a useful way to classify habits is to ask the question, “Does this behavior help me become the type of person I wish to be?” Good habits reinforce your desired identity, bad habits conflict with your desired identity, and neutral habits seem unrelated.
+You should create a habit inventory table that looks like this:
 
-![habit](./Habits.png)
+| Habit | Frequency | Rating | Size of Impact |
+| -- | -- | -- | -- |
+| Eaiting chocolate when stressed | Daily | Negative | Medium |
+|  |  |  |  |
+|  |  |  |  |
 
 ### Task 2 - Breaking a Bad Habit
 
-- Select one of the bad habits from your habit inventory that you would like to break. 
-- Identify the Cue, Craving, Response, and Reward (i.e. the habit loop) for this habit.
-- Identify 1-2 actions that you could take to influence each stage of the habit loop so that you could break the habit, and create an action plan for breaking this habit.
-- Remember to break a bad habit you should make it: Invisible, Unattractive, Difficult, and Unsatisfying.
+- Select one of the top three negative habits that you would like to break. 
+- Use the step-by-step process outlined in the lesson to create a plan for breaking this habit. Be sure to mention how you would address the cue, craving, reward, and response steps.
 
-**Tip:** Re-watch the video in section 4.2 Habits that gives a detailed summary of James Clear’s book “Atomic Habits”. The end of the video has a great example of how to create a plan to break a habit.
-
-### Task 3 - Creating a Good Habit
-
-- Determine a good habit that you would like to form.
-- Identify the Cue, Cravings, Response, and Reward (i.e. the habit loop) for this habit.
-- Identify 1-2 actions that you could take to influence each stage of the habit loop so that you could form this habit more easily, and create an action plan for forming this habit.
-- Remember to make a good habit you should make it: Obvious, Attractive, Easy, and Satisfying.
-
-**Tip:** Re-watch the  video in section 4.2 Habits that gives a detailed summary of James Clear’s book “Atomic Habits”. The end of the video has a great example of how to create a plan to form a habit.
 
 ## Submission
 
-Save your responses to task 1, 2, and 3 as a single pdf and submit on Gradescope, then upload to the Woolf platform.
-
+Save your responses to tasks 1 and 2 as a single pdf and submit on Gradescope, then upload to the Woolf platform.
 
 ---

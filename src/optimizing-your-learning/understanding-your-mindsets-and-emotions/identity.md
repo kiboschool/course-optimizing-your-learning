@@ -1,4 +1,4 @@
-# Identity
+# Identity: Know Thyself
 
 *Estimated Time: 30 minutes*
 
@@ -27,9 +27,9 @@ An **identity** is a person's **formulation and expression** of their **individu
 - Each person has a set of identities (We all have multiple identities)
 - Each person **chooses** at least some identities, while other identities are **given**.
 - People feel differently about different identities. 
-  - Some identities are more important than others. 
-  - Some identities are visible, while others are less apparent. 
-  - Some identities change over time, while others are constant.
+- Some identities are more important than others. 
+- Some identities are visible, while others are less apparent. 
+- Some identities change over time, while others are constant.
 
 ## Identity Mapping
 

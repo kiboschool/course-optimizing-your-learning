@@ -1,6 +1,6 @@
-# Focus and Attention
+# Stay Focused
 
-*Estimated Time: xx hours*
+*Estimated Time: 1 hour*
 
 ---
 

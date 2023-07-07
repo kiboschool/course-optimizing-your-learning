@@ -1,8 +1,13 @@
 # Managing Your Learning Context
 
-E*stimated Time: 8 hours*
+*Estimated Time: 8 hours*
 
 ---
+## Introduction
+
+> 📺 Watch the following video from your instructor to learn about what you will be studying in week 3
+
+Insert video by the instructor introducing the main topics of the week and giving a short explanation of the week’s assessment.
 
 ## **Learning Outcomes**
 
@@ -36,17 +41,19 @@ After completing this lesson, you will be able to:
 
 [3.1 Motivation](/optimizing-your-learning/managing-your-learning-context/motivation.md)
 
-[3.2 Managing Stress, Breathing, and Mindfulness](/optimizing-your-learning/managing-your-learning-context/managing-stress-breathing-and-mindfulness.md)
+[3.2 Manage Your Stress](/optimizing-your-learning/managing-your-learning-context/managing-stress-breathing-and-mindfulness.md)
 
-[3.3 Food and Movement](/optimizing-your-learning/managing-your-learning-context/food-and-movement.md)
+[3.3 You Are What You Eat](/optimizing-your-learning/managing-your-learning-context/food-and-movement.md)
 
-[3.4 Sleep](/optimizing-your-learning/managing-your-learning-context/sleep.md)
+[3.4 Boost Your Brain Through Movement](/optimizing-your-learning/managing-your-learning-context/movement.md)
 
-[3.5 Time Management](/optimizing-your-learning/managing-your-learning-context/time-management.md)
+[3.5 Sleep is Essential](/optimizing-your-learning/managing-your-learning-context/sleep.md)
 
-[3.6 Physical Environment ](/optimizing-your-learning/managing-your-learning-context/physical-environment.md)
+[3.6 Make Time Work For You](/optimizing-your-learning/managing-your-learning-context/time-management.md)
 
-[3.7 Learning with Others](/optimizing-your-learning/managing-your-learning-context/learning-with-others.md)
+[3.7 Control Your Space ](/optimizing-your-learning/managing-your-learning-context/physical-environment.md)
+
+[3.8 Build Your Tribe](/optimizing-your-learning/managing-your-learning-context/learning-with-others.md)
 
 [Assignment 3: Learning Context Experiment](/optimizing-your-learning/managing-your-learning-context/assignment-3-energy-and-time-management-experiment.md)
 

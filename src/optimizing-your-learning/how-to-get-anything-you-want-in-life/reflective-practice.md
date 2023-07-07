@@ -76,30 +76,6 @@ Steps of What? So What? Now What? Model:
 
 ---
 
-## 5R Framework
-
-<aside>
-
-
-📖 Read more about the [**5R framework**](https://www.ed.ac.uk/reflection/reflectors-toolkit/reflecting-on-experience/5r-framework).
-
-</aside>
-
-
-You can watch a video on the 5R framework [here](https://www.youtube.com/watch?v=scibb0kd4jw).
-
-
-Steps of the 5R framework:
-
-- **Reporting** 
-- **Responding**
-- **Relating** 
-- **Reasoning**
-- **Reconstructing**
-
-
----
-
 ## Gibbs’ Reflective Cycle
 
 <aside>

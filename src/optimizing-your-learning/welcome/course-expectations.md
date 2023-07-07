@@ -6,25 +6,31 @@
 
 ## Attendance and Engagement
 
-Please make sure you have reviewed all the Kibo Academic Policies that are found in the [Catalog](https://bit.ly/ks-catalog-oct2022).
+Please make sure you have reviewed all the Kibo Academic Policies that are found in the Catalog. 
 
 The general Kibo attendance and engagement policy is as follows:
 
-Students are required to remain academically engaged during each week of the term. Academic engagement can include:
-- Attending a scheduled session (e.g., live class or office hours) where there is opportunity for interaction with the instructor and/or peers
-- Submitting an academic assignment, quiz, or project
-- Taking an exam, or engaging in online tutorial or instruction
+Students are expected to remain academically engaged in all classes. The requirement for satisfactory academic engagement is to submit all assigned work by the published due date. 
+
+You will be deemed academically disengaged in a class if you have an assignment which is 7 or more days late. Academic disengagement carries with it a number of possible penalties, including and up to dismissal from Kibo. 
+
+In addition to meeting the requirements for academic engagement, students are expected to actively participate in learning activities. Learning at Kibo involves a variety of experiences including: 
+
+- Attending scheduled sessions (e.g., live class or office hours) where there is opportunity for interaction with the instructor and/or peers
+
+- Submitting academic assignments, quizzes, or projects
+
+- Taking exams, or engaging in online tutorials and instruction
+
 - Attending a study group that is assigned by the instructor
+
 - Participating in an online discussion about academic matters
+
 - Initiating contact with an instructor to ask a question about the class
 
-Unless otherwise noted, the general requirement for participation and academic engagement is:
-- No more than one unexcused week of non-engagement per term in any class
-- No more than two excused (communicated in advance) weeks of non-engagement per term in any class
+You should inform your instructor if personal emergencies arise that prevent satisfactory academic engagement. If you are ill for more than a week and/or expect to not remain academically engaged due to personal, family or other emergency, you should also contact your advisor and the Dean. 
 
-For this course specifically, you are expected to engage in the online discussion and reflection questions and activities that are embedded throughout the online lessons. 
-
-You are also expected to attend the weekly 90 minute live class. If you are unable to attend the live class, you are required to notify the instructor at least 24 hours in advance of the live class that you will be missing, and you will be provided with an additional assignment to make up for the live class that you will not be attending. 
+**For this course specifically, you are expected to engage in the online discussion and reflection questions and activities that are embedded throughout the online lessons. You are also expected to attend the weekly 90 minute live class. If you are unable to attend the live class, you are required to notify the instructor at least 24 hours in advance of the live class that you will be missing, and watch the recording of the live class that you have missed as it will contain information that will help you correctly tackle your assignments.** 
 
 If you have any questions, please be sure to post them in the #help-oyl channel in Discord, and the instructor will be able to answer your question there.
 
@@ -32,7 +38,7 @@ If you have any questions, please be sure to post them in the #help-oyl channel 
 
 ## Academic Integrity
 
-This course is run in accordance with Kibo School's Academic Honesty and Integrity Policy, which can also be found in the [Catalog](https://bit.ly/ks-catalog-oct2022). We have a zero tolerance policy towards all forms of academic misconduct, including cheating, plagiarism, and fabrication. If you are found to be in breach of the Academic Honesty and Integrity Policy in any of the assignments that you submit, you will be subject to disciplinary action. 
+This course is run in accordance with Kibo School's Academic Honesty and Integrity Policy, which can also be found in the Catalog. We have a zero tolerance policy towards all forms of academic misconduct, including cheating, plagiarism, and fabrication. If you are found to be in breach of the Academic Honesty and Integrity Policy in any of the assignments that you submit, you will be subject to disciplinary action. 
 
 Note that assisting another student in the violation of this policy also constitutes a violation of academic integrity (e.g. letting someone copy your assignment counts as a violation for both the person that copied the work and the original owner of the copied work).
 
@@ -47,7 +53,7 @@ All weekly assignments have a stated assignment deadline on their assignment pag
 
 The most effective way to communicate with the instructor for this course is through posting a message in the #help-oyl channel in Discord. All questions posted there will receive a response within 24 hours. 
 
-All course announcements from the instructor will also be posted to the pinned announcement in the #help-oyl channel in Discord.
+Course announcements from the instructor will also be posted in the #help-oyl channel in Discord.
 
 ---
 

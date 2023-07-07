@@ -1,23 +1,21 @@
 # How to Get Anything You Want in Life
 
-E*stimated Time: 7 hours*
+E*stimated Time: 5 hours*
 
 ---
-<!--
 ## Introduction
 
-*[Insert video by the instructor introducing the main topics of the week and giving a short explanation of the week’s assessment.]*
--->
+> 📺 Watch the following video from your instructor to learn about what you will be studying in week 1
 
-## **Learning Outcomes**
+TODO: Insert video by the instructor introducing the main topics of the week and giving a short explanation of the week’s assessment.
+
+## Learning Outcomes
 
 After completing this lesson, you will be able to:
 
 - Explain how learning happens in the brain, and apply this knowledge to improve your learning process.
 - Implement methods to improve your executive functioning skills.
-- Describe your learning preferences.
 - Implement self-directed learning using simple steps and frameworks.
-- Apply reflective learning practices to your learning process.
 
 ## Getting Focused
 
@@ -45,16 +43,10 @@ After completing this lesson, you will be able to:
 
 [1.2 How Learning Happens](/optimizing-your-learning/how-to-get-anything-you-want-in-life/how-learning-happens.md)
 
-[1.3 Executive Functioning Skills](/optimizing-your-learning/how-to-get-anything-you-want-in-life/executive-functioning-skills.md)
+[1.3 Skills You Need to Succeed](/optimizing-your-learning/how-to-get-anything-you-want-in-life/executive-functioning-skills.md)
 
-[1.4 Learning Approaches](/optimizing-your-learning/how-to-get-anything-you-want-in-life/learning-approaches.md)
+[1.4 Direct Your Learning](/optimizing-your-learning/how-to-get-anything-you-want-in-life/self-directed-learning-sdl.md)
 
-[1.5 Self-Directed Learning (SDL)](/optimizing-your-learning/how-to-get-anything-you-want-in-life/self-directed-learning-sdl.md)
-
-[1.6 Reflective Practice](/optimizing-your-learning/how-to-get-anything-you-want-in-life/reflective-practice.md)
-
-[Assignment 1: Orientation Reflection](/optimizing-your-learning/how-to-get-anything-you-want-in-life/assignment-1-individual-sdl.md)
-
-<!-- [Wrap up](/optimizing-your-learning/how-to-get-anything-you-want-in-life/wrap-up.md) -->
+[Assignment 1: Letter to Future Self](/optimizing-your-learning/how-to-get-anything-you-want-in-life/assignment-1-individual-sdl.md)
 
 ---

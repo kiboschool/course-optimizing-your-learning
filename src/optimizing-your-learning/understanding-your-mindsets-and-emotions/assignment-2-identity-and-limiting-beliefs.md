@@ -9,7 +9,7 @@
 
 </aside>
 
-**Due date: October 24th, 2022**
+**Due date: July 24th, 2023, 10pm GMT**
 
 ## Brief
 
@@ -17,15 +17,7 @@ This week's assignment will require you to create a Google Slides presentation a
 
 ### Task 1 - Identify Your Limiting Beliefs
 
-What limiting beliefs do you want to work on? Choose a problem, or an area of your life where you feel stuck or want to change. You can identify your limiting beliefs in a number of ways:
-
-**Approach 1:** Listen for when you are feeling frustrated or disappointed, or you keep making the same mistake over and over, or you keep avoiding a task,, or you can’t overcome a challenge. Pause and think about what underlying belief could be causing this situation.
-
-
-**Approach 2:** Listen out for when you say phrases that start with “I can’t”, “I’m not”, “I wish”, “I shouldn’t”. These are potential limiting beliefs.
-
-
-**Approach 3:** Notice  times when you talk yourself out of actions that would lead you towards your long term goals. What do you tell yourself in these situations?
+Use the information in Section 2.3 to help identify 3-5 limiting beliefs you want to overcome. 
 
 
 **Here are some examples of limiting beliefs:**
@@ -42,7 +34,7 @@ What limiting beliefs do you want to work on? Choose a problem, or an area of yo
 
 Pick one of the limiting beliefs that you identified in part 1 and reflect on when it was formed and how it currently impacts your life by answering the following questions:
 - When do you think this belief was formed? And what was its source (e.g. family, society, a specific past experience)?
-- How does holding this limiting belief currently benefit you?
+- How does holding this limiting belief currently benefit you? 
 - How does this limiting belief impact your actions?
 - What evidence is there that makes this belief true? How might it be informed by assumptions, external expectations, or stereotypes?
 

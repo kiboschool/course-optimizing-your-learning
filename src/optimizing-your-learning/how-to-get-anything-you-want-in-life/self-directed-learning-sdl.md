@@ -1,6 +1,6 @@
-# Self-Directed Learning (SDL)
+# Direct Your Learning
 
-*Estimated Time: 1.5 hours*
+*Estimated Time: 2 hours*
 
 ---
 
@@ -46,30 +46,22 @@ The ability to set goals, plan for achievement, independently manage time and ef
 Here is a summary of how the two most extreme types of learners (the dependent learner and the self-directed learner) compare:
 - **Dependent Learner**
     - Relies on an instructor to set learning goals, monitor learning progress, and evaluate learning outcomes.
-    - Is able to completes list of instructor-created tasks
+    - Is able to complete a list of instructor-created tasks
     - Has little awareness that there is an option for them to take some control over their learning
     - This type of learner is common place in traditional primary and secondary school environments, and many university environments with the "chew & pour" mentality
  
  
 - **Self-Directed Learner**
     - Is able to set their learning goals, monitor learning progress, and evaluate their learning outcomes.
-    - Can identify their desires, and knows what they need to do to pursue them.
+    - Can identify their desires and knows what they need to do to pursue them.
     - Sees the instructor as a learning consultant who can provide advice and feedback.
     - Can identify and source the resources needed to complete their learning.
-    - This type of learner is common place in on the job learning.
+    - This type of learner is commonplace in professional environments.
 
+Self-directed learning allows you to take responsibility for your own learning, which results in greater ownership and autonomy. In self-directed learning, the teacher acts as a guide/facilitator/consultant to support you and give you feedback during your learning journey. At Kibo, you will learn using a combination of all four levels mentioned in the video during different parts of your formal academic courses and any additional side projects that you choose to take on.
 
-Self-directed learning allows you to take responsibility for your own learning, which results in greater ownership and autonomy. In self-directed learning, the teacher acts as a guide/facilitator/consultant to support you and give you feedback during your learning journey. At Kibo, you will learn using a combination of all four levels mentioned in the video during different parts of your formal academic courses, and any additional side projects that you choose to take on.
+One of the most challenging transitions young professionals have to make is going from being a **Dependent Learner in formal school environments**, sometimes through university, into being a **Self-Directed Learner in the workplace**. A key reason we are teaching you self-directed learning is that this is how the majority of your learning will be once you are in a professional setting. So, it is important for you to get comfortable with taking more ownership of your learning now.
 
-
-**One of the key reasons that we are teaching you self-directed learning is because this is how the majority of your learning will be once you are in a professional setting. So, it is important for you to get comfortable with taking more ownership of your learning now.**
-
-<aside>
-
-
-📖 **Optional:** Read the following article on [**self-directed learning skills in university students**](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.02324/full).
-
-</aside>
 
 <aside>
 
@@ -82,7 +74,7 @@ Self-directed learning allows you to take responsibility for your own learning, 
 
 You will notice that a lot of the characteristics discussed in the video are similar to the executive functioning skills discussed in the earlier section. Therefore, people with strong executive functioning skills are well set up to be effective self-directed learners.
 
-**Summmary of the characteristics mentioned in the video:**
+**Summary of the characteristics mentioned in the video:**
 - Disciplined, Methodical
 - Logical, Analytical
 - Reflective and Self-Aware
@@ -102,7 +94,7 @@ You will notice that a lot of the characteristics discussed in the video are sim
 
 <aside>
 
-💬 Think about the self-directed learner profile described in the above videos, and write a short Day in the Life essay for a fictional first-year CS student, who is an excellent self-directed learner. What do you think they think, feel, and do on a typical day that demonstrates their self-directed learning skills and traits? 
+💬 Think about the self-directed learner profile described in the above videos, and write a short Day in the Life essay for a fictional first-year CS student who is an excellent self-directed learner. What do you think they think, feel, and do on a typical day that demonstrates their self-directed learning skills and traits? 
 **Add your description to the padlet below.**
 
 </aside>
@@ -118,7 +110,7 @@ You will notice that a lot of the characteristics discussed in the video are sim
     
 
 
-📺 Watch this video from David (a Kibo mentor and Software Engineering Manager at Verkada) where he talks about self-driven learning and curiosity as key skills that he looks for when hiring software engineers.
+📺 Watch this video from David (a Kibo mentor and Software Engineering Manager at Verkada), where he talks about self-driven learning and curiosity as key skills that he looks for when hiring software engineers.
 
 </aside>
 
@@ -181,15 +173,16 @@ The table below outlines behaviors that effective self-directed learners exhibit
 | Diagnosing Learning Needs | Attention and Focusing | Self-Evaluation |
 | Goal Setting | Self-Instruction   | Reflection |
 | Strategic Planning | Help Seeking  |  |
-| Determining Learning Strategy | |  |
+| Determining Learning Strategy | Testing |  |
 
 
-Here is some useful expansions on some of the key terms in the table:
+Here are some useful expansions on some of the key terms in the table:
 - **Diagnosing Learning needs:** It all starts with questions like: What do I not know? What do I need to learn? Why do I want to learn this? 
-- **Goal Setting:** Taking the learning needs one step further, the learner formulates clear goals by asking questions like: What will I be able to do once I have completed my learning? 
-- **Strategic Planning and Determing a Learning Strategy:** In order to build upon existing knowledge and ideas, the learner has to determine an appropriate approach to, and resources for, learning. 
-- **Help Seeking:** While self-directed learning is about being in control of your own learning, it doesn't mean that you need to learn alone. An important practice to use when learning, is knowing when to ask for help, where you can find help, and who you can approach for help. 
-- **Self-Evaluation:** After learning strategies are implemented, the learner then evaluates their learning to see how effective the process was. Using their learning goals as a benchmark, the learner can determine how effective their learning process was and can subsequently improve on it. 
+- **Goal Setting:** Taking the learning needs one step further, you should formulate clear goals by asking questions like: What will I be able to do once I have completed my learning? 
+- **Strategic Planning and Determining a Learning Strategy:** In order to build upon existing knowledge and ideas, you have to determine an appropriate approach to and resources for learning. 
+- **Help Seeking:** While self-directed learning is about being in control of your own learning, it doesn't mean that you need to learn alone. An important practice to use when learning is knowing when to ask for help, where you can find help, and who you can approach for help. 
+- **Testing:** When you are learning, it is critical to have an accurate signal of the gap between your current competency and your target competency. One way to get an accurate estimate of that gap is by frequently testing yourself and getting feedback. You can test yourself by carrying out your goal task and seeing how well you do. E.g., if you are learning how to use loops in Python, test yourself by building a python program using loops; if you are learning for an exam, test yourself by completing practice exam questions under exam conditions.
+- **Self-Evaluation:** After learning strategies are implemented, you can evaluate your learning to see how effective the process was. You can also do this periodically while you are learning. Using your learning goals as a benchmark, you can determine how effective your learning process was and can subsequently improve on it. 
 
 
 <aside>
@@ -202,92 +195,8 @@ When you need to ask the community or Kibo team for help, one of the worst ways 
 - Details of what you have tried so far. "*I have tried [details of how you have tried to solve the problem already].*"
 - Any helpful context.
 - Specific ask. "*Can you help me [specific ask]*"
-</aside>
-
-<!--
-<aside>
-
-📖 Read the following article to learn more about [**Planning (Self-Management), Monitoring, Evaluating (Self-Modifying)**](https://www.learningpersonalized.com/holy-trinity-self-direction-self-managing-self-monitoring-self-modifying/).
-
-</aside>
--->
-
----
-
-# Questions to Guide Your Self-Directed Learning Process
-
-When setting out to direct your own learning, it can be useful to ask yourself the following questions in order to help shape and guide you through the process.
-
-[Adapted from Source](https://blog.futurefocusedlearning.net/10-self-directed-learning-questions)
-
-### Planning
-
-- **WHAT DO I WANT OR NEED TO LEARN?**
     
-- **WHY IS THIS IMPORTANT?**
-    - What is important or necessary? (e.g. Is there a specific problem to be solved? Is there a challenge that I need to face? Is there information that will construct something of value to me or others?)
-    - What is the context that is driving me to learn this? (e.g. Is this a hobby or skill? Is this for personal knowledge development? Is this learning for a job or a career development?)
-    - What else has motivated me to seek this knowledge?
-    - Why is this meaningful to me or to others?
-    - What would happen if I don’t find out what I need to or didn’t develop my skills adequately?
-    - How will this knowledge change things for me or others?
-- **HOW DO I INTEND TO USE THIS KNOWLEDGE?**
-    - For personal development? For problem-solving? For general interest? For use in other learning challenges? To respond to specific questions?
-- **WHAT ARE MY CAPABILITIES AND LIMITATIONS?**
-    - Capabilities - What do I know or what can I do now that will help me?
-    - Limitations - What can’t I do? And can I learn how to do it? (considering timeframe, budget, etc.)
-- **WHAT DO I KNOW ALREADY AND WHAT DO I NEED TO FIND OUT?**
-    - What do I already know about this topic from different sources (e.g. my assumptions, personal experience, other people)?
-    - Missing knowledge
-        - What don’t I know about the who, what, where, when, why, and how relating to this topic?
-        - What is the history of the problem or challenge? What is known by others?
-        - What have others missed in the past? What is still unknown by others?
-- **WHERE CAN I FIND OUT WHAT I NEED TO KNOW?**
-    - What traditional sources can I use? (e.g. Books, articles, film, art and design, conversation/collaboration, courses, hands-on workshops, seminars, mentoring/practicums.)
-    - What online sources can I use? (e.g. websites, blogs, wikis, videos, podcasts, online learning/MOOCs)
-- **HOW WILL MY LEARNING ACTUALLY TAKE PLACE?**
-    - Where will I learn? 
-    - How will I learn? 
-    - With whom will I learn? 
-    - What will be the structure of my learning sessions? Frequency, duration, etc.
-- **HOW WILL I KNOW MY LEARNING IS SUCCESSFUL?**
-    - What would success look like? And how will I measure that?
-    - What evidence do I need to collect in order to evaluate my success?
-    - How will I collect this evidence?
-
-By the end of the planning stage, you should have a strong sense of why what you are learning is important to you, what you want to accomplish, how far your current abilities are from that goal, how you plan to close the gap, and how you will know when the gap is closed. You have essentially created the map for your learning, which you can use to drive the rest of the process. 
-
-![Map](./map.jpeg)
-
-
-
-### Monitoring
-
-- **HOW DO I KNOW MY LEARNING IS PROGRESSING SUCCESSFULLY?**
-    - What evidence do I need to collect in order to evaluate my progress
-    - How will I collect this evidence?
-- **WHAT WILL I DO WHEN I HIT A ROADBLOCK?**
-    - What will I do if I don’t understand something?
-    - What will I do if I get interrupted while learning?
-    - What will I do if the learning seems too hard, or boring, or I don’t feel engaged in learning?
-- **WHO CAN I ASK FOR HELP WHILE LEARNING?**
-    - Family, friends, and teachers? Other professionals and experienced enthusiasts? Peers/Advanced Peers? Those who have failed to solve the problem and gained insights from that?
-
-Once you begin your learning journey (you are traversing your map), you will need tools (e.g. a compass) to help you know if you are heading in the right direction. You will also want to interact with guides (e.g. experts, instructors, peers) along the way that can help you if you get lost or stuck.
-
-![Compas](./compas.jpeg)
-
-### Evaluating
-
-- **HOW WILL I KNOW MY LEARNING WAS SUCCESSFUL?**
-    - What were the results of my efforts?
-    - How did I succeed or fall short of accomplishing my goal?
-    - What went well, and what didn’t?
-    - How can I improve my efforts, processes, and outcomes in the future?
-
-
-The critical question to ask yourself when you think that your learning is complete is "How do I know my learning is complete and that I have actually reached my goal?" And what evidence can you provide to support your answer to this question.
-
+</aside>
 
 <aside>
 
@@ -312,10 +221,15 @@ Here is a summary of the 20 tips from the article:
 
 ---
 
+# SDL Skill Reflection
+
 <aside>
 
-⚠️ During the first live class we will do a group activity to practice the self-directed learning process.
+🪞 Reflect on your SDL competency levels and answer the questions in the padlet below.
+**Add your description to the padlet below.**
 
 </aside>
+
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/sdl-skill-reflection-4eaxc04rbjlmlxgs" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
 ---

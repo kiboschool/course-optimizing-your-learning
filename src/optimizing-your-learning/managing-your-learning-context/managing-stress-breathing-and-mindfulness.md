@@ -1,10 +1,18 @@
-# Managing Stress, Breathing, and Mindfulness
+# Manage Your Stress
 
 *Estimated Time: 1.5 hours*
 
 ---
 
 In this section, we will explore the impact that stress has on your brain, and then we will discuss how to use breathing, mindfulness, and other techniques to manage your stress and improve your learning outcomes.
+
+<aside>
+  
+**Meet John**
+  
+John is a diligent and ambitious first-year computer science student. As his first term progresses, John finds himself increasingly stressed and anxious due to the demanding workload. He struggles with programming assignments, numerous writing assignments, and challenging theory concepts. Each day brings new deadlines, and he feels overwhelmed and unsure of how to manage it all. He has trouble sleeping because he worries about his grades and feels inadequate. Even during class time, his mind constantly drifts to the mounting pile of pending assignments. John feels isolated, seeing his classmates seemingly effortlessly handling the coursework, intensifying his self-doubt and anxiety. He hesitates to seek help, fearing judgment and not wanting to appear incapable. As his stress builds, his academic performance suffers, and he becomes forgetful, missing deadlines and skipping classes. John knows he needs to take action but feels lost and overwhelmed.
+
+</aside>
 
 ## Impact of Stress
 
@@ -16,11 +24,6 @@ In this section, we will explore the impact that stress has on your brain, and t
 </aside>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/WuyPuH9ojCE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-
-<!--
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/hyg7lcU4g8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
--->
 
 
 <aside>
@@ -47,22 +50,6 @@ The keys to managing stress that are explained in the above workbook include:
 - Being physically active
 - Practicing deep breathing
 - Doing pleasant activities
-
-<aside>
-
-
-📖 You can also read the following article on how to **[thwart stress effects on memory](https://www.psychologytoday.com/us/blog/memory-medic/201612/thwart-stress-effects-memory).**
-
-</aside>
-
-
-<aside>
-
-
-📖 **Optional:** Read the following article to learn some **[relaxation techniques that reduce stress](https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/relaxation-technique/art-20045368)**.
-
-</aside>
-
 
 <aside>
 

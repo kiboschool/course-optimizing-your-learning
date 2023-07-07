@@ -3,8 +3,13 @@
 E*stimated Time: 6 hours*
 
 ---
+## Introduction
 
-## **Learning Outcomes**
+> 📺 Watch the following video from your instructor to learn about what you will be studying in week 1
+
+Insert video by the instructor introducing the main topics of the week and giving a short explanation of the week’s assessment.
+
+## Learning Outcomes
 
 After completing this lesson, you will be able to:
 
@@ -35,20 +40,13 @@ After completing this lesson, you will be able to:
 
 [4.1 Motivation](/optimizing-your-learning/building-your-learning-toolkit/motivation.md)
 
-<!-- 
-[4.2 Focus and Attention](/optimizing-your-learning/building-your-learning-toolkit/focus-and-attention.md)
-[4.3 Memory](/optimizing-your-learning/building-your-learning-toolkit/memory.md)
-[4.5 Flow State](/optimizing-your-learning/building-your-learning-toolkit/flow-state.md)
+[4.2 Set Goals You Can Achieve](/optimizing-your-learning/building-your-learning-toolkit/learning-strategies-before-learning.md)
 
--->
+[4.3 Build Good Habits](/optimizing-your-learning/building-your-learning-toolkit/habits.md)
 
-[4.2 Habits](/optimizing-your-learning/building-your-learning-toolkit/habits.md)
+[4.4 Strategies for Learning](/optimizing-your-learning/building-your-learning-toolkit/learning-strategies-while-learning.md)
 
-[4.3 Learning Strategies: Before Learning](/optimizing-your-learning/building-your-learning-toolkit/learning-strategies-before-learning.md)
-
-[4.4 Learning Strategies: While Learning](/optimizing-your-learning/building-your-learning-toolkit/learning-strategies-while-learning.md)
-
-[4.5 Learning Strategies: After Learning](/optimizing-your-learning/building-your-learning-toolkit/learning-strategies-after-learning.md)
+[4.5 Grow Through Reflection](/optimizing-your-learning/building-your-learning-toolkit/learning-strategies-after-learning.md)
 
 [Assignment 4: Habit Inventory and Change Plan ](/optimizing-your-learning/building-your-learning-toolkit/assignment-4-memory-challenge.md)
 

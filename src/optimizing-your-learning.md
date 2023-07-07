@@ -8,6 +8,8 @@
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/P6MpEJx_MLk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+**Note:** All the material for the entire course is going to be released at the start of the course as opposed to weekly, as mentioned in the above video. This is being done to give you more flexibility to work ahead of the weekly pace if needed and better manage your time.
+
 ## Course Description
 
 Kibo’s mission is to educate collaborative innovators who use technology to solve pressing problems. 

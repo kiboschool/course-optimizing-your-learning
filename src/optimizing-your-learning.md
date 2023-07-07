@@ -1,4 +1,4 @@
-# KC001: Optimizing Your Learning (OYL)
+# Optimizing Your Learning (OYL)
 
 ---
 

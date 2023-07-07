@@ -61,4 +61,3 @@
 ### Week 5
 
 - [Final Assessments](optimizing-your-learning/final-assessments.md)
-

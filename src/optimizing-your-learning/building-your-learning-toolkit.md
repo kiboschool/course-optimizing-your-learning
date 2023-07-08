@@ -13,10 +13,11 @@ Insert video by the instructor introducing the main topics of the week and givin
 
 After completing this lesson, you will be able to:
 
-- Differentiate between good and bad learning habits.
-- Create a plan for developing good learning habits and breaking bad learning habits.
 - Utilize habits to increase the effectiveness of your learning.
-- Identify and implement a variety of strategies to increase the effectiveness of your self-directed learning
+- Create a plan for developing good learning habits and breaking bad learning habits.
+- Set and implement goals effectively.
+- Identify and implement a variety of strategies to increase the effectiveness of your self-directed learning.
+- Use reflection to learn from past experiences.
 
 ## Getting Focused
 

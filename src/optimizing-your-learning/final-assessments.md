@@ -51,7 +51,7 @@ Please save your learning charter as a pdf and submit it on Gradescope, then upl
 
 ## **Final Presentation (25% of final grade) - Self-Directed Learning**
 
-**Due date: November 20th, 2022**
+**Due date: August 13th, 2023, 10pm GMT**
 
 Your second final assessment is your self-directed learning project. Note that you have been working on this project since week 2 by completing the "Final Presentation Milestones''. Your goal for the project was to select a topic to learn about, create and implement a learning plan, create a video lesson that teaches the topic to the rest of your classmates, and evaluate and reflect on the overall experience.  
 

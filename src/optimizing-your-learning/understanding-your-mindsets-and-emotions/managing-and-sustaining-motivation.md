@@ -45,7 +45,7 @@ As mentioned in the video, motivation can be extrinsic or intrinsic:
     
 - **Intrinsic Motivation**
     
-    Motivation that comes from within ourselves. This could be other interests, or factors that influence feelings of self-fulfillment and self-realization. With intrinsic motivation, you perform a task because you enjoy doing it and are committed to it, without the need for an external award or punishment.
+    Motivation that comes from within ourselves. This could be other interests or factors that influence feelings of self-fulfillment and self-realization. With intrinsic motivation, you perform a task because you enjoy doing it and are committed to it without the need for an external award or punishment.
     
 
 <aside>
@@ -67,13 +67,13 @@ According to Daniel Pink, the components of intrinsic motivation can be describe
 
 ## How to Maintain Motivation When Learning
 
-Self-motivation is the ability to find and maintain a cause that drives you towards action. In learning, motivation enables us to take charge of our own learning and to sustain our attention and performance. Here are some more ways to maintain motivation in learning which revolve around the 3 factors mentioned by Daniel Pink above (i.e. autonomy, mastery and purpose):
+Self-motivation is the ability to find and maintain a cause that drives you toward action. In learning, motivation enables us to take charge of our own learning and to sustain our attention and performance. Here are some more ways to maintain motivation in learning which revolve around the 3 factors mentioned by Daniel Pink above (i.e., autonomy, mastery, and purpose):
 
-- **Set and work towards clear goals:** Goals motivate us, they give us something to reach for. When your goals are clear and [SMART](https://www.umassd.edu/fycm/goal-setting/resources/smartgoals/), they are even more motivating because you can see them ahead. We are goal-driven as humans, so setting goals for your learning helps you to tap into that part of your humanity that is goal-seeking.
-- **Connect your learning goals to long-term purpose:** Learning is always for a purpose. The purpose for which we learn might differ from one person to another. However, if you are able to identify a longer-term purpose such as a career (e.g. your goal might be to work in the world’s biggest technology company in the next 5 years), then aligning your current learning goals to this purpose will help you sustain your motivation even when the learning gets difficult.
-- **Go beyond just meeting expectations:** Striving only to meet expectations is not enough. Striving for excellence is much more worthwhile because the expectations set by someone else have limits but striving for excellence allows you the freedom to do the very best that you can.
+- **Set and work towards clear goals:** Goals motivate us. They give us something to reach for. When your goals are clear and [SMART](https://www.umassd.edu/fycm/goal-setting/resources/smartgoals/), they are even more motivating because you can see them ahead. We are goal-driven as humans, so setting goals for your learning helps you to tap into that part of your humanity that is goal-seeking.
+- **Connect your learning goals to long-term purpose:** Learning is always for a purpose. The purpose for which we learn might differ from one person to another. However, if you are able to identify a longer-term purpose, such as a career (e.g., your goal might be to work in the world’s biggest technology company in the next 5 years), then aligning your current learning goals to this purpose will help you sustain your motivation even when the learning gets difficult.
+- **Go beyond just meeting expectations:** Striving only to meet expectations is not enough. Striving for excellence is much more worthwhile because the expectations set by someone else have limits, but striving for excellence allows you the freedom to do the very best that you can.
 - **Take ownership of your learning:** We have emphasized the importance of taking responsibility for your learning and owning your learning journey. We tend to be more motivated when we can function independently and learn according to our interests, passions, and desires.
-- **Adopt a Growth Mindset:** A growth mindset says “I am not there ‘yet’”. This kind of mindset shows you there is space for growth and the possibility of growth and improvement in itself is a motivating factor.
+- **Adopt a Growth Mindset:** A growth mindset says, “I am not there ‘yet’”. This kind of mindset shows you there is space for growth, and the possibility of growth and improvement in itself is a motivating factor.
 
 ---
 
@@ -95,9 +95,9 @@ Self-motivation is the ability to find and maintain a cause that drives you towa
 
 <aside>
 
-💬 It is week 8 of the first term of Kibo's degree program, and as the final project for the Mathematical Thinking course draws closer, your classmate, Temi, comes to you asking for advice because she has lost all motivation to study. Based on what you have learned so far in Optimizing Your Learning, what advice would you give her to help her get back on track?
+💬 It is week 8 of the first term of Kibo's degree program, and as the final project for the Web Development Fundamentals course draws closer, your classmate, Temi, comes to you asking for advice because she has lost all motivation to study. Based on what you have learned so far in Optimizing Your Learning, what advice would you give her to help her get back on track?
 
-**Post your advice in the padlet bellow.**
+**Post your advice in the padlet below.**
 
 </aside>
 

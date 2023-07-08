@@ -83,6 +83,7 @@ This course will require you to complete a lot of reading and writing. There are
 #### Text-to-Speech
 
 > [Natural Reader](https://chrome.google.com/webstore/detail/naturalreader-ai-text-to/kohfgcgbkjodfcfkcackpagifgbcmimk)
+
 > [Read Aloud](https://chrome.google.com/webstore/detail/read-aloud-a-text-to-spee/hdhinadidafjejdhmfkjgnolgimiaplp)
 
 ---

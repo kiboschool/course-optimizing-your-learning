@@ -4,7 +4,7 @@
 
 ---
 
-In this section we will focus on strategies for learning including:
+In this section, we will focus on strategies for learning, including:
 
 - Note Taking
 - Learning Diary
@@ -29,7 +29,7 @@ Emmanuela's commitment to deep learning pays off. She performs well on assessmen
 
 Philips, one of Emmanuela's classmates, takes a more casual approach to his studies. Rather than taking comprehensive notes, Philips mainly skims through the course materials and highlights key sentences or phrases. He does not actively engage with the content or attempt to synthesize the information to ensure he understands it in his own words.
 
-Unlike Emmanuela, Philips neglects spaced repetition and active recall. He tends to study sporadically, cramming the material just before exams. This approach limits his ability to retain information in the long term, as it does not promote the necessary repetition needed for solidifying knowledge. Philips also avoids deliberate practice. He seldom completes the practice exercises provided on the course website, missing out on opportunities to apply what he has learned in practical scenarios. Consequently, his problem-solving abilities and practical skills remain underdeveloped and he lacks confidence when faced with novel problems. Due to his shallow learning approach, Philips lacks a solid foundation, and he may find it challenging to progress in his computer science studies as the topics build upon the fundamentals and become more complex.
+Unlike Emmanuela, Philips neglects spaced repetition and active recall. He tends to study sporadically, cramming the material just before the project deadlines. This approach limits his ability to retain information in the long term, as it does not promote the necessary repetition needed for solidifying knowledge. Philips also avoids deliberate practice. He seldom completes the practice exercises provided on the course website, missing out on opportunities to apply what he has learned in practical scenarios. Consequently, his problem-solving abilities and practical skills remain underdeveloped, and he lacks confidence when faced with novel problems. Due to his shallow learning approach, Philips lacks a solid foundation, and he may find it challenging to progress in his computer science studies as the topics build upon the fundamentals and become more complex.
 
 </aside>
 
@@ -39,7 +39,7 @@ Unlike Emmanuela, Philips neglects spaced repetition and active recall. He tends
 
 <aside>
 
-📺 Watch the following video on using the capture and create note taking method.
+📺 Watch the following video on using the capture and create note-taking method.
 
 </aside>
 
@@ -62,9 +62,9 @@ Unlike Emmanuela, Philips neglects spaced repetition and active recall. He tends
 
 ## Keeping a Learning Diary
 
-The process of keeping a learning diary is simple. On the first page, draw up a daily diary and record in summary form what days and times you were engaged in your learning. Then for each study session or activity keep a record of:
+The process of keeping a learning diary is simple. On the first page, draw up a daily diary and record in summary form what days and times you were engaged in your learning. Then for each study session or activity, keep a record of:
 
-- The practical details - what, when, where and how you studied
+- The practical details - what, when, where, and how you studied
 - The study methods and the various skills you used
 - Your feelings about the methods of studying you used
 - A note on the effectiveness of each session
@@ -154,7 +154,7 @@ Chunking is a cognitive technique that involves breaking down information into s
 - **Master one chunk at a time** 
   - **Understand the syntax and structure:** Focus on understanding the syntax and structure of each type of loop individually. Learn how to write the loop header, specify the loop condition, and control the loop flow.
   - **Learn the purpose and use cases:** Explore the purpose and various use cases for each type of loop. Understand when and why you would choose one type of loop over another. This will help you grasp the context and applicability of each loop.
-- **Pracice active recall**
+- **Practice active recall**
   - **Practice with simple examples:** Start by practicing with simple examples of each loop type. Write code snippets that demonstrate the basic functionality and behavior of the loops. Experiment with different loop conditions and iterate through different data structures.
 - **Apply your knowledge** 
   - **Apply loops to solve problems:** Practice using loops to solve programming problems or exercises. Look for coding challenges that require the use of loops and apply your knowledge to devise solutions.
@@ -169,7 +169,7 @@ Chunking is a cognitive technique that involves breaking down information into s
 
 ## Deliberate Practice
 
-How do the very best become who they are? How do the great writers, sports people, artists, scientists, creators, and other stars emerge?
+How do the very best become who they are? How do great writers, sports people, artists, scientists, creators, and other stars emerge?
 
 It is easy to dismiss those whose talents stand out as being gifted or having better circumstances. However, while some people’s circumstances might contribute to their excellent results, there is more to it than just circumstances of privilege or advantage. 
 
@@ -183,18 +183,18 @@ The end goal of learning is not only to be informed but to improve our growth an
 
 </aside>
 
-It is important to know that deliberate practice is not doing something repeatedly. It is a practice that is intentional and rooted in the goal of growth and progress. Deliberate practice helps you to move from being at a novice level in a skill to become an expert at that skill. Deliberate practice involves intentional practice, feedback, and improvement in other to correct mistakes and deepen mastery and proficiency. Here are some components of deliberate practice
+It is important to know that deliberate practice is not doing something repeatedly. It is a practice that is intentional and rooted in the goal of growth and progress. Deliberate practice helps you to move from being at a novice level in a skill to becoming an expert at that skill. Deliberate practice involves intentional practice, feedback, and improvement in other to correct mistakes and deepen mastery and proficiency. Here are some components of deliberate practice
 
 - Practice should be done towards a clear goal or expert-level performance
 - There should be time for reflection (metacognition) - thinking about the practice activity itself and the outcomes
-- There should be feedback from someone who has better mastery such as a coach or another expert
+- There should be feedback from someone who has better mastery, such as a coach or another expert
 
-These components among others separate deliberate practice from regular practice.
+These components, among others, separate deliberate practice from regular practice.
 
 
 <aside>
 
-📺 Watch this videos on the way deliberate practice works in Computer Programming.
+📺 Watch this video on the way deliberate practice works in Computer Programming.
  
 </aside>
 
@@ -205,8 +205,8 @@ One thought about deliberate practice is that there has to be a very specific sk
 - **Find out your current skill/knowledge level and the gaps that you have.** When you assess your current level with the perspective of becoming an expert, you can recognize the gaps and the areas for improvement.
 - **Set clear and SMART goals that stretch you.** What do you want to be able to do in a set period of time that you are not currently able to do? Identify a specific area of practice.
 - **Focus** on this area of practice over time and give regular, consistent attention to it
-- **Take time to reflect on your progress**, and your strategies and analyze the impact that your current approach is resulting in.
-- **Get regular feedback.** As you work on your area of growth and practice, get feedback from a coach, your teacher or someone who can show you the gaps in your performance in order to find ways to improve continuously.
+- **Take time to reflect on your progress** and your strategies and analyze the impact that your current approach is resulting in.
+- **Get regular feedback.** As you work on your area of growth and practice, get feedback from a coach, your teacher, or someone who can show you the gaps in your performance in order to find ways to improve continuously.
 
 ---
 
@@ -214,7 +214,7 @@ One thought about deliberate practice is that there has to be a very specific sk
 
 When we learn something, either in class or by self-study, it can either get stored in our short-term or long-term memory. Ideally, we want what we learn to get stored in our long-term memory to be able to use that over time. Our short-term memory might make it easier to recognize something we have learned in the short term but not necessarily recall it over the long term. Going back to our previous study on the neuroplasticity of the brain, we will remember that learning new information and skills requires our brains to build new connections. Recall strategies help us to do just that. 
 
-Recall can either be **passive** or **active** with passive recall happening when what is learned is passively reviewed such as reading something multiple times over. However, active recall involves more intentional activities that stimulate the brain and engage you in bringing up and encoding the information for longer-term storage and recall.
+Recall can either be **passive** or **active** with passive recall happening when what is learned is passively reviewed, such as reading something multiple times over. However, active recall involves more intentional activities that stimulate the brain and engage you in bringing up and encoding the information for longer-term storage and recall.
 
 <aside>
 
@@ -227,7 +227,7 @@ Recall can either be **passive** or **active** with passive recall happening whe
 - **List of the strategies from the video.**
     - Pre-test
     - Stop and Recite
-    - In Class Questions
+    - In-Class Questions
     - Immediate Review
     - Toggles
     - Mind Maps
@@ -248,7 +248,7 @@ Recall can either be **passive** or **active** with passive recall happening whe
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/4hu-8yPo8Pg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-Retrieval practice which is also called practice testing, similar to recall is the act of bringing back information to mind. During study, we encounter new information and because we learn by making connections, it is important to be able to retrieve prior learnings in order to make connections to new concepts and ideas. 
+Retrieval practice, which is also called practice testing, similar to recall, is the act of bringing back information to mind. During study, we encounter new information, and because we learn by making connections, it is important to be able to retrieve prior learnings in order to make connections to new concepts and ideas. 
 
 Here are some techniques for retrieval of learning:
 

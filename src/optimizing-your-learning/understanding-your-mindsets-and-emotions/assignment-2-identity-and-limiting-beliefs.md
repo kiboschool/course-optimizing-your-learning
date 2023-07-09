@@ -11,6 +11,12 @@
 
 **Due date: July 24th, 2023, 10pm GMT**
 
+## Instructions
+
+- Review the assignment brief below.
+- Complete your assignment using Google Slides.
+- Download your finished assignment as a pdf and submit on Gradescope and Woolf.
+
 ## Brief
 
 This week's assignment will require you to create a Google Slides presentation about your limiting beliefs.
@@ -53,7 +59,9 @@ Now Reverse your belief to create an empowering belief: (e.g., I’ll probably j
 
 ### Task 4 - Presenting Your Belief Plan
 
-You should have now gone through a process of identifying, reflecting on, and changing your limiting belief. Your final task is to put all this into an 8-10 slide presentation. This slide presentation is what you will submit for this assignment. Your presentation should include the following information:
+You should have now gone through a process of identifying, reflecting on, and changing your limiting belief. Your final task is to put all this into an 8-10 slide presentation. 
+
+This slide presentation is what you will submit for this assignment. Your presentation should include the following information:
 - 3-5 limiting beliefs that you currently hold
 - Reflection on a chosen limiting belief (answer to the questions in task 2)
 - Prediction of how your life would be without this limiting belief

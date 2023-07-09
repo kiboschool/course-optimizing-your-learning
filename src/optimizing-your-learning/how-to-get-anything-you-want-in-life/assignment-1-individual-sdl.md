@@ -9,11 +9,17 @@
 
 **Due date: July 17th, 2023, 10pm GMT**
 
+## Instructions
+
+- Review the assignment brief below.
+- Complete your assignment in a Google doc.
+- Download your finished assignment as a pdf and submit on Gradescope and Woolf.
+
 ## Brief
 
 Word count: 500 - 750 words.
 
-Write a letter to yourself in five weeks time (at the end of the OYL course) and discuss:
+Write a letter to yourself in five weeks' time (at the end of the OYL course) and discuss:
 - Your feelings about your current learning skills.
 - Your current learning strengths. 
 - Your current learning weaknesses.
@@ -24,6 +30,6 @@ Be sure to mention some of the material presented in the week 1 lessons in your 
 
 ## Submission
 
-Please submit your essay on Gradescope, and then also upload a copy to the Woolf platform.
+Please submit your letter on Gradescope, and then also upload a copy to the Woolf platform.
 
 ---

@@ -1,7 +1,5 @@
 # Managing Your Learning Context
 
-*Estimated Time: 8 hours*
-
 ---
 ## Introduction
 

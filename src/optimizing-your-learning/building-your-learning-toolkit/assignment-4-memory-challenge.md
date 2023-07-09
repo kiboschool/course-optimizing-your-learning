@@ -10,6 +10,12 @@
 
 **Due date: August 7th, 2023, 10pm GMT**
 
+## Instructions
+
+- Review the assignment brief below.
+- Complete your assignment in a Google doc.
+- Download your finished assignment as a pdf and submit on Gradescope and Woolf.
+
 ## Brief
 
 This week's assignment will require you to write about your habits and develop a plan to break one bad habit and create one good habit.

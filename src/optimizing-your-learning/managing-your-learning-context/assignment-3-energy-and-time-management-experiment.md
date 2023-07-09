@@ -10,6 +10,12 @@
 
 **Due date: July 31st, 2023, 10pm GMT**
 
+## Instructions
+
+- Review the assignment brief below.
+- Complete your assignment in a Google doc.
+- Download your finished assignment as a pdf and submit on Gradescope and Woolf.
+
 ## Brief
 
 This week's assignment will require you to **select one** of the options listed below (all of them are from this week’s lesson), test it out for 3 days, and submit a reflection on your experience.

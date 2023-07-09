@@ -1,7 +1,5 @@
 # Building Your Learning Toolkit
 
-E*stimated Time: 6 hours*
-
 ---
 ## Introduction
 

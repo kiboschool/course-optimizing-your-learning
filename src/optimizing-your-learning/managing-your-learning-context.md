@@ -5,9 +5,9 @@
 ---
 ## Introduction
 
-> 📺 Watch the following video from your instructor to learn about what you will be studying in week 3
+> 📺 Watch the following video from your instructor, Tolu, to learn about what you will be studying in week 3.
 
-Insert video by the instructor introducing the main topics of the week and giving a short explanation of the week’s assessment.
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/hfZ601Np1Uw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> 
 
 ## **Learning Outcomes**
 

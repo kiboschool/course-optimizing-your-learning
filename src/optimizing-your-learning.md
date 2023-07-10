@@ -39,7 +39,9 @@ By the end of this course, you will be able to:
 ## Course and Instructor Information
 
 The instructor for this course is: Tolu Agunbiade.
-To teaching assistant for this course is: Keno Omu
+
+The teaching assistant for this course is: Keno Omu.
+
 The course will run from July 10 to August 13, 2023. Note that this is a **5-week course**.
 
 Live classes will be held on **Tuesdays 5:30 - 7:00 pm GMT**. The live classes are mandatory.

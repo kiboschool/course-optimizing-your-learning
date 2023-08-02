@@ -87,11 +87,32 @@ You will need to submit the following by the deadline:
 
 1 - Your learning plan (Milestone 1)
 
-2 - Your learning self-evaluation (Milestone 4)
+<aside>
+⚠️ Ensure that your learning plan contains the answers to the SDL planning questions given on the Milestone 1 page. These are:
 
-3 - A written reflection on the learning experience (Milestone 4)
+- What do I want to learn?
 
-4 - A video lesson on your SDL topic (Milestone 3)
+- Why is this topic important to me?
+
+- How do I intend to use this knowledge?
+
+- What are my current capabilities and limitations in relation to learning this topic?
+
+- What do I already know about this topic, and what do I need to find out?
+
+- Where can I find the information that I need? (e.g., resources, data sources, people)
+
+- How will my learning take place? (Note: you will be focused on your learning during weeks 3 and 4 of the course)
+
+- How will I know that my learning was successful?
+  
+</aside>
+
+2 - Your learning self-evaluation (Milestone 4) [Note: ensure your submission answers all the questions asked in the "Self-Evaluation Directions" section above]
+
+3 - A written reflection on the learning experience (Milestone 4) [Note: ensure your submission answers all the questions asked in the "Learning Experience Reflection" section above]
+
+4 - A video lesson on your SDL topic (Milestone 3) [Note: Make sure your video is in line with the instructions given on the Final Milestone 3 page]
 
 <aside>
 

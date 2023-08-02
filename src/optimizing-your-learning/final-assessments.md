@@ -78,16 +78,23 @@ Your learning self-evaluation should answer the following questions:
 
 **Learning Experience Reflection**
 
-Use Gibbs' Reflective Cycle to reflect on your SDL experience. Remember to include all 6 steps of Gibbs' Cycle: Description, Feelings, Evaluation, Analysis, Conclusion, and Action Plan.
+Use Gibbs' Reflective Cycle to reflect on your SDL experience. 
+Remember to include all 6 steps of Gibbs' Cycle: Description, Feelings, Evaluation, Analysis, Conclusion, and Action Plan.
 
-### Submission
+### Final SDL Submission
 
 You will need to submit the following by the deadline:
-- Your learning plan (Milestone 1)
-- A video lesson on your SDL topic (Milestone 3)
-- Your learning self-evaluation (Milestone 4)
-- A written reflection on the learning experience (Milestone 4)
+1 - Your learning plan (Milestone 1)
+2 - Your learning self-evaluation (Milestone 4)
+3 - A written reflection on the learning experience (Milestone 4)
+4 - A video lesson on your SDL topic (Milestone 3)
 
-Please create one pdf with all the written components of the submission, and submit it on Gradescope. For the video, you can upload the video to your Google drive and include the link where indicated in Gradescope. Once you have uploaded your submission to Gradescope, please also upload it to the Woolf platform.
+<aside>
+
+⚠️ Make sure your submissions include all four parts listed above. 
+
+</aside>
+
+Please create one pdf with all the written components of the submission (numbers 1 - 3), and submit it on Gradescope. For the video (number 4), you can upload the video to your Google Drive and include the link where indicated in Gradescope. Once you have uploaded your submissions to Gradescope, please also upload them to the Woolf platform.
 
 ---

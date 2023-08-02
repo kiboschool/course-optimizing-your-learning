@@ -42,10 +42,9 @@ Reflection in Learning can happen in 2 ways:
 - **Reflecting-in-action:** This is the reflection that is done when the action or the learning is ongoing. It is sometimes referred to as thinking on your feet or evaluating as you go. In a learning experience, reflecting in action might involve thinking about what you are reading, watching, or doing and exploring the impact of those actions or deciding on potential ways to act or respond.
 - **Reflecting-on-action:** This type of reflection is done after the action or learning has been completed. This, on the other hand, is thinking through the entire learning process that has occurred and evaluating the progress or impact.
 
-If you recall from the previous section, the final stage of self-directed learning has to do with evaluating your learning and requires strong reflection skills. This has to do with reflecting on action, and for the rest of this section, we are going to explore 3 useful models for this type of reflection:
+If you recall from the previous section, the final stage of self-directed learning has to do with evaluating your learning and requires strong reflection skills. This has to do with reflecting on action, and for the rest of this section, we are going to explore 2 useful models for this type of reflection:
 
 - What? So What? Now What? Model
-- 5R Framework
 - Gibbs’ Reflective Cycle
 
 <aside>

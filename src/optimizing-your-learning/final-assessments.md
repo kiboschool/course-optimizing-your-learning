@@ -84,9 +84,13 @@ Remember to include all 6 steps of Gibbs' Cycle: Description, Feelings, Evaluati
 ### Final SDL Submission
 
 You will need to submit the following by the deadline:
+
 1 - Your learning plan (Milestone 1)
+
 2 - Your learning self-evaluation (Milestone 4)
+
 3 - A written reflection on the learning experience (Milestone 4)
+
 4 - A video lesson on your SDL topic (Milestone 3)
 
 <aside>

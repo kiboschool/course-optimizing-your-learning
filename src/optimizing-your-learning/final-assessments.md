@@ -108,11 +108,11 @@ You will need to submit the following by the deadline:
   
 </aside>
 
-2 - Your learning self-evaluation (Milestone 4) [Note: ensure your submission answers all the questions asked in the "Self-Evaluation Directions" section above]
+2 - Your learning self-evaluation (Milestone 4) [Note: Ensure your submission answers all the questions asked in the "Self-Evaluation Directions" section above]
 
-3 - A written reflection on the learning experience (Milestone 4) [Note: ensure your submission answers all the questions asked in the "Learning Experience Reflection" section above]
+3 - A written reflection on the learning experience (Milestone 4) [Note: Ensure your submission answers all the questions asked in the "Learning Experience Reflection" section above]
 
-4 - A video lesson on your SDL topic (Milestone 3) [Note: Make sure your video is in line with the instructions given on the Final Milestone 3 page]
+4 - A video lesson on your SDL topic (Milestone 3) [Note: Ensure your video is in line with the instructions given on the Final Milestone 3 page]
 
 <aside>
 

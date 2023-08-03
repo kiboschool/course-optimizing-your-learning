@@ -123,7 +123,7 @@ If you want to use habits to improve the way you live and learn, I would recomme
 
 ---
 
-## Building a Good Habot
+## Building a Good Habit
 
 Here are the key steps of James Clear's habit-building process:
 
@@ -132,10 +132,10 @@ Here are the key steps of James Clear's habit-building process:
 - **Make it easy:** The third step is to make the habit easy to perform. Break the habit down into smaller, manageable actions that require minimal effort. Start with a small version of the habit and gradually increase the difficulty over time. The key is to reduce friction and make it as simple as possible to get started.
 - **Make it satisfying:** The fourth step is to make the habit satisfying. Create a sense of immediate satisfaction or reward when you perform the habit. This can be done by tracking your progress, celebrating small wins, or creating a sense of accomplishment. The idea is to associate positive emotions with the habit to reinforce its repetition.
 
-**Here is an example of how you can use James Clear's approach to for a good habit around programming:**
+**Here is an example of how you can use James Clear's approach to form a good habit around programming:**
 
 - **Step 1 - Identify the habit**
-  - Determine the specific habit you want to build. e.g. Practicing programming consistently.
+  - Determine the specific habit you want to build. e.g., Practicing programming consistently.
 
 - **Step 2 - Create a Cue [Make it obvious]**
    - Set a specific time and place for your programming practice. For example, designate 7:00 PM as your programming time and choose a quiet spot in your room.

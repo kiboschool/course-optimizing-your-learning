@@ -14,7 +14,7 @@
 
 **Due date: August 13th, 2023, 10pm GMT**
 
-Your first final assessment for Optimizing Your Learning is to use all the lessons learnt and reflections you have carried out throughout the course to create your personal learning charter. Your learning charter will contain **seven sections**, which are listed below. In each section, you will respond to the prompts given below.
+Your first final assessment for Optimizing Your Learning is to use all the lessons learned and reflections you have carried out throughout the course to create your personal learning charter. Your learning charter will contain **seven sections**, which are listed below. In each section, you will respond to the prompts given below.
 
 Personal Learning Charter Prompts:
 - **1 - Who Am I**
@@ -110,7 +110,7 @@ You will need to submit the following by the deadline:
 
 2 - Your learning self-evaluation (Milestone 4) [Note: Ensure your submission answers all the questions asked in the "Self-Evaluation Directions" section above]
 
-3 - A written reflection on the learning experience (Milestone 4) [Note: Ensure your submission answers all the questions asked in the "Learning Experience Reflection" section above]
+3 - A written reflection on the learning experience (Milestone 4) [Note: Ensure your submission uses Gibbs' Reflective Cycle and includes all components of this model. The notes on Gibbs' model can be found in Lesson 4.5 (Grow Through Reflection)]
 
 4 - A video lesson on your SDL topic (Milestone 3) [Note: Ensure your video is in line with the instructions given on the Final Milestone 3 page]
 

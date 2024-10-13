@@ -1,0 +1,124 @@
+name: 'Optimizing Your Learning'
+code: KC001
+term: Oct-2023
+image_path: src/mirror.png
+units:
+  - name: 'Week 1: How to Get Anything You Want in Life'
+    activities:
+      - name: Introduction
+        path: src/optimizing-your-learning/how-to-get-anything-you-want-in-life.md
+        publish: true
+        grade_weight: 100
+      - name: Motivation
+        path: src/optimizing-your-learning/how-to-get-anything-you-want-in-life/motivation.md
+        publish: true
+      - name: How Learning Happens
+        path: src/optimizing-your-learning/how-to-get-anything-you-want-in-life/how-learning-happens.md
+        publish: true
+      - name: Skills You Need to Succeed
+        path: src/optimizing-your-learning/how-to-get-anything-you-want-in-life/executive-functioning-skills.md
+        publish: true
+      - name: Direct Your Learning
+        path: src/optimizing-your-learning/how-to-get-anything-you-want-in-life/self-directed-learning-sdl.md
+        publish: true
+      - name: Assignment 1 - Letter to Future Self
+        path: src/optimizing-your-learning/how-to-get-anything-you-want-in-life/assignment-1-individual-sdl.md
+        publish: true
+  - name: 'Week 2: Understanding Your Mindsets and Emotions'
+    activities:
+      - name: Introduction
+        path: src/optimizing-your-learning/understanding-your-mindsets-and-emotions.md
+      - name: Motivation
+        path: src/optimizing-your-learning/understanding-your-mindsets-and-emotions/motivation.md
+        publish: true
+      - name: Know Thyself
+        path: src/optimizing-your-learning/understanding-your-mindsets-and-emotions/identity.md
+        publish: true
+      - name: Beliefs That Hinder Learning
+        path: src/optimizing-your-learning/understanding-your-mindsets-and-emotions/beliefs-that-hinder-learning.md
+        publish: true
+      - name: A Powerful Mindset That Supports Learning
+        path: src/optimizing-your-learning/understanding-your-mindsets-and-emotions/a-powerful-mindset-that-supports-learning.md
+        publish: true
+      - name: Introduction to Emotional Intelligence
+        path: src/optimizing-your-learning/understanding-your-mindsets-and-emotions/introduction-to-emotional-intelligence.md
+        publish: true
+      - name: Understanding and Enhancing Your Self-Awareness
+        path: src/optimizing-your-learning/understanding-your-mindsets-and-emotions/understanding-and-enhancing-your-self-awarenes.md
+        publish: true
+      - name: Developing Self-Regulation Skills
+        path: src/optimizing-your-learning/understanding-your-mindsets-and-emotions/developing-self-regulation-skills.md
+        publish: true
+      - name: Managing and Sustaining Motivation
+        path: src/optimizing-your-learning/understanding-your-mindsets-and-emotions/managing-and-sustaining-motivation.md
+        publish: true
+      - name: Assignment 2 - Overcoming Limiting Beliefs
+        path: src/optimizing-your-learning/understanding-your-mindsets-and-emotions/assignment-2-identity-and-limiting-beliefs.md
+        publish: true
+      - name: Final Presentation Milestone 1
+        path: src/optimizing-your-learning/understanding-your-mindsets-and-emotions/final-presentation-milestone-1.md
+        publish: true
+  - name: 'Week 3: Managing Your Learning Context'
+    activities:
+      - name: Introduction
+        path: src/optimizing-your-learning/managing-your-learning-context.md
+      - name: Motivation
+        path: src/optimizing-your-learning/managing-your-learning-context/motivation.md
+        publish: true
+      - name: Manage Your Stress
+        path: src/optimizing-your-learning/managing-your-learning-context/managing-stress-breathing-and-mindfulness.md
+        publish: true
+      - name: You Are What You Eat
+        path: src/optimizing-your-learning/managing-your-learning-context/food-and-movement.md
+        publish: true
+      - name: Boost Your Brain Through Movement
+        path: src/optimizing-your-learning/managing-your-learning-context/movement.md
+        publish: true
+      - name: Sleep is Essential
+        path: src/optimizing-your-learning/managing-your-learning-context/sleep.md
+        publish: true
+      - name: Make Time Work for You
+        path: src/optimizing-your-learning/managing-your-learning-context/time-management.md
+        publish: true
+      - name: Control Your Space
+        path: src/optimizing-your-learning/managing-your-learning-context/physical-environment.md
+        publish: true
+      - name: Build Your Tribe
+        path: src/optimizing-your-learning/managing-your-learning-context/learning-with-others.md
+        publish: true
+      - name: Assignment 3 - Learning Context Experiment
+        path: src/optimizing-your-learning/managing-your-learning-context/assignment-3-energy-and-time-management-experiment.md
+        publish: true
+      - name: Final Presentation Milestone 2
+        path: src/optimizing-your-learning/managing-your-learning-context/final-presentation-milestone-2.md
+        publish: true
+  - name: 'Week 4: Building Your Learning Toolkit'
+    activities:
+      - name: Introduction
+        path: src/optimizing-your-learning/building-your-learning-toolkit.md
+      - name: Motivation
+        path: src/optimizing-your-learning/building-your-learning-toolkit/motivation.md
+        publish: true
+      - name: Set Goals You Can Achieve
+        path: src/optimizing-your-learning/building-your-learning-toolkit/learning-strategies-before-learning.md
+        publish: true
+      - name: Build Good Habits
+        path: src/optimizing-your-learning/building-your-learning-toolkit/habits.md
+        publish: true
+      - name: Strategies for Learning
+        path: src/optimizing-your-learning/building-your-learning-toolkit/learning-strategies-while-learning.md
+        publish: true
+      - name: Grow Through Reflection
+        path: src/optimizing-your-learning/building-your-learning-toolkit/learning-strategies-after-learning.md
+        publish: true
+      - name: Assignment 4 - Habits Inventory and Change Plan
+        path: src/optimizing-your-learning/building-your-learning-toolkit/assignment-4-memory-challenge.md
+        publish: true
+      - name: Final Presentation Milestone 3
+        path: src/optimizing-your-learning/building-your-learning-toolkit/final-presentation-milestone-3.md
+        publish: true
+  - name: Final Assessments
+    activities:
+      - name: Introduction
+        path: src/optimizing-your-learning/final-assessments.md
+
